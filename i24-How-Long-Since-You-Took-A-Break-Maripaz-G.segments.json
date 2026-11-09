@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i24-How-Long-Since-You-Took-A-Break-Maripaz-G.mp4",
+  "transcriptHash": "1e9ed63c2a8be6b67c26708c8e5c2497427280d1",
+  "durationMs": 32206,
+  "segments": [
+    {
+      "text": "Muy bien, pues, hace unos dos meses o así que me fui de vacaciones.",
+      "startMs": 290,
+      "endMs": 7750,
+      "verified": true
+    },
+    {
+      "text": "Me fui a España en mayo.",
+      "startMs": 7761,
+      "endMs": 10082,
+      "verified": true
+    },
+    {
+      "text": "Visité a mi familia también tomé dos días y visité Granada, en España porque nunca había estado y quería conocerla.",
+      "startMs": 11292,
+      "endMs": 20684,
+      "verified": true
+    },
+    {
+      "text": "Entonces pasé unos diez días allí en total y me vine otra vez para Texas y aquí he estado.",
+      "startMs": 21694,
+      "endMs": 32146,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "i17-Ask-If-Item-Exists-In-A-Store-Tomas-S.mp4",
+  "transcriptHash": "6a1c03a947865a74acbc6c85da26fdaa6e9f2a7f",
+  "durationMs": 32554,
+  "segments": [
+    {
+      "text": "“Señor, ¿Usted cree que me podría dar, vender una galleta?” Y el otro me diría: “Bueno, ¿Qué tipo de galleta quieres?” Yo diría: “Bueno, yo quisiera una que sea de chocolate”.",
+      "startMs": 0,
+      "endMs": 12250,
+      "verified": true
+    },
+    {
+      "text": "“No, no tengo una de chocolate”—me dice el tipo.",
+      "startMs": 12265,
+      "endMs": 15107,
+      "verified": true
+    },
+    {
+      "text": "Yo le diría: “Bueno, entonces dame una de vainilla”.",
+      "startMs": 16057,
+      "endMs": 17870,
+      "verified": true
+    },
+    {
+      "text": "“OK, ya esta de vainilla está bien, pero ¿cuánto cuesta?”.",
+      "startMs": 17888,
+      "endMs": 22570,
+      "verified": true
+    },
+    {
+      "text": "“Cuesta tanto, X dólares”.",
+      "startMs": 22580,
+      "endMs": 25311,
+      "verified": true
+    },
+    {
+      "text": "“OK, ¿y no tienes una más barata?.",
+      "startMs": 25320,
+      "endMs": 27320,
+      "verified": true
+    },
+    {
+      "text": "“Sí, sí tengo esta otra”.",
+      "startMs": 27340,
+      "endMs": 29813,
+      "verified": true
+    },
+    {
+      "text": "“Ah ya, muy bien, entonces dame ésta”.",
+      "startMs": 29820,
+      "endMs": 31314,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

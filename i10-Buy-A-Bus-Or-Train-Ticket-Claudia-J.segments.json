@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "i10-Buy-A-Bus-Or-Train-Ticket-Claudia-J.mp4",
+  "transcriptHash": "5e514fb31ab724252cb57b8c897852df93435014",
+  "durationMs": 17322,
+  "segments": [
+    {
+      "text": "Buenos días, yo quisiera comprar un boleto para el tren ¿A qué hora sale el próximo tren?",
+      "startMs": 30,
+      "endMs": 6450,
+      "verified": true
+    },
+    {
+      "text": "¿Cuándo es la próxima parada?",
+      "startMs": 6468,
+      "endMs": 11154,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

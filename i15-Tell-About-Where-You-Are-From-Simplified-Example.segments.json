@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i15-Tell-About-Where-You-Are-From-Simplified-Example.mp4",
+  "transcriptHash": "bb3fb821686f41d58ecb6bd6d4e9a8eb0487697e",
+  "durationMs": 43886,
+  "segments": [
+    {
+      "text": "La migración es un fenómeno muy actual, que hace que las personas de una misma familia sean de distinta procedencia.",
+      "startMs": 710,
+      "endMs": 11221,
+      "verified": true
+    },
+    {
+      "text": "Los Estados Unidos es el país modelo del encuentro cultural.",
+      "startMs": 12552,
+      "endMs": 17342,
+      "verified": true
+    },
+    {
+      "text": "Hay personas de diversos orígenes y diferentes razas, así como de culturas diferentes.",
+      "startMs": 18772,
+      "endMs": 26703,
+      "verified": true
+    },
+    {
+      "text": "Esta situación internacional ha hecho que algunas personas gocen de una doble y hasta triple nacionalidad.",
+      "startMs": 28074,
+      "endMs": 38665,
+      "verified": true
+    },
+    {
+      "text": "Algunas hasta tienen varios pasaportes.",
+      "startMs": 39915,
+      "endMs": 43446,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

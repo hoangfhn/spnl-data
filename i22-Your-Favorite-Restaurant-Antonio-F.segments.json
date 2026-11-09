@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "video": "i22-Your-Favorite-Restaurant-Antonio-F.mp4",
+  "transcriptHash": "e8d2c68a6ddef97808e2fb13c59fe69226b4d087",
+  "durationMs": 71239,
+  "segments": [
+    {
+      "text": "Mi restaurante favorito es un restaurante que está en Palo Alto, en California.",
+      "startMs": 650,
+      "endMs": 6890,
+      "verified": true
+    },
+    {
+      "text": "Allí yo he vivido durante los últimos tres años.",
+      "startMs": 6910,
+      "endMs": 10303,
+      "verified": true
+    },
+    {
+      "text": "Y es un restaurante que se llama <Mediterranean Wraps>.",
+      "startMs": 10320,
+      "endMs": 12743,
+      "verified": true
+    },
+    {
+      "text": "Es decir es comida, lo que llaman comida mediterránea que es esta comida más bien como del norte de África, del Medio Oriente, ¿no?",
+      "startMs": 13534,
+      "endMs": 25237,
+      "verified": true
+    },
+    {
+      "text": "Cosas como hojas de uva rellenas, como falafel, que es esto que se hace con la pasta de garbanzo.",
+      "startMs": 25417,
+      "endMs": 39430,
+      "verified": true
+    },
+    {
+      "text": "Tienen ensaladas que llaman griegas.",
+      "startMs": 41041,
+      "endMs": 44162,
+      "verified": true
+    },
+    {
+      "text": "Pero lo que más me gusta es que la comida siempre es muy fresca ¿no?",
+      "startMs": 44442,
+      "endMs": 48093,
+      "verified": true
+    },
+    {
+      "text": "Y además en un restaurante donde se come bien y los precios la verdad que son-- son buenos ¿no?, es bastante económico.",
+      "startMs": 48453,
+      "endMs": 57185,
+      "verified": true
+    },
+    {
+      "text": "Y el dueno es un señor que es de Jordania al que ya de ir tanto al lugar lo conozco.",
+      "startMs": 57245,
+      "endMs": 63957,
+      "verified": true
+    },
+    {
+      "text": "y son personas muy agradables.",
+      "startMs": 64667,
+      "endMs": 66770,
+      "verified": true
+    },
+    {
+      "text": "Siempre te tratan muy bien ahí.",
+      "startMs": 66790,
+      "endMs": 68260,
+      "verified": true
+    },
+    {
+      "text": "Entonces por eso me gusta también.",
+      "startMs": 68278,
+      "endMs": 70839,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

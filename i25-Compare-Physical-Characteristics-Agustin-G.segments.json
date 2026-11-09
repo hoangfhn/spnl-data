@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "i25-Compare-Physical-Characteristics-Agustin-G.mp4",
+  "transcriptHash": "4ddfb0ccbaaf05151dc9c6aba7419a2af1ca13e0",
+  "durationMs": 45999,
+  "segments": [
+    {
+      "text": "Bueno, me voy a comparar con mi amigo Antonio.",
+      "startMs": 1311,
+      "endMs": 3270,
+      "verified": true
+    },
+    {
+      "text": "Él tiene el cabello rubio, yo no, el mío es como castaño oscuro más bien y bueno ya con algún pelo blanco.",
+      "startMs": 3281,
+      "endMs": 14596,
+      "verified": true
+    },
+    {
+      "text": "Luego, él es más alto que yo y yo soy un poco más gordito que él también.",
+      "startMs": 16457,
+      "endMs": 21709,
+      "verified": true
+    },
+    {
+      "text": "Sus ojos son como verdosos, los míos son como marrones.",
+      "startMs": 23600,
+      "endMs": 26671,
+      "verified": true
+    },
+    {
+      "text": "Él tiene muy pocos músculos, yo tengo un poquito más, no mucho más pero algo más.",
+      "startMs": 27481,
+      "endMs": 37055,
+      "verified": true
+    },
+    {
+      "text": "Él es guapo, yo no.",
+      "startMs": 40126,
+      "endMs": 41667,
+      "verified": true
+    },
+    {
+      "text": "Y ya está, eso es lo que puedo decir de Antonio.",
+      "startMs": 42407,
+      "endMs": 45719,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

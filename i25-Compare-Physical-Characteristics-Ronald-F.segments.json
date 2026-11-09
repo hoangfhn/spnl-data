@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "i25-Compare-Physical-Characteristics-Ronald-F.mp4",
+  "transcriptHash": "b2153ee678972a1e50d2d90f3254945f8e5ecc4d",
+  "durationMs": 40310,
+  "segments": [
+    {
+      "text": "\"Comparar para saber de donde venimos\".",
+      "startMs": 0,
+      "endMs": 3381,
+      "verified": true
+    },
+    {
+      "text": "Siempre me han dicho que tengo las orejas de mi papá, es algo inevitable.",
+      "startMs": 4201,
+      "endMs": 8642,
+      "verified": true
+    },
+    {
+      "text": "Dicen que tengo la sonrisa de mi mamá.",
+      "startMs": 9352,
+      "endMs": 11523,
+      "verified": true
+    },
+    {
+      "text": "Las manos, también, de mi papá, el pelo de mi abuelo, la cara de mi bisabuelo de parte de mi mamá.",
+      "startMs": 12013,
+      "endMs": 18785,
+      "verified": true
+    },
+    {
+      "text": "Las cejas de mi tío, la boca de mi tía que es hermana de mi mamá.",
+      "startMs": 19285,
+      "endMs": 23426,
+      "verified": true
+    },
+    {
+      "text": "Y que tengo, ¿qué, al fin, qué tengo yo?",
+      "startMs": 23856,
+      "endMs": 27230,
+      "verified": true
+    },
+    {
+      "text": "No sé, siempre dicen que tengo algo que no es mío.",
+      "startMs": 27247,
+      "endMs": 30427,
+      "verified": true
+    },
+    {
+      "text": "¿La boca me pertenece?",
+      "startMs": 30430,
+      "endMs": 32338,
+      "verified": true
+    },
+    {
+      "text": "No, parece que no, parece que esta boca que les está hablando a ustedes es de todos mis antepasados juntos.",
+      "startMs": 32718,
+      "endMs": 39670,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

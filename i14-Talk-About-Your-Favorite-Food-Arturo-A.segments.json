@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i14-Talk-About-Your-Favorite-Food-Arturo-A.mp4",
+  "transcriptHash": "327a0dedfc6350856915967636a25b0512806a63",
+  "durationMs": 27469,
+  "segments": [
+    {
+      "text": "Mi comida favorita es una comida que se prepara en Yucatán.",
+      "startMs": 0,
+      "endMs": 2981,
+      "verified": true
+    },
+    {
+      "text": "Se llama \"queso relleno.\" Es un queso holandés, se rellena con especias, con almendras, con pasitas.",
+      "startMs": 3611,
+      "endMs": 12304,
+      "verified": true
+    },
+    {
+      "text": "Se hace una salsa especial con harina.",
+      "startMs": 12614,
+      "endMs": 15585,
+      "verified": true
+    },
+    {
+      "text": "Se prepara el queso, se rellena con carne molida.",
+      "startMs": 17996,
+      "endMs": 23648,
+      "verified": true
+    },
+    {
+      "text": "Es muy rico y se sirve con vino.",
+      "startMs": 24228,
+      "endMs": 27369,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

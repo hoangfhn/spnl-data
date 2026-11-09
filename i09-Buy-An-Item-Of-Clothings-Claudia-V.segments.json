@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i09-Buy-An-Item-Of-Clothings-Claudia-V.mp4",
+  "transcriptHash": "ef1df3453f9908ca846200c47d3f8b919feea0d5",
+  "durationMs": 24242,
+  "segments": [
+    {
+      "text": "Depende del tipo de ropa que quiera comprar.",
+      "startMs": 240,
+      "endMs": 2550,
+      "verified": true
+    },
+    {
+      "text": "Por ejemplo, si quiero comprar ropa para ir a trabajar le digo: \"Señorita, por favor, me puede sacar conjuntos o vestidos que tengan para ir a trabajar, algo formal.\" Y me va a sacar la ropa, ¿no?",
+      "startMs": 2570,
+      "endMs": 13712,
+      "verified": true
+    },
+    {
+      "text": "Si quiero algo playero, por ejemplo, le digo, \"Señora, me puede mostrar la ropa de baño que tiene.",
+      "startMs": 14243,
+      "endMs": 19938,
+      "verified": true
+    },
+    {
+      "text": "¿Cuál es su precio si es que deseo comprarlo, no?\"",
+      "startMs": 21289,
+      "endMs": 23711,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

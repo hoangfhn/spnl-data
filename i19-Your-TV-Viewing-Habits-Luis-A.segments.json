@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "i19-Your-TV-Viewing-Habits-Luis-A.mp4",
+  "transcriptHash": "d11a9a0816d472efc90f8569421560669029044a",
+  "durationMs": 49319,
+  "segments": [
+    {
+      "text": "Bueno, mis malos hábitos televisivos es, por lo general paso todo el día en la universidad entonces cuando llego a la casa me toca o ayudarle a Katherine a cocinar la cena, o a lavar platos, o hacer algo en la casa.",
+      "startMs": 0,
+      "endMs": 12270,
+      "verified": true
+    },
+    {
+      "text": "Comemos y luego encendemos el tele.",
+      "startMs": 12290,
+      "endMs": 14306,
+      "verified": true
+    },
+    {
+      "text": "Por lo general vemos una novela brasileña que pasan en Telemundo, que nos gustan mucho las novelas brasileñas porque más que una novela parecen una película.",
+      "startMs": 15476,
+      "endMs": 23449,
+      "verified": true
+    },
+    {
+      "text": "Luego de eso, termina como a las diez, después vemos Friends.",
+      "startMs": 23799,
+      "endMs": 26550,
+      "verified": true
+    },
+    {
+      "text": "Y de ahí vemos...",
+      "startMs": 26760,
+      "endMs": 27871,
+      "verified": true
+    },
+    {
+      "text": "de ahí hasta que nos dé sueño y nos vamos a la cama.",
+      "startMs": 27880,
+      "endMs": 29772,
+      "verified": false
+    },
+    {
+      "text": "Creo que dan Friends, ¿cuál dan después?, creo que Will and Grace, y a veces nos quedamos a ver Raymond.",
+      "startMs": 29780,
+      "endMs": 35134,
+      "verified": true
+    },
+    {
+      "text": "Pero no nos gusta Raymond porque es demasiado machista como para ver.",
+      "startMs": 35140,
+      "endMs": 38985,
+      "verified": true
+    },
+    {
+      "text": "Entonces cada vez en cuando que yo me tengo que quedar haciendo un trabajo o una cosa así de noche, entonces la dejo y luego pongo cualquier canal con tal de que me acompañe mientras estoy haciendo trabajos en la madrugada.",
+      "startMs": 39585,
+      "endMs": 48869,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

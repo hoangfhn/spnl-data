@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i22-Your-Favorite-Restaurant-Simplified-Example.mp4",
+  "transcriptHash": "34e56dcc1b34e446673a516b3b87a1ab0700aaed",
+  "durationMs": 24404,
+  "segments": [
+    {
+      "text": "Un buen restaurante obviamente debe tener buena comida.",
+      "startMs": 471,
+      "endMs": 4324,
+      "verified": true
+    },
+    {
+      "text": "Pero aparte de eso es importante que tenga un buen ambiente.",
+      "startMs": 5155,
+      "endMs": 9149,
+      "verified": true
+    },
+    {
+      "text": "Es decir, la música, la decoración, todo.",
+      "startMs": 9580,
+      "endMs": 13113,
+      "verified": true
+    },
+    {
+      "text": "Y, por último, debe tener muy buen servicio.",
+      "startMs": 13704,
+      "endMs": 16937,
+      "verified": true
+    },
+    {
+      "text": "Los meseros tienen que saber el menú bien y atender a los clientes en todos los detalles.",
+      "startMs": 17528,
+      "endMs": 23663,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

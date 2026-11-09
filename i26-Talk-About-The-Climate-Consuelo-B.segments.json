@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i26-Talk-About-The-Climate-Consuelo-B.mp4",
+  "transcriptHash": "cede4bb42d3cba9959ccb839818dceadcaced2d1",
+  "durationMs": 32787,
+  "segments": [
+    {
+      "text": "El Perú es un país con privilegio con respecto al clima porque tenemos todos los climas casi existentes.",
+      "startMs": 0,
+      "endMs": 7942,
+      "verified": true
+    },
+    {
+      "text": "Tenemos la costa, la sierra, y la selva, cada uno con un clima diferente.",
+      "startMs": 9432,
+      "endMs": 13463,
+      "verified": true
+    },
+    {
+      "text": "La costa bastante húmedo, pero con mucho sol.",
+      "startMs": 13793,
+      "endMs": 18964,
+      "verified": true
+    },
+    {
+      "text": "La sierra bastante fría con temporadas marcadas y nieva; y la selva, con mucho sol pero húmedo.",
+      "startMs": 19054,
+      "endMs": 30070,
+      "verified": true
+    },
+    {
+      "text": "No sé, que yo no sé nada de climas.",
+      "startMs": 30086,
+      "endMs": 32226,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

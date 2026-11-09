@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i17-Ask-If-Item-Exists-In-A-Store-William-R.mp4",
+  "transcriptHash": "7bd8b8b7eab949eb095c5c15e4b8252b1f127e06",
+  "durationMs": 21130,
+  "segments": [
+    {
+      "text": "Disculpe señora, ¿qué tal está usted hoy?",
+      "startMs": 30,
+      "endMs": 2281,
+      "verified": true
+    },
+    {
+      "text": "Busco un pantalón, un Levis.",
+      "startMs": 2711,
+      "endMs": 5950,
+      "verified": false
+    },
+    {
+      "text": "Un pantalón 34 de cintura y 32 de largo.",
+      "startMs": 5963,
+      "endMs": 9430,
+      "verified": true
+    },
+    {
+      "text": "¿Usted me podría por favor ayudar a encontrar ese pantalón?",
+      "startMs": 9445,
+      "endMs": 13667,
+      "verified": true
+    },
+    {
+      "text": "y ¿Qué otras marcas tiene usted que usted me podría recomendar a mí?, porque soy muy exigente en cuanto a marcas, ¿verdad?",
+      "startMs": 13757,
+      "endMs": 20890,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

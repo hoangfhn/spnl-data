@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i15-Tell-About-Where-You-Are-From-Fernando-R.mp4",
+  "transcriptHash": "091c4932bb38038fefdf7212335d6974cf83eaea",
+  "durationMs": 17903,
+  "segments": [
+    {
+      "text": "Bueno, mi nombre es Fernando.",
+      "startMs": 30,
+      "endMs": 1592,
+      "verified": false
+    },
+    {
+      "text": "Nací y crecí en Buenos Aires, Argentina.",
+      "startMs": 2013,
+      "endMs": 5176,
+      "verified": true
+    },
+    {
+      "text": "Tuve la oportunidad de vivir también en otros países como Brasil y Estados Unidos.",
+      "startMs": 6318,
+      "endMs": 12376,
+      "verified": true
+    },
+    {
+      "text": "Actualmente vivo en Estados Unidos desde hace casi diez años.",
+      "startMs": 13107,
+      "endMs": 17802,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i21-Describe-An-Ailment-To-A-Doctor-Beatriz-T.mp4",
+  "transcriptHash": "287f60e050f06fd2a2dd013326d2650fe2c7777b",
+  "durationMs": 30836,
+  "segments": [
+    {
+      "text": "Bueno, doctor, no sé qué tengo porque, a veces tengo muchos mareos, me duele la cabeza horriblemente.",
+      "startMs": 0,
+      "endMs": 7944,
+      "verified": true
+    },
+    {
+      "text": "La visión se me nubla y veo como puntitos blancos.",
+      "startMs": 8715,
+      "endMs": 12236,
+      "verified": true
+    },
+    {
+      "text": "A veces también me da mucho asco.",
+      "startMs": 12997,
+      "endMs": 15468,
+      "verified": true
+    },
+    {
+      "text": "Me dan mucho asco determinadas comidas y los olores.",
+      "startMs": 17309,
+      "endMs": 21971,
+      "verified": true
+    },
+    {
+      "text": "Y últimamente me han dolido las articulaciones de los brazos y de las piernas.",
+      "startMs": 22942,
+      "endMs": 29996,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

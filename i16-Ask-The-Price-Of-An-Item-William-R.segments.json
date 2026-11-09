@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "i16-Ask-The-Price-Of-An-Item-William-R.mp4",
+  "transcriptHash": "e9bd7d0fd7ce09d193e7d8969d7bdb5b638a8482",
+  "durationMs": 19574,
+  "segments": [
+    {
+      "text": "Disculpe señor, me gustaría saber qué cuesta ese par de zapatos que está ahí.",
+      "startMs": 370,
+      "endMs": 4643,
+      "verified": true
+    },
+    {
+      "text": "¿Verdad?",
+      "startMs": 5234,
+      "endMs": 5824,
+      "verified": true
+    },
+    {
+      "text": "Usted me puede decir también qué marca son ellos.",
+      "startMs": 6635,
+      "endMs": 9007,
+      "verified": true
+    },
+    {
+      "text": "Busco así una marca como Bas.",
+      "startMs": 9337,
+      "endMs": 13210,
+      "verified": false
+    },
+    {
+      "text": "Busco un par de zapatos italianos.",
+      "startMs": 13250,
+      "endMs": 15371,
+      "verified": true
+    },
+    {
+      "text": "Un número ocho y medio.",
+      "startMs": 15842,
+      "endMs": 17060,
+      "verified": true
+    },
+    {
+      "text": "¿Usted me lo podría encontrar por favor?",
+      "startMs": 17073,
+      "endMs": 18904,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "i14-Talk-About-Your-Favorite-Food-Carlos-G.mp4",
+  "transcriptHash": "e446ed5bf4544d54419faa681f494036bd09653f",
+  "durationMs": 36455,
+  "segments": [
+    {
+      "text": "El chile relleno es mi comida favorita.",
+      "startMs": 30,
+      "endMs": 2471,
+      "verified": true
+    },
+    {
+      "text": "Está hecho, es un platillo puramente mexicano.",
+      "startMs": 3331,
+      "endMs": 6923,
+      "verified": true
+    },
+    {
+      "text": "Está compuesto de un chile poblano, que es un chile largo, se rellena con queso o con carne.",
+      "startMs": 7933,
+      "endMs": 14666,
+      "verified": true
+    },
+    {
+      "text": "A mí me gustan con queso.",
+      "startMs": 14776,
+      "endMs": 15907,
+      "verified": true
+    },
+    {
+      "text": "Y van lampreados con clara de huevo, así como se hacen los, se preparan los camarones, o algo.",
+      "startMs": 17397,
+      "endMs": 24510,
+      "verified": true
+    },
+    {
+      "text": "Y es sabrosísimo, y a veces se le baña con salsita de tomate y ya.",
+      "startMs": 27141,
+      "endMs": 32013,
+      "verified": true
+    },
+    {
+      "text": "Y con una tortilla de harina, se come uno un burrito muy bueno.",
+      "startMs": 32044,
+      "endMs": 35645,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

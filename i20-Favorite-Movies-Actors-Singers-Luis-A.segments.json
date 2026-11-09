@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "i20-Favorite-Movies-Actors-Singers-Luis-A.mp4",
+  "transcriptHash": "f0ac9f4c2da165c2019561a923b908990547bc2b",
+  "durationMs": 55078,
+  "segments": [
+    {
+      "text": "En este momento estoy escuchando música que es una mezcla de sonidos viejos con sonidos nuevos.",
+      "startMs": 210,
+      "endMs": 8123,
+      "verified": true
+    },
+    {
+      "text": "Principalmente música que son tributos a cantantes.",
+      "startMs": 8813,
+      "endMs": 11164,
+      "verified": true
+    },
+    {
+      "text": "Compramos un disco que es un tributo a José Alfredo Jiménez.",
+      "startMs": 11654,
+      "endMs": 14505,
+      "verified": true
+    },
+    {
+      "text": "Entonces tanto de estos grupos modernos como Mohenia, como La Ley, como El Gran Silencio, etc.",
+      "startMs": 14855,
+      "endMs": 21307,
+      "verified": true
+    },
+    {
+      "text": "También como ah, también compramos uno de José José, un tributo a José José.",
+      "startMs": 21457,
+      "endMs": 24768,
+      "verified": true
+    },
+    {
+      "text": "Y es interesante porque uno escucha música que uno creció oyendo, la música que oían los papás de uno y que uno cuando estaba pequeñito lo forzaban a escuchar porque era lo que estaba en la radio, pero con un sonido diferente.",
+      "startMs": 25198,
+      "endMs": 37332,
+      "verified": true
+    },
+    {
+      "text": "Entonces es como mezclar lo que uno creció oyendo, y que uno de una u otra manera en el fondo del corazón le gusta porque lo acostumbraron a eso, con la música que uno descubre cuando ya crece.",
+      "startMs": 37662,
+      "endMs": 46015,
+      "verified": true
+    },
+    {
+      "text": "Y se mezclan estas dos, estas dos etapas de la vida de uno y se vuelve como una mezcla muy interesante, a nivel personal y también a nivel musical porque la mezcla es muy muy interesante.",
+      "startMs": 46925,
+      "endMs": 54938,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i12-Talk-About-Yourself-Simplified-Example.mp4",
+  "transcriptHash": "b757c0397472693947e3a038535b5713f32d4493",
+  "durationMs": 41889,
+  "segments": [
+    {
+      "text": "En los países hispanos, el nombre de las personas es más largo que en Estados Unidos.",
+      "startMs": 590,
+      "endMs": 7001,
+      "verified": true
+    },
+    {
+      "text": "Nosotros usamos el apellido de ambos padres, primero el del padre y después el de la madre.",
+      "startMs": 8252,
+      "endMs": 15603,
+      "verified": true
+    },
+    {
+      "text": "Cuando las mujeres se casan conservan el apellido de su padre y agregan el de su marido después de la preposición \"de\".",
+      "startMs": 16834,
+      "endMs": 28730,
+      "verified": true
+    },
+    {
+      "text": "Por ejemplo, María Eugenia Martínez de Dávila.",
+      "startMs": 28750,
+      "endMs": 33887,
+      "verified": true
+    },
+    {
+      "text": "Los nombres más populares en los países hispanos son María y José.",
+      "startMs": 35037,
+      "endMs": 41539,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

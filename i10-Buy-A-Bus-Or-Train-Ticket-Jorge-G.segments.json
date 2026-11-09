@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "video": "i10-Buy-A-Bus-Or-Train-Ticket-Jorge-G.mp4",
+  "transcriptHash": "ebb56fed16e86ad60d1b7efd7a17737c4a93edd0",
+  "durationMs": 80550,
+  "segments": [
+    {
+      "text": "Te voy a contar específicamente sobre el boleto para un camión.",
+      "startMs": 30,
+      "endMs": 3180,
+      "verified": true
+    },
+    {
+      "text": "Me gusta siempre estar en camiones de primera clase cuando voy a largas distancias.",
+      "startMs": 4181,
+      "endMs": 10691,
+      "verified": true
+    },
+    {
+      "text": "He estado en diferentes tipos de camiones pero cuando voy más allá de cuatro horas, cinco horas me gusta comprar un boleto de primera clase para tener espacio en mi asiento, sentirme más a gusto.",
+      "startMs": 11491,
+      "endMs": 22543,
+      "verified": true
+    },
+    {
+      "text": "Y es importante saber que el camión no vaya a hacer paradas seguidas porque eso hace que la distancia sea más larga y más aburrida.",
+      "startMs": 22550,
+      "endMs": 31154,
+      "verified": true
+    },
+    {
+      "text": "Honestamente, no me gusta estar en camión, mucho menos en tren.",
+      "startMs": 32214,
+      "endMs": 35324,
+      "verified": true
+    },
+    {
+      "text": "Pero cuando compro un boleto siempre trato de comprarlo con anticipación para poder agarrar buen asiento.",
+      "startMs": 35915,
+      "endMs": 42755,
+      "verified": true
+    },
+    {
+      "text": "No sé la demás gente pero a mí nunca me ha gustado sentarme al frente porque siempre escucho la radio del chofer.",
+      "startMs": 43535,
+      "endMs": 48430,
+      "verified": true
+    },
+    {
+      "text": "Y nunca me ha gustado sentarme atrás porque soy el último en salir.",
+      "startMs": 48446,
+      "endMs": 51726,
+      "verified": true
+    },
+    {
+      "text": "So me gusta más estar en medio, así puedo ver al frente y puedo ver atrás.",
+      "startMs": 52197,
+      "endMs": 56107,
+      "verified": true
+    },
+    {
+      "text": "Y en algún caso de accidente pienso que en un ochenta por ciento en un camión el accidente va al frente.",
+      "startMs": 56110,
+      "endMs": 63830,
+      "verified": true
+    },
+    {
+      "text": "Y como digo yo, a mí me gusta siempre estar cuando voy cuatro o cinco horas de la ciudad, me gustar estar en primera clase.",
+      "startMs": 63848,
+      "endMs": 72929,
+      "verified": true
+    },
+    {
+      "text": "Pero cuando es distancias cortas no me importa el tipo de camión siempre y cuando me lleve al lugar al tiempo que yo necesito.",
+      "startMs": 73139,
+      "endMs": 80520,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

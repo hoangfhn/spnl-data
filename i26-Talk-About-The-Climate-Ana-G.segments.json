@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i26-Talk-About-The-Climate-Ana-G.mp4",
+  "transcriptHash": "80d3cb1df99ddd26b60d7110b9658c0ef68c2da8",
+  "durationMs": 31533,
+  "segments": [
+    {
+      "text": "Guatemala es un país muy interesante, porque dentro de una área muy pequeña tenemos una diversidad geográfica de ecosistemas y altitudes increíble.",
+      "startMs": 670,
+      "endMs": 12485,
+      "verified": true
+    },
+    {
+      "text": "Podemos pasar en cuatro mil kilómetros más o menos de viaje, desde zonas semidesérticas hasta bosques nublados con una precipitación anual altísima.",
+      "startMs": 12675,
+      "endMs": 24170,
+      "verified": true
+    },
+    {
+      "text": "Eso es una cosa muy interesante de mi país: la gran variedad que hay de climas y de ambientes en un área tan pequeña.",
+      "startMs": 24200,
+      "endMs": 31052,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

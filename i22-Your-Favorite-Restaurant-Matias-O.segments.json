@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i22-Your-Favorite-Restaurant-Matias-O.mp4",
+  "transcriptHash": "f504ee3a91872adf8705efff623046e44733491f",
+  "durationMs": 34157,
+  "segments": [
+    {
+      "text": "Eh, bueno, ¿mi restaurantes favoritos?",
+      "startMs": 0,
+      "endMs": 3051,
+      "verified": true
+    },
+    {
+      "text": "Son en realidad las parillas que es donde se hace \"barbecue,\" asado, eh, Chile, y también los de comida rápida que son McDonald's y Burger King y eso.",
+      "startMs": 3472,
+      "endMs": 15788,
+      "verified": true
+    },
+    {
+      "text": "Porque, eh, la hamburguesa, la encuentro excelente siento que no, no son muy sanas y la verdad es que, la comida italiano no me gusta mucho, y...",
+      "startMs": 16698,
+      "endMs": 32940,
+      "verified": true
+    },
+    {
+      "text": "eso.",
+      "startMs": 32956,
+      "endMs": 33216,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

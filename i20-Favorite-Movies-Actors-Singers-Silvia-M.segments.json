@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "video": "i20-Favorite-Movies-Actors-Singers-Silvia-M.mp4",
+  "transcriptHash": "5eb7a15e35b5a0fd299d6a6322bff8d15037bffd",
+  "durationMs": 96340,
+  "segments": [
+    {
+      "text": "¿Pintor favorito?",
+      "startMs": 0,
+      "endMs": 500,
+      "verified": false
+    },
+    {
+      "text": "Bueno, me gusta mucho los cubistas, me gusta mucho Picasso, me encanta la forma como llevan a cabo la perspectiva de la pintura.",
+      "startMs": 3411,
+      "endMs": 14003,
+      "verified": true
+    },
+    {
+      "text": "Modernos: me gusta mucho Botero, es un pintor colombiano.",
+      "startMs": 14933,
+      "endMs": 18204,
+      "verified": true
+    },
+    {
+      "text": "Trabaja mucho también el volumen y los colores fuertes entonces lo hace ver todo muy vivo, muy brillante, con mucha vida.",
+      "startMs": 19754,
+      "endMs": 28170,
+      "verified": true
+    },
+    {
+      "text": "¿Cantantes?",
+      "startMs": 28186,
+      "endMs": 30686,
+      "verified": true
+    },
+    {
+      "text": "bueno solo decir que me fascina la música colombiana, me encanta la salsa entonces, pues, cantantes bueno de orquestas de salsa me gusta mucho.",
+      "startMs": 31476,
+      "endMs": 42459,
+      "verified": true
+    },
+    {
+      "text": "Pero también me gusta mucho escuchar otro tipo de música como pop o rock.",
+      "startMs": 42679,
+      "endMs": 47710,
+      "verified": true
+    },
+    {
+      "text": "Me gusta mucho cantantes españoles, me gusta mucho Mecano, me gusta mucho Miguel Bosé.",
+      "startMs": 47730,
+      "endMs": 55011,
+      "verified": true
+    },
+    {
+      "text": "Y me fascina una banda argentina que se llama Soda Stereo.",
+      "startMs": 55301,
+      "endMs": 59590,
+      "verified": true
+    },
+    {
+      "text": "Es muy buen rock, es excelente rock.",
+      "startMs": 59610,
+      "endMs": 62193,
+      "verified": true
+    },
+    {
+      "text": "¿Actores, actores?",
+      "startMs": 62323,
+      "endMs": 64993,
+      "verified": true
+    },
+    {
+      "text": "Bueno, un director más que todo.",
+      "startMs": 65243,
+      "endMs": 66754,
+      "verified": true
+    },
+    {
+      "text": "Los directores me gustan más.",
+      "startMs": 66770,
+      "endMs": 68070,
+      "verified": true
+    },
+    {
+      "text": "Me gusta mucho Oliver Stone—me encantan las películas de él.",
+      "startMs": 68090,
+      "endMs": 71855,
+      "verified": true
+    },
+    {
+      "text": "Y me gusta también mucho Pedro Almodóvar que es un muy buen director.",
+      "startMs": 71860,
+      "endMs": 76436,
+      "verified": true
+    },
+    {
+      "text": "En cine latinoamericano me gusta Sergio Cabrera.",
+      "startMs": 77286,
+      "endMs": 79636,
+      "verified": true
+    },
+    {
+      "text": "Ah bueno, y Almenébar que también es español.",
+      "startMs": 79650,
+      "endMs": 83977,
+      "verified": true
+    },
+    {
+      "text": "Me gusta mucho la forma como ellos llevan el cine, más que actores me gusta la forma cómo los directores llevan las películas.",
+      "startMs": 83980,
+      "endMs": 92510,
+      "verified": true
+    },
+    {
+      "text": "Eso me parece más interesante.",
+      "startMs": 92530,
+      "endMs": 93899,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

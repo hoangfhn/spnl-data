@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i23-A-Library-Experience-Maripaz-G.mp4",
+  "transcriptHash": "bf426c12140bcc0a860d2b460562bbf2b9dc65ea",
+  "durationMs": 45465,
+  "segments": [
+    {
+      "text": "Yo estoy acostumbrada a que en las bibliotecas haya mucha gente, siempre están llenas de gente y siempre hay maneras de encontrar los libros.",
+      "startMs": 650,
+      "endMs": 8385,
+      "verified": true
+    },
+    {
+      "text": "Pero una vez fui a la biblioteca de \"Benson\" y es una biblioteca muy diferente porque está casi vacía o totalmente vacía y es muy pequeñita, te da como claustrofobia.",
+      "startMs": 8715,
+      "endMs": 21752,
+      "verified": true
+    },
+    {
+      "text": "Y, ah, me sentí, ¡tenía miedo!",
+      "startMs": 21770,
+      "endMs": 26494,
+      "verified": true
+    },
+    {
+      "text": "Tenía miedo porque no había nadie y era un sitio muy, no sé, muy oscuro y no había nadie para preguntar donde estaban las cosas tampoco y no podía encontrar las computadoras y no podía encontrar la, la fotocopiadora, y fue una sensación que no me gustó.",
+      "startMs": 26524,
+      "endMs": 44804,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

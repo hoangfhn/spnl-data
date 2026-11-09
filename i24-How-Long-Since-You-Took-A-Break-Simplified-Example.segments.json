@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i24-How-Long-Since-You-Took-A-Break-Simplified-Example.mp4",
+  "transcriptHash": "f3bda07187ff7f76c60d097519fcfeb761aa8534",
+  "durationMs": 19482,
+  "segments": [
+    {
+      "text": "Muy bien, hace unos cuatro meses fuimos a México a visitar la familia de mi esposo.",
+      "startMs": 971,
+      "endMs": 8200,
+      "verified": true
+    },
+    {
+      "text": "Pasamos una semana en la ciudad de México y otra semana en la playa, en Acapulco.",
+      "startMs": 8220,
+      "endMs": 14480,
+      "verified": true
+    },
+    {
+      "text": "Nunca había conocido Acapulco así que fue bastante divertido.",
+      "startMs": 14500,
+      "endMs": 18921,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i20-Favorite-Movies-Actors-Singers-Simplified-Example.mp4",
+  "transcriptHash": "66a56af5bf69c600c7520981e3805db194e39847",
+  "durationMs": 28328,
+  "segments": [
+    {
+      "text": "Nunca he ido al estreno de una película.",
+      "startMs": 1150,
+      "endMs": 3801,
+      "verified": true
+    },
+    {
+      "text": "No creo que valga la pena hacer cola por una película que puedo ver al día siguiente.",
+      "startMs": 4071,
+      "endMs": 10003,
+      "verified": true
+    },
+    {
+      "text": "Eso sí, siempre me ha gustado leer las críticas cinematográficas en el periódico.",
+      "startMs": 10793,
+      "endMs": 16765,
+      "verified": true
+    },
+    {
+      "text": "A veces no estoy de acuerdo, pero me interesa oír otras opiniones, sobre todo cuando dan detalles de la técnica de éste o de aquel director.",
+      "startMs": 17355,
+      "endMs": 27688,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

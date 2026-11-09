@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i22-Your-Favorite-Restaurant-Beatriz-T.mp4",
+  "transcriptHash": "f538c82682bff99173ceed4d2d910e44ad896e15",
+  "durationMs": 18855,
+  "segments": [
+    {
+      "text": "Bueno, a mí me gusta mucho la cafetería de mi escuela.",
+      "startMs": 30,
+      "endMs": 3303,
+      "verified": true
+    },
+    {
+      "text": "Porque es un lugar donde sirven un café delicioso y unos cuernitos rellenos.",
+      "startMs": 3473,
+      "endMs": 10008,
+      "verified": true
+    },
+    {
+      "text": "Cuernos \"croissant\" muy ricos, rellenos de hongos con queso y jamón.",
+      "startMs": 10778,
+      "endMs": 16773,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

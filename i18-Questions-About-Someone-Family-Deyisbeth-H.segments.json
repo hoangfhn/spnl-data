@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "i18-Questions-About-Someone-Family-Deyisbeth-H.mp4",
+  "transcriptHash": "cc8b29c944e6fed4650e1c2ea314dad3ac3e6f61",
+  "durationMs": 35225,
+  "segments": [
+    {
+      "text": "¿De dónde es tu familia?",
+      "startMs": 70,
+      "endMs": 1601,
+      "verified": true
+    },
+    {
+      "text": "puedes preguntar.",
+      "startMs": 2512,
+      "endMs": 3482,
+      "verified": true
+    },
+    {
+      "text": "También puedes preguntar, ¿Cómo es la casa donde vive?",
+      "startMs": 4793,
+      "endMs": 8250,
+      "verified": true
+    },
+    {
+      "text": "¿Es interesante, es moderna, es vieja?",
+      "startMs": 8266,
+      "endMs": 13800,
+      "verified": true
+    },
+    {
+      "text": "¿Cuántos hermanos tienen?",
+      "startMs": 13810,
+      "endMs": 16972,
+      "verified": true
+    },
+    {
+      "text": "¿Cuántas personas trabajan en tu familia?",
+      "startMs": 18503,
+      "endMs": 20880,
+      "verified": true
+    },
+    {
+      "text": "¿En qué trabaja tu madre, se queda en la casa y cuida a los niños?",
+      "startMs": 20895,
+      "endMs": 28940,
+      "verified": true
+    },
+    {
+      "text": "¿Cuántos de tus hermanos son casados?",
+      "startMs": 28950,
+      "endMs": 34684,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "video": "i15-Tell-About-Where-You-Are-From-Analucia-M.mp4",
+  "transcriptHash": "b605250cb1ebb7f655a43161d0c29ca50ea47ea9",
+  "durationMs": 113220,
+  "segments": [
+    {
+      "text": "Bueno, yo nací en Bogotá en 1985.",
+      "startMs": 0,
+      "endMs": 5001,
+      "verified": true
+    },
+    {
+      "text": "Viví casi toda mi vida allá, me mudé en el dos mil cuando tenía quince años, me mudé a los Estados Unidos, pero los recuerdos de Bogotá todavía están muy presentes.",
+      "startMs": 5431,
+      "endMs": 20624,
+      "verified": true
+    },
+    {
+      "text": "Es una ciudad muy linda, hace frío, la temperatura normal fluctúa entre los siete-ocho grados centígrados hasta los veinte grados centígrados cuando hace calor.",
+      "startMs": 21814,
+      "endMs": 36890,
+      "verified": true
+    },
+    {
+      "text": "Hace el mismo clima durante todo el verano porque estamos sobre la línea del ecuador entonces el clima es templado.",
+      "startMs": 36910,
+      "endMs": 49469,
+      "verified": true
+    },
+    {
+      "text": "Es una ciudad muy grande, la ciudad más grande de Colombia.",
+      "startMs": 51059,
+      "endMs": 53970,
+      "verified": true
+    },
+    {
+      "text": "Es muy linda, como dije, hay muchos carros, mucha polución, pero hay verdor en las calles y en las avenidas principales, hay muchos árboles.",
+      "startMs": 56620,
+      "endMs": 65452,
+      "verified": true
+    },
+    {
+      "text": "Se ve mucha pobreza, mucha pobreza como en cualquier país latinoamericano, cualquier ciudad metropolitana de Latinoamérica, hay mucha pobreza.",
+      "startMs": 66462,
+      "endMs": 74654,
+      "verified": true
+    },
+    {
+      "text": "Pero hay formas de aislarse un poco de esa pobreza y de ir a malles, de ir al cine, de ir al teatro.",
+      "startMs": 77864,
+      "endMs": 85315,
+      "verified": true
+    },
+    {
+      "text": "Hay muchos bares, muchas discotecas, la vida nocturna es muy activa, es una ciudad de estudiantes también.",
+      "startMs": 90967,
+      "endMs": 97888,
+      "verified": true
+    },
+    {
+      "text": "Mucha gente que vive en las ciudades más chiquitas de Colombia van a Bogotá a estudiar específicamente ahí.",
+      "startMs": 98928,
+      "endMs": 106169,
+      "verified": true
+    },
+    {
+      "text": "Es un país, es un país especial, es una ciudad interesante.",
+      "startMs": 108810,
+      "endMs": 112580,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

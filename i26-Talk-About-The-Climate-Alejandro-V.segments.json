@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "video": "i26-Talk-About-The-Climate-Alejandro-V.mp4",
+  "transcriptHash": "14400c88ab5ada19283e883bb8d58f162bd14462",
+  "durationMs": 54126,
+  "segments": [
+    {
+      "text": "El clima en el norte de México en general es muy caluroso en verano.",
+      "startMs": 450,
+      "endMs": 4781,
+      "verified": true
+    },
+    {
+      "text": "En invierno es muy frío.",
+      "startMs": 5581,
+      "endMs": 6881,
+      "verified": true
+    },
+    {
+      "text": "Se dice entonces que el clima es extremoso.",
+      "startMs": 7211,
+      "endMs": 9561,
+      "verified": true
+    },
+    {
+      "text": "En la parte central de México, precisamente debido a su altitud, el clima es fresco en verano.",
+      "startMs": 10781,
+      "endMs": 17402,
+      "verified": true
+    },
+    {
+      "text": "La ciudad de México alcanza temperaturas máximas de 30 grados centígrados, a lo mucho.",
+      "startMs": 17832,
+      "endMs": 24403,
+      "verified": true
+    },
+    {
+      "text": "Y en invierno es un invierno muy tranquilo, a lo mucho llega 2, 3 grados sobre cero, pero eso es solo en las madrugadas.",
+      "startMs": 25113,
+      "endMs": 33344,
+      "verified": true
+    },
+    {
+      "text": "Se puede decir que la ciudad de México tiene un clima muy muy agradable.",
+      "startMs": 33994,
+      "endMs": 37284,
+      "verified": true
+    },
+    {
+      "text": "En el sudeste y sur de México, el clima es caluroso todo el año.",
+      "startMs": 37634,
+      "endMs": 42845,
+      "verified": true
+    },
+    {
+      "text": "Obviamente en invierno es menos caluroso.",
+      "startMs": 43055,
+      "endMs": 45325,
+      "verified": true
+    },
+    {
+      "text": "Pero no existen las estaciones, es decir no hay primavera, verano, otoño e invierno.",
+      "startMs": 45515,
+      "endMs": 50565,
+      "verified": true
+    },
+    {
+      "text": "Es solo época de lluvias y época de secas.",
+      "startMs": 50935,
+      "endMs": 53926,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

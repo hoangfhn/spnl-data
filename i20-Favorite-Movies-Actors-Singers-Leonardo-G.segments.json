@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i20-Favorite-Movies-Actors-Singers-Leonardo-G.mp4",
+  "transcriptHash": "3826bf250f392ffc21b4249f17ad4cfc494148c8",
+  "durationMs": 32276,
+  "segments": [
+    {
+      "text": "Me gustan actores norteamericanos principalmente.",
+      "startMs": 250,
+      "endMs": 3812,
+      "verified": true
+    },
+    {
+      "text": "Una actriz que es Meryl Streep..., y Dustin Hoffman, Robert De Niro, y Al Pacino, en algunas películas, por el tipo de trabajo que ellos desarrollan, provenientes del actor-estudio.",
+      "startMs": 4852,
+      "endMs": 19269,
+      "verified": true
+    },
+    {
+      "text": "Cantantes, me gusta principalmente Caetano Veloso, y un cantante español que es Joaquín Sabina, y algunos de rock mexicano.",
+      "startMs": 21240,
+      "endMs": 31575,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

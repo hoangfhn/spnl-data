@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i17-Ask-If-Item-Exists-In-A-Store-Simplified-Example.mp4",
+  "transcriptHash": "844b929e45b2904339a632ed76df170cedac6298",
+  "durationMs": 23406,
+  "segments": [
+    {
+      "text": "Mi madre quiere comprar unos muebles nuevos y está buscando las rebajas de esta temporada.",
+      "startMs": 30,
+      "endMs": 5581,
+      "verified": true
+    },
+    {
+      "text": "Pero está muy enojada porque, generalmente, las personas no cuidan los artículos que están en venta, van pasando por las diferentes áreas sin prestar atención y están maltratando los muebles.",
+      "startMs": 6152,
+      "endMs": 19650,
+      "verified": true
+    },
+    {
+      "text": "Está pensando en volver otro día cuando haya menos gente.",
+      "startMs": 19665,
+      "endMs": 23386,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

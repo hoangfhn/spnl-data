@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i21-Describe-An-Ailment-To-A-Doctor-Simplified-Example.mp4",
+  "transcriptHash": "bbbe4cde3fcf2bc37d3c86dade2550b7ed125b64",
+  "durationMs": 31486,
+  "segments": [
+    {
+      "text": "Diferentes virus provocan la gripe.",
+      "startMs": 690,
+      "endMs": 3391,
+      "verified": true
+    },
+    {
+      "text": "Se sabe que todos los remedios curan los síntomas pero no la enfermedad, puesto que es difícil encontrar cuál de los miles de virus es el que ha atacado el organismo.",
+      "startMs": 4051,
+      "endMs": 15483,
+      "verified": true
+    },
+    {
+      "text": "Muchas personas han decidido no tomar ningún medicamento, sólo remedios caseros o medicina natural.",
+      "startMs": 16153,
+      "endMs": 23445,
+      "verified": true
+    },
+    {
+      "text": "Es cierto que algunas frutas o verduras ayudan mucho en el tratamiento de esta popular enfermedad.",
+      "startMs": 24135,
+      "endMs": 30956,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

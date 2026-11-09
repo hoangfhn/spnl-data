@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "i23-A-Library-Experience-Fernando-R.mp4",
+  "transcriptHash": "bfc753743511ab3b05fe22bf193ce94ea817b9a1",
+  "durationMs": 115728,
+  "segments": [
+    {
+      "text": "Una de las experiencias más maravillosas que yo tuve en Estados Unidos fue cuando fui a una biblioteca pública por la- por primera vez.",
+      "startMs": 570,
+      "endMs": 8061,
+      "verified": true
+    },
+    {
+      "text": "Esto es porque en la Argentina cuando querés pedir un libro tenés que ir a un mostrador ya con un papel escrito pidiendo el nombre del libro que buscás, el autor.",
+      "startMs": 8761,
+      "endMs": 21330,
+      "verified": true
+    },
+    {
+      "text": "Y tenés una persona en el mostrador que entra a un depósito y te trae el libro.",
+      "startMs": 21342,
+      "endMs": 25142,
+      "verified": true
+    },
+    {
+      "text": "Y aquí en los Estados Unidos entrás a la biblioteca y tenés acceso a todos los libros porque los libros están en las estanterías.",
+      "startMs": 25332,
+      "endMs": 31122,
+      "verified": true
+    },
+    {
+      "text": "Entonces la primera vez que entré a una biblioteca en Estados Unidos fue otra vez, hermoso y me dio una idea de poder sobre el conocimiento enorme que jamás había tenido, por ejemplo en la Argentina cuando iba a las bibliotecas públicas.",
+      "startMs": 31932,
+      "endMs": 49874,
+      "verified": true
+    },
+    {
+      "text": "Al poco tiempo de haber descubierto las bibliotecas, ese tipo de bibliotecas en los Estados Unidos apareció el internet.",
+      "startMs": 50374,
+      "endMs": 59104,
+      "verified": true
+    },
+    {
+      "text": "Y, igual, el internet fue para mí como una explosión de conocimiento que me permitió entre otras cosas leer los diarios argentinos en el momento y no tener que esperar a recibir por ejemplo un resumen de lo que pasó en la semana argentina quince días después, como era lo que hacía antes.",
+      "startMs": 59754,
+      "endMs": 85986,
+      "verified": true
+    },
+    {
+      "text": "Esto sucedió que por ejemplo estaba suscrito a un resumen del diario Clarín que me llegaba quince días después que las noticias habían sucedido y bueno, ahora por medio internet tenía acceso a nivel, bueno, no solamente a nivel diario sino a nivel del momento ¿no?, de poder escuchar un partido de fútbol hasta poder este- chatear con alguien del diario o alguien que estuviera haciendo una entrevista, que esté dando una entrevista.",
+      "startMs": 86836,
+      "endMs": 115428,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

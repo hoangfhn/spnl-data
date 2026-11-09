@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i25-Compare-Physical-Characteristics-Simplified-Example.mp4",
+  "transcriptHash": "5e695c0f2eacbf63f5baf73256a5395b6d29ced3",
+  "durationMs": 27051,
+  "segments": [
+    {
+      "text": "Todo el mundo me dice que tengo los ojos de mi mamá.",
+      "startMs": 680,
+      "endMs": 3782,
+      "verified": true
+    },
+    {
+      "text": "De hecho, mucha gente dice que tengo muchos de sus rasgos.",
+      "startMs": 3932,
+      "endMs": 8584,
+      "verified": true
+    },
+    {
+      "text": "Pero creo que tengo algunas facciones de mi papá también: tenemos la misma barbilla, por ejemplo.",
+      "startMs": 9334,
+      "endMs": 16107,
+      "verified": true
+    },
+    {
+      "text": "He visto fotos de mis abuelos cuando eran más jóvenes y es obvio que tengo mucho de ellos pero es difícil definir en términos exactos.",
+      "startMs": 16737,
+      "endMs": 26651,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

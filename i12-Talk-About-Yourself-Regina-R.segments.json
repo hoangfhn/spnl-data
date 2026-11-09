@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i12-Talk-About-Yourself-Regina-R.mp4",
+  "transcriptHash": "2f9f23d364a9e18f1c17b5813dafc056eff1a744",
+  "durationMs": 35619,
+  "segments": [
+    {
+      "text": "Mi nombre es Regina R., soy peruana, y tengo 28 años.",
+      "startMs": 510,
+      "endMs": 5703,
+      "verified": true
+    },
+    {
+      "text": "Soy profesora en la universidad de Texas, y también soy estudiante de la facultad de literatura.",
+      "startMs": 5720,
+      "endMs": 12747,
+      "verified": true
+    },
+    {
+      "text": "Me gusta mucho viajar y creo que me gusta mucho viajar porque viví en muchos lugares en Latino América.",
+      "startMs": 13628,
+      "endMs": 22292,
+      "verified": true
+    },
+    {
+      "text": "He vivido en Brasil, cuatro años, he vivido en Ecuador, en México.",
+      "startMs": 22823,
+      "endMs": 28636,
+      "verified": true
+    },
+    {
+      "text": "He vivido en El Salvador.",
+      "startMs": 28946,
+      "endMs": 30397,
+      "verified": true
+    },
+    {
+      "text": "Y el lugar que más me ha gustado ha sido México.",
+      "startMs": 30400,
+      "endMs": 34629,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

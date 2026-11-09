@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "i11-Buy-Ticket-For-A-Theater-Or-Show-Leonardo-G.mp4",
+  "transcriptHash": "5fd0639d5a56b1234028208091662ec584b47254",
+  "durationMs": 18692,
+  "segments": [
+    {
+      "text": "Bueno, le diría al taquillero o a la taquillera, \"Buenas tardes, ¿tiene lugar todavía en la primera sección, cuarta fila?",
+      "startMs": 30,
+      "endMs": 8255,
+      "verified": true
+    },
+    {
+      "text": "Con la cuarta fila hacia atrás, qué es el mejor lugar, ¿qué precio tiene?\"",
+      "startMs": 9236,
+      "endMs": 15150,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

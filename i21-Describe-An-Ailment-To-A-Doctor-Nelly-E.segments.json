@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i21-Describe-An-Ailment-To-A-Doctor-Nelly-E.mp4",
+  "transcriptHash": "23fa318302bd852bd690317690e0b7cd0d774977",
+  "durationMs": 35480,
+  "segments": [
+    {
+      "text": "Yo estoy en frente al doctor y le voy a describir que estoy padeciendo de un proceso gripal.",
+      "startMs": 630,
+      "endMs": 9600,
+      "verified": true
+    },
+    {
+      "text": "Me duele la garganta, tengo fiebre, treinta y siete y medio de fiebre.",
+      "startMs": 9620,
+      "endMs": 18080,
+      "verified": true
+    },
+    {
+      "text": "Tengo tos, catarro, la nariz me destila, dolor de cabeza y me duele el cuerpo.",
+      "startMs": 18501,
+      "endMs": 29897,
+      "verified": true
+    },
+    {
+      "text": "Ésa es la gripe que aquí en Perú es muy conocida la gripe.",
+      "startMs": 30207,
+      "endMs": 34960,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

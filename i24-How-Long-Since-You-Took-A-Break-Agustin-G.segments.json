@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i24-How-Long-Since-You-Took-A-Break-Agustin-G.mp4",
+  "transcriptHash": "d7ca2da883c03a8962d60c760812f6950b268ceb",
+  "durationMs": 33553,
+  "segments": [
+    {
+      "text": "Bueno la última vez que tomé vacaciones fue en julio del año pasado.",
+      "startMs": 700,
+      "endMs": 6360,
+      "verified": true
+    },
+    {
+      "text": "Estuve en España.",
+      "startMs": 6380,
+      "endMs": 7453,
+      "verified": true
+    },
+    {
+      "text": "Y estuve recorriendo el norte de España, Galicia, y el sur de España, Málaga.",
+      "startMs": 8253,
+      "endMs": 12885,
+      "verified": true
+    },
+    {
+      "text": "Me lo pasé bien, estuve con mis amigos yendo a la playa y, no sé, divirtiéndome, saliendo por la noche.",
+      "startMs": 13675,
+      "endMs": 20168,
+      "verified": true
+    },
+    {
+      "text": "Y pienso repetirlo este año dentro de unos tres meses aproximadamente de nuevo.",
+      "startMs": 21158,
+      "endMs": 26000,
+      "verified": true
+    },
+    {
+      "text": "Y mucho comer, mucho mariscos y mucha gente divertida alrededor.",
+      "startMs": 26940,
+      "endMs": 33273,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

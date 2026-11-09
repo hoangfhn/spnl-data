@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i15-Tell-About-Where-You-Are-From-Isabel-G.mp4",
+  "transcriptHash": "cae3f6435c4e0500c641b1b1787add62f45d8273",
+  "durationMs": 80480,
+  "segments": [
+    {
+      "text": "Hola, soy Isabel Paúl y soy de la ciudad de Valladolid, es una ciudad situada en el corazón de Castilla León, en España.",
+      "startMs": 0,
+      "endMs": 10063,
+      "verified": true
+    },
+    {
+      "text": "Es una ciudad que tiene una media de cuatrocientos mil habitantes, no llega.",
+      "startMs": 10753,
+      "endMs": 16544,
+      "verified": true
+    },
+    {
+      "text": "Una ciudad situada en el noreste de España, muy castellana; teóricamente, es la ciudad en la que nació el castellano, la lengua.",
+      "startMs": 18155,
+      "endMs": 30908,
+      "verified": true
+    },
+    {
+      "text": "Los orígenes están reflejados en muchos documentos y casi todos ellos acercan a la provincia de Valladolid a esta zona castellana.",
+      "startMs": 31348,
+      "endMs": 42711,
+      "verified": true
+    },
+    {
+      "text": "Valladolid es una ciudad muy antigua; actualmente, yo creo que conserva parte de su antigüedad con todo lo moderno que puede tener ofrecer una ciudad grande y no muy lejana de Madrid, está solamente a doscientos kilómetros de aquí.",
+      "startMs": 42730,
+      "endMs": 63856,
+      "verified": true
+    },
+    {
+      "text": "Tampoco está lejos la costa, la costa norte española, el Cantábrico, que está bastante cercano a la ciudad de Valladolid, lo cual la sitúa dentro del panorama nacional en una ubicaci7oacute;n bastante buena para desplazarse y conocer el resto de España.",
+      "startMs": 63860,
+      "endMs": 80240,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

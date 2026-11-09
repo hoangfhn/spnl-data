@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "i19-Your-TV-Viewing-Habits-Carmen-V.mp4",
+  "transcriptHash": "fc1f60c352c9020f1890036071fb60e3c4e9dde2",
+  "durationMs": 27841,
+  "segments": [
+    {
+      "text": "En la mañana cuando me despierto, veo el noticiero que se llama, \"La primera edición.\" Luego no tengo mucho oportunidad de ver la televisión porque estoy trabajando, pero cuando regreso del trabajo tengo la oportunidad de ver una novela.",
+      "startMs": 270,
+      "endMs": 17540,
+      "verified": true
+    },
+    {
+      "text": "Y posteriormente, antes de acostarme, veo el resumen de noticias de todo el día que pasan las noticias más importantes de ac‡ que han pasado en todo el día.",
+      "startMs": 17553,
+      "endMs": 27260,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

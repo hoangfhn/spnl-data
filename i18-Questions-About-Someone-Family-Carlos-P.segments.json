@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i18-Questions-About-Someone-Family-Carlos-P.mp4",
+  "transcriptHash": "d97c0ae30a0d70769a81a5a4b13d1dd38f30dc57",
+  "durationMs": 10519,
+  "segments": [
+    {
+      "text": "Hola, ¿Qué tal?",
+      "startMs": 30,
+      "endMs": 870,
+      "verified": false
+    },
+    {
+      "text": "¿Cómo estás?",
+      "startMs": 882,
+      "endMs": 1530,
+      "verified": true
+    },
+    {
+      "text": "¿Cómo se encuentran tus hijos?",
+      "startMs": 1543,
+      "endMs": 3386,
+      "verified": true
+    },
+    {
+      "text": "¿Cómo se encuentra la familia?",
+      "startMs": 3390,
+      "endMs": 5740,
+      "verified": true
+    },
+    {
+      "text": "¿Qué dice tu papá y tu mamá?",
+      "startMs": 5750,
+      "endMs": 8420,
+      "verified": true
+    },
+    {
+      "text": "¿Cómo están?",
+      "startMs": 8435,
+      "endMs": 10158,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

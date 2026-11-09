@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "i21-Describe-An-Ailment-To-A-Doctor-Katherine-B.mp4",
+  "transcriptHash": "8314b3a824b7c43f2ed381bab5c494bbcd25190d",
+  "durationMs": 50411,
+  "segments": [
+    {
+      "text": "Bueno, pasé como tres días con fiebre y eso fue hace como dos días ya.",
+      "startMs": 0,
+      "endMs": 10102,
+      "verified": true
+    },
+    {
+      "text": "Ahora me duele aquí, me pica todo alrededor de la boca un montón, me duele la garganta mucho.",
+      "startMs": 12533,
+      "endMs": 20244,
+      "verified": true
+    },
+    {
+      "text": "No he comido más que cereal, una taza de cereal todos los días.",
+      "startMs": 22355,
+      "endMs": 27036,
+      "verified": true
+    },
+    {
+      "text": "Y hace dos días cené y tuve náuseas.",
+      "startMs": 27816,
+      "endMs": 35107,
+      "verified": true
+    },
+    {
+      "text": "Me duelen los oídos.",
+      "startMs": 35120,
+      "endMs": 36898,
+      "verified": true
+    },
+    {
+      "text": "Es como una picazón más que un dolor.",
+      "startMs": 38798,
+      "endMs": 40689,
+      "verified": true
+    },
+    {
+      "text": "Y en la noche me despierto con un dolor como que es de la muela, pasa a la nariz y por los ojos.",
+      "startMs": 40690,
+      "endMs": 48770,
+      "verified": true
+    },
+    {
+      "text": "¿Qué hago?",
+      "startMs": 48860,
+      "endMs": 49450,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

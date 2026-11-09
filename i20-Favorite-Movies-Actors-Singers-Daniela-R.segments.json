@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i20-Favorite-Movies-Actors-Singers-Daniela-R.mp4",
+  "transcriptHash": "02f47fd760cb44f0a5db177a3113b4c2de25f49f",
+  "durationMs": 28143,
+  "segments": [
+    {
+      "text": "Bueno, mi película favorita siempre ha sido \"Lo que el viento se llevó.\" Me encanta la actuación de Vivian Leigh en esa película.",
+      "startMs": 30,
+      "endMs": 7936,
+      "verified": true
+    },
+    {
+      "text": "Me parece sœper romántica y me encanta ese tipo de películas.",
+      "startMs": 9338,
+      "endMs": 13071,
+      "verified": true
+    },
+    {
+      "text": "También hay un poco de drama, en cuanto es un poco de todo y no sé yo lo vi por primera vez cuando yo tenía 10 años.",
+      "startMs": 13080,
+      "endMs": 21040,
+      "verified": false
+    },
+    {
+      "text": "Cada vez que la pasan por televisión o tengo la oportunidad de alquilarla siempre la he visto y no me cansaré de verla nunca.",
+      "startMs": 21057,
+      "endMs": 27382,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

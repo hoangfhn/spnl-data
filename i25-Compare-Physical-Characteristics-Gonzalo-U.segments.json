@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i25-Compare-Physical-Characteristics-Gonzalo-U.mp4",
+  "transcriptHash": "ab98a0028f3cbd39f7bfbd6c86cb3528ba9c8597",
+  "durationMs": 76115,
+  "segments": [
+    {
+      "text": "Mi familia es una familia típicamente española; es decir, de estatura media, en la que...",
+      "startMs": 1910,
+      "endMs": 8122,
+      "verified": true
+    },
+    {
+      "text": "bueno; mi hermana, que es la parte femenina de los hijos de mis padres, es bastante diferente a como soy yo, ella es más ancha de cuerpo, más...lo que diríamos, fuertemente constituida; es decir, un poquito más gruesa que yo, más bajita que yo y de un carácter más extrovertido que el mío.",
+      "startMs": 8140,
+      "endMs": 31026,
+      "verified": true
+    },
+    {
+      "text": "Es una persona muy alegre, más dicharachera, le gusta más las actividades más, digamos, activas, valga la redundancia, que yo, que soy una persona mucho más introvertida, que le gusta mucho más la lectura, más las tareas dentro de casa con diferencia de mi hermana que son más fuera de casa; y me parezco mucho más, en ese sentido, a mi madre.",
+      "startMs": 31086,
+      "endMs": 59340,
+      "verified": true
+    },
+    {
+      "text": "Ella, mi hermana, es más como mi padre, más de estar con sus amigos, de estar...",
+      "startMs": 59360,
+      "endMs": 64893,
+      "verified": true
+    },
+    {
+      "text": "de hacer actividades fuera de casa, etcétera; y yo más como mi madre, de actividades dentro de casa, más dado a la lectura, actividades m‡s recogidas, menos activas, más pasivas.",
+      "startMs": 64900,
+      "endMs": 75635,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

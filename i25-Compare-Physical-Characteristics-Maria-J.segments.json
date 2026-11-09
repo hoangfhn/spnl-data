@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "i25-Compare-Physical-Characteristics-Maria-J.mp4",
+  "transcriptHash": "081dda77dcefa0c29b6b19989b02541a36c8ea24",
+  "durationMs": 32972,
+  "segments": [
+    {
+      "text": "Bueno, cuando yo nací mi mamá siempre dijo que quería que yo tuviera la misma perita como mi abuelo cuando yo tenía apenas ocho meses de haber sido concebida y posteriormente cuando nací, nací con la perita de mi abuelo que no la tienen nadie más de mi, ni mis papas ni mi hermanos.",
+      "startMs": 30,
+      "endMs": 17827,
+      "verified": true
+    },
+    {
+      "text": "Y similar, los ojos de mi papá que son medios pardos entre verde y gris, por allí, eh, las piernas cortas como mi papá también pero el tronco más largo eso es lo de mi madre.",
+      "startMs": 18367,
+      "endMs": 32692,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

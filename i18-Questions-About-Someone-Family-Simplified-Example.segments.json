@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i18-Questions-About-Someone-Family-Simplified-Example.mp4",
+  "transcriptHash": "fb9f03f82df3d773982b549a144695bc358682f4",
+  "durationMs": 22895,
+  "segments": [
+    {
+      "text": "Cuando yo era niño, mis abuelos aún vivían en un pueblo cercano a la capital.",
+      "startMs": 931,
+      "endMs": 5103,
+      "verified": true
+    },
+    {
+      "text": "Mis padres me llevaban los fines de semana a visitarlos.",
+      "startMs": 5574,
+      "endMs": 8205,
+      "verified": true
+    },
+    {
+      "text": "Todos disfrutábamos de esos días porque íbamos al río con mis tíos y mis primos.",
+      "startMs": 9016,
+      "endMs": 13849,
+      "verified": true
+    },
+    {
+      "text": "La comida familiar parecía una fiesta porque mi familia tenía muchos miembros y ramos muy unidos ¡Qué tiempos aquellos!",
+      "startMs": 14480,
+      "endMs": 22445,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

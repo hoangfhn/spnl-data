@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i10-Buy-A-Bus-Or-Train-Ticket-Simplified-Example.mp4",
+  "transcriptHash": "677b33a7e51e21450739e3dcb41c3464a7bd5238",
+  "durationMs": 41378,
+  "segments": [
+    {
+      "text": "España tiene un excelente sistema de trenes.",
+      "startMs": 0,
+      "endMs": 3712,
+      "verified": true
+    },
+    {
+      "text": "Con los novedosos trenes de alta velocidad es posible recorrer el país en pocas horas.",
+      "startMs": 4252,
+      "endMs": 11095,
+      "verified": true
+    },
+    {
+      "text": "Aunque estos trenes tan veloces sólo recorren las grandes ciudades y son caros.",
+      "startMs": 12115,
+      "endMs": 18708,
+      "verified": true
+    },
+    {
+      "text": "Es posible tomar un tren regular y visitar Córdoba por la mañana y Sevilla por la tarde.",
+      "startMs": 19839,
+      "endMs": 27692,
+      "verified": true
+    },
+    {
+      "text": "Espero que mi familia pueda viajar conmigo a España en las próximas navidades.",
+      "startMs": 28763,
+      "endMs": 35115,
+      "verified": true
+    },
+    {
+      "text": "Ojalá viajemos juntos al sur en tren desde Madrid.",
+      "startMs": 36056,
+      "endMs": 40518,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

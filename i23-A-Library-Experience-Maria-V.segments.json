@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i23-A-Library-Experience-Maria-V.mp4",
+  "transcriptHash": "7115108cac1dd874bb1d761f7234c952f49d3887",
+  "durationMs": 20341,
+  "segments": [
+    {
+      "text": "En una biblioteca, yo puedo platicar un poco durante el tiempo en que estuve haciendo mi servicio social.",
+      "startMs": 611,
+      "endMs": 6527,
+      "verified": true
+    },
+    {
+      "text": "Yo estudié pedagogía, pero hice mi servicio social en una biblioteca.",
+      "startMs": 6530,
+      "endMs": 10611,
+      "verified": true
+    },
+    {
+      "text": "Allí yo me encargué de catalogar los libros, de clasificarlos, de hacer préstamos a usuarios.",
+      "startMs": 10841,
+      "endMs": 15656,
+      "verified": true
+    },
+    {
+      "text": "Y era un trabajo muy minucioso, pero también muy agradable.",
+      "startMs": 16287,
+      "endMs": 19890,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

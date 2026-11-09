@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "video": "i20-Favorite-Movies-Actors-Singers-Paula-O.mp4",
+  "transcriptHash": "57719f2cf5914a8208000704c5d64d01705715e6",
+  "durationMs": 38406,
+  "segments": [
+    {
+      "text": "E, a ver, actores.",
+      "startMs": 0,
+      "endMs": 1690,
+      "verified": true
+    },
+    {
+      "text": "Me encanta Mel Gibson.",
+      "startMs": 1710,
+      "endMs": 3080,
+      "verified": true
+    },
+    {
+      "text": "Más no me acuerdo, películas, me gustan mucho películas históricas.",
+      "startMs": 3991,
+      "endMs": 8561,
+      "verified": false
+    },
+    {
+      "text": "La mejor película para mí fue \"Corazón Valiente\" de todas maneras...",
+      "startMs": 8751,
+      "endMs": 12702,
+      "verified": true
+    },
+    {
+      "text": "época medieval.",
+      "startMs": 13032,
+      "endMs": 14192,
+      "verified": true
+    },
+    {
+      "text": "Y también el estilo magia y cosas especiales como \"El Señor de los Anillos\", también una película maravillosa.",
+      "startMs": 14250,
+      "endMs": 20383,
+      "verified": true
+    },
+    {
+      "text": "Estoy esperando que salga la segunda parte.",
+      "startMs": 20433,
+      "endMs": 22100,
+      "verified": true
+    },
+    {
+      "text": "Y música, música más bien tranquila.",
+      "startMs": 22120,
+      "endMs": 26404,
+      "verified": true
+    },
+    {
+      "text": "E, también me gusta el rock pesado, metálico, pero más bien tranquila en esta etapa es como más tranquilo.",
+      "startMs": 26894,
+      "endMs": 33905,
+      "verified": true
+    },
+    {
+      "text": "Bailá, música más lenta.",
+      "startMs": 35115,
+      "endMs": 37526,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "i15-Tell-About-Where-You-Are-From-Consuelo-B.mp4",
+  "transcriptHash": "8309cb90e0ca91c33bd8a3b721822db082f607f5",
+  "durationMs": 36293,
+  "segments": [
+    {
+      "text": "Bueno, yo soy de Lima, Perú.",
+      "startMs": 10,
+      "endMs": 2151,
+      "verified": true
+    },
+    {
+      "text": "Lima es una ciudad que se encuentra en la América del Sur.",
+      "startMs": 2451,
+      "endMs": 5822,
+      "verified": true
+    },
+    {
+      "text": "Es una ciudad que está en las costas del Pacífico.",
+      "startMs": 6312,
+      "endMs": 10744,
+      "verified": true
+    },
+    {
+      "text": "Es una ciudad con mucha tradición, un clima muy templado.",
+      "startMs": 12364,
+      "endMs": 20067,
+      "verified": true
+    },
+    {
+      "text": "Nunca hace mucho frío, ni mucho calor.",
+      "startMs": 20267,
+      "endMs": 22488,
+      "verified": true
+    },
+    {
+      "text": "Tenemos dos partes marcadas de la ciudad, la ciudad virreinal, la antigua, y la ciudad moderna, ¿no?",
+      "startMs": 23878,
+      "endMs": 32020,
+      "verified": true
+    },
+    {
+      "text": "Y cada una con un centro bien definido, OK.",
+      "startMs": 32031,
+      "endMs": 35853,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

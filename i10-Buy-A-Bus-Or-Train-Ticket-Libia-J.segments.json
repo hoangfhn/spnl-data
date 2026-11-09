@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i10-Buy-A-Bus-Or-Train-Ticket-Libia-J.mp4",
+  "transcriptHash": "36a0282fcd395ddd7968f656afe13a0eac9e5d22",
+  "durationMs": 11587,
+  "segments": [
+    {
+      "text": "Quiero un boleto para Guadalajara.",
+      "startMs": 30,
+      "endMs": 3802,
+      "verified": true
+    },
+    {
+      "text": "Quiero saber cuánto cuesta.",
+      "startMs": 4153,
+      "endMs": 5743,
+      "verified": true
+    },
+    {
+      "text": "¿Qué horarios tienen para viajar y cuánto dura el viaje?",
+      "startMs": 5750,
+      "endMs": 11166,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

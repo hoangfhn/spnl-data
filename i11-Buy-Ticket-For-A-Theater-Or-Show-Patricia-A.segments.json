@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i11-Buy-Ticket-For-A-Theater-Or-Show-Patricia-A.mp4",
+  "transcriptHash": "c18f4213cedc4fc2b4c316ff2ee8acf6e3c13d1d",
+  "durationMs": 23406,
+  "segments": [
+    {
+      "text": "¿A qué hora son las funciones del teatro señorita?",
+      "startMs": 250,
+      "endMs": 6890,
+      "verified": true
+    },
+    {
+      "text": "¿Están disponibles las de las nueve de la noche?",
+      "startMs": 6902,
+      "endMs": 10062,
+      "verified": true
+    },
+    {
+      "text": "Bueno, quiero un boleto que quede en el centro, en la parte del medio para poder ver bien el espectáculo.",
+      "startMs": 11793,
+      "endMs": 22966,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

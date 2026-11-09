@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i12-Talk-About-Yourself-Clarena-L.mp4",
+  "transcriptHash": "0dd9c8959e1eb586480c673a076aa5fa08374642",
+  "durationMs": 28003,
+  "segments": [
+    {
+      "text": "Mi nombre es Clarena, soy colombiana, vengo de una ciudad pequeña, se llama Armenia.",
+      "startMs": 430,
+      "endMs": 6285,
+      "verified": true
+    },
+    {
+      "text": "Es una ciudad cafetera.",
+      "startMs": 7416,
+      "endMs": 8717,
+      "verified": true
+    },
+    {
+      "text": "Yo soy maestra de idiomas porque me encanta enseñar.",
+      "startMs": 9638,
+      "endMs": 13691,
+      "verified": true
+    },
+    {
+      "text": "Me fascina tratar con la gente y enseñarle a los que no saben.",
+      "startMs": 14462,
+      "endMs": 19376,
+      "verified": true
+    },
+    {
+      "text": "Sobre todo si están muy interesados.",
+      "startMs": 20267,
+      "endMs": 22178,
+      "verified": true
+    },
+    {
+      "text": "Y si no, despertar su interés y hacer que amen los idiomas.",
+      "startMs": 23089,
+      "endMs": 27443,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i11-Buy-Ticket-For-A-Theater-Or-Show-Jorge-C.mp4",
+  "transcriptHash": "59d78094c8dd1013782a3e42907340dc0080945b",
+  "durationMs": 21107,
+  "segments": [
+    {
+      "text": "Hola, ¿qué tipo de asientos tiene para ver a Caetano Veloso?",
+      "startMs": 690,
+      "endMs": 3841,
+      "verified": true
+    },
+    {
+      "text": "Ajá.",
+      "startMs": 5312,
+      "endMs": 5802,
+      "verified": true
+    },
+    {
+      "text": "Bien y ¿de butacas todavía tiene localidades?",
+      "startMs": 8013,
+      "endMs": 11734,
+      "verified": true
+    },
+    {
+      "text": "Bien, en el centro, por favor.",
+      "startMs": 13414,
+      "endMs": 14965,
+      "verified": true
+    },
+    {
+      "text": "Sí, bueno, necesito dos.",
+      "startMs": 15895,
+      "endMs": 18106,
+      "verified": true
+    },
+    {
+      "text": "Muchas gracias.",
+      "startMs": 19937,
+      "endMs": 20667,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

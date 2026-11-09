@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i11-Buy-Ticket-For-A-Theater-Or-Show-Carmen-V.mp4",
+  "transcriptHash": "0b440ffb5152aa2b28277ab9cad8619d6264e068",
+  "durationMs": 26633,
+  "segments": [
+    {
+      "text": "Buenos días, quisiera comprar una entrada para el teatro.",
+      "startMs": 90,
+      "endMs": 3102,
+      "verified": true
+    },
+    {
+      "text": "Quisiera saber, ¿en qué disponibilidad hay, en palco, en platea, o en mezzanine?",
+      "startMs": 4192,
+      "endMs": 12406,
+      "verified": true
+    },
+    {
+      "text": "¿A qué hora empieza la función?",
+      "startMs": 12420,
+      "endMs": 15650,
+      "verified": true
+    },
+    {
+      "text": "¿cuántas funciones hay hoy día?",
+      "startMs": 15668,
+      "endMs": 19010,
+      "verified": true
+    },
+    {
+      "text": "¿Cuánto dura?",
+      "startMs": 19030,
+      "endMs": 20920,
+      "verified": false
+    },
+    {
+      "text": "¿El costo, de acuerdo a las categorías de ubicación en el teatro?",
+      "startMs": 20930,
+      "endMs": 25973,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

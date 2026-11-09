@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i16-Ask-The-Price-Of-An-Item-Simplified-Example.mp4",
+  "transcriptHash": "2be340b6dd17555fe3a0c5141dd625fcd516223b",
+  "durationMs": 49203,
+  "segments": [
+    {
+      "text": "En las tiendas de los centros comerciales no se puede pedir rebaja.",
+      "startMs": 130,
+      "endMs": 5823,
+      "verified": true
+    },
+    {
+      "text": "Ellos tienen un sistema para organizar los descuentos con base en las ventas de temporada.",
+      "startMs": 7253,
+      "endMs": 15387,
+      "verified": true
+    },
+    {
+      "text": "Es decir, los artículos propios del invierno estarán en descuento al inicio de la primavera.",
+      "startMs": 16558,
+      "endMs": 26152,
+      "verified": true
+    },
+    {
+      "text": "A diferencia de los mercados de pulgas donde los clientes pueden negociar el precio de un producto directamente con el vendedor.",
+      "startMs": 27973,
+      "endMs": 39739,
+      "verified": true
+    },
+    {
+      "text": "La organización de estos mercados es más informal que la de los grandes establecimientos.",
+      "startMs": 41029,
+      "endMs": 49023,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

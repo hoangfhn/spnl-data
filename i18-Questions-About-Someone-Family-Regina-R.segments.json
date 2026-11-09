@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i18-Questions-About-Someone-Family-Regina-R.mp4",
+  "transcriptHash": "ee4adae98bc2d19f5e5481cc87e28150de73f824",
+  "durationMs": 62578,
+  "segments": [
+    {
+      "text": "Tengo una familia muy pequeña, pero, en ocasiones me preguntan, cómo es mi familia.",
+      "startMs": 690,
+      "endMs": 7682,
+      "verified": true
+    },
+    {
+      "text": "Tengo una hermana.",
+      "startMs": 8392,
+      "endMs": 9703,
+      "verified": true
+    },
+    {
+      "text": "Mi hermana tiene 30 años, ella es psicóloga y ella vive en Houston.",
+      "startMs": 10413,
+      "endMs": 16905,
+      "verified": true
+    },
+    {
+      "text": "Cuando me preguntan, \"¿Cómo es tu hermana?\" Yo digo, \"mi hermana es tímida, mi hermana es introvertida, mi hermana le gusta la música, a mi hermana le gusta el arte, pero a mi hermana no le gustan los deportes\".",
+      "startMs": 17455,
+      "endMs": 36610,
+      "verified": true
+    },
+    {
+      "text": "Si me preguntan, \"¿Cómo es tu padre?\" Yo digo, \"mi padre es alto, mi padre es inteligente, mi padre es trabajador\".",
+      "startMs": 37301,
+      "endMs": 48434,
+      "verified": true
+    },
+    {
+      "text": "Si alguien me pregunta cómo es mi madre, yo digo que mi madre es simpática, agradable, extrovertida, y a mi madre le gusta mucho viajar, como a mí.",
+      "startMs": 49364,
+      "endMs": 62018,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

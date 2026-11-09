@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i10-Buy-A-Bus-Or-Train-Ticket-Roxana-B.mp4",
+  "transcriptHash": "20266915fecf034a745799248b0d015833ea6112",
+  "durationMs": 13235,
+  "segments": [
+    {
+      "text": "¿Cada cuánto tiempo pasa la micro para ir a Providencia?",
+      "startMs": 190,
+      "endMs": 3104,
+      "verified": true
+    },
+    {
+      "text": "¿También necesito saber cuánto cuesta el boleto del micro?",
+      "startMs": 3110,
+      "endMs": 6130,
+      "verified": true
+    },
+    {
+      "text": "¿Cuántos pesos?",
+      "startMs": 6147,
+      "endMs": 6848,
+      "verified": true
+    },
+    {
+      "text": "¿Tiene boletos para estudiantes?",
+      "startMs": 6860,
+      "endMs": 9151,
+      "verified": true
+    },
+    {
+      "text": "¿Recibe carnet de estudiante o es el boleto normal?",
+      "startMs": 9170,
+      "endMs": 12394,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

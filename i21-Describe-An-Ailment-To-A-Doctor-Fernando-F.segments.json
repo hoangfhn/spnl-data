@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "i21-Describe-An-Ailment-To-A-Doctor-Fernando-F.mp4",
+  "transcriptHash": "92f668c0934da647a8d4eba570627d1d2f590c5f",
+  "durationMs": 33855,
+  "segments": [
+    {
+      "text": "Doctor, yo tengo un problema en este momento.",
+      "startMs": 0,
+      "endMs": 2991,
+      "verified": true
+    },
+    {
+      "text": "Me está molestando un dolor aquí en el pecho.",
+      "startMs": 3632,
+      "endMs": 6323,
+      "verified": true
+    },
+    {
+      "text": "Estoy constantemente tosiendo, me duele, no puedo estar tranquilo, encima se me ha congestionado la nariz.",
+      "startMs": 6340,
+      "endMs": 16377,
+      "verified": true
+    },
+    {
+      "text": "No tengo, se está...",
+      "startMs": 16757,
+      "endMs": 21289,
+      "verified": true
+    },
+    {
+      "text": "¿cómo se dice?",
+      "startMs": 21290,
+      "endMs": 22670,
+      "verified": false
+    },
+    {
+      "text": "expectorando, quiero expectorar y no puedo.",
+      "startMs": 25181,
+      "endMs": 28512,
+      "verified": true
+    },
+    {
+      "text": "Y he tomado varios remedios y éstos no me han podido solucionar nada.",
+      "startMs": 28983,
+      "endMs": 33294,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

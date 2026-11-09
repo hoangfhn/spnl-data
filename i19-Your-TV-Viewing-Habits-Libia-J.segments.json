@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i19-Your-TV-Viewing-Habits-Libia-J.mp4",
+  "transcriptHash": "c819de0841ee0e56b18043a14075cf4b57628d81",
+  "durationMs": 16765,
+  "segments": [
+    {
+      "text": "A mí me gusta ver el noticiero de la televisión.",
+      "startMs": 311,
+      "endMs": 4370,
+      "verified": true
+    },
+    {
+      "text": "Generalmente no es muy bueno, pero bueno a veces uno se entera de cosas interesantes.",
+      "startMs": 4390,
+      "endMs": 9020,
+      "verified": true
+    },
+    {
+      "text": "Y alguna vez me gusta ver el canal 22, que es el canal cultural que hay aquí en México que trae cosas agradables.",
+      "startMs": 9033,
+      "endMs": 16444,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

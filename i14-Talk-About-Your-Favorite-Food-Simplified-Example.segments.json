@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i14-Talk-About-Your-Favorite-Food-Simplified-Example.mp4",
+  "transcriptHash": "03212ad686bfa3a77cc56075f0afb5768508a96c",
+  "durationMs": 48924,
+  "segments": [
+    {
+      "text": "En muchas familias hay un platillo que es el favorito de todos los miembros.",
+      "startMs": 850,
+      "endMs": 7184,
+      "verified": true
+    },
+    {
+      "text": "Generalmente, es una receta de la abuela, quien lo ha cocinado por muchos años y por eso se ha convertido en la especialidad de la familia.",
+      "startMs": 8554,
+      "endMs": 20790,
+      "verified": true
+    },
+    {
+      "text": "Muchas veces, ellas son muy celosas de su receta y no la quieren compartir con nadie que no sea un familiar cercano.",
+      "startMs": 22341,
+      "endMs": 33217,
+      "verified": true
+    },
+    {
+      "text": "Cuando a mi tía le piden su receta familiar, ella da los ingredientes en las cantidades equivocadas para que nadie pueda imitar el sabor de su platillo.",
+      "startMs": 34587,
+      "endMs": 48324,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

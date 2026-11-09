@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i22-Your-Favorite-Restaurant-Jorge-C.mp4",
+  "transcriptHash": "7656bb08d276a03fa5fe3aaf0db6fe6d194c003b",
+  "durationMs": 30256,
+  "segments": [
+    {
+      "text": "Mi restaurante favorito es Trudy’s porque, primero porque queda cerca de mi casa.",
+      "startMs": 550,
+      "endMs": 5823,
+      "verified": true
+    },
+    {
+      "text": "Segundo, porque tienen comida Tex-Mex y me gustan las quesadillas, son muy auténticas, son como mexicanas.",
+      "startMs": 6613,
+      "endMs": 13317,
+      "verified": true
+    },
+    {
+      "text": "Tercero porque puedes ir a la sección del bar y tomarte una cerveza con unos amigos y luego pasarte al restaurante y cenar y porque es relativamente barato, no es muy caro para el servicio que dan.",
+      "startMs": 15158,
+      "endMs": 29205,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

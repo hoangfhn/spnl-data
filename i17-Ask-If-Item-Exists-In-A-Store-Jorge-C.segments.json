@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "video": "i17-Ask-If-Item-Exists-In-A-Store-Jorge-C.mp4",
+  "transcriptHash": "2e024d7e7acb0017c6edfdb40358a9a3ef2da830",
+  "durationMs": 25704,
+  "segments": [
+    {
+      "text": "Hola, estoy buscando el último disco de Outcast.",
+      "startMs": 0,
+      "endMs": 3423,
+      "verified": true
+    },
+    {
+      "text": "No, no, no.",
+      "startMs": 6036,
+      "endMs": 7750,
+      "verified": true
+    },
+    {
+      "text": "Ese no, es un disco doble.",
+      "startMs": 7767,
+      "endMs": 8750,
+      "verified": true
+    },
+    {
+      "text": "¿No lo tiene?",
+      "startMs": 8768,
+      "endMs": 11211,
+      "verified": true
+    },
+    {
+      "text": "Sí, sí.",
+      "startMs": 12902,
+      "endMs": 13333,
+      "verified": false
+    },
+    {
+      "text": "Tiene ahora un hit en la radio.",
+      "startMs": 13350,
+      "endMs": 14894,
+      "verified": true
+    },
+    {
+      "text": "A ver, sí, en la sección de Hip-hop ya busqué.",
+      "startMs": 16746,
+      "endMs": 18580,
+      "verified": true
+    },
+    {
+      "text": "¿Puede buscar en el catálogo electrónico, por favor?",
+      "startMs": 18598,
+      "endMs": 21500,
+      "verified": true
+    },
+    {
+      "text": "No lo tiene.",
+      "startMs": 23573,
+      "endMs": 24203,
+      "verified": true
+    },
+    {
+      "text": "Bien.",
+      "startMs": 24210,
+      "endMs": 24463,
+      "verified": false
+    },
+    {
+      "text": "Muchas gracias.",
+      "startMs": 24514,
+      "endMs": 25244,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

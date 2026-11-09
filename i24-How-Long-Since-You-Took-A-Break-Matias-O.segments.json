@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i24-How-Long-Since-You-Took-A-Break-Matias-O.mp4",
+  "transcriptHash": "90d55c268744cc2af73186a764950828477c0ed1",
+  "durationMs": 38847,
+  "segments": [
+    {
+      "text": "Bueno, las vacaciones aquí en Chile son. . .",
+      "startMs": 190,
+      "endMs": 4901,
+      "verified": false
+    },
+    {
+      "text": "cada seis meses están las vacaciones de verano que son de diciembre hasta marzo más o menos y las del invierno que son julio hasta septiembre, o sea, perdón, un mes para las universidades: junio a julio más o menos.",
+      "startMs": 5011,
+      "endMs": 23264,
+      "verified": true
+    },
+    {
+      "text": "Yo vacaciones tuve este verano desde enero hasta fin de febrero y en invierno ahora cuando salga la universidad tengo vacaciones.",
+      "startMs": 24114,
+      "endMs": 38247,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

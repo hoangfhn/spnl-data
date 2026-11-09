@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i23-A-Library-Experience-Simplified-Example.mp4",
+  "transcriptHash": "00d7acfca6f1e24dcea515dddbfe88cdb419c5d4",
+  "durationMs": 21966,
+  "segments": [
+    {
+      "text": "Hace unos años yo estudiaba en la biblioteca y andaba bastante distraído por todos los exámenes que tenía que presentar.",
+      "startMs": 790,
+      "endMs": 8782,
+      "verified": true
+    },
+    {
+      "text": "Así que iba saliendo de la biblioteca cuando de repente sonó la alarma.",
+      "startMs": 9453,
+      "endMs": 14284,
+      "verified": true
+    },
+    {
+      "text": "Se me había olvidado que llevaba libros que todavía no había sacado de la biblioteca.",
+      "startMs": 14814,
+      "endMs": 19966,
+      "verified": true
+    },
+    {
+      "text": "¡Qué vergüenza!",
+      "startMs": 19980,
+      "endMs": 21266,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

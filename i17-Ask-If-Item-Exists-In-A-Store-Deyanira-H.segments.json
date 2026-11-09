@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i17-Ask-If-Item-Exists-In-A-Store-Deyanira-H.mp4",
+  "transcriptHash": "d79203e24382387c6ef9ccde448557d098573ac6",
+  "durationMs": 8893,
+  "segments": [
+    {
+      "text": "Señorita, ¿tiene camisas talla \"s\"?",
+      "startMs": 511,
+      "endMs": 3470,
+      "verified": true
+    },
+    {
+      "text": "¿qué colores tiene?",
+      "startMs": 3485,
+      "endMs": 5910,
+      "verified": true
+    },
+    {
+      "text": "¿cuánto cuesta?",
+      "startMs": 5929,
+      "endMs": 8292,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i13-Leave-Taking-Expressions-Simplified-Example.mp4",
+  "transcriptHash": "623d870aeae94e652f0663381044698415141286",
+  "durationMs": 30209,
+  "segments": [
+    {
+      "text": "En los países hispanos es muy común que las personas se saluden y se despidan de beso.",
+      "startMs": 550,
+      "endMs": 8042,
+      "verified": true
+    },
+    {
+      "text": "En América Latina se da un beso.",
+      "startMs": 9133,
+      "endMs": 11744,
+      "verified": true
+    },
+    {
+      "text": "En España se acostumbran dos besos, uno en cada mejilla.",
+      "startMs": 12734,
+      "endMs": 17865,
+      "verified": true
+    },
+    {
+      "text": "A veces, los extranjeros se sorprenden cuando un hispano les da un saludo de beso cuando recién se están conociendo.",
+      "startMs": 19016,
+      "endMs": 29909,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

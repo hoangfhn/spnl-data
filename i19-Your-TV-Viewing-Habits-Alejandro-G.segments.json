@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i19-Your-TV-Viewing-Habits-Alejandro-G.mp4",
+  "transcriptHash": "0f3643ea3eb566234e550314acc3295c114e3c0c",
+  "durationMs": 49621,
+  "segments": [
+    {
+      "text": "Bueno, me gusta ver el noticiero, no leo mucho el periódico, a veces es la única manera de enterarme qué está pasando.",
+      "startMs": 300,
+      "endMs": 6943,
+      "verified": true
+    },
+    {
+      "text": "Y me gusta ver el canal de deportes.",
+      "startMs": 7673,
+      "endMs": 10665,
+      "verified": true
+    },
+    {
+      "text": "Veo el campeonato de fútbol, y con ESPN veo a veces el fútbol también, el fútbol americano.",
+      "startMs": 10730,
+      "endMs": 18088,
+      "verified": true
+    },
+    {
+      "text": "Bueno, en la noche, veo algo de televisión después del noticiero, algún programa; pero los fines de semana lo que prefiero hacer es alquilar una película de video y ver alguna pelicula un tiempo continuo, una hora, una hora y media y nada más.",
+      "startMs": 19578,
+      "endMs": 37916,
+      "verified": true
+    },
+    {
+      "text": "Había un programa que yo veía con cierta frecuencia, pero descubrí que el humor que tenía ya no me gustaba tanto y ese programa era \"Married with Children.\"",
+      "startMs": 38486,
+      "endMs": 48621,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

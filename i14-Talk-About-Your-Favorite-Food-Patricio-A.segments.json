@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "i14-Talk-About-Your-Favorite-Food-Patricio-A.mp4",
+  "transcriptHash": "749f60942e8dad9b3a35ea9a9d17cd7af6322bd2",
+  "durationMs": 25635,
+  "segments": [
+    {
+      "text": "Hola, mi nombre es Patricio.",
+      "startMs": 230,
+      "endMs": 2622,
+      "verified": true
+    },
+    {
+      "text": "Trabajo en el local \"Myriam\" en Chile.",
+      "startMs": 2630,
+      "endMs": 5793,
+      "verified": true
+    },
+    {
+      "text": "Voy a describir lo que tiene la paila marina.",
+      "startMs": 5984,
+      "endMs": 8815,
+      "verified": true
+    },
+    {
+      "text": "La paila marina tiene choritos, cholga, piure, jibia, almeja, locos.",
+      "startMs": 9376,
+      "endMs": 18010,
+      "verified": true
+    },
+    {
+      "text": "Todo eso va con un caldo caliente.",
+      "startMs": 18861,
+      "endMs": 20792,
+      "verified": true
+    },
+    {
+      "text": "Y eso se come con limón.",
+      "startMs": 21733,
+      "endMs": 23253,
+      "verified": true
+    },
+    {
+      "text": "Eso es todo.",
+      "startMs": 23894,
+      "endMs": 24674,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

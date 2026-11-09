@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i25-Compare-Physical-Characteristics-Irene-V.mp4",
+  "transcriptHash": "a2c8cd0729fe44d89d7e768bfdefb6cafa97f177",
+  "durationMs": 35318,
+  "segments": [
+    {
+      "text": "Bueno, mi hermana que tiene quince años es un poco más chica que yo de estatura.",
+      "startMs": 0,
+      "endMs": 8084,
+      "verified": true
+    },
+    {
+      "text": "Yo soy un poco más rellena que ella, ella es un poquito más flaca.",
+      "startMs": 8634,
+      "endMs": 12726,
+      "verified": true
+    },
+    {
+      "text": "Nuestros pelos, nuestros cabellos son bien parecidos de largura, y bueno son crespos.",
+      "startMs": 13747,
+      "endMs": 21140,
+      "verified": true
+    },
+    {
+      "text": "Tenemos, nos parecemos bastante de cara, ella tiene la nariz un poco más grande, mis labios son un poco más grande que los de ella.",
+      "startMs": 21621,
+      "endMs": 29335,
+      "verified": true
+    },
+    {
+      "text": "Después, tenemos las dos piernas largas, pies grandes.",
+      "startMs": 30525,
+      "endMs": 35067,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

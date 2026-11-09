@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i16-Ask-The-Price-Of-An-Item-Mariana-M.mp4",
+  "transcriptHash": "bdf674fd91f41724fb3fa743fd9155f03f681dd3",
+  "durationMs": 37361,
+  "segments": [
+    {
+      "text": "Digamos que voy a ir al mercado de las pulgas.",
+      "startMs": 1241,
+      "endMs": 4623,
+      "verified": true
+    },
+    {
+      "text": "Podría ir al que está vendiendo y le pregunto: “¿Cuánto vale?” o “¿A cuánto lo vende?” Y me dicen “Cinco pesos” entonces yo le digo…bueno, no serían cinco pesos, cinco mil pesos porque el peso colombiano vale más.",
+      "startMs": 5333,
+      "endMs": 21632,
+      "verified": true
+    },
+    {
+      "text": "Entonces yo le digo “no, pero démelo más baratito por fa, que usted sabe que soy estudiante y no tengo mucha plata”.",
+      "startMs": 22583,
+      "endMs": 29817,
+      "verified": true
+    },
+    {
+      "text": "Entonces ahí uno va pidiendo menos y menos hasta que le dan un precio fijo y ya.",
+      "startMs": 30007,
+      "endMs": 36440,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

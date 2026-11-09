@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i17-Ask-If-Item-Exists-In-A-Store-Carlos-U.mp4",
+  "transcriptHash": "615271ca23c76468151e39f3e006d1020e95abd8",
+  "durationMs": 31672,
+  "segments": [
+    {
+      "text": "¿Qué tal?",
+      "startMs": 330,
+      "endMs": 740,
+      "verified": false
+    },
+    {
+      "text": "Buenas tardes, ando buscando este libro.",
+      "startMs": 760,
+      "endMs": 5312,
+      "verified": true
+    },
+    {
+      "text": "No lo he encontrado en ningún lugar.",
+      "startMs": 5642,
+      "endMs": 7173,
+      "verified": true
+    },
+    {
+      "text": "Quisiera saber si ustedes lo tienen en este momento.",
+      "startMs": 7213,
+      "endMs": 9920,
+      "verified": true
+    },
+    {
+      "text": "El autor es éste.",
+      "startMs": 9940,
+      "endMs": 11474,
+      "verified": true
+    },
+    {
+      "text": "También tengo el título y la editorial es ésta.",
+      "startMs": 11514,
+      "endMs": 15226,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

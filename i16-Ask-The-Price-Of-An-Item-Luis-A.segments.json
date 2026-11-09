@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "video": "i16-Ask-The-Price-Of-An-Item-Luis-A.mp4",
+  "transcriptHash": "8ef9e257153d868ef82676c3d3fdb188d04ab068",
+  "durationMs": 76254,
+  "segments": [
+    {
+      "text": "OK.",
+      "startMs": 0,
+      "endMs": 990,
+      "verified": false
+    },
+    {
+      "text": "En Costa Rica por lo general todas las cosas tienen los precios marcados.",
+      "startMs": 1010,
+      "endMs": 4100,
+      "verified": true
+    },
+    {
+      "text": "Es muy difícil encontrar algo que no tenga el precio.",
+      "startMs": 4120,
+      "endMs": 6421,
+      "verified": true
+    },
+    {
+      "text": "Pero si llegara a suceder o uno está confundido porque si el precio que está marcado en el estante es diferente al precio marcado en el producto, le tienen que dar a uno el precio más bajo.",
+      "startMs": 6771,
+      "endMs": 16063,
+      "verified": true
+    },
+    {
+      "text": "Entonces uno siempre va y pregunta al dependiente.",
+      "startMs": 16493,
+      "endMs": 18283,
+      "verified": true
+    },
+    {
+      "text": "Entonces uno se acerca y le pregunta.",
+      "startMs": 18290,
+      "endMs": 19794,
+      "verified": false
+    },
+    {
+      "text": "Le dice –bueno, disculpe buenos días—o buenas tardes, o la hora que sea.",
+      "startMs": 20014,
+      "endMs": 22970,
+      "verified": true
+    },
+    {
+      "text": "–¿Me podría decir cuál es el precio exacto de este producto?—.",
+      "startMs": 22984,
+      "endMs": 26545,
+      "verified": true
+    },
+    {
+      "text": "Entonces por lo general los precios ya incluyen el impuesto de venta, sino hay que preguntar –¿Este es el precio neto o es el precio total?—.",
+      "startMs": 27135,
+      "endMs": 34526,
+      "verified": true
+    },
+    {
+      "text": "En las tiendas grandes no se puede regatear porque todas tienen su código de barra y se espera que uno pague exactamente lo que se pide.",
+      "startMs": 36577,
+      "endMs": 43228,
+      "verified": true
+    },
+    {
+      "text": "Es más o menos como funciona acá en los Estados Unidos.",
+      "startMs": 43318,
+      "endMs": 45409,
+      "verified": false
+    },
+    {
+      "text": "En otras tiendas más pequeñas uno puede regatear.",
+      "startMs": 45999,
+      "endMs": 49189,
+      "verified": true
+    },
+    {
+      "text": "Y siempre que uno pague en efectivo uno puede decir –Mire yo le voy a pagar en efectivo, ¿me da un descuento por favor?, o ¿No podemos arreglar eso, no me puede dar un quiebre?—.",
+      "startMs": 49259,
+      "endMs": 57571,
+      "verified": true
+    },
+    {
+      "text": "Entonces uno, ahí el vendedor ahí puede decidir si le puede dar un descuento o no.",
+      "startMs": 57721,
+      "endMs": 61312,
+      "verified": false
+    },
+    {
+      "text": "Por lo general si uno está pagando en efectivo o está comprando mucho siempre es bueno pedir un descuento.",
+      "startMs": 61320,
+      "endMs": 65952,
+      "verified": true
+    },
+    {
+      "text": "Y si no pues igual, uno trata siempre de sonreír y hacerle ahí como…",
+      "startMs": 66042,
+      "endMs": 70073,
+      "verified": true
+    },
+    {
+      "text": "no sé, de regatear un poco, en las tiendas pequeñas.",
+      "startMs": 70343,
+      "endMs": 73394,
+      "verified": true
+    },
+    {
+      "text": "En las tiendas que son muy grandes, ni perder el tiempo.",
+      "startMs": 73400,
+      "endMs": 75764,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i19-Your-TV-Viewing-Habits-Simplified-Example.mp4",
+  "transcriptHash": "ca70e56a67a2d899c2da72737fb44be71fed15de",
+  "durationMs": 33646,
+  "segments": [
+    {
+      "text": "El sistema de cable o de satélite permite que los televidentes disfruten de muchos canales.",
+      "startMs": 730,
+      "endMs": 7461,
+      "verified": true
+    },
+    {
+      "text": "Ahora todo es muy especializado, hay canales de deportes, de espectáculos, de noticias, de música.",
+      "startMs": 7931,
+      "endMs": 16103,
+      "verified": true
+    },
+    {
+      "text": "Algunos con temas culturales muy interesantes, sobre animales, descubrimientos científicos, viajes y un sinfín de temas.",
+      "startMs": 16613,
+      "endMs": 26204,
+      "verified": true
+    },
+    {
+      "text": "Antes no había tanta especialización, sino que se programaban con base en el horario.",
+      "startMs": 27055,
+      "endMs": 33126,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

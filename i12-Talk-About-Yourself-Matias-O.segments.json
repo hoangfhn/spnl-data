@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i12-Talk-About-Yourself-Matias-O.mp4",
+  "transcriptHash": "e7d4548968aaaf77c27c3083a3dcf7d80b3908a4",
+  "durationMs": 32949,
+  "segments": [
+    {
+      "text": "Bueno, yo so Matías Poblete, soy chileno, tengo veintiocho años.",
+      "startMs": 0,
+      "endMs": 3870,
+      "verified": true
+    },
+    {
+      "text": "En este momento tengo una empresa de surf trip que se llama (??) Chile Surf.",
+      "startMs": 3881,
+      "endMs": 10123,
+      "verified": true
+    },
+    {
+      "text": "Y aparte estoy estudiando en la Universidad Católica, gestión empresarial.",
+      "startMs": 11093,
+      "endMs": 15764,
+      "verified": true
+    },
+    {
+      "text": "Es mi primer semestre en una carrera que dura dos años y medio.",
+      "startMs": 16475,
+      "endMs": 19710,
+      "verified": true
+    },
+    {
+      "text": "Y, después de eso pretendo ya tener la empresa completamente compuesta, armada, para poder entregar servicio a las personas.",
+      "startMs": 19725,
+      "endMs": 32649,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

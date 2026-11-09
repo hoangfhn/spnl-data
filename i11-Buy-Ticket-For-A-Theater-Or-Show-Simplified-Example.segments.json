@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i11-Buy-Ticket-For-A-Theater-Or-Show-Simplified-Example.mp4",
+  "transcriptHash": "3012fa7c0d7fd698764f8ed6ffa582c1261b8b48",
+  "durationMs": 28886,
+  "segments": [
+    {
+      "text": "Cuando se anuncia un concierto de un cantante que le gusta mucho al público, las personas acuden a la taquilla con anticipación.",
+      "startMs": 730,
+      "endMs": 9082,
+      "verified": true
+    },
+    {
+      "text": "A veces se ponen a hacer cola desde una noche antes para poder comprar boletos en los mejores asientos.",
+      "startMs": 10072,
+      "endMs": 17223,
+      "verified": true
+    },
+    {
+      "text": "No les importa gastar mucho dinero.",
+      "startMs": 17914,
+      "endMs": 19724,
+      "verified": true
+    },
+    {
+      "text": "Lo peor es estar haciendo cola durante horas y que, de repente, anuncien que los boletos están agotados.",
+      "startMs": 20614,
+      "endMs": 28145,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

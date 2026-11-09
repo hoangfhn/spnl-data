@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "i14-Talk-About-Your-Favorite-Food-Alvaro-S.mp4",
+  "transcriptHash": "9f60243e6ef828c73c012524f84f0bcee470340b",
+  "durationMs": 33437,
+  "segments": [
+    {
+      "text": "Bien, bueno, mi comida favorita en general es la carne.",
+      "startMs": 30,
+      "endMs": 3532,
+      "verified": true
+    },
+    {
+      "text": "Me gusta mucho la carne, me gustan mucho las pastas, la comida italiana.",
+      "startMs": 4132,
+      "endMs": 7204,
+      "verified": true
+    },
+    {
+      "text": "A mí me gusta mucho cocinar.",
+      "startMs": 8795,
+      "endMs": 10165,
+      "verified": true
+    },
+    {
+      "text": "Y en general, bueno, casi todos los platos que preparo son en base a carne o fideo.",
+      "startMs": 10295,
+      "endMs": 16658,
+      "verified": true
+    },
+    {
+      "text": "También me gusta mucho la comida mexicana, los tacos.",
+      "startMs": 17159,
+      "endMs": 20520,
+      "verified": true
+    },
+    {
+      "text": "En general no soy muy complicado, también me gusta mucho el pescado, los mariscos, y mucho también....",
+      "startMs": 20530,
+      "endMs": 26180,
+      "verified": true
+    },
+    {
+      "text": "igual como bastante verdura.",
+      "startMs": 26200,
+      "endMs": 27774,
+      "verified": true
+    },
+    {
+      "text": "Me gusta la comida sana, pero variada.",
+      "startMs": 27844,
+      "endMs": 30095,
+      "verified": true
+    },
+    {
+      "text": "En general como de todo realmente.",
+      "startMs": 30185,
+      "endMs": 32226,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

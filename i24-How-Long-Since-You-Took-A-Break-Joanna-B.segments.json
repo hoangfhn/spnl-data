@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i24-How-Long-Since-You-Took-A-Break-Joanna-B.mp4",
+  "transcriptHash": "f29647ebe51eda66350f712d2589b48a0f89f2f7",
+  "durationMs": 16486,
+  "segments": [
+    {
+      "text": "Desde hace un año estoy estudiando mi maestría en administración de empresas.",
+      "startMs": 710,
+      "endMs": 5802,
+      "verified": true
+    },
+    {
+      "text": "Todos los días estudiando.",
+      "startMs": 5992,
+      "endMs": 7620,
+      "verified": true
+    },
+    {
+      "text": "No he tenido un \"break\".",
+      "startMs": 7640,
+      "endMs": 8843,
+      "verified": true
+    },
+    {
+      "text": "Si desearía hacer un \"break\" e ir a la playa, volver a mi país y tener algún tipo de diversión.",
+      "startMs": 9033,
+      "endMs": 15866,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

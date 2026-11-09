@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i22-Your-Favorite-Restaurant-Rossana-T.mp4",
+  "transcriptHash": "ecb135564fb3320b554a95c227a5b5adf9736e59",
+  "durationMs": 35619,
+  "segments": [
+    {
+      "text": "Bueno, restaurante, mi restaurante favorito no creo que exista uno esencialmente.",
+      "startMs": 30,
+      "endMs": 5383,
+      "verified": true
+    },
+    {
+      "text": "Pero creo que, recuerdo mucho y me gusta ir con mucho agrado a uno que atienden muy bien, están muy pendientes de las cosas que uno requiere comer, tratan muy bien.",
+      "startMs": 5853,
+      "endMs": 19611,
+      "verified": true
+    },
+    {
+      "text": "El servicio que tienen es excelente, dos o tres personas atienden a las mismas personas que están comiendo.",
+      "startMs": 20841,
+      "endMs": 26935,
+      "verified": true
+    },
+    {
+      "text": "La calidad de la comida es buena.",
+      "startMs": 27325,
+      "endMs": 29096,
+      "verified": true
+    },
+    {
+      "text": "Yo creo que básicamente esos son los puntos para que uno quiera regresar a un restaurante.",
+      "startMs": 30367,
+      "endMs": 34979,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "i23-A-Library-Experience-Mariana-M.mp4",
+  "transcriptHash": "9a0188ea6b071cdde22968d08adee7a27c6434ed",
+  "durationMs": 35689,
+  "segments": [
+    {
+      "text": "Detesto las bibliotecas, en particular porque soy muy sensible al clima.",
+      "startMs": 150,
+      "endMs": 6282,
+      "verified": true
+    },
+    {
+      "text": "Entonces, si tengo frío no puedo estudiar, si tengo calor no puedo estudiar.",
+      "startMs": 6290,
+      "endMs": 9782,
+      "verified": true
+    },
+    {
+      "text": "Entonces detesto que no puedo controlar el clima, no puedo controlar la música.",
+      "startMs": 9790,
+      "endMs": 16714,
+      "verified": true
+    },
+    {
+      "text": "Me desespera cuando hay gente masticando chicle, no hay nada más insoportable.",
+      "startMs": 16794,
+      "endMs": 22626,
+      "verified": true
+    },
+    {
+      "text": "Y sí, detesto estudiar.",
+      "startMs": 25957,
+      "endMs": 27290,
+      "verified": false
+    },
+    {
+      "text": "Y también porque siempre me quedo dormida.",
+      "startMs": 27307,
+      "endMs": 29027,
+      "verified": true
+    },
+    {
+      "text": "Si veo un sofá bien rico en la mitad de la biblioteca ahí me quedo por horas.",
+      "startMs": 29157,
+      "endMs": 34409,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

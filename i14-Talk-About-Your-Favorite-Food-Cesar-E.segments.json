@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "i14-Talk-About-Your-Favorite-Food-Cesar-E.mp4",
+  "transcriptHash": "83beaf079324b8ba67bd7e9bd749241dfd6a88b6",
+  "durationMs": 22291,
+  "segments": [
+    {
+      "text": "En Perú hay muchos platos típicos.",
+      "startMs": 220,
+      "endMs": 4462,
+      "verified": true
+    },
+    {
+      "text": "Entre ellos, a mí me gusta en forma especial, el picante de cuy, el estofado de gallina, y también porqu&eaacute; no decirlo, el ceviche de pescado.",
+      "startMs": 5293,
+      "endMs": 21391,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

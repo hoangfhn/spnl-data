@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i18-Questions-About-Someone-Family-Marcela-R.mp4",
+  "transcriptHash": "8ad5a465c7d6f0241e2d2b23ae76198fa2987ad7",
+  "durationMs": 52431,
+  "segments": [
+    {
+      "text": "Si yo quisiera saber de, de otras personas, de su familia, de qué sé yo, me, me interesaría preguntarles primero, llenar cuáles son sus intereses, cuántos miembros son de la familia, a qué se dedican, en...",
+      "startMs": 0,
+      "endMs": 28490,
+      "verified": true
+    },
+    {
+      "text": "a parte de su trabajo su, sus, la cantidad de hijos que tienen, su, sus hobbies, sus entretenciones, e, cómo, dónde viven, e, cuáles son su, sus actividades diarias, qué sé yo.",
+      "startMs": 28510,
+      "endMs": 47730,
+      "verified": true
+    },
+    {
+      "text": "Em, bueno, sus intereses en general.",
+      "startMs": 48610,
+      "endMs": 52111,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

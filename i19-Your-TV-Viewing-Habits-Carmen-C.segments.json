@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i19-Your-TV-Viewing-Habits-Carmen-C.mp4",
+  "transcriptHash": "a29fa63154a2ff580520f58ea0c17d1439700949",
+  "durationMs": 59815,
+  "segments": [
+    {
+      "text": "La verdad es que no tengo mucho tiempo para ver televisión.",
+      "startMs": 240,
+      "endMs": 3310,
+      "verified": true
+    },
+    {
+      "text": "Cuando trabajas mañana y tarde, cuando llegas a casa tienes tantas cosas que hacer que no puedes apenas ver televisión; pero bueno, tengo un gran defecto y lo reconozco, cuando estoy enfrente de la televisión quiero ver todo, resultado: al final, no veo nada.",
+      "startMs": 3330,
+      "endMs": 18505,
+      "verified": true
+    },
+    {
+      "text": "Pero bueno, normalmente, empiezo por la cadena número uno, normalmente no me interesa, cambio a la dos, sigo la tres, sigo la cuatro, y después de media hora de no encontrar nada que me gusta, sino simplemente anuncios televisivos que me incitan a comprar algún producto al día siguiente, pues ya, lo dejo por imposible y apago la televisión.",
+      "startMs": 19115,
+      "endMs": 38259,
+      "verified": true
+    },
+    {
+      "text": "Máximo una media de treinta minutos al día; además, no creo que sea sano ver más de treinta minutos al día, estando al día de las noticias y más o menos de lo que pasa en tu país con treinta minutos es necesario.",
+      "startMs": 38710,
+      "endMs": 50372,
+      "verified": true
+    },
+    {
+      "text": "Mejor, dedicar el tiempo a hacer actividades m‡s gratas y más divertidas como pasear, relacionarte o tomarte una copa en una terraza con tus amigos.",
+      "startMs": 50642,
+      "endMs": 59244,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i16-Ask-The-Price-Of-An-Item-Arturo-A.mp4",
+  "transcriptHash": "f3bdd337a2866bb540013469bb990b842c79cda7",
+  "durationMs": 11982,
+  "segments": [
+    {
+      "text": "¿Cuál es el precio de este suéter?",
+      "startMs": 151,
+      "endMs": 1610,
+      "verified": true
+    },
+    {
+      "text": "¿Cuánto cuesta?",
+      "startMs": 1623,
+      "endMs": 3110,
+      "verified": true
+    },
+    {
+      "text": "¿Qué valor tiene?",
+      "startMs": 3126,
+      "endMs": 6011,
+      "verified": true
+    },
+    {
+      "text": "¿A cómo?",
+      "startMs": 6030,
+      "endMs": 8425,
+      "verified": true
+    },
+    {
+      "text": "¿Cuánto?",
+      "startMs": 10569,
+      "endMs": 11100,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

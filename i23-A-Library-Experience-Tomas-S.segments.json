@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "video": "i23-A-Library-Experience-Tomas-S.mp4",
+  "transcriptHash": "9c5a4c0eec53b765728f821f35378d37360e88d1",
+  "durationMs": 56517,
+  "segments": [
+    {
+      "text": "Bueno en las dos, tanto en biblioteca peruana como americana he tenido buenas experiencias en general, pero las diferencias son bien grandes.",
+      "startMs": 0,
+      "endMs": 8783,
+      "verified": true
+    },
+    {
+      "text": "Por ejemplo, las bibliotecas de la universidad donde yo estaba eran mucho más pequeñas en primer lugar y tenían mucho menos variedad de títulos.",
+      "startMs": 9573,
+      "endMs": 16105,
+      "verified": true
+    },
+    {
+      "text": "Incluso, por ejemplo acá te hablo de la PCL, que es la Perry Castañeda que es la que normalmene uso.",
+      "startMs": 16815,
+      "endMs": 22717,
+      "verified": true
+    },
+    {
+      "text": "Tiene mucho más variedad, es bastante más rápida, es más moderna en el sentido que para hacer check-out de un libro es bastante rápido en comparación a las otras bibliotecas.",
+      "startMs": 23757,
+      "endMs": 33210,
+      "verified": true
+    },
+    {
+      "text": "Es más, mucho más automatizada.",
+      "startMs": 33240,
+      "endMs": 34931,
+      "verified": true
+    },
+    {
+      "text": "Bueno, esa es la mayor, proble…",
+      "startMs": 37462,
+      "endMs": 39612,
+      "verified": false
+    },
+    {
+      "text": "bueno, en general las dos he tenido buenas experiencias.",
+      "startMs": 39620,
+      "endMs": 41513,
+      "verified": true
+    },
+    {
+      "text": "La diferencia básicamente es el tiempo que requiero en las america-acá en la por ejemplo en la PCL es mucho más rápido sacar un libro o hacer los trámites.",
+      "startMs": 41520,
+      "endMs": 48875,
+      "verified": true
+    },
+    {
+      "text": "En la otra biblioteca no, es más complicado, hay que llenar un formulario, etc.",
+      "startMs": 49325,
+      "endMs": 53877,
+      "verified": true
+    },
+    {
+      "text": "En cambio acá, no necesito hacer nada de eso, es directo.",
+      "startMs": 53987,
+      "endMs": 56047,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

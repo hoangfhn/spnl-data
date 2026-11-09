@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i14-Talk-About-Your-Favorite-Food-Claudia-V.mp4",
+  "transcriptHash": "222d2e6a0b105d35653a44747420feb5fc6dfa91",
+  "durationMs": 22965,
+  "segments": [
+    {
+      "text": "Bueno, mis comidas favoritas son varias.",
+      "startMs": 0,
+      "endMs": 2910,
+      "verified": true
+    },
+    {
+      "text": "Felizmente son pocas las comidas que no me gustan.",
+      "startMs": 2930,
+      "endMs": 5286,
+      "verified": true
+    },
+    {
+      "text": "Mi favorita es la comida italiana, me gusta la lasaña, me gustan los ravioles, los canelones.",
+      "startMs": 5536,
+      "endMs": 10611,
+      "verified": true
+    },
+    {
+      "text": "Me gustan mucho la 'chifa' también que es la comida china que acá en Perú se prepara bastante bien.",
+      "startMs": 10762,
+      "endMs": 15817,
+      "verified": true
+    },
+    {
+      "text": "Y como postre me gustan los peruanos, me gusta el...",
+      "startMs": 16167,
+      "endMs": 19590,
+      "verified": true
+    },
+    {
+      "text": "los picarones y me gusta el turrón de Doña Pepa.",
+      "startMs": 19601,
+      "endMs": 22294,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

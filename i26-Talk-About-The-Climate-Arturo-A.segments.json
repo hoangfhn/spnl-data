@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i26-Talk-About-The-Climate-Arturo-A.mp4",
+  "transcriptHash": "f3bb1be9fba801d9db23109634880698a3df35b6",
+  "durationMs": 26749,
+  "segments": [
+    {
+      "text": "El clima en Yucatán es muy seco.",
+      "startMs": 190,
+      "endMs": 2171,
+      "verified": true
+    },
+    {
+      "text": "Hace mucho calor.",
+      "startMs": 3031,
+      "endMs": 4101,
+      "verified": true
+    },
+    {
+      "text": "En verano es, alcanza una temperatura de 40 grados a la sombra.",
+      "startMs": 5092,
+      "endMs": 8963,
+      "verified": true
+    },
+    {
+      "text": "Es muy distinto de aquí, porque aquí es más notorio las estaciones del año, todavía que en Yucatán, allí todo el tiempo es verano.",
+      "startMs": 8980,
+      "endMs": 16926,
+      "verified": true
+    },
+    {
+      "text": "En invierno llega hacer un poquito de frío, pero es una temperatura de 20 grados.",
+      "startMs": 17796,
+      "endMs": 22298,
+      "verified": true
+    },
+    {
+      "text": "Así que, bueno, es muy diferente al clima de acá.",
+      "startMs": 22658,
+      "endMs": 26209,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

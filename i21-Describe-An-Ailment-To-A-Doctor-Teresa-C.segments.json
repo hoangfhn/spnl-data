@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i21-Describe-An-Ailment-To-A-Doctor-Teresa-C.mp4",
+  "transcriptHash": "e0f82e4fdd13565e552cd96dac40ab7291ce4a22",
+  "durationMs": 27609,
+  "segments": [
+    {
+      "text": "Habitualmente, por lo menos en Chile, el que empieza hablando es el doctor.",
+      "startMs": 210,
+      "endMs": 2970,
+      "verified": true
+    },
+    {
+      "text": "Uno se sienta y te pregunta por qué estás ahí.",
+      "startMs": 2981,
+      "endMs": 4861,
+      "verified": true
+    },
+    {
+      "text": "“Mire doctor, sabe lo que pasa es que me duele mucho la cabeza, he estado como con un resfrío que no se me quita.",
+      "startMs": 5652,
+      "endMs": 11990,
+      "verified": true
+    },
+    {
+      "text": "Llevo como una semana, sigo resfriada, me duele mucho la cabeza y me está costando trabajar, me cuesta un poco respirar y con este smog que hay en Santiago no se puede vivir”.",
+      "startMs": 12004,
+      "endMs": 25768,
+      "verified": true
+    },
+    {
+      "text": "Una cosa así.",
+      "startMs": 25878,
+      "endMs": 27368,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

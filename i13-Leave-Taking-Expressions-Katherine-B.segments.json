@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "i13-Leave-Taking-Expressions-Katherine-B.mp4",
+  "transcriptHash": "c5f7cf068f0942cffdcec07e501f501d679badb1",
+  "durationMs": 36757,
+  "segments": [
+    {
+      "text": "En Costa Rica cuando nos encontramos con amigos, normalmente decimos –¿Cómo estás?, ¡Pura vida!—.",
+      "startMs": 30,
+      "endMs": 7754,
+      "verified": true
+    },
+    {
+      "text": "Luego hay una palabra: “idiai”.",
+      "startMs": 9535,
+      "endMs": 12306,
+      "verified": true
+    },
+    {
+      "text": "–Idiai ¿Cómo le va?—.",
+      "startMs": 12310,
+      "endMs": 15507,
+      "verified": true
+    },
+    {
+      "text": "Cosas como estas.",
+      "startMs": 15580,
+      "endMs": 16810,
+      "verified": true
+    },
+    {
+      "text": "Cuando es una persona mayor normalmente no se le habla de “vos” sino de “usted”.",
+      "startMs": 16830,
+      "endMs": 21530,
+      "verified": true
+    },
+    {
+      "text": "Y decimos, ah, luego para contestar que estamos bien se dice –Tuanis—.",
+      "startMs": 24942,
+      "endMs": 29054,
+      "verified": true
+    },
+    {
+      "text": "Y para despedirnos –Hasta luego—.",
+      "startMs": 30524,
+      "endMs": 33916,
+      "verified": true
+    },
+    {
+      "text": "Y nada más.",
+      "startMs": 34586,
+      "endMs": 35997,
+      "verified": true
+    },
+    {
+      "text": "–Chau—.",
+      "startMs": 36000,
+      "endMs": 36457,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

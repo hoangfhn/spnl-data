@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i09-Buy-An-Item-Of-Clothings-Simplified-Example.mp4",
+  "transcriptHash": "1434469b622f7a71e5fcc488e601a6d448477369",
+  "durationMs": 37245,
+  "segments": [
+    {
+      "text": "Para descansar después de tomar un examen, a mi esposa le gusta ir de compras.",
+      "startMs": 70,
+      "endMs": 7085,
+      "verified": true
+    },
+    {
+      "text": "Nunca compra nada importante, sino algún accesorio para ponerse sobre la ropa.",
+      "startMs": 8055,
+      "endMs": 16111,
+      "verified": true
+    },
+    {
+      "text": "Quizás una bufanda: y si es verano, un sombrero, algo que no sea muy caro.",
+      "startMs": 16881,
+      "endMs": 24957,
+      "verified": true
+    },
+    {
+      "text": "Nadie le va a dar un premio por pasar un examen, pero comprarse un regalito a ninguna persona le viene mal, ¿no?",
+      "startMs": 25947,
+      "endMs": 35303,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}
