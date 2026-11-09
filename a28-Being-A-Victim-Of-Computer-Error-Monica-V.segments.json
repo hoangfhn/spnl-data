@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a28-Being-A-Victim-Of-Computer-Error-Monica-V.mp4",
+  "transcriptHash": "37a49d1468c459a6d34b4cdd72a80d4c1d09ec79",
+  "durationMs": 48553,
+  "segments": [
+    {
+      "text": "Hace un mes, compré una computadora personal portable, una VIO de Sony.",
+      "startMs": 1310,
+      "endMs": 6402,
+      "verified": true
+    },
+    {
+      "text": "Y todavía no tenía un sistema de protección contra virus.",
+      "startMs": 7372,
+      "endMs": 12003,
+      "verified": true
+    },
+    {
+      "text": "A los cinco días de haberla comprado un amigo me envió un correo electrónico con un archivo que parecía seguro además esta persona es de confianza nunca me había mandado nada malo.",
+      "startMs": 12020,
+      "endMs": 26427,
+      "verified": true
+    },
+    {
+      "text": "Abrí el archivo, y no pasó nada.",
+      "startMs": 27197,
+      "endMs": 31058,
+      "verified": true
+    },
+    {
+      "text": "Lo busqué, como no pasaba nada lo borré y el resultado fue que este era un virus que me echó a perder a mi computadora nueva.",
+      "startMs": 31458,
+      "endMs": 39691,
+      "verified": true
+    },
+    {
+      "text": "Tuve que arreglarla y me tardé unas seis horas en arreglarla y en ponerla de nuevo como estaba.",
+      "startMs": 40381,
+      "endMs": 47973,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

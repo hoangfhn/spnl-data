@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a26-Plot-Of-Your-Favorite-Movie-Simplified-Example.mp4",
+  "transcriptHash": "96d5f917715a3be148ede132365c1f8e781ab8b7",
+  "durationMs": 29675,
+  "segments": [
+    {
+      "text": "Una de mis películas favoritas es \"La Guerra de las galaxias,\" la primera que salió en los setentas.",
+      "startMs": 1011,
+      "endMs": 7024,
+      "verified": true
+    },
+    {
+      "text": "Fue la primera película que ví en el cine.",
+      "startMs": 7874,
+      "endMs": 10105,
+      "verified": true
+    },
+    {
+      "text": "Se trata de un muchacho, Lucas, que vive en el desierto con sus tíos.",
+      "startMs": 10796,
+      "endMs": 14848,
+      "verified": true
+    },
+    {
+      "text": "Un día conoce a un señor muy sabio que le cuenta historias del imperio y de los rebeldes que iban peleandose en su contra.",
+      "startMs": 15718,
+      "endMs": 23312,
+      "verified": true
+    },
+    {
+      "text": "Le cuenta también del padre de Lucas quien murió en batalla contra el imperio.",
+      "startMs": 24062,
+      "endMs": 28795,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

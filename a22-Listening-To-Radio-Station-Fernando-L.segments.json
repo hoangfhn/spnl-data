@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "a22-Listening-To-Radio-Station-Fernando-L.mp4",
+  "transcriptHash": "4d5bdde0abb38405ab2429eddd2fb1c0905830cd",
+  "durationMs": 68081,
+  "segments": [
+    {
+      "text": "... una radio, a ver, noticiosa, informativa, magazinesca, abar-, deportiva, de mucho deporte también.",
+      "startMs": 850,
+      "endMs": 15005,
+      "verified": false
+    },
+    {
+      "text": "Entonces el contacto con ella hace que tú estés permanentemente informado respecto de todo lo que acontece tanto en el país cómo también fuera.",
+      "startMs": 15535,
+      "endMs": 27368,
+      "verified": true
+    },
+    {
+      "text": "Entonces, yo necesito informarme, necesito estar informado y como tal la radio es una estupenda manera de poder lograrlo, ¿mm?",
+      "startMs": 27939,
+      "endMs": 39792,
+      "verified": true
+    },
+    {
+      "text": "Todos sus programas me gustan, todos sus programas me gustan.",
+      "startMs": 41863,
+      "endMs": 45194,
+      "verified": true
+    },
+    {
+      "text": "Normalmente trabajo con ella.",
+      "startMs": 46024,
+      "endMs": 48555,
+      "verified": true
+    },
+    {
+      "text": "Y, me entretiene, me informa, y en general esa es la característica que más me llena y me agrada, ¿no?",
+      "startMs": 48570,
+      "endMs": 64700,
+      "verified": true
+    },
+    {
+      "text": "De sus programas.",
+      "startMs": 66270,
+      "endMs": 67101,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

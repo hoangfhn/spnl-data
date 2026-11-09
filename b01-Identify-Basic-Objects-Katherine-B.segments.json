@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "b01-Identify-Basic-Objects-Katherine-B.mp4",
+  "transcriptHash": "a8043ee893e561a884afb2c9f85b738278388380",
+  "durationMs": 64552,
+  "segments": [
+    {
+      "text": "Este es el teléfono, este es el auricular.",
+      "startMs": 0,
+      "endMs": 4901,
+      "verified": true
+    },
+    {
+      "text": "Estos son los botones.",
+      "startMs": 6571,
+      "endMs": 8021,
+      "verified": true
+    },
+    {
+      "text": "El “mouse”.",
+      "startMs": 10492,
+      "endMs": 11332,
+      "verified": true
+    },
+    {
+      "text": "Este es el teclado.",
+      "startMs": 14353,
+      "endMs": 15443,
+      "verified": true
+    },
+    {
+      "text": "Aquí tenemos “cds”.",
+      "startMs": 20514,
+      "endMs": 21724,
+      "verified": true
+    },
+    {
+      "text": "Esta es la grapadora, cinta adhesiva, el monitor, el CPU.",
+      "startMs": 24924,
+      "endMs": 34526,
+      "verified": true
+    },
+    {
+      "text": "Y…unos parlantes, no creo que puedan ver.",
+      "startMs": 36307,
+      "endMs": 42868,
+      "verified": true
+    },
+    {
+      "text": "Y papeles con apuntes, y tenemos una impresora atrás, un cuaderno, lápices.",
+      "startMs": 47659,
+      "endMs": 61601,
+      "verified": true
+    },
+    {
+      "text": "Eso es todo.",
+      "startMs": 63571,
+      "endMs": 64291,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

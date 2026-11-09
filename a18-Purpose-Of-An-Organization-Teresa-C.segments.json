@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a18-Purpose-Of-An-Organization-Teresa-C.mp4",
+  "transcriptHash": "f83429019ce3b0a1414b4f9dadc1eeb0ced7406e",
+  "durationMs": 50016,
+  "segments": [
+    {
+      "text": "A ver.",
+      "startMs": 0,
+      "endMs": 680,
+      "verified": false
+    },
+    {
+      "text": "Yo trabajo hace como nueve años en una ONG-Centro de Estudios.",
+      "startMs": 1250,
+      "endMs": 6990,
+      "verified": true
+    },
+    {
+      "text": "Se llama ‘Sur Profesionales’ o ‘Sur Centro de Estudios Sociales’ o ‘Sur Escuela de Planificadores’ porque depende.",
+      "startMs": 7002,
+      "endMs": 14024,
+      "verified": true
+    },
+    {
+      "text": "Tiene como varias razones sociales, varias personalidades jurídicas, pero partió siendo una ONG.",
+      "startMs": 14215,
+      "endMs": 19566,
+      "verified": true
+    },
+    {
+      "text": "Hacemos estudios relacionados con pobreza, relacionado con desarrollo comunitario, con desarrollo urbano, en realidad con varios temas.",
+      "startMs": 20917,
+      "endMs": 31170,
+      "verified": true
+    },
+    {
+      "text": "Y lo chistoso es que se llama ‘Sur’—todo el mundo piensa que se llama ‘Sur’ porque como es un centro de estudios, queda en el sur, en Latinoamérica—pero se llama ‘Sur’ porque los cuatro tipos que la fundaron escucharon un tango que se llama ‘Sur’ y le pusieron ‘Sur’ a la organización que iban a fundar.",
+      "startMs": 33661,
+      "endMs": 49276,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

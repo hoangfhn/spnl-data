@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a22-Listening-To-Radio-Station-Fernando-C.mp4",
+  "transcriptHash": "2cf941445a2341aa1887bd737c0ab66c380f7bf3",
+  "durationMs": 70008,
+  "segments": [
+    {
+      "text": "En Paraguay suelo escuchar la radio AM, de amplitud modulada, bastante más que la radio FM.",
+      "startMs": 1410,
+      "endMs": 9301,
+      "verified": true
+    },
+    {
+      "text": "Las radios AM se caracterizan por transmitir noticias, veinticuatro horas de noticias, y muy raras veces pasan música pero es una manera en la que uno si está en el auto o si está en la casa está al día con las noticias porque normalmente ellos transmiten en vivo, llaman a los políticos, llaman a las personas del gobierno, llaman a toda persona que esté haciendo noticia en ese momento.",
+      "startMs": 9901,
+      "endMs": 38780,
+      "verified": true
+    },
+    {
+      "text": "Entonces es la mejor manera de estar informado, al instante, en el mismo momento en que están ocurriendo las cosas en el país.",
+      "startMs": 38800,
+      "endMs": 48456,
+      "verified": true
+    },
+    {
+      "text": "También escucho FM, pero eso es para sábados y domingos.",
+      "startMs": 48616,
+      "endMs": 52306,
+      "verified": true
+    },
+    {
+      "text": "Como terminan las noticias en los fines de semana escucho más la radio de FM y busco, busco música que como de los Beatles, un poco de música latinoamericana también, música variada en general.",
+      "startMs": 52496,
+      "endMs": 69498,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

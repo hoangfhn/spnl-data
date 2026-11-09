@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "video": "a19-Story-Of-The-Three-Little-Pigs-Daniela-R.mp4",
+  "transcriptHash": "1cfd8291f660e75d4139db897b83d495939b710e",
+  "durationMs": 111827,
+  "segments": [
+    {
+      "text": "Tres chanchitos decidieron independizarse de su casa y salieron a buscar un lugar adonde vivir.",
+      "startMs": 0,
+      "endMs": 5680,
+      "verified": true
+    },
+    {
+      "text": "El primero, como…, era muy flojo y no quería pasar mucho tiempo construyendo una casa, la hizo muy simple, la hizo de paja.",
+      "startMs": 6870,
+      "endMs": 14441,
+      "verified": true
+    },
+    {
+      "text": "Y el segundo que bueno, quería que su casa fuera un poco más fuerte pero tampoco quería hacer tanto trabajo, la hizo de cañas.",
+      "startMs": 15351,
+      "endMs": 23722,
+      "verified": true
+    },
+    {
+      "text": "Y el tercero que era realmente una persona que quería una buena casa fuerte, linda adonde vivir, la hizo de ladrillos.",
+      "startMs": 23972,
+      "endMs": 30802,
+      "verified": true
+    },
+    {
+      "text": "En este cuento hay un lobo.",
+      "startMs": 32152,
+      "endMs": 33710,
+      "verified": true
+    },
+    {
+      "text": "Un lobo que está hambrienta, que se muere a comer los tres chanchitos.",
+      "startMs": 33730,
+      "endMs": 37392,
+      "verified": true
+    },
+    {
+      "text": "Y va y cuando ve que el primer chanchito hace su casa de paja, lo persigue y empieza a soplar la casa y amenazar que salga, sino destruir la casa soplándola.",
+      "startMs": 38052,
+      "endMs": 47583,
+      "verified": true
+    },
+    {
+      "text": "Como el chanchito no quiso salir, sopló, sopló, sopló, y la casa se rumbó y el chanchito se fue volando para la casa de, la casa del hermano, que era la de bambú, la de cañas, ¿no?",
+      "startMs": 48053,
+      "endMs": 58404,
+      "verified": true
+    },
+    {
+      "text": "El lobo fue atrás de él también.",
+      "startMs": 59694,
+      "endMs": 61550,
+      "verified": true
+    },
+    {
+      "text": "Y cuando llegó a su casa, los amenazó a los dos salir.",
+      "startMs": 61564,
+      "endMs": 64544,
+      "verified": true
+    },
+    {
+      "text": "Ellos tampoco quería salir, ellos morían de miedo, estaban metido debajo de la cama.",
+      "startMs": 64874,
+      "endMs": 68484,
+      "verified": false
+    },
+    {
+      "text": "Y el lobo también amenazó y empezó a soplar, soplar, y soplar y tumbó la casa abajo también.",
+      "startMs": 68500,
+      "endMs": 73905,
+      "verified": true
+    },
+    {
+      "text": "Los dos chanchitos corrieron a la casa del tercero y una vez que estuvieron ahí, todos los esfuerzos del lobo para destruir la casa soplando fueron inútiles.",
+      "startMs": 74875,
+      "endMs": 84470,
+      "verified": true
+    },
+    {
+      "text": "No podía porque estaba de ladrillos.",
+      "startMs": 84490,
+      "endMs": 86606,
+      "verified": true
+    },
+    {
+      "text": "Y decidió meterse por la chimenea.",
+      "startMs": 87436,
+      "endMs": 89526,
+      "verified": true
+    },
+    {
+      "text": "Los chanchitos escucharon esto y pusieron en la fogata de la chimenea, este, una olla de agua caliente Y una vez que se metía por la chimenea a la hora de caer, cayó dentro de la olla de agua caliente y salió disparado de la casa para jamás volver a fastidiar a los chanchitos.",
+      "startMs": 89756,
+      "endMs": 111337,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

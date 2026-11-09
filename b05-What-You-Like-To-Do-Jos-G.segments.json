@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "b05-What-You-Like-To-Do-Jos-G.mp4",
+  "transcriptHash": "a3fc3a392206021aaa6625ba54b130b1e2e73c2b",
+  "durationMs": 28932,
+  "segments": [
+    {
+      "text": "No, pues me gusta jugar fútbol, me gusta jugar tenis, me gusta, pues hacer ejercicio en general.",
+      "startMs": 0,
+      "endMs": 12000,
+      "verified": true
+    },
+    {
+      "text": "El fútbol me gusta más, porque hay con quien jugar más que el...",
+      "startMs": 12020,
+      "endMs": 21660,
+      "verified": true
+    },
+    {
+      "text": "fútbol...",
+      "startMs": 21680,
+      "endMs": 22200,
+      "verified": false
+    },
+    {
+      "text": "que el tenis.",
+      "startMs": 22220,
+      "endMs": 22829,
+      "verified": true
+    },
+    {
+      "text": "Y el tenis pues, también me gusta pero cuando hay gente con quién jugar.",
+      "startMs": 23420,
+      "endMs": 28932,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

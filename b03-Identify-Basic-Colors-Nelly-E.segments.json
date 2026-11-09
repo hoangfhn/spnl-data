@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "b03-Identify-Basic-Colors-Nelly-E.mp4",
+  "transcriptHash": "bfc0c5069a4fef7ec730dd4d391a1f5de7c26976",
+  "durationMs": 31974,
+  "segments": [
+    {
+      "text": "Los colores por ejemplo que tenemos aquí es el...",
+      "startMs": 1651,
+      "endMs": 4650,
+      "verified": true
+    },
+    {
+      "text": "Este es el color verde.",
+      "startMs": 4670,
+      "endMs": 6723,
+      "verified": true
+    },
+    {
+      "text": "Este es el color rojo.",
+      "startMs": 7853,
+      "endMs": 11055,
+      "verified": true
+    },
+    {
+      "text": "Este es el color blanco.",
+      "startMs": 12315,
+      "endMs": 15377,
+      "verified": true
+    },
+    {
+      "text": "Este es el amarillo.",
+      "startMs": 16377,
+      "endMs": 18518,
+      "verified": true
+    },
+    {
+      "text": "Este es el color rosado.",
+      "startMs": 20009,
+      "endMs": 22440,
+      "verified": true
+    },
+    {
+      "text": "Aquí también tenemos el color marrón.",
+      "startMs": 23640,
+      "endMs": 26612,
+      "verified": true
+    },
+    {
+      "text": "Todo estos son los colores básicos.",
+      "startMs": 27662,
+      "endMs": 30453,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

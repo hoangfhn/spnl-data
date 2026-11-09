@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "video": "a20-Story-Of-Little-Red-Riding-Hood-Jose-M.mp4",
+  "transcriptHash": "0a69751ea76349fd5979f603d9f45e9dca361644",
+  "durationMs": 124134,
+  "segments": [
+    {
+      "text": "Me llamo José M., soy de Venezuela.",
+      "startMs": 390,
+      "endMs": 3800,
+      "verified": true
+    },
+    {
+      "text": "Ahora les voy a contar un pequeño cuento muy interesante que yo escuchaba cuando yo era niño.",
+      "startMs": 4491,
+      "endMs": 11991,
+      "verified": true
+    },
+    {
+      "text": "El cuentecillo se llama Caperucita Roja.",
+      "startMs": 13021,
+      "endMs": 16242,
+      "verified": true
+    },
+    {
+      "text": "Resulta que una vez Caperucita Roja estaba perdida en el bosque.",
+      "startMs": 17022,
+      "endMs": 23343,
+      "verified": true
+    },
+    {
+      "text": "Entonces de pronto le salió este animal feo, era un lobo.",
+      "startMs": 24323,
+      "endMs": 31614,
+      "verified": true
+    },
+    {
+      "text": "Y el lobo la quería herir, se la quería comer.",
+      "startMs": 32114,
+      "endMs": 37514,
+      "verified": true
+    },
+    {
+      "text": "Y la Caperucita salió corriendo, corriendo, corriendo y tenía un pánico horrible la pobrecita.",
+      "startMs": 37874,
+      "endMs": 46485,
+      "verified": true
+    },
+    {
+      "text": "Y ella llevaba en su mano una cestita porque fue a comprar pan para su abuelita que era muy viejecita y del susto ella corrió y tiró la cesta así por los arbustos.",
+      "startMs": 46500,
+      "endMs": 61457,
+      "verified": true
+    },
+    {
+      "text": "Entonces llegó a la casa y la abuelita estaba en cama.",
+      "startMs": 61957,
+      "endMs": 68188,
+      "verified": true
+    },
+    {
+      "text": "Pero entonces cuando llegó a la casa se dio cuenta que la abuelita no era la abuelita.",
+      "startMs": 68778,
+      "endMs": 77029,
+      "verified": true
+    },
+    {
+      "text": "Estaba el zorro vestido de abuelita y a ella le dio un pánico peor todavía.",
+      "startMs": 78139,
+      "endMs": 85580,
+      "verified": true
+    },
+    {
+      "text": "Y empezó a gritar: ¡Ayúdenme, ayúdenme, ayúdenme!",
+      "startMs": 85800,
+      "endMs": 90130,
+      "verified": true
+    },
+    {
+      "text": "y entonces los vecinos vinieron con pistolas porque creían que algo feo estaba sucediendo pero entonces llegó una señora muy viejecita, muy bonita y entonces asustó al lobo y el lobo salió corriendo.",
+      "startMs": 90460,
+      "endMs": 109522,
+      "verified": true
+    },
+    {
+      "text": "Y entonces esta señora viejita que se supone que era la abuelita la ayudó, le limpió la frente porque ella estaba sudando y el corazón le palpitaba.",
+      "startMs": 109922,
+      "endMs": 122174,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

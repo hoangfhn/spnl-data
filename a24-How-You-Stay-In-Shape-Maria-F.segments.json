@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "a24-How-You-Stay-In-Shape-Maria-F.mp4",
+  "transcriptHash": "f9b269ba8721c7af585938e22146c83ebcd5533c",
+  "durationMs": 35062,
+  "segments": [
+    {
+      "text": "Bueno antes que nada, yo no soy una gran deportista.",
+      "startMs": 0,
+      "endMs": 4060,
+      "verified": true
+    },
+    {
+      "text": "Pero bueno, me gusta mantenerme en forma y siempre que puedo pues hago ejercicio.",
+      "startMs": 4080,
+      "endMs": 9446,
+      "verified": true
+    },
+    {
+      "text": "Normalmente lo que hago es ir dos veces por semana a la piscina.",
+      "startMs": 10737,
+      "endMs": 15590,
+      "verified": true
+    },
+    {
+      "text": "Voy a la piscina del Gregory Gym en la universidad de Tejas.",
+      "startMs": 15680,
+      "endMs": 20733,
+      "verified": true
+    },
+    {
+      "text": "Eso martes y jueves.",
+      "startMs": 21584,
+      "endMs": 22774,
+      "verified": true
+    },
+    {
+      "text": "Me levanto muy pronto.",
+      "startMs": 22820,
+      "endMs": 23915,
+      "verified": true
+    },
+    {
+      "text": "Y luego, siempre que puedo voy a una clase de aerobics, de yoga o simplemente al gimnasio a correr un poco o a levantar pesas.",
+      "startMs": 25226,
+      "endMs": 34562,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

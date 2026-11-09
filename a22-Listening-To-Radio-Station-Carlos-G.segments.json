@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a22-Listening-To-Radio-Station-Carlos-G.mp4",
+  "transcriptHash": "0ba93d5ed565b211c948889cf9db589031f0898c",
+  "durationMs": 23359,
+  "segments": [
+    {
+      "text": "Me gusta escuchar la estación Dino 95.",
+      "startMs": 491,
+      "endMs": 3313,
+      "verified": true
+    },
+    {
+      "text": "Pasan música variada, tanto en inglés como en español.",
+      "startMs": 4384,
+      "endMs": 7987,
+      "verified": true
+    },
+    {
+      "text": "No le cansan a uno todo el día con el mismo tipo de música.",
+      "startMs": 11700,
+      "endMs": 14812,
+      "verified": true
+    },
+    {
+      "text": "Sino que ponen música romántica, ponen música rock.",
+      "startMs": 14890,
+      "endMs": 19556,
+      "verified": true
+    },
+    {
+      "text": "Y eso es lo que me gusta a mí escuchar de una estación de radio.",
+      "startMs": 20507,
+      "endMs": 23219,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

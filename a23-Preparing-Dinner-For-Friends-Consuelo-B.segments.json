@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a23-Preparing-Dinner-For-Friends-Consuelo-B.mp4",
+  "transcriptHash": "264928704d6f18699b3a3208b2f824d4d4e467d4",
+  "durationMs": 33251,
+  "segments": [
+    {
+      "text": "Bueno, hoy invito a cenar a dos amigos y les voy a invitar comida peruana.",
+      "startMs": 0,
+      "endMs": 5282,
+      "verified": true
+    },
+    {
+      "text": "Así que como entrada voy a hacer papa de Huancaína y esto se hace con papas, con una salsa a base de queso, leche, ají y bueno.",
+      "startMs": 5412,
+      "endMs": 16956,
+      "verified": true
+    },
+    {
+      "text": "Y de plato, de segundo plato, puede ser pollo al Sillao que es también algo típico aquí.",
+      "startMs": 17236,
+      "endMs": 24428,
+      "verified": false
+    },
+    {
+      "text": "Y bueno, todavía tengo mucho trabajo porque tengo que preparar el refresco que va a ser chicha y esto se hace con maíz morado.",
+      "startMs": 24918,
+      "endMs": 32211,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

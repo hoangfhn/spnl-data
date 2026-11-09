@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a27-Registering-For-University-Courses-Ronald-F.mp4",
+  "transcriptHash": "a756286161a8d933fae9a86c4dd795a7341e9be6",
+  "durationMs": 36316,
+  "segments": [
+    {
+      "text": "Aquí en Venezuela primero para, este, inscribirse en la universidad, primero tienes que hacer una cola muy larga para inscribirte en un examen que tienes que presentar.",
+      "startMs": 270,
+      "endMs": 11685,
+      "verified": true
+    },
+    {
+      "text": "Ese examen se llama Prueba de Aptitud Académica.",
+      "startMs": 11690,
+      "endMs": 13946,
+      "verified": true
+    },
+    {
+      "text": "Y después de este examen tú vas a ver en el periódico tu cédula para ver si saliste o no para hacer el registro oficial en la universidad.",
+      "startMs": 14216,
+      "endMs": 22650,
+      "verified": true
+    },
+    {
+      "text": "Y aquí en nuestra universidad en el primer semestre te asignan los cursos, tú no puedes escoger.",
+      "startMs": 23220,
+      "endMs": 30593,
+      "verified": true
+    },
+    {
+      "text": "Tú escoges en el segundo semestre o en los otros semestres.",
+      "startMs": 30620,
+      "endMs": 33315,
+      "verified": false
+    },
+    {
+      "text": "OK, ese es el sistema aquí en nuestro país.",
+      "startMs": 33765,
+      "endMs": 35796,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

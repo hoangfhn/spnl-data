@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "b06-Parent-Or-Relative-Work-Maria-F.mp4",
+  "transcriptHash": "8c875100e97c09fa61ebb5382b08d5d506919bc9",
+  "durationMs": 45836,
+  "segments": [
+    {
+      "text": "Mis padres viven en España.",
+      "startMs": 1691,
+      "endMs": 3141,
+      "verified": true
+    },
+    {
+      "text": "Y mi padre trabaja en un banco español, es el interventor.",
+      "startMs": 4152,
+      "endMs": 8363,
+      "verified": true
+    },
+    {
+      "text": "Y básicamente lo que hace es eso, coordinar al personal de caja, abrir cuentas de crédito, supervisar pues el trabajo de todos los empleados.",
+      "startMs": 9133,
+      "endMs": 22550,
+      "verified": true
+    },
+    {
+      "text": "Y también tiene mucho trato con los clientes.",
+      "startMs": 22568,
+      "endMs": 26409,
+      "verified": true
+    },
+    {
+      "text": "Mi madre cuida niños.",
+      "startMs": 27720,
+      "endMs": 28950,
+      "verified": true
+    },
+    {
+      "text": "Es un trabajo de por las mañanas, se levanta muy pronto.",
+      "startMs": 29100,
+      "endMs": 32100,
+      "verified": true
+    },
+    {
+      "text": "Los levanta de la cama, les da de desayunar, les lleva al colegio.",
+      "startMs": 32111,
+      "endMs": 38220,
+      "verified": true
+    },
+    {
+      "text": "El mayor se queda en el colegio y se queda con la hermana, que es más pequeña, durante toda la manana cuidando de ella.",
+      "startMs": 38234,
+      "endMs": 45696,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

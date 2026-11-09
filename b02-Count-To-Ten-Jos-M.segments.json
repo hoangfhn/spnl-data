@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "video": "b02-Count-To-Ten-Jos-M.mp4",
+  "transcriptHash": "480c000219da3764af107fb19c124e3024172ee4",
+  "durationMs": 72284,
+  "segments": [
+    {
+      "text": "Muy bien, hoy vamos a conversar de los números.",
+      "startMs": 1070,
+      "endMs": 4371,
+      "verified": true
+    },
+    {
+      "text": "En nuestra vida siempre usamos números.",
+      "startMs": 5192,
+      "endMs": 8273,
+      "verified": true
+    },
+    {
+      "text": "Mi número favorito es el uno.",
+      "startMs": 9113,
+      "endMs": 12580,
+      "verified": true
+    },
+    {
+      "text": "A María le encanta el dos, a Carlos le gusta el tres.",
+      "startMs": 12600,
+      "endMs": 18726,
+      "verified": true
+    },
+    {
+      "text": "Uno, el dos y el tres.",
+      "startMs": 19236,
+      "endMs": 22017,
+      "verified": true
+    },
+    {
+      "text": "Muy bien.",
+      "startMs": 22077,
+      "endMs": 22667,
+      "verified": true
+    },
+    {
+      "text": "A ella le gusta el número cuatro.",
+      "startMs": 22978,
+      "endMs": 25750,
+      "verified": true
+    },
+    {
+      "text": "¿Y a ti, qué número te gusta?",
+      "startMs": 25768,
+      "endMs": 28129,
+      "verified": true
+    },
+    {
+      "text": "Me gusta el número cinco.",
+      "startMs": 28339,
+      "endMs": 30620,
+      "verified": true
+    },
+    {
+      "text": "A Pepe le gusta el número seis.",
+      "startMs": 32001,
+      "endMs": 34511,
+      "verified": true
+    },
+    {
+      "text": "El seis es el número favorito.",
+      "startMs": 35102,
+      "endMs": 37432,
+      "verified": true
+    },
+    {
+      "text": "A Carmen le gusta creo que el número siete.",
+      "startMs": 38083,
+      "endMs": 41814,
+      "verified": true
+    },
+    {
+      "text": "A Manuel le encanta el número ocho.",
+      "startMs": 42524,
+      "endMs": 46315,
+      "verified": true
+    },
+    {
+      "text": "A Sofía le gusta el nueve.",
+      "startMs": 46985,
+      "endMs": 50337,
+      "verified": true
+    },
+    {
+      "text": "Y creo que a Luisa le encanta el número diez.",
+      "startMs": 50340,
+      "endMs": 56629,
+      "verified": true
+    },
+    {
+      "text": "Entonces vamos a ver, que el uno, el dos, el tres, ¿qué número?, cuatro, el cinco, el seis, repita, siete, ocho, el nueve y el diez.",
+      "startMs": 57029,
+      "endMs": 71724,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

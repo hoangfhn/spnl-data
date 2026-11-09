@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "a25-The-House-You-Grew-Up-In-Rossana-T.mp4",
+  "transcriptHash": "bfa9937162b6982d255ca5a50e462c5adc0d39ce",
+  "durationMs": 60813,
+  "segments": [
+    {
+      "text": "La casa donde yo viví en mi infancia es una casa muy bonita.",
+      "startMs": 990,
+      "endMs": 5531,
+      "verified": true
+    },
+    {
+      "text": "Todavía mis papás viven allí.",
+      "startMs": 5610,
+      "endMs": 7202,
+      "verified": true
+    },
+    {
+      "text": "Es una casa antigua, muy bien decorada.",
+      "startMs": 7792,
+      "endMs": 11602,
+      "verified": true
+    },
+    {
+      "text": "Jugué mucho allí, tengo dos hermanas con las que disfruté una infancia muy linda.",
+      "startMs": 13153,
+      "endMs": 18444,
+      "verified": true
+    },
+    {
+      "text": "Es una casa muy cálida donde cada vez que llego mi mamá, mi papá siempre salen a vernos, y me atienden.",
+      "startMs": 19144,
+      "endMs": 27796,
+      "verified": true
+    },
+    {
+      "text": "Realmente es muy bonito regresar a la casa donde uno naci-, nació o creció.",
+      "startMs": 29096,
+      "endMs": 33967,
+      "verified": true
+    },
+    {
+      "text": "Muchas veces si me quedo un rato allí de repente salgo, y pasa alguien que conozco y que no veía desde hace mucho tiempo.",
+      "startMs": 34407,
+      "endMs": 41159,
+      "verified": true
+    },
+    {
+      "text": "Si va uno a la misa de cerca, donde fue cuando era chica, de repente encuentras caras que vio cuando era chica, y que ya envejecieron.",
+      "startMs": 43559,
+      "endMs": 52071,
+      "verified": true
+    },
+    {
+      "text": "Es bonito, es bonito ver las calles, las casas, la gente que uno conoció y con la que jugó cuando uno fue chico.",
+      "startMs": 52401,
+      "endMs": 60113,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "b02-Count-To-Ten-Isidora-H.mp4",
+  "transcriptHash": "882630b67b709bac88697c419b68e2b53323bec9",
+  "durationMs": 30952,
+  "segments": [
+    {
+      "text": "Voy a partir contando hasta diez.",
+      "startMs": 190,
+      "endMs": 2141,
+      "verified": true
+    },
+    {
+      "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.",
+      "startMs": 2661,
+      "endMs": 7613,
+      "verified": true
+    },
+    {
+      "text": "Y ahora voy a seguir con el alfabeto.",
+      "startMs": 8053,
+      "endMs": 10544,
+      "verified": true
+    },
+    {
+      "text": "A, be, ce, de, e, efe, ge, hache, i, jota, ka, ele, eme, (skips ene), o, pe, cu, ere, ese, te, u, ve, doble be, equis, i griega, zeta.",
+      "startMs": 11395,
+      "endMs": 30272,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

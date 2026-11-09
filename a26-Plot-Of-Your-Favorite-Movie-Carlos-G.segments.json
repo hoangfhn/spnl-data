@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "video": "a26-Plot-Of-Your-Favorite-Movie-Carlos-G.mp4",
+  "transcriptHash": "8794b42330b2190d31902df5f922253670302d8d",
+  "durationMs": 49760,
+  "segments": [
+    {
+      "text": "Me gustó mucho una película llamada \"Powder\" era la que un niño con mucha energía.",
+      "startMs": 30,
+      "endMs": 7973,
+      "verified": true
+    },
+    {
+      "text": "Como él es poderoso al poder utilizar toda su capacidad intelectual, con tanta energía acumulada que tiene él.",
+      "startMs": 11415,
+      "endMs": 18408,
+      "verified": true
+    },
+    {
+      "text": "Y como es el rechazado de toda la sociedad por ser diferente.",
+      "startMs": 20849,
+      "endMs": 24430,
+      "verified": true
+    },
+    {
+      "text": "Y es el...",
+      "startMs": 25120,
+      "endMs": 27031,
+      "verified": false
+    },
+    {
+      "text": "siendo que el es el...",
+      "startMs": 27040,
+      "endMs": 28252,
+      "verified": true
+    },
+    {
+      "text": "pues el prototipo de lo que sería lo...",
+      "startMs": 29742,
+      "endMs": 33150,
+      "verified": true
+    },
+    {
+      "text": "pues lo ideal para hacerlo más feliz y estar mejor.",
+      "startMs": 33170,
+      "endMs": 37815,
+      "verified": true
+    },
+    {
+      "text": "Y vivir bien ese tipo de energía que tenía esa persona.",
+      "startMs": 37846,
+      "endMs": 43320,
+      "verified": true
+    },
+    {
+      "text": "Es muy buena película Powder.",
+      "startMs": 43338,
+      "endMs": 44780,
+      "verified": true
+    },
+    {
+      "text": "\"P O W D E R\".",
+      "startMs": 44798,
+      "endMs": 47459,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

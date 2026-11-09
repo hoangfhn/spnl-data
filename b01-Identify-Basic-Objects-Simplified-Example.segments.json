@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "b01-Identify-Basic-Objects-Simplified-Example.mp4",
+  "transcriptHash": "839073deaee5832abcd1976881ed9f270615baad",
+  "durationMs": 18088,
+  "segments": [
+    {
+      "text": "Tengo aquí las llaves de mi casa que sirven para abrir y cerrar la puerta.",
+      "startMs": 1291,
+      "endMs": 5803,
+      "verified": true
+    },
+    {
+      "text": "Tengo una cartera donde guardo el dinero, las identificaciones y las tarjetas de crédito.",
+      "startMs": 6753,
+      "endMs": 12206,
+      "verified": true
+    },
+    {
+      "text": "También tengo aquí mi bicicleta que sirve para movilizarme en la ciudad.",
+      "startMs": 13016,
+      "endMs": 17358,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

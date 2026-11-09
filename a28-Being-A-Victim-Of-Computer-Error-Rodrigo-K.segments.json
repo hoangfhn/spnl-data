@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a28-Being-A-Victim-Of-Computer-Error-Rodrigo-K.mp4",
+  "transcriptHash": "b131abdb23c921de601b1e01977c1d5d6d246b63",
+  "durationMs": 38011,
+  "segments": [
+    {
+      "text": "Bueno, justamente en el día de hoy llegó a mi casa la cuenta del teléfono de la compañía de que recién contratamos, y salió un cobro que no nos correspondía.",
+      "startMs": 0,
+      "endMs": 7702,
+      "verified": true
+    },
+    {
+      "text": "Lo que yo hice fue llamar por teléfono a la central de, de la compañía, y me dijeron que tenía que ir al, al local dónde podían arreglar mi problema.",
+      "startMs": 8092,
+      "endMs": 16825,
+      "verified": true
+    },
+    {
+      "text": "Allí fui, hablé con el gerente de la tienda, le expliqué el caso, le expliqué que el cargo no correspondía, y después de una media hora de conversaciones y de revisar en el computador lo que me han cargado el terminó que en realidad se habían equivocado, me pidieron disculpas, y me hicieron el descuento que correspondía.",
+      "startMs": 17295,
+      "endMs": 36971,
+      "verified": true
+    },
+    {
+      "text": "Todo bien.",
+      "startMs": 36990,
+      "endMs": 37431,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

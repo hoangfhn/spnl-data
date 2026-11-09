@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "b01-Identify-Basic-Objects-Oswaldo-Z.mp4",
+  "transcriptHash": "d514aba3ceca98905a642e4be565b57f30a1c70e",
+  "durationMs": 31649,
+  "segments": [
+    {
+      "text": "Tengo aquí una pluma que sirve para escribir.",
+      "startMs": 250,
+      "endMs": 3511,
+      "verified": true
+    },
+    {
+      "text": "También tengo un teléfono celular, o portátil, o móvil depende del país donde se esté.",
+      "startMs": 4251,
+      "endMs": 9002,
+      "verified": true
+    },
+    {
+      "text": "Tengo un reloj que sirve para ver la hora.",
+      "startMs": 9633,
+      "endMs": 12784,
+      "verified": true
+    },
+    {
+      "text": "Tengo este cuaderno que sirve para hacer anotaciones, una cartera para guardar dinero y, no sé, las identificaciones, las tijeras que sirven para cortar papel, y finalmente, un libro que sirve para leer.",
+      "startMs": 13214,
+      "endMs": 30849,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

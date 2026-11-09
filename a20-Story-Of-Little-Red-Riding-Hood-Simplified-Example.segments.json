@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a20-Story-Of-Little-Red-Riding-Hood-Simplified-Example.mp4",
+  "transcriptHash": "39bc625b1d145f965f2fa500bee30f660eae9c33",
+  "durationMs": 27330,
+  "segments": [
+    {
+      "text": "La Caperucita Roja vivía con su mamá y un poquito más alejado de su casa vivía la abuelita.",
+      "startMs": 750,
+      "endMs": 7903,
+      "verified": true
+    },
+    {
+      "text": "Un día Caperucita Roja decidió llevar unos dulces a casa de su abuelita.",
+      "startMs": 8673,
+      "endMs": 13565,
+      "verified": true
+    },
+    {
+      "text": "Su mamá le dijo, “no te vayas por el camino más largo por que te podrías encontrar con el lobo”.",
+      "startMs": 14375,
+      "endMs": 22520,
+      "verified": true
+    },
+    {
+      "text": "Pero el lobo era muy astuto y le engañó a Caperucita de todas formas.",
+      "startMs": 22540,
+      "endMs": 27090,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

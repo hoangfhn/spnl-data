@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "video": "b03-Identify-Basic-Colors-Luis-A.mp4",
+  "transcriptHash": "f61a369e4d2cd4d5c1111ee9f3e7cfdc7a34f3c9",
+  "durationMs": 54590,
+  "segments": [
+    {
+      "text": "Este es borgoña.",
+      "startMs": 1420,
+      "endMs": 2740,
+      "verified": true
+    },
+    {
+      "text": "Este es azul.",
+      "startMs": 6931,
+      "endMs": 8362,
+      "verified": true
+    },
+    {
+      "text": "Este es anaranjado.",
+      "startMs": 11712,
+      "endMs": 13402,
+      "verified": true
+    },
+    {
+      "text": "Este es verde.",
+      "startMs": 16263,
+      "endMs": 17723,
+      "verified": true
+    },
+    {
+      "text": "Este es celeste.",
+      "startMs": 20674,
+      "endMs": 22384,
+      "verified": true
+    },
+    {
+      "text": "Este es salmón.",
+      "startMs": 25035,
+      "endMs": 26795,
+      "verified": true
+    },
+    {
+      "text": "Este es amarillo.",
+      "startMs": 29455,
+      "endMs": 31226,
+      "verified": true
+    },
+    {
+      "text": "Este es dorado.",
+      "startMs": 34156,
+      "endMs": 35867,
+      "verified": true
+    },
+    {
+      "text": "Este es naranja claro.",
+      "startMs": 38727,
+      "endMs": 40988,
+      "verified": true
+    },
+    {
+      "text": "Este es café.",
+      "startMs": 43598,
+      "endMs": 45328,
+      "verified": true
+    },
+    {
+      "text": "Este es verde.",
+      "startMs": 48259,
+      "endMs": 49570,
+      "verified": true
+    },
+    {
+      "text": "¡Ups!",
+      "startMs": 49589,
+      "endMs": 50769,
+      "verified": true
+    },
+    {
+      "text": "Y este es negro.",
+      "startMs": 51940,
+      "endMs": 53450,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

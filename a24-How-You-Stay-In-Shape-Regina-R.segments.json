@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a24-How-You-Stay-In-Shape-Regina-R.mp4",
+  "transcriptHash": "b70ac8187dff18eff3cf1ac6b01475e35bfab654",
+  "durationMs": 46626,
+  "segments": [
+    {
+      "text": "Generalmente, cuando las personas me preguntan qué hago para mantener una vida saludable les digo que me gusta mucho hacer ejercicio, me gusta mucho ir al gimnasio, me gusta mucho caminar.",
+      "startMs": 550,
+      "endMs": 14582,
+      "verified": true
+    },
+    {
+      "text": "Generalmente camino con mi esposo o con mis amigos.",
+      "startMs": 15492,
+      "endMs": 18982,
+      "verified": true
+    },
+    {
+      "text": "Pero, como me gusta mucho comer, y tengo muchos amigos mexicanos y un esposo español, que cocina paella, entonces necesito poner atención en la cantidad de la comida.",
+      "startMs": 20012,
+      "endMs": 34904,
+      "verified": true
+    },
+    {
+      "text": "Desayuno: normalmente como un plato más o menos grande, y ceno muy poco, generalmente fruta y verdura.",
+      "startMs": 35654,
+      "endMs": 46006,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

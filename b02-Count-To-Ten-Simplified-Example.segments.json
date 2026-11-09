@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "video": "b02-Count-To-Ten-Simplified-Example.mp4",
+  "transcriptHash": "cdaa6b9b896daa543db6403285bbee6aa3c7906f",
+  "durationMs": 11703,
+  "segments": [
+    {
+      "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.",
+      "startMs": 922,
+      "endMs": 11122,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

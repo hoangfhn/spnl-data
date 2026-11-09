@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a27-Registering-For-University-Courses-Fernando-C.mp4",
+  "transcriptHash": "b36b430df9785c37bc434e3daff24e4f15a90dd7",
+  "durationMs": 55658,
+  "segments": [
+    {
+      "text": "No sé muy bien cómo es el proceso para registrarse en la Universidad de Texas o en alguna universidad de Estados Unidos.",
+      "startMs": 450,
+      "endMs": 6952,
+      "verified": true
+    },
+    {
+      "text": "Pero en Paraguay, primeramente hay un examen de ingreso.",
+      "startMs": 7372,
+      "endMs": 10623,
+      "verified": true
+    },
+    {
+      "text": "Principalmente, estoy describiendo el caso de la Universidad Nacional de Asunción que es la universidad más grande y es la universidad del Estado.",
+      "startMs": 13855,
+      "endMs": 20927,
+      "verified": true
+    },
+    {
+      "text": "Para ingresar ahí, uno se inscribe y luego debe rendir un examen que toma temas como Química, Física, Historia, Geografía y debe alcanzar un puntaje determinado para acceder a la universidad.",
+      "startMs": 21497,
+      "endMs": 38353,
+      "verified": true
+    },
+    {
+      "text": "También están las universidades privadas cuyo sistema de ingreso es menos exigente en cuanto al examen pero también tienen un proceso de exámenes y calificaciones para registrar a los alumnos.",
+      "startMs": 38683,
+      "endMs": 55088,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a28-Being-A-Victim-Of-Computer-Error-Simplified-Example.mp4",
+  "transcriptHash": "b8ae78315d1cc5a95a540d8bb5a46dba4771f466",
+  "durationMs": 27771,
+  "segments": [
+    {
+      "text": "Hemos tenido muchos problemas con nuestra línea telefónica.",
+      "startMs": 670,
+      "endMs": 4642,
+      "verified": true
+    },
+    {
+      "text": "Para empezar tardaron más de un mes en instalarla.",
+      "startMs": 5192,
+      "endMs": 8623,
+      "verified": true
+    },
+    {
+      "text": "Luego insistían en cobrarnos por servicios que no queríamos y ni siquiera teníamos.",
+      "startMs": 9194,
+      "endMs": 15206,
+      "verified": true
+    },
+    {
+      "text": "Y al final cuando decidimos descontinuar su servicio, nos trataron de convencer de que estabamos obligados a seguir con ellos.",
+      "startMs": 15736,
+      "endMs": 25520,
+      "verified": true
+    },
+    {
+      "text": "¡Fue un desastre!",
+      "startMs": 25530,
+      "endMs": 27071,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

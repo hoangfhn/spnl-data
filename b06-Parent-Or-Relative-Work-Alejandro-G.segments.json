@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "b06-Parent-Or-Relative-Work-Alejandro-G.mp4",
+  "transcriptHash": "5f2b85b6736a616e156c2e399c442fbe26b85b5a",
+  "durationMs": 58096,
+  "segments": [
+    {
+      "text": "Mis padres ahora ya no trabajan, pero mi padre en la época en que el trabajaba, tenía un negocio pequeño.",
+      "startMs": 290,
+      "endMs": 7970,
+      "verified": true
+    },
+    {
+      "text": "Y él era el que dirigía el negocio.",
+      "startMs": 7982,
+      "endMs": 12043,
+      "verified": true
+    },
+    {
+      "text": "El negocio era de torcionar barras de construcción para edificios.",
+      "startMs": 12854,
+      "endMs": 17925,
+      "verified": true
+    },
+    {
+      "text": "Los edificios aqu’ en Perú son construidos para resistir temblores y terremotos.",
+      "startMs": 18675,
+      "endMs": 25260,
+      "verified": true
+    },
+    {
+      "text": "Entonces no son construcciones de madera, sino son de cemento y fierro corrobado.",
+      "startMs": 25280,
+      "endMs": 30949,
+      "verified": true
+    },
+    {
+      "text": "El trabajo que él hacía era torcionar la barra de construcción aumentándole el límite de fluencia, o sea haciendo la barra más resistente.",
+      "startMs": 32639,
+      "endMs": 42952,
+      "verified": true
+    },
+    {
+      "text": "Entonces los ingenieros podían construir edificios usando barras más económicas, haciéndoles el proceso de torcionado y teniendo el mismo límite de fluencia o resistencia a un menor precio.",
+      "startMs": 43422,
+      "endMs": 57876,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

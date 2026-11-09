@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "a24-How-You-Stay-In-Shape-Rodrigo-K.mp4",
+  "transcriptHash": "c5911e85f6815f8aca28bda2d0f61ce063a56194",
+  "durationMs": 37547,
+  "segments": [
+    {
+      "text": "Bueno cuando la universidad y el tiempo me lo permiten, e, ando harto en bicicleta.",
+      "startMs": 70,
+      "endMs": 4701,
+      "verified": true
+    },
+    {
+      "text": "E, Santiago es una ciudad congestionada pero que los fines de semana permite mucho montar en bici, en la montaña, o en dirección a la costa.",
+      "startMs": 4710,
+      "endMs": 16353,
+      "verified": true
+    },
+    {
+      "text": "Hay partes muy lindas.",
+      "startMs": 16653,
+      "endMs": 17543,
+      "verified": true
+    },
+    {
+      "text": "Uno hace viajes más largos también.",
+      "startMs": 17550,
+      "endMs": 18973,
+      "verified": true
+    },
+    {
+      "text": "E, si se puede, si el tiempo está bueno también se va a trotar.",
+      "startMs": 20594,
+      "endMs": 24904,
+      "verified": false
+    },
+    {
+      "text": "Normalmente voy al gimnasio.",
+      "startMs": 25555,
+      "endMs": 27005,
+      "verified": true
+    },
+    {
+      "text": "Algunas veces juego al tenis en la, en la universidad.",
+      "startMs": 27815,
+      "endMs": 30465,
+      "verified": true
+    },
+    {
+      "text": "Creo que este último tiempo no he podido hacer mucho por, porque no he tenido tiempo, pero generalmente hago ese tipo de cosa.",
+      "startMs": 32076,
+      "endMs": 37427,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

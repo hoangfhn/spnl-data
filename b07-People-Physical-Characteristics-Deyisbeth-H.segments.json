@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "b07-People-Physical-Characteristics-Deyisbeth-H.mp4",
+  "transcriptHash": "d221ae44a7e3586b2286e0a4efc3113114b09db5",
+  "durationMs": 64575,
+  "segments": [
+    {
+      "text": "Bueno, mi hija tiene el pelo castaño claro, tiene ojos pardos, tez blanca, piel muy blanca.",
+      "startMs": 350,
+      "endMs": 11603,
+      "verified": true
+    },
+    {
+      "text": "Tiene estatura mediana, pies bastante grandes, mas tiene las manos muy pequeñas, ¿OK?",
+      "startMs": 13973,
+      "endMs": 23285,
+      "verified": true
+    },
+    {
+      "text": "Vamos a hablar entonces de mi padre.",
+      "startMs": 25476,
+      "endMs": 28046,
+      "verified": true
+    },
+    {
+      "text": "Mi padre es un hombre moreno, canoso.",
+      "startMs": 28256,
+      "endMs": 31147,
+      "verified": true
+    },
+    {
+      "text": "Tiene ojos también pardos.",
+      "startMs": 32017,
+      "endMs": 34268,
+      "verified": true
+    },
+    {
+      "text": "Es de estatura mediana para ser hombre y tiene una nariz bastante puntiaguda, tipo arabesca, labios finos, manos grandes.",
+      "startMs": 36998,
+      "endMs": 56713,
+      "verified": true
+    },
+    {
+      "text": "Y tiene una característica particular que es bastante peludo, ¿OK?",
+      "startMs": 56720,
+      "endMs": 63875,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

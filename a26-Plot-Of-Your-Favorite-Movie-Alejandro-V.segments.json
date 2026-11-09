@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "a26-Plot-Of-Your-Favorite-Movie-Alejandro-V.mp4",
+  "transcriptHash": "a607f278b0fd59a564fa752b720d5987da2a095c",
+  "durationMs": 76045,
+  "segments": [
+    {
+      "text": "Una de mis películas favoritas es Forest Gump.",
+      "startMs": 290,
+      "endMs": 2860,
+      "verified": true
+    },
+    {
+      "text": "Me gusta porque es la vida de un individuo simple, tranquilo, y las cosas se le dan, casi fortuitamente.",
+      "startMs": 3610,
+      "endMs": 12131,
+      "verified": true
+    },
+    {
+      "text": "Es un individuo, que se puede decir, de las personas más sencillas que he conocido, que nació con un problema en sus piernas, y que se sobrepone de ese problema.",
+      "startMs": 12771,
+      "endMs": 25202,
+      "verified": true
+    },
+    {
+      "text": "Se convierte en un gran corredor, en un campeón de ping-pon, después en un pescador también de camarones muy exitoso.",
+      "startMs": 25220,
+      "endMs": 37823,
+      "verified": true
+    },
+    {
+      "text": "Después en un inversionista en la compañía de Apple Computer.",
+      "startMs": 39213,
+      "endMs": 43503,
+      "verified": true
+    },
+    {
+      "text": "La vida de Forest Gump es un tanto cuanto interesante por los personajes que él pudo conocer como Elvis Presley, el presidente Nixon en momento del problema de \"Water Gate\", o Lyndon B.",
+      "startMs": 44493,
+      "endMs": 65405,
+      "verified": true
+    },
+    {
+      "text": "Johnson.",
+      "startMs": 65735,
+      "endMs": 66345,
+      "verified": true
+    },
+    {
+      "text": "Esta película me ha llegado a tocar el corazón por su ternura y por su profundidad.",
+      "startMs": 67585,
+      "endMs": 75575,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

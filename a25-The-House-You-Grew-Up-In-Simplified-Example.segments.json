@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a25-The-House-You-Grew-Up-In-Simplified-Example.mp4",
+  "transcriptHash": "266024307883d0aeb8da072f26ead1d2592a8a32",
+  "durationMs": 19969,
+  "segments": [
+    {
+      "text": "La casa donde viví cuando era niño era muy bonita.",
+      "startMs": 650,
+      "endMs": 4602,
+      "verified": true
+    },
+    {
+      "text": "Era una casa bastante grande y estaba bien decorada.",
+      "startMs": 5132,
+      "endMs": 8804,
+      "verified": true
+    },
+    {
+      "text": "Contabamos con un patio muy amplio donde siempre jugaba con mis hermanos y los vecinos.",
+      "startMs": 9414,
+      "endMs": 15087,
+      "verified": true
+    },
+    {
+      "text": "Desafortunadamente esa casa ya no es de la familia.",
+      "startMs": 15757,
+      "endMs": 19469,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

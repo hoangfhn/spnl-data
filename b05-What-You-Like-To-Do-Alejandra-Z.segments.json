@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "video": "b05-What-You-Like-To-Do-Alejandra-Z.mp4",
+  "transcriptHash": "4aed6b8189ba83804310ad1d0036f1d7726b848c",
+  "durationMs": 75186,
+  "segments": [
+    {
+      "text": "Hay cuatro cosas que me encantan…",
+      "startMs": 650,
+      "endMs": 3230,
+      "verified": true
+    },
+    {
+      "text": "hacer.",
+      "startMs": 3310,
+      "endMs": 4620,
+      "verified": false
+    },
+    {
+      "text": "La una es leer.",
+      "startMs": 4630,
+      "endMs": 5840,
+      "verified": true
+    },
+    {
+      "text": "Me gusta mucho leer poesía o leer novelas.",
+      "startMs": 5850,
+      "endMs": 8970,
+      "verified": true
+    },
+    {
+      "text": "Y paso la mayor parte del tiempo con un libro cuando estoy haciendo la fila en el banco o la fila para comprar algo de comer; siempre tengo un libro conmigo.",
+      "startMs": 8981,
+      "endMs": 21942,
+      "verified": true
+    },
+    {
+      "text": "Pero también me gusta mucho cocinar porque uno de mis sueños es tener más adelante un restaurante de comida criolla ecuatoriana.",
+      "startMs": 22352,
+      "endMs": 30170,
+      "verified": true
+    },
+    {
+      "text": "Y siempre estoy experimentando con la comida y con nuevos ingredientes.",
+      "startMs": 30183,
+      "endMs": 34843,
+      "verified": true
+    },
+    {
+      "text": "También me gusta mucho bailar salsa.",
+      "startMs": 35673,
+      "endMs": 37863,
+      "verified": true
+    },
+    {
+      "text": "Y es algo que lo hago en los fines de semana.",
+      "startMs": 37890,
+      "endMs": 41063,
+      "verified": true
+    },
+    {
+      "text": "Me gusta salir y bailar como…",
+      "startMs": 41293,
+      "endMs": 44434,
+      "verified": true
+    },
+    {
+      "text": "y esto me ayuda a desestresarme y quitarme todo el peso que tengo de los estudios y del trabajo.",
+      "startMs": 44874,
+      "endMs": 52604,
+      "verified": true
+    },
+    {
+      "text": "Y finalmente me gusta hacer manualidades.",
+      "startMs": 53254,
+      "endMs": 55845,
+      "verified": true
+    },
+    {
+      "text": "Mi madre es artesana y por eso yo hago muchas cosas con con las manos.",
+      "startMs": 55955,
+      "endMs": 61005,
+      "verified": true
+    },
+    {
+      "text": "Puedo hacer un poco de cerámica, o de pintura, o de tejer, o de bordado.",
+      "startMs": 61535,
+      "endMs": 66306,
+      "verified": true
+    },
+    {
+      "text": "Y siempre me gusta hacer cosas para adornar la casa o la casa de las personas que quiero.",
+      "startMs": 66596,
+      "endMs": 72266,
+      "verified": true
+    },
+    {
+      "text": "Esas son las cosas que me gustan hacer.",
+      "startMs": 72736,
+      "endMs": 74466,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

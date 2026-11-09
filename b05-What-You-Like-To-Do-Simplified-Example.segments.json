@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "b05-What-You-Like-To-Do-Simplified-Example.mp4",
+  "transcriptHash": "0e410da6e8f9e4d2aa352e53b43a9a20e592ef70",
+  "durationMs": 27167,
+  "segments": [
+    {
+      "text": "Me gustan todos los deportes, pero especialmente la natación.",
+      "startMs": 1050,
+      "endMs": 4861,
+      "verified": true
+    },
+    {
+      "text": "Normalmente, nado dos o tres veces por semana.",
+      "startMs": 5231,
+      "endMs": 8722,
+      "verified": true
+    },
+    {
+      "text": "Otro deporte que me gusta es el tenis.",
+      "startMs": 9113,
+      "endMs": 11743,
+      "verified": true
+    },
+    {
+      "text": "También me gusta el arte.",
+      "startMs": 12093,
+      "endMs": 14444,
+      "verified": true
+    },
+    {
+      "text": "Me gusta ir a conciertos de rock o a conciertos de música clásica, pero cualquier actividad que yo practique, me gusta hacerla con la gente que quiero.",
+      "startMs": 14674,
+      "endMs": 26327,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

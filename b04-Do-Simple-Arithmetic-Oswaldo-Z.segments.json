@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "video": "b04-Do-Simple-Arithmetic-Oswaldo-Z.mp4",
+  "transcriptHash": "69963960227db620ddeb8922b6b9c9d20b7ae667",
+  "durationMs": 56773,
+  "segments": [
+    {
+      "text": "Bien, vamos a ver la suma primero: dos más dos, cuatro.",
+      "startMs": 30,
+      "endMs": 3961,
+      "verified": true
+    },
+    {
+      "text": "Cuatro más dos, seis.",
+      "startMs": 4131,
+      "endMs": 5561,
+      "verified": true
+    },
+    {
+      "text": "Seis más dos ocho, ocho más ocho, 16, 16 más 16, 32. . . .",
+      "startMs": 5821,
+      "endMs": 13880,
+      "verified": true
+    },
+    {
+      "text": "Bien, 32 menos dos, 30.",
+      "startMs": 13900,
+      "endMs": 18194,
+      "verified": true
+    },
+    {
+      "text": "30 menos cinco, eh, 25.",
+      "startMs": 19014,
+      "endMs": 21885,
+      "verified": true
+    },
+    {
+      "text": "20 menos diez, diez.",
+      "startMs": 22475,
+      "endMs": 25646,
+      "verified": false
+    },
+    {
+      "text": "Diez menos seis igual a cuatro, cuatro menos cuatro igual a cero.",
+      "startMs": 26436,
+      "endMs": 31127,
+      "verified": true
+    },
+    {
+      "text": "YÉ dos por dos, cuatro.",
+      "startMs": 32757,
+      "endMs": 35728,
+      "verified": true
+    },
+    {
+      "text": "Cuatro por cuatro 16, 16 por dos, 32.",
+      "startMs": 36398,
+      "endMs": 40979,
+      "verified": true
+    },
+    {
+      "text": "32 por uno, 32.",
+      "startMs": 41119,
+      "endMs": 43730,
+      "verified": true
+    },
+    {
+      "text": "Y la división, 32 entre dos 16, ah 16 entre cuatro igual a cuatro, cuatro entre dos igual a dos, dos entre dos igual a uno.",
+      "startMs": 45440,
+      "endMs": 56313,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a18-Purpose-Of-An-Organization-Diana-P.mp4",
+  "transcriptHash": "b086d770ed2d916f762fbad28a0716f891da64cf",
+  "durationMs": 40496,
+  "segments": [
+    {
+      "text": "Estudio y he trabajado con la Universidad de los Andes, y la Universidad de los Andes tiene un instituto que se llama CIDR que es el Centro de Investigaciones de Desarrollo Regional y Urbano.",
+      "startMs": 1511,
+      "endMs": 13345,
+      "verified": true
+    },
+    {
+      "text": "Es un instituto que se encarga de estudiar el desarrollo y todas las connotaciones que tiene el desarrollo en todas sus dimensionaes: social, política, económica, cultural.",
+      "startMs": 14716,
+      "endMs": 23349,
+      "verified": true
+    },
+    {
+      "text": "Y es muy interesante porque logra hacer un trabajo interdisciplinario .",
+      "startMs": 24500,
+      "endMs": 29331,
+      "verified": true
+    },
+    {
+      "text": "Logra pues poner a las disciplinas como dije como a dialogar entre sí y los resultados que se producen a nivel de investigaciones son muy positivos y muy interesantes.",
+      "startMs": 29912,
+      "endMs": 40336,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

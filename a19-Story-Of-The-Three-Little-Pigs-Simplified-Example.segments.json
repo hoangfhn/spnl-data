@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a19-Story-Of-The-Three-Little-Pigs-Simplified-Example.mp4",
+  "transcriptHash": "7c89178e135fd99e636ce68a3f7c8a9d7affc9bd",
+  "durationMs": 35875,
+  "segments": [
+    {
+      "text": "Les voy a contar de los tres cochinitos y el lobo.",
+      "startMs": 750,
+      "endMs": 3942,
+      "verified": true
+    },
+    {
+      "text": "El primer cochinito construyó su casa de paja y por eso el lobo la destruyó facilmente.",
+      "startMs": 4732,
+      "endMs": 10704,
+      "verified": true
+    },
+    {
+      "text": "Entonces, el primer cochinito huyó a la casa de su hermano quién había construido su casa de palos.",
+      "startMs": 11555,
+      "endMs": 18147,
+      "verified": true
+    },
+    {
+      "text": "Le costó más trabajo, pero al final el lobo logró destruir esta casa también.",
+      "startMs": 19018,
+      "endMs": 23890,
+      "verified": true
+    },
+    {
+      "text": "Los dos cochinitos escaparon y fueron a la casa de su hermano, el más trabajador.",
+      "startMs": 24760,
+      "endMs": 30433,
+      "verified": true
+    },
+    {
+      "text": "Éste había construido su casa de ladrillo de modo que el lobo no pudo destruirla.",
+      "startMs": 31213,
+      "endMs": 35675,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

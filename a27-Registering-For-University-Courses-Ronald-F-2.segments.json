@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a27-Registering-For-University-Courses-Ronald-F-2.mp4",
+  "transcriptHash": "c8a9f85cd3561c91d8735e247dabaf064f85bcff",
+  "durationMs": 31835,
+  "segments": [
+    {
+      "text": "Yo quería llevar dos cursos ese semestre, sin embargo, ambos estaban en el mismo horario.",
+      "startMs": 0,
+      "endMs": 7864,
+      "verified": true
+    },
+    {
+      "text": "Quería encontrar una salida para ello, y tuve que hablar con mi mentor para lograr encontrar una salida.",
+      "startMs": 8514,
+      "endMs": 15227,
+      "verified": true
+    },
+    {
+      "text": "El problema es que uno era sólo de, era un curso presencial, y el otro era un curso dirigido que no demandaba que yo estuviera en ese curso todo el tiempo.",
+      "startMs": 15797,
+      "endMs": 25071,
+      "verified": true
+    },
+    {
+      "text": "Se podían conjugar los horarios pero la computadora no lo dejó.",
+      "startMs": 25762,
+      "endMs": 29473,
+      "verified": true
+    },
+    {
+      "text": "¿Qué podíamos hacer?",
+      "startMs": 29490,
+      "endMs": 31114,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

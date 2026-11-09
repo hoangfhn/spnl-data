@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "b03-Identify-Basic-Colors-Daniela-T.mp4",
+  "transcriptHash": "b26de97d93e4b34f0474e88e6e39fa5da55e30ff",
+  "durationMs": 34598,
+  "segments": [
+    {
+      "text": "Esto es un marcador amarillo.",
+      "startMs": 1571,
+      "endMs": 4202,
+      "verified": true
+    },
+    {
+      "text": "Esto es un marcador verde.",
+      "startMs": 6343,
+      "endMs": 9445,
+      "verified": true
+    },
+    {
+      "text": "Lapicera negra con gris.",
+      "startMs": 11916,
+      "endMs": 15088,
+      "verified": true
+    },
+    {
+      "text": "Lápiz azul.",
+      "startMs": 17319,
+      "endMs": 19770,
+      "verified": true
+    },
+    {
+      "text": "Lápiz rojo.",
+      "startMs": 21701,
+      "endMs": 23632,
+      "verified": false
+    },
+    {
+      "text": "Esto es un lápiz mecánico negro.",
+      "startMs": 26384,
+      "endMs": 29595,
+      "verified": true
+    },
+    {
+      "text": "Marcador rojo.",
+      "startMs": 31526,
+      "endMs": 33217,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

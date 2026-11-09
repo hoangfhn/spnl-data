@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a25-The-House-You-Grew-Up-In-Cesar-E.mp4",
+  "transcriptHash": "79a1dd6bc53b4dcc4ebd482b651715aa92683996",
+  "durationMs": 47299,
+  "segments": [
+    {
+      "text": "Yo nací en la provincia de Yungay, departamento de Ancash, conocido como la Suiza peruana.",
+      "startMs": 0,
+      "endMs": 8804,
+      "verified": true
+    },
+    {
+      "text": "Esa casa donde nací, bueno en la actualidad no existe.",
+      "startMs": 10594,
+      "endMs": 16587,
+      "verified": true
+    },
+    {
+      "text": "Fue una casa muy amplia, con patio interior, jardín afuera y bueno de material no podemos decir 'noble,' porque bueno eran construcciones antiguas.",
+      "startMs": 18037,
+      "endMs": 33574,
+      "verified": true
+    },
+    {
+      "text": "Pero tenía todas sus comodidades, sensiblemente esa casa desapareció con el alud del año de 1970 en que se borró todo el pueblo de Yungay.",
+      "startMs": 34604,
+      "endMs": 46579,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

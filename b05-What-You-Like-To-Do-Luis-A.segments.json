@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "video": "b05-What-You-Like-To-Do-Luis-A.mp4",
+  "transcriptHash": "e25268bf7e2b3eddc56e11b11d40258b0781e5a5",
+  "durationMs": 45604,
+  "segments": [
+    {
+      "text": "A mí me gusta mucho lo que yo hago.",
+      "startMs": 0,
+      "endMs": 3742,
+      "verified": true
+    },
+    {
+      "text": "Yo soy diseñador de luces para teatro, para espectáculos en general.",
+      "startMs": 3760,
+      "endMs": 7204,
+      "verified": true
+    },
+    {
+      "text": "Me gusta mucho trabajar con luces, con gente también.",
+      "startMs": 7414,
+      "endMs": 10976,
+      "verified": true
+    },
+    {
+      "text": "En mi tiempo libre me gusta escuchar música, de todo tipo de música.",
+      "startMs": 12196,
+      "endMs": 15968,
+      "verified": true
+    },
+    {
+      "text": "Me gusta mucho leer.",
+      "startMs": 16439,
+      "endMs": 17689,
+      "verified": true
+    },
+    {
+      "text": "Leo bastante.",
+      "startMs": 18000,
+      "endMs": 18980,
+      "verified": true
+    },
+    {
+      "text": "Otra cosa que me gusta mucho hacer es jugar con mi hijo, revolcarnos en la cama, jugar de luchas.",
+      "startMs": 20241,
+      "endMs": 25133,
+      "verified": true
+    },
+    {
+      "text": "Me gusta mucho estar afuera.",
+      "startMs": 26824,
+      "endMs": 28075,
+      "verified": true
+    },
+    {
+      "text": "Salir cuando el clima, cuando el clima lo permite; ir a caminar, a ver cosas diferentes.",
+      "startMs": 28285,
+      "endMs": 34558,
+      "verified": true
+    },
+    {
+      "text": "Y me gusta montones, lo que sí de verdad me gusta más es viajar, ir y conocer lugares nuevos, conocer gente nueva, montarme en un avión y estar en otro lado, o montarse en un bus e ir bien lejos.",
+      "startMs": 34570,
+      "endMs": 45184,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

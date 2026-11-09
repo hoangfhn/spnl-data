@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "video": "b02-Count-To-Ten-Carlos-P.mp4",
+  "transcriptHash": "cdaa6b9b896daa543db6403285bbee6aa3c7906f",
+  "durationMs": 8197,
+  "segments": [
+    {
+      "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.",
+      "startMs": 381,
+      "endMs": 7736,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

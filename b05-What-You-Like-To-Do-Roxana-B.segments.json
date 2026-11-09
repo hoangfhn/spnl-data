@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "b05-What-You-Like-To-Do-Roxana-B.mp4",
+  "transcriptHash": "ff38f7ea7f5c9c69d902c8db9584ea4a087ba6e8",
+  "durationMs": 18855,
+  "segments": [
+    {
+      "text": "Bueno algo que me gusta muchísimo hacer los fines de semana es salir de Santiago, porque hay mucha contaminación.",
+      "startMs": 90,
+      "endMs": 6270,
+      "verified": true
+    },
+    {
+      "text": "Entonces me gusta ir a la playa, o visitar algún pueblito cercano, comer afuera, al aire libre, disfrutar de la naturaleza, y ver algo que no conozco, conocer algo nuevo.",
+      "startMs": 6285,
+      "endMs": 18414,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

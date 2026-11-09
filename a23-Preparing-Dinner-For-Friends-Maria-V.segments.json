@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "a23-Preparing-Dinner-For-Friends-Maria-V.mp4",
+  "transcriptHash": "6792f9515f8efeb368ac6737929aaa1f076221c3",
+  "durationMs": 35318,
+  "segments": [
+    {
+      "text": "Para recibir a mis amigos en una cena especial en mi casa, pues tengo que checar suficientes detalles para que ellos se sientan contentos, que no sientan que están en un lugar ajeno, que sientan que están en su propia casa.",
+      "startMs": 30,
+      "endMs": 12846,
+      "verified": true
+    },
+    {
+      "text": "Entonces, cuido detalles como lo es la bebida, la comida, el ambiente, la música, la decoración de la casa, la distribución en la mesa, para que...",
+      "startMs": 12850,
+      "endMs": 25032,
+      "verified": true
+    },
+    {
+      "text": "si quedan personas que son muy calladas, estén intercaladas con personas que son más conversadoras, más sociables y pueda haber un intercambio, un ambiente agradable en esta reunión.",
+      "startMs": 25050,
+      "endMs": 34277,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

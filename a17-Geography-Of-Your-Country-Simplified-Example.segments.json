@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a17-Geography-Of-Your-Country-Simplified-Example.mp4",
+  "transcriptHash": "d443a52b40acbbc42d4854d0883a18b984c466fd",
+  "durationMs": 37895,
+  "segments": [
+    {
+      "text": "La geografía de México es muy variada.",
+      "startMs": 260,
+      "endMs": 3701,
+      "verified": true
+    },
+    {
+      "text": "Es un país bastante montañoso, pero hay, también altiplanos o llanuras.",
+      "startMs": 4852,
+      "endMs": 12005,
+      "verified": true
+    },
+    {
+      "text": "En general, el noroeste, el centro y el sur del país son montañosos y el noreste y Yucatán son planos.",
+      "startMs": 12010,
+      "endMs": 24870,
+      "verified": true
+    },
+    {
+      "text": "Hay desiertos en los estados de Sonora y Chihuahua y hay muy buenas playas por toda la costa pacífica y el Caribe.",
+      "startMs": 26310,
+      "endMs": 37215,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

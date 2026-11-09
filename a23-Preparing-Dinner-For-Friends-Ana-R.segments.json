@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a23-Preparing-Dinner-For-Friends-Ana-R.mp4",
+  "transcriptHash": "31f51755a52880b5946ebcf88bff1c38a5c00769",
+  "durationMs": 58607,
+  "segments": [
+    {
+      "text": "Lo primero que tendríamos que saber, si yo voy a hacer una fiesta, cuántas personas van a asistir.",
+      "startMs": 350,
+      "endMs": 6041,
+      "verified": true
+    },
+    {
+      "text": "Y después, mirar el grupo de invitados y poder saber más o menos que clase de comida a ellos les gustaría que yo les ofreciera.",
+      "startMs": 6531,
+      "endMs": 18902,
+      "verified": true
+    },
+    {
+      "text": "Así que pensando en eso a lo mejor vamos a hacer una comida en base - primero una entrada - en base a marisco y pescado que es lo que tenemos más cerca.",
+      "startMs": 19472,
+      "endMs": 30924,
+      "verified": true
+    },
+    {
+      "text": "En segunda lugar prepararía una rica carne acompañada de mucha ensalada de papas, y, y un postre, generalmente un postre preparado, algún ¿**?",
+      "startMs": 31274,
+      "endMs": 45970,
+      "verified": true
+    },
+    {
+      "text": "Postre en realidad a base de frutas naturales con helado.",
+      "startMs": 45990,
+      "endMs": 51926,
+      "verified": true
+    },
+    {
+      "text": "Y por ultimo, un rico café acompañado de chocolates.",
+      "startMs": 51940,
+      "endMs": 57947,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

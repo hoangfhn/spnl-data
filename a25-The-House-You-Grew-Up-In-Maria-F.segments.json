@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "a25-The-House-You-Grew-Up-In-Maria-F.mp4",
+  "transcriptHash": "2bea5cd3f26820b8ed125a700186703ea8a7131d",
+  "durationMs": 55217,
+  "segments": [
+    {
+      "text": "Bueno yo soy de España y por el trabajo de mi padre nos hemos mudado de una ciudad hacia otra al menos cinco veces.",
+      "startMs": 30,
+      "endMs": 11173,
+      "verified": true
+    },
+    {
+      "text": "Pero bueno, la casa que más recuerdos tengo es la casa que tenemos en Valladolid.",
+      "startMs": 11954,
+      "endMs": 17665,
+      "verified": true
+    },
+    {
+      "text": "Esa casa está en un vecindario pequeño.",
+      "startMs": 19236,
+      "endMs": 21647,
+      "verified": true
+    },
+    {
+      "text": "Es así muy familiar, todos los vecinos se conocen.",
+      "startMs": 21660,
+      "endMs": 24638,
+      "verified": true
+    },
+    {
+      "text": "Más que casa es un apartamento.",
+      "startMs": 26198,
+      "endMs": 27859,
+      "verified": true
+    },
+    {
+      "text": "En España es más común vivir en un apartamento que en una casa grande como la de los Estados Unidos.",
+      "startMs": 27939,
+      "endMs": 33730,
+      "verified": true
+    },
+    {
+      "text": "Tiene cuatro habitaciones y dos baños.",
+      "startMs": 36361,
+      "endMs": 40072,
+      "verified": true
+    },
+    {
+      "text": "Vivíamos allí cinco personas, mis dos hermanos y mis padres.",
+      "startMs": 40323,
+      "endMs": 45874,
+      "verified": true
+    },
+    {
+      "text": "Y nada, es un apartamento muy pequeño pero muy acogedor.",
+      "startMs": 47185,
+      "endMs": 54917,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

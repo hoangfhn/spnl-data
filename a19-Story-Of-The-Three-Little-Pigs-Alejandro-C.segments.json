@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "video": "a19-Story-Of-The-Three-Little-Pigs-Alejandro-C.mp4",
+  "transcriptHash": "9f04d5694f7f61bad273686c5b8ec5c88972c355",
+  "durationMs": 82222,
+  "segments": [
+    {
+      "text": "Había una vez tres chanchitos que querían construir su casa.",
+      "startMs": 390,
+      "endMs": 4461,
+      "verified": true
+    },
+    {
+      "text": "De los tres chanchitos, uno era bien trabajador y los otros dos eran bastante vagos.",
+      "startMs": 5422,
+      "endMs": 9943,
+      "verified": true
+    },
+    {
+      "text": "Entonces los dos chanchitos vagos optaron por hacer una casa que les costara poco trabajo y hacerla rápido para después poder dedicarse a jugar.",
+      "startMs": 10413,
+      "endMs": 18265,
+      "verified": true
+    },
+    {
+      "text": "Entonces construyeron, el uno una casa de palitos de madera y el otro construyó una casa de paja.",
+      "startMs": 18515,
+      "endMs": 25207,
+      "verified": true
+    },
+    {
+      "text": "Y el chancho trabajador les decía: “tienen que construir una casa que aguante cuando venga a atacar el lobo”.",
+      "startMs": 25837,
+      "endMs": 31888,
+      "verified": true
+    },
+    {
+      "text": "Entonces él construyó una casa de ladrillos.",
+      "startMs": 31919,
+      "endMs": 33729,
+      "verified": true
+    },
+    {
+      "text": "Entonces construyeron sus casas y llegó el día en que el lobo iba a comerse a los chanchitos.",
+      "startMs": 34579,
+      "endMs": 39651,
+      "verified": true
+    },
+    {
+      "text": "Entonces vino el lobo y sopló y destruyó la casa del chanchito de la casa de paja.",
+      "startMs": 39680,
+      "endMs": 47173,
+      "verified": true
+    },
+    {
+      "text": "Entonces él para que no le coma el lobo fue corriendo y se metió en la casa de su hermano, el chanchito de la casa de palitos de madera.",
+      "startMs": 47423,
+      "endMs": 54855,
+      "verified": true
+    },
+    {
+      "text": "Vino el lobo y otra vez sopló y sopló y se destruyó la casa de palitos de madera.",
+      "startMs": 55305,
+      "endMs": 59420,
+      "verified": true
+    },
+    {
+      "text": "Entonces los dos chanchitos desesperados entraron a la casa de ladrillo de su hermano trabajador.",
+      "startMs": 59436,
+      "endMs": 64937,
+      "verified": true
+    },
+    {
+      "text": "Y el lobo sopló y sopló pero no pudo destruir la casa de él.",
+      "startMs": 65147,
+      "endMs": 68598,
+      "verified": true
+    },
+    {
+      "text": "Entonces ahí lo que hizo el lobo se subió por la chimenea y se intentó meter por ahí.",
+      "startMs": 68888,
+      "endMs": 73970,
+      "verified": true
+    },
+    {
+      "text": "Pero los chanchitos más inteligentes habían puesto una olla con agua caliente de tal modo que entró el lobo y se quemó y no pudo entrar a la casa.",
+      "startMs": 74310,
+      "endMs": 82042,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

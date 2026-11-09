@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a28-Being-A-Victim-Of-Computer-Error-Antonio-F.mp4",
+  "transcriptHash": "04cedff207351382a5bca5ecfe682a812f4c867d",
+  "durationMs": 44838,
+  "segments": [
+    {
+      "text": "Bueno aquí en el sistema de la Universidad de Texas en Austin, que es donde estamos ahora, en algún momento sí tuve un problema con el sistema de computación de la Universidad.",
+      "startMs": 0,
+      "endMs": 14940,
+      "verified": true
+    },
+    {
+      "text": "Parece que por alguna razón no tenía el acceso a todas las páginas en internet a las que yo debería haber accedido como estudiante que era de la Unviersidad.",
+      "startMs": 14960,
+      "endMs": 28150,
+      "verified": true
+    },
+    {
+      "text": "Y ya estaba formando parte del sistema como estudiante y también como instructor asistente ¿No?",
+      "startMs": 28170,
+      "endMs": 34734,
+      "verified": true
+    },
+    {
+      "text": "Eso fue en la primera semana de mi estancia aquí, pero se resolvió rápidamente y nunca supe en realidad por qué fue el error.",
+      "startMs": 36384,
+      "endMs": 44278,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

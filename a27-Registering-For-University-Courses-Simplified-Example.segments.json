@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "a27-Registering-For-University-Courses-Simplified-Example.mp4",
+  "transcriptHash": "7b32e0e5aab83fe08dde119249e3aeaec0e1ef1d",
+  "durationMs": 21571,
+  "segments": [
+    {
+      "text": "Para matricularse en la universidad aquí hay que pasar mucho tiempo esperando.",
+      "startMs": 590,
+      "endMs": 6443,
+      "verified": true
+    },
+    {
+      "text": "Es mejor formarse temprano porque si no, puede tardar aun más y también porque los cursos se llenan.",
+      "startMs": 7114,
+      "endMs": 14888,
+      "verified": true
+    },
+    {
+      "text": "Pero no es todo malo, he conocido varios amigos en las colas mientras esperaba.",
+      "startMs": 15458,
+      "endMs": 20451,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

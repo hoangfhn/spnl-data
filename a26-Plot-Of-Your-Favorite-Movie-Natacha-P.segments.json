@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "a26-Plot-Of-Your-Favorite-Movie-Natacha-P.mp4",
+  "transcriptHash": "787142b7a7310f73e6ec3750585af0d4663cb4d1",
+  "durationMs": 82756,
+  "segments": [
+    {
+      "text": "La película que más me gusta es una película americana que se llama Fightclub, que en español se conoce como el ‘Club de la pelea’.",
+      "startMs": 430,
+      "endMs": 10382,
+      "verified": true
+    },
+    {
+      "text": "La película esta se trata sobre una persona que tiene un conflicto de personalidad y necesita generar a un amigo imaginario para poder realizar las cosas que tienen que ver con la personalidad, las fallas de su personalidad, que él no puede llevar a cabo.",
+      "startMs": 11792,
+      "endMs": 30676,
+      "verified": true
+    },
+    {
+      "text": "Entonces si le gusta una mujer, para conquistar a esa mujer inventa este amigo imaginario el cual la conquista.",
+      "startMs": 31036,
+      "endMs": 38127,
+      "verified": true
+    },
+    {
+      "text": "Y si necesita tener fuerza y poder enfrentar a su jefe piensa en las actitudes que su amigo imaginario tomaría para poder enfrentar a su jefe.",
+      "startMs": 38427,
+      "endMs": 48429,
+      "verified": true
+    },
+    {
+      "text": "Pasan una serie de eventos en los cuales queda claro que algo raro está pasando en esa historia porque al espectador no le parece que ese amigo imaginario sea imaginario sino que existe y es real.",
+      "startMs": 49159,
+      "endMs": 62812,
+      "verified": true
+    },
+    {
+      "text": "Pero a través de esa serie de eventos nuestro personaje que está representado por Edward Norton se da cuenta de que todo estaba en su cabeza, él lo inventó y que no es real.",
+      "startMs": 63242,
+      "endMs": 77040,
+      "verified": true
+    },
+    {
+      "text": "Pero bueno, suceden varias cosas y el final de la película es bastante revelador.",
+      "startMs": 77055,
+      "endMs": 82396,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

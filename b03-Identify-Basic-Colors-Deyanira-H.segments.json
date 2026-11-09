@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "b03-Identify-Basic-Colors-Deyanira-H.mp4",
+  "transcriptHash": "e3584cc7794906fc614208a54705b4839da8fe3d",
+  "durationMs": 49458,
+  "segments": [
+    {
+      "text": "Este es el amarillo, esto es azul, rojo, verde, blanco, negro aquí adentro.",
+      "startMs": 190,
+      "endMs": 14645,
+      "verified": true
+    },
+    {
+      "text": "Aquí tenemos un árbol, el tronco es marrón, las manzanas son rojas con puntos blancos.",
+      "startMs": 20198,
+      "endMs": 27400,
+      "verified": true
+    },
+    {
+      "text": "Las hojas son verdes.",
+      "startMs": 28351,
+      "endMs": 30021,
+      "verified": true
+    },
+    {
+      "text": "El cielo por detrás es azul.",
+      "startMs": 30902,
+      "endMs": 33332,
+      "verified": true
+    },
+    {
+      "text": "La vaca es negra con blanco.",
+      "startMs": 34223,
+      "endMs": 37814,
+      "verified": true
+    },
+    {
+      "text": "Tiene una campana amarilla.",
+      "startMs": 38464,
+      "endMs": 40265,
+      "verified": true
+    },
+    {
+      "text": "Hay una..., la grama es verde y hay una cerca roja.",
+      "startMs": 42146,
+      "endMs": 47618,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

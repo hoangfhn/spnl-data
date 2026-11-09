@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a26-Plot-Of-Your-Favorite-Movie-Alberto-R.mp4",
+  "transcriptHash": "8f7f895f8480fbb6c508ffc79d1fd009828d6cba",
+  "durationMs": 51293,
+  "segments": [
+    {
+      "text": "El argumento de mi, bueno de mi película favorita, es \"Ocho y medio\" de Fellini.",
+      "startMs": 0,
+      "endMs": 7102,
+      "verified": true
+    },
+    {
+      "text": "La ví en italiano, no sé como se dice el título en italiano, pero el argumento es más o menos Fellini mismo intentando hacer una película y, pero todavía no tiene guión.",
+      "startMs": 7372,
+      "endMs": 17344,
+      "verified": true
+    },
+    {
+      "text": "Entonces llama a varios actores, guionistas, productores, y les pregunta qué les parece el guión y sí les parece bueno o no, y los actores se ponen nerviosos porque creen que el guión debería de ser ya escrito y no entienden porque están allí y es en realidad, una, una, una historia autobiográfica de Fellini, ¿no?",
+      "startMs": 17795,
+      "endMs": 35909,
+      "verified": true
+    },
+    {
+      "text": "Está contando, pues, qué es lo que intenta hacer con su vida me imagino, o sea, no sé, la metáfora puede ser, puede entenderse de diversas maneras o pero, pero bueno eso es el argumento favorito no creo que sea muy interesante pero es un argumento bueno.",
+      "startMs": 35920,
+      "endMs": 50313,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

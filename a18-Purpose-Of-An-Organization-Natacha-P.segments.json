@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "a18-Purpose-Of-An-Organization-Natacha-P.mp4",
+  "transcriptHash": "bcb61135345f60cfa9e51a10fbb83ed7f671e899",
+  "durationMs": 69010,
+  "segments": [
+    {
+      "text": "Una organización por la cual a mí me parece muy interesante lo que están haciendo y ayudé en su momento a la formación se llama ‘Manos por el Sur’.",
+      "startMs": 1050,
+      "endMs": 11372,
+      "verified": true
+    },
+    {
+      "text": "Yo soy de Argentina, y esta organización se dedica a juntar dinero a través de donaciones acá en Estados Unidos.",
+      "startMs": 12112,
+      "endMs": 19730,
+      "verified": true
+    },
+    {
+      "text": "Está basada en California.",
+      "startMs": 19743,
+      "endMs": 21523,
+      "verified": true
+    },
+    {
+      "text": "Y a través de las donaciones que hacen los integrantes, se junta dinero para comedores escolares que se encuentran en Argentina.",
+      "startMs": 22093,
+      "endMs": 29664,
+      "verified": true
+    },
+    {
+      "text": "La organización ‘Manos por el Sur’ se dedica a juntar dinero a través de los miembros que hacemos digamos difusión de las actividades.",
+      "startMs": 30654,
+      "endMs": 39510,
+      "verified": true
+    },
+    {
+      "text": "Y cuando se hacen eventos basados en California, en distintas universidad de las cuales los miembros pertenecen se junta dinero también así en donaciones espontáneas.",
+      "startMs": 39526,
+      "endMs": 52407,
+      "verified": true
+    },
+    {
+      "text": "Y ese dinero es donado a los comedores que son administrados generalmente en Argentina por gente que tiene que ver con la iglesia católica.",
+      "startMs": 52777,
+      "endMs": 60358,
+      "verified": true
+    },
+    {
+      "text": "Hasta ahora se ha donado bastante dinero en el transcurso de los dos años que existe la asociación, así que yo estoy contenta con el funcionamiento.",
+      "startMs": 61279,
+      "endMs": 68670,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

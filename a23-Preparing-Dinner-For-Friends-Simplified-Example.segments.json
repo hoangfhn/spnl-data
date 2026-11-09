@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a23-Preparing-Dinner-For-Friends-Simplified-Example.mp4",
+  "transcriptHash": "a67b309d8ade82767391ff548c3c8a715fb247cc",
+  "durationMs": 20805,
+  "segments": [
+    {
+      "text": "Para tener una cena en mi casa es necesario averiguar qué es lo que todos quieren cenar.",
+      "startMs": 770,
+      "endMs": 7162,
+      "verified": true
+    },
+    {
+      "text": "Entonces voy al supermercado para comprar la comida y las bebidas.",
+      "startMs": 7772,
+      "endMs": 12363,
+      "verified": true
+    },
+    {
+      "text": "Hay que cuidar muchos detalles como la música, el ambiente, y la decoración.",
+      "startMs": 12953,
+      "endMs": 18144,
+      "verified": true
+    },
+    {
+      "text": "Puede ser mucho trabajo.",
+      "startMs": 18615,
+      "endMs": 20305,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

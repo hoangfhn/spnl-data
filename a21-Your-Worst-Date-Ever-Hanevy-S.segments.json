@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a21-Your-Worst-Date-Ever-Hanevy-S.mp4",
+  "transcriptHash": "59e776d9ade3f30a7f435525cbb563d8ff3828ef",
+  "durationMs": 23708,
+  "segments": [
+    {
+      "text": "Pues mi cita más avergonzosa fue un día cuando fui con un muchacho al cine y la película estaba tan interesante que me quedé dormida toda la película.",
+      "startMs": 1591,
+      "endMs": 11984,
+      "verified": true
+    },
+    {
+      "text": "Vi el- los títulos del principio y los títulos del final y ya no vi nada porque dormí.",
+      "startMs": 12314,
+      "endMs": 17986,
+      "verified": true
+    },
+    {
+      "text": "Y seguramente babeé y lo demás.",
+      "startMs": 19116,
+      "endMs": 21487,
+      "verified": true
+    },
+    {
+      "text": "Y fue muy avergonzoso.",
+      "startMs": 21577,
+      "endMs": 22767,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

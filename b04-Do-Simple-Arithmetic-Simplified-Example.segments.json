@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "b04-Do-Simple-Arithmetic-Simplified-Example.mp4",
+  "transcriptHash": "2025b747be8c5d1713f3ab7284639141a6851429",
+  "durationMs": 37454,
+  "segments": [
+    {
+      "text": "Cinco más cinco, diez, tres más cinco, ocho, cuatro más nueve, 13.",
+      "startMs": 1000,
+      "endMs": 8303,
+      "verified": true
+    },
+    {
+      "text": "20 menos dos, 18, diez menos cinco, cinco.",
+      "startMs": 9003,
+      "endMs": 15106,
+      "verified": true
+    },
+    {
+      "text": "Cuatro menos tres, uno.",
+      "startMs": 15676,
+      "endMs": 17907,
+      "verified": true
+    },
+    {
+      "text": "Ocho por ocho, 64, tres por cinco, 15, nueve por nueve, 81.",
+      "startMs": 18437,
+      "endMs": 27030,
+      "verified": true
+    },
+    {
+      "text": "12 entre tres, cuatro, diez entre dos, cinco, 80 entre ocho, diez.",
+      "startMs": 27550,
+      "endMs": 36013,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a18-Purpose-Of-An-Organization-Fernando-C.mp4",
+  "transcriptHash": "e27740d855b6163ad0644c3beabb18ebd3533d60",
+  "durationMs": 44629,
+  "segments": [
+    {
+      "text": "El Don Bosco Horoga es una organización religiosa porque pertenece a los salesianos y es un hogar para niños de la calle.",
+      "startMs": 0,
+      "endMs": 12262,
+      "verified": true
+    },
+    {
+      "text": "En Paraguay se dice niños de la calle a aquellos niños que crecen en la calle, sin padres, sin familia, conocido.",
+      "startMs": 12753,
+      "endMs": 21884,
+      "verified": true
+    },
+    {
+      "text": "Entonces esta organización se encarga de darles comida, educación, los cuidan y los crían desde los cinco años más o menos hasta los quince años.",
+      "startMs": 22294,
+      "endMs": 35187,
+      "verified": true
+    },
+    {
+      "text": "Entonces les enseñan un oficio, les enseñan a escribir, a leer.",
+      "startMs": 35357,
+      "endMs": 40398,
+      "verified": true
+    },
+    {
+      "text": "Es un trabajo muy lindo el que ellos hacen en Paraguay.",
+      "startMs": 40668,
+      "endMs": 44249,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

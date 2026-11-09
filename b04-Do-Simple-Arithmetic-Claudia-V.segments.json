@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "b04-Do-Simple-Arithmetic-Claudia-V.mp4",
+  "transcriptHash": "ea3d4c351c60b6ce7f2d8ae6a75f1e862865f890",
+  "durationMs": 23011,
+  "segments": [
+    {
+      "text": "Cuatro por cuatro, 16.",
+      "startMs": 1011,
+      "endMs": 3622,
+      "verified": true
+    },
+    {
+      "text": "Cuatro más cuatro, igual a ocho.",
+      "startMs": 4472,
+      "endMs": 6903,
+      "verified": true
+    },
+    {
+      "text": "14 menos cuatro es igual a diez.",
+      "startMs": 7434,
+      "endMs": 10210,
+      "verified": true
+    },
+    {
+      "text": "20 más cuatro es igual a 24.",
+      "startMs": 10230,
+      "endMs": 12566,
+      "verified": true
+    },
+    {
+      "text": "Cinco por cinco es igual a 25.",
+      "startMs": 13116,
+      "endMs": 15928,
+      "verified": true
+    },
+    {
+      "text": "16 más cinco es igual a 21.",
+      "startMs": 16538,
+      "endMs": 19169,
+      "verified": true
+    },
+    {
+      "text": "23 más tres es igual a 26.",
+      "startMs": 20300,
+      "endMs": 22671,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

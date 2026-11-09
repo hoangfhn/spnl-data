@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "a24-How-You-Stay-In-Shape-Jose-G.mp4",
+  "transcriptHash": "9cd7c35f107013ab215110c618e3ebb09a996de3",
+  "durationMs": 49993,
+  "segments": [
+    {
+      "text": "Este, bueno, lo que yo procuro hacer es levantarme, y darle unas vueltecitas al parque, unas 3 vueltas.",
+      "startMs": 210,
+      "endMs": 10490,
+      "verified": true
+    },
+    {
+      "text": "Y luego vengo y me hecho mi cereal.",
+      "startMs": 10503,
+      "endMs": 13730,
+      "verified": true
+    },
+    {
+      "text": "Y ya me voy a la escuela a las 7:00 de la mañana.",
+      "startMs": 13743,
+      "endMs": 19205,
+      "verified": true
+    },
+    {
+      "text": "O sea que me levanto a las 5:30.",
+      "startMs": 19735,
+      "endMs": 21865,
+      "verified": true
+    },
+    {
+      "text": "Y luego ya me voy a la escuela y llego a la 1:00 p.m.",
+      "startMs": 22736,
+      "endMs": 26587,
+      "verified": true
+    },
+    {
+      "text": "Como, con unas dos tortillitas.",
+      "startMs": 27537,
+      "endMs": 30028,
+      "verified": true
+    },
+    {
+      "text": "Y después, si tengo clase en la tarde me voy a la escuela.",
+      "startMs": 31038,
+      "endMs": 36740,
+      "verified": true
+    },
+    {
+      "text": "Y en la noche, una vez a la semana o dos veces a la semana voy y juego ya sea fútbol o pal-raquet.",
+      "startMs": 36760,
+      "endMs": 45852,
+      "verified": true
+    },
+    {
+      "text": "Y es todo por cinco días.",
+      "startMs": 46962,
+      "endMs": 49192,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

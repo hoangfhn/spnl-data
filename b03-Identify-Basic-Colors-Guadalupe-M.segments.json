@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "b03-Identify-Basic-Colors-Guadalupe-M.mp4",
+  "transcriptHash": "900be21137244689cbfbea454f53cd3f3b7b9add",
+  "durationMs": 18135,
+  "segments": [
+    {
+      "text": "Bueno, vamos a mostrar estas flores.",
+      "startMs": 210,
+      "endMs": 1972,
+      "verified": true
+    },
+    {
+      "text": "Esta flor aquí es amarilla, ésta es color durazno, color naranja, color verde con amarillo y pues nada más.",
+      "startMs": 2252,
+      "endMs": 15773,
+      "verified": true
+    },
+    {
+      "text": "No veo más, más colores.",
+      "startMs": 15803,
+      "endMs": 17494,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

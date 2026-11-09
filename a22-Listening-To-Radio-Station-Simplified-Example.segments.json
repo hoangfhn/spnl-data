@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a22-Listening-To-Radio-Station-Simplified-Example.mp4",
+  "transcriptHash": "46e036e43a2217b12bb11b2eb2b470419444103c",
+  "durationMs": 27562,
+  "segments": [
+    {
+      "text": "Mi programa favorito se llama \"siglo ventiuno\" en la estación nacional aquí en México.",
+      "startMs": 791,
+      "endMs": 6986,
+      "verified": true
+    },
+    {
+      "text": "Ponen música muy moderna y dan mucha información sobre los artistas y acerca de los conciertos que van a haber en el país.",
+      "startMs": 7556,
+      "endMs": 16753,
+      "verified": true
+    },
+    {
+      "text": "Me gusta que pongan música poco conocida y que sepan tanto de los músicos.",
+      "startMs": 17504,
+      "endMs": 22918,
+      "verified": true
+    },
+    {
+      "text": "No es nada comercial y por lo tanto es muy original.",
+      "startMs": 23469,
+      "endMs": 27082,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

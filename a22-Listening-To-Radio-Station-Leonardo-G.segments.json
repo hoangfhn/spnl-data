@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "a22-Listening-To-Radio-Station-Leonardo-G.mp4",
+  "transcriptHash": "81cfda26b4c161adbb1412cbd97b709a0a18085f",
+  "durationMs": 60976,
+  "segments": [
+    {
+      "text": "Bien, uno de los programas que más escucho se llama \"Su casa y otros viajes\".",
+      "startMs": 250,
+      "endMs": 6430,
+      "verified": true
+    },
+    {
+      "text": "Es un programa de información cultural por las mañanas, que cuando me estoy alistando para salir al trabajo.",
+      "startMs": 6450,
+      "endMs": 12723,
+      "verified": true
+    },
+    {
+      "text": "Que es la información sobre las actividades culturales y artísticas que se desarrollan en esta ciudad, la Ciudad de México o en el país.",
+      "startMs": 13153,
+      "endMs": 21886,
+      "verified": true
+    },
+    {
+      "text": "Estrenos de cine, de teatro e información de cartelera sobre museos, sobre películas, sobre galerías, sobre exposiciones, itinerantes, etc.",
+      "startMs": 22616,
+      "endMs": 35909,
+      "verified": true
+    },
+    {
+      "text": "Me gusta, me gusta.",
+      "startMs": 37180,
+      "endMs": 39550,
+      "verified": true
+    },
+    {
+      "text": "Y otro programa que escucho en la noche, que se llama...",
+      "startMs": 39800,
+      "endMs": 43571,
+      "verified": true
+    },
+    {
+      "text": "ay, no, no recuerdo el nombre, pero es...",
+      "startMs": 44351,
+      "endMs": 46832,
+      "verified": true
+    },
+    {
+      "text": "es muy diferente, porque es totalmente durante la noche, y es otro tipo de personas los que lo hace, desde taxistas hasta meseras, policías, guardias, prostitutas, todo tipo de personal que trabaja en la noche.",
+      "startMs": 47042,
+      "endMs": 60495,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

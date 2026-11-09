@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a28-Being-A-Victim-Of-Computer-Error-Diana-P.mp4",
+  "transcriptHash": "aec1971e246a2f8989efee71d2e2b90d6671abfe",
+  "durationMs": 51757,
+  "segments": [
+    {
+      "text": "Bueno yo soy arquitecta y cuando estaba en mi último semestre haciendo la tesis que es la parte más complicada de todas, tenía que entregar—hacer mi entrega final al día siguiente, estaba terminando mis planos con un dibujo—con un programa de dibujo, para ese entonces todavía estaba muy recién inventado.",
+      "startMs": 0,
+      "endMs": 27889,
+      "verified": true
+    },
+    {
+      "text": "Supuestamente lo había hecho todo, guardé todo los documentos pero cuando empecé a reabirlos para modificar, para hacer las últimas modificaciones que tenía que hacer me di cuenta que no había grabado nada.",
+      "startMs": 29540,
+      "endMs": 40980,
+      "verified": true
+    },
+    {
+      "text": "Me tocó volver a empezar a hacer todos los planos de nuevo un día antes de la entrega, tres de la mañana.",
+      "startMs": 41004,
+      "endMs": 47376,
+      "verified": true
+    },
+    {
+      "text": "Fue fatal.",
+      "startMs": 49387,
+      "endMs": 50227,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

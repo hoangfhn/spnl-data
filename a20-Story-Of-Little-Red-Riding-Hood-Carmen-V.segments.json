@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "video": "a20-Story-Of-Little-Red-Riding-Hood-Carmen-V.mp4",
+  "transcriptHash": "80b0d75f8249c465ca64278eb9314137324c05f7",
+  "durationMs": 179630,
+  "segments": [
+    {
+      "text": "Bueno este es el cuento de la Caperucita Roja.",
+      "startMs": 0,
+      "endMs": 3000,
+      "verified": false
+    },
+    {
+      "text": "Se trata de una niña que vivía con su mamá y un poquito más alejado de su casa vivía la abuelita, ¿no?",
+      "startMs": 3330,
+      "endMs": 11561,
+      "verified": true
+    },
+    {
+      "text": "Y un día la mamá la manda con una cestita y pastelitos para que le visitara a su abuelita.",
+      "startMs": 11831,
+      "endMs": 18871,
+      "verified": true
+    },
+    {
+      "text": "Pero le dice, \"No te vayas por el camino más largo.",
+      "startMs": 19171,
+      "endMs": 23731,
+      "verified": true
+    },
+    {
+      "text": "Te vas por el camino corto porque por el camino largo te puedes encontrar con el lobo.\" Como todos los niños Caperucita no era muy obediente.",
+      "startMs": 23760,
+      "endMs": 32572,
+      "verified": true
+    },
+    {
+      "text": "Se fue, y se fue por el camino más largo y tal como le dijo su mamá se encontró con el lobo.",
+      "startMs": 33072,
+      "endMs": 40362,
+      "verified": true
+    },
+    {
+      "text": "Y este lobo que era muy astuto, se hizo muy simpático para hacerse su amigo de Caperucita.",
+      "startMs": 41252,
+      "endMs": 46982,
+      "verified": true
+    },
+    {
+      "text": "Y le dijo, \"¿Adónde vas Caperucita?",
+      "startMs": 47413,
+      "endMs": 49733,
+      "verified": true
+    },
+    {
+      "text": "Yo te puedo ayudar, te puedo acompañar.\" Caperucita se engañó al ver qué simpático era el lobo y le dijo de que se iba a dejar unos pastelitos a su abuelita.",
+      "startMs": 49993,
+      "endMs": 65884,
+      "verified": false
+    },
+    {
+      "text": "El lobo, muy astuto, se despidió de ella y se fue corriendo por el camino corto hasta la casa de la abuelita.",
+      "startMs": 66474,
+      "endMs": 73464,
+      "verified": true
+    },
+    {
+      "text": "Tocó la puerta de la anciana, entró con engaños, y simplemente se la comió, se vistió con su ropa de ella y se metió en la cama para esperar a Caperucita.",
+      "startMs": 73994,
+      "endMs": 84805,
+      "verified": true
+    },
+    {
+      "text": "Caperucita llegó saltando y brincando muy contenta y tocó a la puerta.",
+      "startMs": 85295,
+      "endMs": 90025,
+      "verified": true
+    },
+    {
+      "text": "Entró, tal como le dijo el lobo, \"Pasa Caperucita.\" Entonces ella notó algo raro y le dijo --\"Ay abuelita, ¡pero qué ojos más grandes tienes!\" -- \"Ay,\" le dice que “es para verte mejor.\" – \"¡Pero qué orejas más grandes tienes!\" – \"Es para oírte mejor.\" – \"Pero, ¡qué manos tan grandes tienes!\" -- \"Es para abrazarte mejor.\" -- \"Pero abuelita, ¡qué boca tan grande tienes!\" Y el lobo saltando sobre Caperucita le dijo que \"Es para comerte mejor.\" Y se la comió.",
+      "startMs": 90695,
+      "endMs": 130787,
+      "verified": false
+    },
+    {
+      "text": "Pero tanto batallaban la abuelita y Caperucita dentro de la barriga del lobo que comenzaron a gritar y el lobo tenía unos cólicos tremendos y comenzó a aullar.",
+      "startMs": 132477,
+      "endMs": 142308,
+      "verified": true
+    },
+    {
+      "text": "Y a un cazador que pasaba por ahí y que conocía a la abuelita le parecía raro escuchar tantos ruidos y entró.",
+      "startMs": 142320,
+      "endMs": 150168,
+      "verified": true
+    },
+    {
+      "text": "Y al ver al lobo soplando y no ver a la abuelita, entonces sospechó algo.",
+      "startMs": 150638,
+      "endMs": 155628,
+      "verified": true
+    },
+    {
+      "text": "Ahí no más, le dio un golpazo y escuchó y podía escuchar los gritos de la abuelita y Caperucita.",
+      "startMs": 155718,
+      "endMs": 162649,
+      "verified": true
+    },
+    {
+      "text": "Entonces le cortó la barriga y salió la abuelita y Caperucita viva.",
+      "startMs": 162710,
+      "endMs": 167889,
+      "verified": true
+    },
+    {
+      "text": "Y desde ahí el lobo nunca más volvió a fastidiar en el bosque y Caperucita nunca más volvió a desobedecer a su mamá.",
+      "startMs": 168259,
+      "endMs": 176049,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

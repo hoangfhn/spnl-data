@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "b07-People-Physical-Characteristics-Carlos-M.mp4",
+  "transcriptHash": "ea7d8827a9b9f56c3cd4deb5d5d750ea8a5c28eb",
+  "durationMs": 31347,
+  "segments": [
+    {
+      "text": "Empiezo describiendo a mi hermano.",
+      "startMs": 490,
+      "endMs": 2571,
+      "verified": true
+    },
+    {
+      "text": "Es de, mide aproximadamente 5 pies 10 pulgadas, tez blanca, el pelo marrón, tiene los ojos color marrón claros, pelo lacio no como el mío, que es, este...",
+      "startMs": 3551,
+      "endMs": 22305,
+      "verified": true
+    },
+    {
+      "text": "rizo.",
+      "startMs": 22310,
+      "endMs": 22725,
+      "verified": false
+    },
+    {
+      "text": "A ver qué más, un poquito gordito, parece que le va bien allá con la comida.",
+      "startMs": 23965,
+      "endMs": 31067,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a24-How-You-Stay-In-Shape-Simplified-Example.mp4",
+  "transcriptHash": "3a875a381a12d0c0e759cd4eb0678451c744e372",
+  "durationMs": 22082,
+  "segments": [
+    {
+      "text": "Yo me mentengo en forma haciendo varios ejercicios.",
+      "startMs": 811,
+      "endMs": 4244,
+      "verified": true
+    },
+    {
+      "text": "Levanto pesas cuatro o cinco veces a la semana.",
+      "startMs": 4555,
+      "endMs": 8549,
+      "verified": true
+    },
+    {
+      "text": "Aparte de eso ando en bici dos veces a la semana y juego fútbol los fines de semana.",
+      "startMs": 9179,
+      "endMs": 15696,
+      "verified": true
+    },
+    {
+      "text": "También trato de comer comida saludable.",
+      "startMs": 16527,
+      "endMs": 19429,
+      "verified": true
+    },
+    {
+      "text": "Tengo una dieta balanceada.",
+      "startMs": 19770,
+      "endMs": 21582,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

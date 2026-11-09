@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a18-Purpose-Of-An-Organization-Simplified-Example.mp4",
+  "transcriptHash": "282176460e13273a5a5c71ab90c1e58856dda998",
+  "durationMs": 25797,
+  "segments": [
+    {
+      "text": "Quiero hablar de un grupo de gente que trabaja aquí en la Alajuela que se llama CONTROL.",
+      "startMs": 931,
+      "endMs": 6584,
+      "verified": true
+    },
+    {
+      "text": "Este grupo se dedica a reducir el número de perros callejeros en la ciudad.",
+      "startMs": 7415,
+      "endMs": 11288,
+      "verified": true
+    },
+    {
+      "text": "Toman estos perros y los vacunan, los cuidan, y les encuentran una familia con quien vivir.",
+      "startMs": 12198,
+      "endMs": 18552,
+      "verified": true
+    },
+    {
+      "text": "Es un servicio muy bueno porque sin ellos la ciudad tendría más problemas.",
+      "startMs": 19423,
+      "endMs": 25737,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

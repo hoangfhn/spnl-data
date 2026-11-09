@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "b06-Parent-Or-Relative-Work-Regina-R.mp4",
+  "transcriptHash": "6db2dec949ecb6dc0d6cec6e88c7b673a64b9517",
+  "durationMs": 52106,
+  "segments": [
+    {
+      "text": "Mi papá, él es peruano, y él es diplomático.",
+      "startMs": 490,
+      "endMs": 4901,
+      "verified": true
+    },
+    {
+      "text": "Él es embajador del Perú.",
+      "startMs": 5051,
+      "endMs": 7061,
+      "verified": true
+    },
+    {
+      "text": "En este momento mi padre vive en el Perú.",
+      "startMs": 7751,
+      "endMs": 10921,
+      "verified": true
+    },
+    {
+      "text": "Generalmente, mi padre trabaja en otros países de Latino América.",
+      "startMs": 11791,
+      "endMs": 17802,
+      "verified": true
+    },
+    {
+      "text": "Pero cuando mi padre está en el Perú, él trabaja con abogados, él trabaja con personas del gobierno peruano.",
+      "startMs": 18532,
+      "endMs": 28763,
+      "verified": true
+    },
+    {
+      "text": "Una parte muy importante del trabajo de mi padre es que puede conocer diferentes lugares en el mundo.",
+      "startMs": 29593,
+      "endMs": 37784,
+      "verified": true
+    },
+    {
+      "text": "Mi madre, generalmente, se queda en casa.",
+      "startMs": 38694,
+      "endMs": 42245,
+      "verified": true
+    },
+    {
+      "text": "Pero ella ayuda mucho a mi padre porque cuando tienen que viajar tienen que cambiar su vida completamente.",
+      "startMs": 42755,
+      "endMs": 51345,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

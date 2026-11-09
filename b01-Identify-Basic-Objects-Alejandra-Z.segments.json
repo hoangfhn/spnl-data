@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "b01-Identify-Basic-Objects-Alejandra-Z.mp4",
+  "transcriptHash": "b8d031538e99c380726eaf450ae3216e109552f7",
+  "durationMs": 68476,
+  "segments": [
+    {
+      "text": "Hoy vamos a aprender los nombres de algunos utensilios de cocina.",
+      "startMs": 670,
+      "endMs": 4681,
+      "verified": true
+    },
+    {
+      "text": "En primer lugar tenemos la cuchara sopera, que es más grande y sirve para normalmente tomar la sopa.",
+      "startMs": 6211,
+      "endMs": 13743,
+      "verified": true
+    },
+    {
+      "text": "Tenemos la cucharita es más pequeña, la usamos para endulzar el café o el té.",
+      "startMs": 14613,
+      "endMs": 22085,
+      "verified": true
+    },
+    {
+      "text": "Y hay otra más pequeña que es la cuchara de té.",
+      "startMs": 22455,
+      "endMs": 27286,
+      "verified": true
+    },
+    {
+      "text": "Tenemos además el tenedor y su compañero el cuchillo.",
+      "startMs": 27836,
+      "endMs": 37210,
+      "verified": true
+    },
+    {
+      "text": "El conjunto se conoce como cubiertos.",
+      "startMs": 37229,
+      "endMs": 40839,
+      "verified": true
+    },
+    {
+      "text": "Tenemos además la espátula, tenemos el sacacorchos para abrir las botellas de vino.",
+      "startMs": 41139,
+      "endMs": 49291,
+      "verified": true
+    },
+    {
+      "text": "Y tenemos también un juego de tazas para medir Esta taza mide una-una taza completa, esta de acá es media taza y la más pequeña es un cuarto de taza.",
+      "startMs": 50862,
+      "endMs": 66915,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "a26-Plot-Of-Your-Favorite-Movie-Antonio-F.mp4",
+  "transcriptHash": "7194854f0b2ab25abe678d3ad1ab58e1a8d711b7",
+  "durationMs": 53870,
+  "segments": [
+    {
+      "text": "Bueno me gustan muchas películas, pero hay una película cubana que siempre vuelvo a ver y siempre le encuentro algo.",
+      "startMs": 0,
+      "endMs": 8062,
+      "verified": true
+    },
+    {
+      "text": "Y es una película cubana que se produjo entre el año 1970 y 1971.",
+      "startMs": 8192,
+      "endMs": 16683,
+      "verified": true
+    },
+    {
+      "text": "Se llama <Memorias del subdesarrollo>.",
+      "startMs": 16820,
+      "endMs": 18684,
+      "verified": true
+    },
+    {
+      "text": "Y está basada en una novela que tiene el mismo título.",
+      "startMs": 19134,
+      "endMs": 21444,
+      "verified": true
+    },
+    {
+      "text": "La novela es de Edmundo Desnoes y la película la dirige Tomás Alejandro G.",
+      "startMs": 22534,
+      "endMs": 26205,
+      "verified": false
+    },
+    {
+      "text": "Alea.",
+      "startMs": 26210,
+      "endMs": 26645,
+      "verified": true
+    },
+    {
+      "text": "Y es una película que habla del cambio en Cuba de los años cincuenta a los años sesenta.",
+      "startMs": 27795,
+      "endMs": 33266,
+      "verified": true
+    },
+    {
+      "text": "Los primeros años de la revolución del año cincuenta y nueve.",
+      "startMs": 34257,
+      "endMs": 36767,
+      "verified": true
+    },
+    {
+      "text": "Y el personaje central de la película es una persona, un hombre que está tratando de adaptarse a la nueva situación social y política del país y tiene una distancia de esa realidad, al mismo tiempo que está intentando comprenderla y participar de ella.",
+      "startMs": 36780,
+      "endMs": 53610,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

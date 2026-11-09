@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "b04-Do-Simple-Arithmetic-Ronaldo-F.mp4",
+  "transcriptHash": "a24867682f4208996726bfe3f1ff472af6883983",
+  "durationMs": 58468,
+  "segments": [
+    {
+      "text": "Algunas operaciones básicas: dos más dos, cuatro.",
+      "startMs": 940,
+      "endMs": 5481,
+      "verified": true
+    },
+    {
+      "text": "Tres más dos, cinco.",
+      "startMs": 5490,
+      "endMs": 7161,
+      "verified": true
+    },
+    {
+      "text": "Ocho más cuatro, 13, ¡Ah!",
+      "startMs": 7971,
+      "endMs": 10910,
+      "verified": true
+    },
+    {
+      "text": "¡No!",
+      "startMs": 10930,
+      "endMs": 11402,
+      "verified": true
+    },
+    {
+      "text": "¿Cuánto es?",
+      "startMs": 11652,
+      "endMs": 14302,
+      "verified": true
+    },
+    {
+      "text": "Vamos a pasar a substracción, o resta, diez menos cuatro, seis, 14 menos siete, siete, 17 menos cuatro, 13, 20 menos 14 es tres (se ve confundido) A una otra, otra operación, cuatro por cuatro, 16, cuatro por tres, 12, cinco por cinco, 25, uno por uno, dos (sonríe). . .",
+      "startMs": 14310,
+      "endMs": 47870,
+      "verified": false
+    },
+    {
+      "text": "División, dos dividido entre uno, cuatro dividido entre tres, 12 dividido entre cuatro.",
+      "startMs": 47886,
+      "endMs": 58168,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

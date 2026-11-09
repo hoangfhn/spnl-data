@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "a28-Being-A-Victim-Of-Computer-Error-Teresa-C.mp4",
+  "transcriptHash": "57b3acdc5b53a49884165f015a201a70d69ca8da",
+  "durationMs": 60418,
+  "segments": [
+    {
+      "text": "A ver.",
+      "startMs": 30,
+      "endMs": 1790,
+      "verified": false
+    },
+    {
+      "text": "Cuando estaba preparando el trabajo por el que llegué a Austin tenía que hacer las presentaciones preliminares delante de un grupo bastante importante digamos, delante de una comisión a la que por lo menos yo le tenía su buen pavor.",
+      "startMs": 1810,
+      "endMs": 19186,
+      "verified": true
+    },
+    {
+      "text": "Llego con mi powerpoint listo, preparado.",
+      "startMs": 20976,
+      "endMs": 23667,
+      "verified": true
+    },
+    {
+      "text": "No sé si ustedes han escuchado que hay que llevar dos diskettes, mandarse por correo las cosas…",
+      "startMs": 23687,
+      "endMs": 26868,
+      "verified": true
+    },
+    {
+      "text": "bueno, es verdad.",
+      "startMs": 26870,
+      "endMs": 27488,
+      "verified": true
+    },
+    {
+      "text": "Llegué con dos diskettes, los dos diskettes no funcionaron.",
+      "startMs": 28519,
+      "endMs": 31059,
+      "verified": false
+    },
+    {
+      "text": "Era la primera que presentaba, estaban todos sentados , yo intentaba abrir el powerpoint y no se abría, y no se abría, y no se abría.",
+      "startMs": 31460,
+      "endMs": 38312,
+      "verified": true
+    },
+    {
+      "text": "Y tuve que salir de la sala, ir a pedir por teléfono que me mandaran el archivo, sacarlo, meterlo en el computador mientras la comisión esperaba y esperaba y esperaba que la niña lograra tener todas las cosas listas.",
+      "startMs": 40342,
+      "endMs": 55610,
+      "verified": true
+    },
+    {
+      "text": "O sea, fue un feo momento en realidad, no sé cómo llegué acá después de eso.",
+      "startMs": 55630,
+      "endMs": 59618,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

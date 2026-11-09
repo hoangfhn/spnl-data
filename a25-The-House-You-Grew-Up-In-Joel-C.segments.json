@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "a25-The-House-You-Grew-Up-In-Joel-C.mp4",
+  "transcriptHash": "9654c410ced9da9e16f2af6e8437fe194bbf8091",
+  "durationMs": 48298,
+  "segments": [
+    {
+      "text": "La casa donde yo habité de pequeño era una casa en realidad grande.",
+      "startMs": 450,
+      "endMs": 4021,
+      "verified": true
+    },
+    {
+      "text": "La cual contábamos con un jardín que podría decir que era de unos 30 metros cuadrados de puro jardín.",
+      "startMs": 4452,
+      "endMs": 10430,
+      "verified": true
+    },
+    {
+      "text": "Donde contábamos con lo que era una bugambilia, era un árbol grande, un eucalipto.",
+      "startMs": 10450,
+      "endMs": 17066,
+      "verified": true
+    },
+    {
+      "text": "Teníamos también un higo, una granada, y el cual estaba lleno de pasto, todo, todo, todo.",
+      "startMs": 17516,
+      "endMs": 23468,
+      "verified": true
+    },
+    {
+      "text": "En realidad describo esta casa porque era muy grande, a pesar de que yo era pequeño.",
+      "startMs": 23679,
+      "endMs": 29231,
+      "verified": true
+    },
+    {
+      "text": "Cuando yo era pequeño la veía enorme, ahora la veo solamente grande.",
+      "startMs": 29521,
+      "endMs": 33072,
+      "verified": true
+    },
+    {
+      "text": "En el cual yo podía correr junto con mi perro.",
+      "startMs": 33562,
+      "endMs": 35853,
+      "verified": true
+    },
+    {
+      "text": "La casa, lo que era casa-habitación, también yo contaba con mi cuarto, mis hermanas con su cuarto, y mis padres con su cuarto.",
+      "startMs": 36923,
+      "endMs": 43076,
+      "verified": true
+    },
+    {
+      "text": "Y podría decir que era una casa en realidad enorme, y hasta ahorita lo sigo diciendo.",
+      "startMs": 43266,
+      "endMs": 47777,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

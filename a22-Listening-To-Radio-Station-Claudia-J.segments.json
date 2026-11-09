@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "a22-Listening-To-Radio-Station-Claudia-J.mp4",
+  "transcriptHash": "7b704142fe6f38261026152b85b02bce4ebcc6d9",
+  "durationMs": 22965,
+  "segments": [
+    {
+      "text": "Bueno, a mí me gusta escuchar Radio Ritmo, es una emisora aquí en Lima.",
+      "startMs": 351,
+      "endMs": 5326,
+      "verified": true
+    },
+    {
+      "text": "Pasa, bueno, música variada, baladas, rock en español, rock en inglés y bueno, y también pasan boleros.",
+      "startMs": 6878,
+      "endMs": 21993,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

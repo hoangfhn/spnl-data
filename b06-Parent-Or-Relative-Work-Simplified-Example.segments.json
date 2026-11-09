@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "b06-Parent-Or-Relative-Work-Simplified-Example.mp4",
+  "transcriptHash": "10b8ec9b2fc8adb81488d105f42b5ad5c01f9b36",
+  "durationMs": 28166,
+  "segments": [
+    {
+      "text": "Aunque mis padres ya están jubilados, en el pasado se dedicaron a actividades muy diferentes.",
+      "startMs": 930,
+      "endMs": 7702,
+      "verified": true
+    },
+    {
+      "text": "Mi padre fue encuadernador.",
+      "startMs": 8492,
+      "endMs": 10142,
+      "verified": true
+    },
+    {
+      "text": "Es decir, se encargaba del proceso de encuadernar libros para su mejor preservación.",
+      "startMs": 10852,
+      "endMs": 16973,
+      "verified": true
+    },
+    {
+      "text": "Desde que yo era niña, él me enseñó su oficio.",
+      "startMs": 18194,
+      "endMs": 21104,
+      "verified": true
+    },
+    {
+      "text": "Gracias a ello puedo ahora encuadernar cualquier libro sin problemas y de manera profesional.",
+      "startMs": 21494,
+      "endMs": 27626,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "a27-Registering-For-University-Courses-Alberto-R.mp4",
+  "transcriptHash": "21417e1dffb504e195a66908044d955327f7d9a4",
+  "durationMs": 27446,
+  "segments": [
+    {
+      "text": "En la universidad complutense hay muchos estudiantes y cuando me intenté matricular en el año, pues no sé, debía de ser el año 1992 por allí, para los cursos estaba allí la cola esperando, esperando, y las colas están muy largas eso es lo que pasa en la universidad complutense, pero había una chica en frente de mi muy simpatica, muy agradable, y ahora es mi novia.",
+      "startMs": 430,
+      "endMs": 21385,
+      "verified": true
+    },
+    {
+      "text": "Así que la conocí en las colas de la, de la matricula de la universidad.",
+      "startMs": 22375,
+      "endMs": 26746,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

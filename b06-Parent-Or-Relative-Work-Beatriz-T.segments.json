@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "b06-Parent-Or-Relative-Work-Beatriz-T.mp4",
+  "transcriptHash": "f23b591f5be2da89e4706852a8e38e9e39405941",
+  "durationMs": 37988,
+  "segments": [
+    {
+      "text": "Mi papá es encuadernador, es decir él se dedica a empastar libros.",
+      "startMs": 10,
+      "endMs": 6501,
+      "verified": true
+    },
+    {
+      "text": "Hace encuadernaciones finas en varios tipos de materiales como piel, telas plásticas, papel.",
+      "startMs": 7792,
+      "endMs": 16423,
+      "verified": true
+    },
+    {
+      "text": "Casi todo su trabajo es hecho a mano, es artesanal más que nada.",
+      "startMs": 19534,
+      "endMs": 24685,
+      "verified": true
+    },
+    {
+      "text": "También restaura libros y me gusta mucho su trabajo.",
+      "startMs": 27256,
+      "endMs": 33247,
+      "verified": true
+    },
+    {
+      "text": "Él nos enseñó a encuadernar desde chiquitas.",
+      "startMs": 33260,
+      "endMs": 37408,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

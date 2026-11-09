@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "video": "b02-Count-To-Ten-Beatriz-T.mp4",
+  "transcriptHash": "cdaa6b9b896daa543db6403285bbee6aa3c7906f",
+  "durationMs": 11146,
+  "segments": [
+    {
+      "text": "Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.",
+      "startMs": 470,
+      "endMs": 10935,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

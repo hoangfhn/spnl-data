@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "b05-What-You-Like-To-Do-Alfredo-C.mp4",
+  "transcriptHash": "edbe8f41a031ff59d6305146544853c549af99a9",
+  "durationMs": 39056,
+  "segments": [
+    {
+      "text": "Bueno, los fines de semana me gusta dedicarlos a la familia.",
+      "startMs": 250,
+      "endMs": 4692,
+      "verified": true
+    },
+    {
+      "text": "Después de toda una semana de trabajo y de estudio, es muy poco el tiempo que me queda para dedicarlo a la familia.",
+      "startMs": 5032,
+      "endMs": 12630,
+      "verified": true
+    },
+    {
+      "text": "Así que el fin de semana me gusta ir a algún parque o me gusta ir al cine, o simplemente jugar en el jardín con mis hijos.",
+      "startMs": 12645,
+      "endMs": 22929,
+      "verified": true
+    },
+    {
+      "text": "Y si queda algo de tiempo...",
+      "startMs": 22930,
+      "endMs": 26320,
+      "verified": true
+    },
+    {
+      "text": "bueno ver...",
+      "startMs": 26331,
+      "endMs": 27171,
+      "verified": true
+    },
+    {
+      "text": "algo de televisión, algún partido de futbol.",
+      "startMs": 27401,
+      "endMs": 31020,
+      "verified": true
+    },
+    {
+      "text": "Y si hay oportunidad en las noches, reunirse con los amigos.",
+      "startMs": 31033,
+      "endMs": 38436,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

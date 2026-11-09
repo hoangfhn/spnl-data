@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "video": "a19-Story-Of-The-Three-Little-Pigs-Emilia-A.mp4",
+  "transcriptHash": "0a996c2eb96ef66ebaa602ef40677bd2f740057a",
+  "durationMs": 132586,
+  "segments": [
+    {
+      "text": "Había una vez tres chanchitos que vivían en una casa con su mamá.",
+      "startMs": 1150,
+      "endMs": 5080,
+      "verified": true
+    },
+    {
+      "text": "Cuando se hicieron grandes su mamá les dijo que tenían que buscarse su propia casita.",
+      "startMs": 5190,
+      "endMs": 10680,
+      "verified": true
+    },
+    {
+      "text": "Entonces cada uno de los chanchitos decidió construirse su casita.",
+      "startMs": 10910,
+      "endMs": 15621,
+      "verified": true
+    },
+    {
+      "text": "El primer chanchito decidió que iba a construir su casita hecha de pajas.",
+      "startMs": 16311,
+      "endMs": 24261,
+      "verified": true
+    },
+    {
+      "text": "Se hizo su casita muy rápido.",
+      "startMs": 25611,
+      "endMs": 27451,
+      "verified": true
+    },
+    {
+      "text": "El segundo chanchito decidió que se iba a construir su casa de…¿Ay, cómo era?",
+      "startMs": 28041,
+      "endMs": 37970,
+      "verified": true
+    },
+    {
+      "text": "¡pará!...",
+      "startMs": 37982,
+      "endMs": 38562,
+      "verified": false
+    },
+    {
+      "text": "de madera, muy bien.",
+      "startMs": 40552,
+      "endMs": 42102,
+      "verified": true
+    },
+    {
+      "text": "Y entonces también se construyó su casita bastante rápido.",
+      "startMs": 43012,
+      "endMs": 46922,
+      "verified": true
+    },
+    {
+      "text": "Y el tercer chanchito decidió que se iba a hacer su casita de ladrillos.",
+      "startMs": 47212,
+      "endMs": 53472,
+      "verified": true
+    },
+    {
+      "text": "Cuando…",
+      "startMs": 56513,
+      "endMs": 57500,
+      "verified": true
+    },
+    {
+      "text": "bueno a ese fue al que le costó más tiempo construirse la casita.",
+      "startMs": 57520,
+      "endMs": 61563,
+      "verified": true
+    },
+    {
+      "text": "Bueno al final, un día vino el lobo a comerse a los chanchitos.",
+      "startMs": 61570,
+      "endMs": 65383,
+      "verified": true
+    },
+    {
+      "text": "Se fue a la casa del primer chanchito que se había hecho su casita de ¿de qué era?",
+      "startMs": 65500,
+      "endMs": 72980,
+      "verified": true
+    },
+    {
+      "text": "de pajas.",
+      "startMs": 73000,
+      "endMs": 73823,
+      "verified": true
+    },
+    {
+      "text": "Y entonces le golpeó la puerta, el chanchito no quiso abrir y el lobo sopló muy fuerte y se llevó todas las pajitas de la casa.",
+      "startMs": 74653,
+      "endMs": 86064,
+      "verified": true
+    },
+    {
+      "text": "Entonces el chanchito salió corriendo y se fue a la casa del segundo chanchito que se había hecho su casita de madera.",
+      "startMs": 86134,
+      "endMs": 92784,
+      "verified": true
+    },
+    {
+      "text": "Y era un poquito más firme pero no mucho.",
+      "startMs": 93014,
+      "endMs": 95184,
+      "verified": true
+    },
+    {
+      "text": "Entonces cuando el lobo llegó golpeó la puerta y los chanchitos no quisieron abrir.",
+      "startMs": 95354,
+      "endMs": 100685,
+      "verified": true
+    },
+    {
+      "text": "Entonces el lobo sopló muy muy fuerte y la casita de madera se cayó también.",
+      "startMs": 100755,
+      "endMs": 106705,
+      "verified": true
+    },
+    {
+      "text": "Entonces los chanchitos salieron corriendo y se fueron a la casa del tercer chanchito que se había hecho su casita de ladrillos y cuando llegaron allá golpearon la puerta, los chanchitos no quisieron abrir, entonces el lobo empezó a soplar, a soplar y a soplar pero como la casita estaba hecha de ladrillos era muy fuerte, y no se cayó.",
+      "startMs": 106775,
+      "endMs": 128786,
+      "verified": true
+    },
+    {
+      "text": "Así que los chanchitos vivieron felices para siempre.",
+      "startMs": 129016,
+      "endMs": 131946,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

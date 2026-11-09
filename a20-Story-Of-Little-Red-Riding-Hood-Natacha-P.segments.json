@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "video": "a20-Story-Of-Little-Red-Riding-Hood-Natacha-P.mp4",
+  "transcriptHash": "00db424f61f5a5570c13100e4fbeb713268fa1d2",
+  "durationMs": 127036,
+  "segments": [
+    {
+      "text": "¿Caperucita Roja?",
+      "startMs": 0,
+      "endMs": 1240,
+      "verified": true
+    },
+    {
+      "text": "Ah, una historia que me contaba mi mamá cuando era chiquita, chiquita.",
+      "startMs": 2010,
+      "endMs": 6691,
+      "verified": false
+    },
+    {
+      "text": "No mi papá, mi mamá.",
+      "startMs": 7931,
+      "endMs": 9101,
+      "verified": true
+    },
+    {
+      "text": "Primero estaba la abuelita que vivía en el bosque.",
+      "startMs": 10571,
+      "endMs": 14282,
+      "verified": true
+    },
+    {
+      "text": "La abuelita estaba solita, entonces siempre Caperucita se encargaba de llevarle cosas como galletitas y cosas para que tenga para comer y para visitarla.",
+      "startMs": 14962,
+      "endMs": 26483,
+      "verified": true
+    },
+    {
+      "text": "Entonces, Caperucita se iba por el bosque a visitar a su abuelita.",
+      "startMs": 27314,
+      "endMs": 33994,
+      "verified": true
+    },
+    {
+      "text": "Segundo, se encontraba el lobo que siempre quería agarrar a Caperucita, pero Caperucita se trataba de escapar del lobo.",
+      "startMs": 35715,
+      "endMs": 46106,
+      "verified": true
+    },
+    {
+      "text": "En realidad no se trataba de escapar del lobo, desconocía la existencia del lobo.",
+      "startMs": 46366,
+      "endMs": 49786,
+      "verified": true
+    },
+    {
+      "text": "Pasaron varios eventos en los cuales Caperucita siempre iba a la casa de su abuelitay el lobo obviamente se dio cuenta, no es tonto se dio cuenta.",
+      "startMs": 51177,
+      "endMs": 60808,
+      "verified": true
+    },
+    {
+      "text": "Entonces una vez el lobo directamente la estaba esperando a Caperucita en la casa de la abuelita.",
+      "startMs": 60810,
+      "endMs": 66709,
+      "verified": true
+    },
+    {
+      "text": "La había maniatado a la abuelita, la puso en un clóset esperando a que llegase Caperucita.",
+      "startMs": 67039,
+      "endMs": 74050,
+      "verified": true
+    },
+    {
+      "text": "Caperucita había preparado en esa vez, la mamá le había dado varias galletitas y cosas para que le llevase a la abuelita.",
+      "startMs": 74920,
+      "endMs": 83100,
+      "verified": true
+    },
+    {
+      "text": "Entonces Caperucita estaba muy contenta llegando a ver al lobo—a ver a la abuelita, perdón.",
+      "startMs": 83111,
+      "endMs": 88791,
+      "verified": true
+    },
+    {
+      "text": "Y cuando llegó le llamó la atención que la abuelita tuviese dientes tan grandes, los ojos tan grandes, que fuese tan peluda, se veía distinta la abuelita, obviamente.con una cofia no podía disfrazar al lobo.",
+      "startMs": 88810,
+      "endMs": 106394,
+      "verified": true
+    },
+    {
+      "text": "Entonces este, bueno, Caperucita descubrió que tenía el lobo apresada a su abuelita y—no me acuerdo cómo terminaba—pero colorín colorado sabemos que Caperucita logró zafar del lobo.",
+      "startMs": 106704,
+      "endMs": 126896,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

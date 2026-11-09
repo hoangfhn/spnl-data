@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a24-How-You-Stay-In-Shape-Guadalupe-M.mp4",
+  "transcriptHash": "6b3d3052e748c3d6295ab80097eaac07df2cb0de",
+  "durationMs": 19203,
+  "segments": [
+    {
+      "text": "A mí me gusta mucho hacer ejercicio.",
+      "startMs": 871,
+      "endMs": 3394,
+      "verified": true
+    },
+    {
+      "text": "Correr, hacer gimnasia, hacer aerobics.",
+      "startMs": 4055,
+      "endMs": 7249,
+      "verified": true
+    },
+    {
+      "text": "Debería hacer más porque como mucho.",
+      "startMs": 7499,
+      "endMs": 9631,
+      "verified": true
+    },
+    {
+      "text": "Pero no tengo tiempo de hacer tanto ejercicio.",
+      "startMs": 10383,
+      "endMs": 14520,
+      "verified": true
+    },
+    {
+      "text": "Hago una hora diaria de aerobics.",
+      "startMs": 14537,
+      "endMs": 19163,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

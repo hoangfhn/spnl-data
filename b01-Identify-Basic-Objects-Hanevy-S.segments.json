@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "video": "b01-Identify-Basic-Objects-Hanevy-S.mp4",
+  "transcriptHash": "12ff0e7a4c705de5ad17284e5f012619780e079f",
+  "durationMs": 89768,
+  "segments": [
+    {
+      "text": "Este es un reloj que da la hora y se pone en la mano.",
+      "startMs": 0,
+      "endMs": 5741,
+      "verified": true
+    },
+    {
+      "text": "Aquí está.",
+      "startMs": 6891,
+      "endMs": 9191,
+      "verified": true
+    },
+    {
+      "text": "Estas son unas llaves y te ayudan a entrar a la casa, o al carro, o al trabajo.",
+      "startMs": 9211,
+      "endMs": 16702,
+      "verified": true
+    },
+    {
+      "text": "Esta es una cartera que te ayuda a pagar los recibos.",
+      "startMs": 17772,
+      "endMs": 23502,
+      "verified": true
+    },
+    {
+      "text": "Tiene dinero y identificaciones.",
+      "startMs": 24132,
+      "endMs": 27543,
+      "verified": true
+    },
+    {
+      "text": "Usualmente van en el paquete de un hombre.",
+      "startMs": 28313,
+      "endMs": 30543,
+      "verified": true
+    },
+    {
+      "text": "Este es un chupón de bebé, se lo ponen en la boquita y se tranquilizan.",
+      "startMs": 31413,
+      "endMs": 39044,
+      "verified": true
+    },
+    {
+      "text": "Este es un teléfono y hablas con las personas y dices hola.",
+      "startMs": 39894,
+      "endMs": 45524,
+      "verified": true
+    },
+    {
+      "text": "Este es un abrelatas y es indispensable en la cocina americana, usualmente, también en otras, pero más en la americana que todo está en lata.",
+      "startMs": 47454,
+      "endMs": 58685,
+      "verified": true
+    },
+    {
+      "text": "Este es un portarretratos y ahí están las fotos y sirven para momentos de nostalgia y alegría.",
+      "startMs": 60956,
+      "endMs": 70087,
+      "verified": true
+    },
+    {
+      "text": "Y este es un molcajete de México y sirve para hacer salsas, guacamole y frituras ahí que uno apachurra.",
+      "startMs": 70997,
+      "endMs": 83688,
+      "verified": true
+    },
+    {
+      "text": "Y le haces así y le pegas y ahí está tu salsa.",
+      "startMs": 83700,
+      "endMs": 88528,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

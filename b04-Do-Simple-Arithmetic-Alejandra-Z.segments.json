@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "video": "b04-Do-Simple-Arithmetic-Alejandra-Z.mp4",
+  "transcriptHash": "a1186301cce1ff1f5468b30856e2031e91becf8b",
+  "durationMs": 66061,
+  "segments": [
+    {
+      "text": "Supongamos que tenemos la cantidad cinco mil trescientos veintiseis y la vamos a dividir para cuatro.",
+      "startMs": 30,
+      "endMs": 10323,
+      "verified": true
+    },
+    {
+      "text": "Lo que hacemos es tomar la primera cifra.",
+      "startMs": 10733,
+      "endMs": 13064,
+      "verified": true
+    },
+    {
+      "text": "Cinco dividido para cuatro es a uno.",
+      "startMs": 13154,
+      "endMs": 15805,
+      "verified": true
+    },
+    {
+      "text": "Uno por cuatro: cuatro, de cinco me queda uno.",
+      "startMs": 16275,
+      "endMs": 19460,
+      "verified": true
+    },
+    {
+      "text": "Bajamos la siguiente cifra, trece dividido para cuatro es tres.",
+      "startMs": 19480,
+      "endMs": 24168,
+      "verified": true
+    },
+    {
+      "text": "Tres por cuatro: doce, de trece me queda uno.",
+      "startMs": 24458,
+      "endMs": 27549,
+      "verified": true
+    },
+    {
+      "text": "Bajamos la siguiente cifra que es el doce—el dos.",
+      "startMs": 27819,
+      "endMs": 30850,
+      "verified": true
+    },
+    {
+      "text": "Doce dividido para cuatro: tres.",
+      "startMs": 31180,
+      "endMs": 33531,
+      "verified": true
+    },
+    {
+      "text": "Tres por cuatro: doce, de doce: cero.",
+      "startMs": 33721,
+      "endMs": 36491,
+      "verified": true
+    },
+    {
+      "text": "Y bajamos la última cifra que es el seis.",
+      "startMs": 36722,
+      "endMs": 38972,
+      "verified": true
+    },
+    {
+      "text": "Seis dividido para cuatro es a uno, uno por cuatro: cuatro, de seis son dos.",
+      "startMs": 39422,
+      "endMs": 46745,
+      "verified": true
+    },
+    {
+      "text": "Y aumentamos un cero para poner los decimales.",
+      "startMs": 46985,
+      "endMs": 50856,
+      "verified": true
+    },
+    {
+      "text": "Veinte dividido para cuatro es a cinco.",
+      "startMs": 50996,
+      "endMs": 53690,
+      "verified": true
+    },
+    {
+      "text": "Cinco por cuatro veinte, de veinte: cero.",
+      "startMs": 53710,
+      "endMs": 57220,
+      "verified": true
+    },
+    {
+      "text": "Tenemos un residuo cero, y la cantidad total es mil trescientos treinta y uno punto o coma cinco.",
+      "startMs": 57240,
+      "endMs": 65361,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

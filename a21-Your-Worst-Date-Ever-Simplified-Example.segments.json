@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a21-Your-Worst-Date-Ever-Simplified-Example.mp4",
+  "transcriptHash": "7835f99a8b393d26f2fc2033e12e07815a9b0e2a",
+  "durationMs": 42818,
+  "segments": [
+    {
+      "text": "La peor cita que he tenido fue hace unos dos años.",
+      "startMs": 1471,
+      "endMs": 4682,
+      "verified": true
+    },
+    {
+      "text": "Un buen amigo mío me había presentado a una amiga suya y decidimos salir a un buen restaurante para cenar.",
+      "startMs": 5712,
+      "endMs": 14206,
+      "verified": true
+    },
+    {
+      "text": "Primero, llegué tarde porque se me ponchó una llanta del carro.",
+      "startMs": 15296,
+      "endMs": 20428,
+      "verified": true
+    },
+    {
+      "text": "Cuando por fin llegué a su casa tuve que conocer a su padre y empezó a hacerme muchas preguntas - como si me diera una prueba.",
+      "startMs": 21399,
+      "endMs": 30192,
+      "verified": true
+    },
+    {
+      "text": "En la cena me di cuenta de que no teníamos nada en común, hasta discutíamos sobre unos asuntos más o menos pesados.",
+      "startMs": 31203,
+      "endMs": 39596,
+      "verified": true
+    },
+    {
+      "text": "En fin, fue horrible.",
+      "startMs": 40487,
+      "endMs": 42517,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

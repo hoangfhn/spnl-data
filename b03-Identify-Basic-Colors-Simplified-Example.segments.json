@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "b03-Identify-Basic-Colors-Simplified-Example.mp4",
+  "transcriptHash": "35060f2278635f3f9c49e7441b20b0a8f5a05508",
+  "durationMs": 13142,
+  "segments": [
+    {
+      "text": "Vamos a hablar de los colores.",
+      "startMs": 772,
+      "endMs": 2264,
+      "verified": true
+    },
+    {
+      "text": "Por ejemplo, el cielo es azul.",
+      "startMs": 2735,
+      "endMs": 4938,
+      "verified": true
+    },
+    {
+      "text": "El pasto es verde.",
+      "startMs": 5600,
+      "endMs": 6832,
+      "verified": true
+    },
+    {
+      "text": "Esta rosa es roja.",
+      "startMs": 7113,
+      "endMs": 8514,
+      "verified": true
+    },
+    {
+      "text": "Las nubes son blancas.",
+      "startMs": 8946,
+      "endMs": 10838,
+      "verified": true
+    },
+    {
+      "text": "La tierra es de color café.",
+      "startMs": 11430,
+      "endMs": 12942,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}
