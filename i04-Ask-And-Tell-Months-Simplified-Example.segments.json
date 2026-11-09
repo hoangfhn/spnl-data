@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "i04-Ask-And-Tell-Months-Simplified-Example.mp4",
+  "transcriptHash": "99ea54c20445bb5038f377dc5a279748dfa04ae6",
+  "durationMs": 60325,
+  "segments": [
+    {
+      "text": "Las estaciones del año son cuatro: invierno, primavera, verano y otoño.",
+      "startMs": 1210,
+      "endMs": 9761,
+      "verified": true
+    },
+    {
+      "text": "Cada estación, más o menos, tiene tres meses.",
+      "startMs": 10831,
+      "endMs": 14721,
+      "verified": true
+    },
+    {
+      "text": "Diciembre, enero y febrero son los meses de invierno.",
+      "startMs": 15851,
+      "endMs": 21322,
+      "verified": true
+    },
+    {
+      "text": "A la primavera le corresponden marzo, abril y mayo.",
+      "startMs": 22512,
+      "endMs": 27843,
+      "verified": true
+    },
+    {
+      "text": "Las vacaciones escolares son durante el verano; es decir, junio, julio y agosto.",
+      "startMs": 28993,
+      "endMs": 37663,
+      "verified": true
+    },
+    {
+      "text": "Los meses del otoño son septiembre, octubre y noviembre.",
+      "startMs": 38593,
+      "endMs": 45064,
+      "verified": true
+    },
+    {
+      "text": "Pero en los países que se ubican al sur de la línea ecuatorial, las estaciones se dan en otros meses: así cuando aquí es invierno, allá es verano.",
+      "startMs": 46174,
+      "endMs": 59465,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

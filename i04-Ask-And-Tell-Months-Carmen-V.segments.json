@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "i04-Ask-And-Tell-Months-Carmen-V.mp4",
+  "transcriptHash": "4707b76558b255e2224894bc45f485087c11b8e6",
+  "durationMs": 45186,
+  "segments": [
+    {
+      "text": "Bueno los meses son enero, febrero, marzo, que es verano.",
+      "startMs": 30,
+      "endMs": 5331,
+      "verified": true
+    },
+    {
+      "text": "Abril, mayo, junio, julio, en julio, agosto, y septiembre hace...",
+      "startMs": 7491,
+      "endMs": 14232,
+      "verified": true
+    },
+    {
+      "text": "julio y agosto es lo principal invierno acá, lo más frío.",
+      "startMs": 14792,
+      "endMs": 18022,
+      "verified": true
+    },
+    {
+      "text": "Septiembre, como que ella comienza a salir un poco el sol.",
+      "startMs": 18733,
+      "endMs": 21823,
+      "verified": true
+    },
+    {
+      "text": "Octubre, noviembre, y diciembre, los meses cuando empieza el verano.",
+      "startMs": 22593,
+      "endMs": 28204,
+      "verified": false
+    },
+    {
+      "text": "Los cumpleaños de mi familia son: él de mi papá, el 12 de febrero; él de mi mamá, el 8 de abril; él de mis hermanas; de una, el 8 de agosto; y la otra, el 9 de junio.",
+      "startMs": 28634,
+      "endMs": 40585,
+      "verified": true
+    },
+    {
+      "text": "Él mío, el 29 de agosto.",
+      "startMs": 43096,
+      "endMs": 44466,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

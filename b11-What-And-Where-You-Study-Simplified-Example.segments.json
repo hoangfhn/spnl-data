@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "b11-What-And-Where-You-Study-Simplified-Example.mp4",
+  "transcriptHash": "4ba2baf7ce8e076155a5cc7fba00a925651a40fb",
+  "durationMs": 33646,
+  "segments": [
+    {
+      "text": "Estudié una licenciatura en comunicaciones en la Universidad Autónoma de Ciudad Juárez.",
+      "startMs": 950,
+      "endMs": 7581,
+      "verified": true
+    },
+    {
+      "text": "Tomé cursos de periodismo, fotografía y radio.",
+      "startMs": 8732,
+      "endMs": 13002,
+      "verified": true
+    },
+    {
+      "text": "La universidad se encuentra en Ciudad Juárez, en el estado de Chihuahua.",
+      "startMs": 14092,
+      "endMs": 18943,
+      "verified": true
+    },
+    {
+      "text": "La maestría la hice en la Universidad de Oxford, Inglaterra.",
+      "startMs": 19553,
+      "endMs": 23804,
+      "verified": true
+    },
+    {
+      "text": "El doctorado lo voy a comenzar en la Universidad de Moscú.",
+      "startMs": 24854,
+      "endMs": 28645,
+      "verified": true
+    },
+    {
+      "text": "Me voy a enfocar en estudios de Europa oriental.",
+      "startMs": 29415,
+      "endMs": 33436,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

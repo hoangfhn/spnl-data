@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "video": "b08-Introduce-Yourself-And-A-Friend-Simplified-Example.mp4",
+  "transcriptHash": "022ef445a97a84df2511dbc7e462c8c5c9165a4f",
+  "durationMs": 28491,
+  "segments": [
+    {
+      "text": "Hola ¿qué tal?",
+      "startMs": 550,
+      "endMs": 1701,
+      "verified": true
+    },
+    {
+      "text": "Mi nombre es José, ¡mucho gusto!",
+      "startMs": 2071,
+      "endMs": 5702,
+      "verified": true
+    },
+    {
+      "text": "Soy estudiante de literatura en esta universidad.",
+      "startMs": 6413,
+      "endMs": 10164,
+      "verified": true
+    },
+    {
+      "text": "Soy de Colombia.",
+      "startMs": 10994,
+      "endMs": 12325,
+      "verified": true
+    },
+    {
+      "text": "Esta es mi amiga Alejandra.",
+      "startMs": 12995,
+      "endMs": 15106,
+      "verified": true
+    },
+    {
+      "text": "Ella es de Perú.",
+      "startMs": 15636,
+      "endMs": 16986,
+      "verified": true
+    },
+    {
+      "text": "¿Qué van a hacer esta noche?",
+      "startMs": 16990,
+      "endMs": 19447,
+      "verified": true
+    },
+    {
+      "text": "Quizás podríamos ir al cine o algo parecido.",
+      "startMs": 20138,
+      "endMs": 23289,
+      "verified": true
+    },
+    {
+      "text": "Nos vemos más tarde.",
+      "startMs": 24119,
+      "endMs": 26140,
+      "verified": true
+    },
+    {
+      "text": "¡Gusto en conocerlos!",
+      "startMs": 26150,
+      "endMs": 27991,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

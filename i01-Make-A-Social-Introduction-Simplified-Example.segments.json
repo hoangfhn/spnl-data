@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i01-Make-A-Social-Introduction-Simplified-Example.mp4",
+  "transcriptHash": "33323efcfc2bee2c2a29b6b6a2aa521edd065650",
+  "durationMs": 29420,
+  "segments": [
+    {
+      "text": "Para presentar una persona a otra en los países hispanos es común decir, \"José, te presento a mi amiga Katy\".",
+      "startMs": 1171,
+      "endMs": 10847,
+      "verified": true
+    },
+    {
+      "text": "Normalmente Katy responde, \"Hola José, mucho gusto\".",
+      "startMs": 10860,
+      "endMs": 15070,
+      "verified": true
+    },
+    {
+      "text": "También es común saludar de beso.",
+      "startMs": 15881,
+      "endMs": 18432,
+      "verified": true
+    },
+    {
+      "text": "En América Latina lo más común es dar un beso en la mejilla izquierda, en España se dan dos, uno en cada mejilla.",
+      "startMs": 19203,
+      "endMs": 29119,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "b11-What-And-Where-You-Study-Alberto-R.mp4",
+  "transcriptHash": "30831bf1aea2b0dcc9d2e14cadfc2d64b0a71ec0",
+  "durationMs": 42028,
+  "segments": [
+    {
+      "text": "Yo soy estudiante graduado de filología en la universidad complutense de Madrid.",
+      "startMs": 930,
+      "endMs": 5781,
+      "verified": true
+    },
+    {
+      "text": "La filología es el estudio de las lenguas tanto antiguas como contemporáneas desde un punto de visto histórico aunque hoy en día se incluyen también el estudio sincrónico de las lenguas.",
+      "startMs": 5851,
+      "endMs": 18710,
+      "verified": true
+    },
+    {
+      "text": "Es decir, la gramática, la sintaxis, la estructura actual.",
+      "startMs": 18730,
+      "endMs": 22564,
+      "verified": true
+    },
+    {
+      "text": "La universidad complutense fue fundada en los, en el siglo dieciséis, a principios del siglo dieciséis, por el cardinal Cisneros en Alcalá.",
+      "startMs": 24035,
+      "endMs": 33606,
+      "verified": false
+    },
+    {
+      "text": "Aunque se trasladó a Madrid en el siglo dieciocho bajo Carlos III.",
+      "startMs": 33657,
+      "endMs": 38507,
+      "verified": true
+    },
+    {
+      "text": "Es una universidad muy antigua y muy prestigiosa.",
+      "startMs": 38838,
+      "endMs": 41348,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

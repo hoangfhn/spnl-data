@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "b15-Your-Typical-Daily-Activities-Claudia-V.mp4",
+  "transcriptHash": "5d6687f99a938907491e8a2d50b680a8e6c56524",
+  "durationMs": 33901,
+  "segments": [
+    {
+      "text": "Normalmente me levanto a las siete y media de la mañana.",
+      "startMs": 370,
+      "endMs": 3342,
+      "verified": true
+    },
+    {
+      "text": "Empiezo el día de trabajo a las ocho y media de la mañana.",
+      "startMs": 5013,
+      "endMs": 8155,
+      "verified": true
+    },
+    {
+      "text": "Trabajo hasta la una y media de la tarde.",
+      "startMs": 8655,
+      "endMs": 10727,
+      "verified": true
+    },
+    {
+      "text": "Una y media de la tarde o dos de la tarde, tomo mi refrigerio.",
+      "startMs": 10730,
+      "endMs": 13869,
+      "verified": true
+    },
+    {
+      "text": "Regreso a mi centro de trabajo y me quedo a trabajar mínimo hasta las seis de la tarde.",
+      "startMs": 14139,
+      "endMs": 19790,
+      "verified": true
+    },
+    {
+      "text": "Probablemente me quede entre seis de la tarde, a veces me tengo que quedar hasta las once de la noche a trabajar.",
+      "startMs": 19810,
+      "endMs": 25296,
+      "verified": true
+    },
+    {
+      "text": "De ahí me voy generalmente a partir de las seis, siete de la noche.",
+      "startMs": 25966,
+      "endMs": 29500,
+      "verified": true
+    },
+    {
+      "text": "Me voy a un gimnasio, y la clase de francés, y de ahí regreso a mi casa.",
+      "startMs": 29518,
+      "endMs": 33201,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

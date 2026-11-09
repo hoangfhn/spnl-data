@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "b09-Describe-Yourself-To-Others-Jose-G.mp4",
+  "transcriptHash": "5d07de6a6941e2d5aca74f9dab0b427166a4c31e",
+  "durationMs": 31510,
+  "segments": [
+    {
+      "text": "Mi nombre es José G..",
+      "startMs": 210,
+      "endMs": 2191,
+      "verified": false
+    },
+    {
+      "text": "Tengo 24 años.",
+      "startMs": 2291,
+      "endMs": 3810,
+      "verified": true
+    },
+    {
+      "text": "Estudio aquí en el Tecnológico de Monterrey.",
+      "startMs": 3821,
+      "endMs": 8830,
+      "verified": true
+    },
+    {
+      "text": "Soy de Ciudad Delicias, Chihuahua.",
+      "startMs": 8853,
+      "endMs": 11453,
+      "verified": true
+    },
+    {
+      "text": "Este, estoy estudiando ingeniero agrónomo en producción.",
+      "startMs": 12574,
+      "endMs": 15695,
+      "verified": true
+    },
+    {
+      "text": "Falta un semestre.",
+      "startMs": 16955,
+      "endMs": 18570,
+      "verified": true
+    },
+    {
+      "text": "Y pues, aquí vivo.",
+      "startMs": 18586,
+      "endMs": 24187,
+      "verified": true
+    },
+    {
+      "text": "Vivo ahorita solo, para la que quiera venir a vivir aquí conmigo.",
+      "startMs": 24297,
+      "endMs": 30869,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "b13-Your-Family-Simplified-Example.mp4",
+  "transcriptHash": "7ba7dd60f2c919b2524b4d0f8046119a8b896796",
+  "durationMs": 18251,
+  "segments": [
+    {
+      "text": "Mi familia es muy típica: mis padres y dos hermanos.",
+      "startMs": 590,
+      "endMs": 4743,
+      "verified": true
+    },
+    {
+      "text": "En muchos países de Latinoamérica se acostumbraba tener familias muy grandes.",
+      "startMs": 5393,
+      "endMs": 10426,
+      "verified": true
+    },
+    {
+      "text": "Ahora, muchas familias prefieren tener pocos hijos.",
+      "startMs": 11277,
+      "endMs": 14989,
+      "verified": true
+    },
+    {
+      "text": "Es más fácil salir adelante así.",
+      "startMs": 15519,
+      "endMs": 17510,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

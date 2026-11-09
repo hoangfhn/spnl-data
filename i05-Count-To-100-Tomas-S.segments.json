@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "video": "i05-Count-To-100-Tomas-S.mp4",
+  "transcriptHash": "78f0dd1bffe6586c5ef1cb42962fc976a0566794",
+  "durationMs": 8661,
+  "segments": [
+    {
+      "text": "Setenta, setenta y uno, setenta y dos, setenta y tres, setenta y cuatro, setenta y cinco, setenta y seis, setenta y siete, setenta y ocho, setenta y nueva, ochenta.",
+      "startMs": 201,
+      "endMs": 8290,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

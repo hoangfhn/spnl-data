@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "video": "b08-Introduce-Yourself-And-A-Friend-Arturo-A.mp4",
+  "transcriptHash": "d694528c9dcc8f2b990bd7c9025c9a692ee73e47",
+  "durationMs": 25937,
+  "segments": [
+    {
+      "text": "-¿Qué tal?",
+      "startMs": 0,
+      "endMs": 861,
+      "verified": false
+    },
+    {
+      "text": "Ella es Betina, ella estudia teatro.",
+      "startMs": 2011,
+      "endMs": 3550,
+      "verified": true
+    },
+    {
+      "text": "-Hola, ¿qué tal?",
+      "startMs": 3562,
+      "endMs": 5143,
+      "verified": true
+    },
+    {
+      "text": "Yo soy Lidise, ¿Cómo te va?",
+      "startMs": 5150,
+      "endMs": 6584,
+      "verified": true
+    },
+    {
+      "text": "-Hola, mucho gusto.",
+      "startMs": 6600,
+      "endMs": 7665,
+      "verified": false
+    },
+    {
+      "text": "-Encantada, ¿Qué hacen por aquí?",
+      "startMs": 7670,
+      "endMs": 9630,
+      "verified": true
+    },
+    {
+      "text": "-Pues, venimos a la bibilioteca.",
+      "startMs": 9646,
+      "endMs": 12408,
+      "verified": true
+    },
+    {
+      "text": "Pasamos a recojer unos libros -Ah ya.",
+      "startMs": 12718,
+      "endMs": 15170,
+      "verified": true
+    },
+    {
+      "text": "¿Y más tarde qué tienen que hacer?",
+      "startMs": 15190,
+      "endMs": 16671,
+      "verified": true
+    },
+    {
+      "text": "-Pues, pensamos ir al cine tal vez.",
+      "startMs": 16680,
+      "endMs": 20160,
+      "verified": true
+    },
+    {
+      "text": "-Yo tengo unos amigos que quisiera presentarles, a ver si nos vemos más tarde.",
+      "startMs": 20173,
+      "endMs": 23795,
+      "verified": true
+    },
+    {
+      "text": "-Perfecto, hasta luego - Adios.",
+      "startMs": 23800,
+      "endMs": 25797,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i01-Make-A-Social-Introduction-Teresa-C.mp4",
+  "transcriptHash": "29c2107032a5dadb9300d074679fd640c3a4e0fb",
+  "durationMs": 19667,
+  "segments": [
+    {
+      "text": "Diana, te presento a Alejandra Z..",
+      "startMs": 30,
+      "endMs": 2321,
+      "verified": true
+    },
+    {
+      "text": "Ella está haciendo un trabajo viendo los distintos acentos que existen en español en Latinoamérica.",
+      "startMs": 2360,
+      "endMs": 11430,
+      "verified": true
+    },
+    {
+      "text": "Y Diana, ella es arquitecta.",
+      "startMs": 11444,
+      "endMs": 13890,
+      "verified": false
+    },
+    {
+      "text": "Viene de Colombia.",
+      "startMs": 13910,
+      "endMs": 14710,
+      "verified": true
+    },
+    {
+      "text": "Quizás podría ustedes conocerse un poco y ver en qué se pueden ayudar mutuamente.",
+      "startMs": 14730,
+      "endMs": 19487,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

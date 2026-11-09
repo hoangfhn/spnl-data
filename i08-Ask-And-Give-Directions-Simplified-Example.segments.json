@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i08-Ask-And-Give-Directions-Simplified-Example.mp4",
+  "transcriptHash": "dd5f3b050e13edf74fbd9c2e90bd7eb0f236b68b",
+  "durationMs": 42284,
+  "segments": [
+    {
+      "text": "Cuando visité Costa Rica me enteré que las direcciones son muy diferentes que en el resto de América Latina.",
+      "startMs": 250,
+      "endMs": 7924,
+      "verified": true
+    },
+    {
+      "text": "El sistema está basado en las referencias más populares como son los edificios de gobierno o los monumentos o los parques públicos.",
+      "startMs": 9095,
+      "endMs": 18070,
+      "verified": true
+    },
+    {
+      "text": "Así, si usted va a ir a una casa, debe decir que se encuentra a 250 metros al norte del Museo de Arte o a trescientos metros al sur del McDonald's.",
+      "startMs": 19241,
+      "endMs": 32640,
+      "verified": true
+    },
+    {
+      "text": "Es admirable cómo la oficina de correos y los carteros logran encontrar todas las direcciones de los destinatarios de las cartas.",
+      "startMs": 32658,
+      "endMs": 41183,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

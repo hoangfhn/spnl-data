@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "b09-Describe-Yourself-To-Others-Simplified-Example.mp4",
+  "transcriptHash": "a05724252ba3d1fe335a07619ae7fd89b9ea038b",
+  "durationMs": 35573,
+  "segments": [
+    {
+      "text": "Mi nombre es María Mayberry.",
+      "startMs": 630,
+      "endMs": 2701,
+      "verified": true
+    },
+    {
+      "text": "Tengo 42 años de edad.",
+      "startMs": 2931,
+      "endMs": 5082,
+      "verified": true
+    },
+    {
+      "text": "Mido uno cincuenta y ocho peso sesenta kilos.",
+      "startMs": 5492,
+      "endMs": 9644,
+      "verified": true
+    },
+    {
+      "text": "Nací y crecí en Monterrey, México.",
+      "startMs": 10174,
+      "endMs": 13225,
+      "verified": true
+    },
+    {
+      "text": "Mi papá es médico y mi mamá es enfermera.",
+      "startMs": 13635,
+      "endMs": 16946,
+      "verified": true
+    },
+    {
+      "text": "A mí me gusta mucho estudiar la lingüística del español.",
+      "startMs": 17536,
+      "endMs": 22528,
+      "verified": true
+    },
+    {
+      "text": "Creo que tengo talento para este campo.",
+      "startMs": 23399,
+      "endMs": 26460,
+      "verified": true
+    },
+    {
+      "text": "También me gusta nadar, bailar y la cocina hindú y obviamente la cocina mexicana.",
+      "startMs": 26920,
+      "endMs": 34933,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

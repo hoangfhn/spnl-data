@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i05-Count-To-100-Simplified-Example.mp4",
+  "transcriptHash": "ee911de04a2b88036d2daa8f544f4a7865b654a0",
+  "durationMs": 34040,
+  "segments": [
+    {
+      "text": "Vamos a contar de 10 en 10 hasta 100.",
+      "startMs": 400,
+      "endMs": 3922,
+      "verified": true
+    },
+    {
+      "text": "10, 20, 30, 40, 50, 60, 70, 80, 90 y 100.",
+      "startMs": 4493,
+      "endMs": 19272,
+      "verified": true
+    },
+    {
+      "text": "Ahora descendiendo de 100 de 20 en 20: 100, 80, 60, 40, 20, 0.",
+      "startMs": 19290,
+      "endMs": 33440,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

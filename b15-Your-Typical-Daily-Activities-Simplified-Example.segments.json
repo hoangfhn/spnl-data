@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "b15-Your-Typical-Daily-Activities-Simplified-Example.mp4",
+  "transcriptHash": "c488682c6e7f7bed73e34ce8768358f338c6e76c",
+  "durationMs": 27098,
+  "segments": [
+    {
+      "text": "Mis actividades diarias siempre incluyen más o menos las mismas cosas.",
+      "startMs": 751,
+      "endMs": 6264,
+      "verified": true
+    },
+    {
+      "text": "Me despierto a eso de las seis y media de la mañana.",
+      "startMs": 7255,
+      "endMs": 10537,
+      "verified": true
+    },
+    {
+      "text": "Desayuno y voy a la universidad.",
+      "startMs": 11398,
+      "endMs": 13829,
+      "verified": true
+    },
+    {
+      "text": "Después regreso a casa y estudio toda la tarde.",
+      "startMs": 14800,
+      "endMs": 19573,
+      "verified": true
+    },
+    {
+      "text": "Ceno alrededor de las 8:00 de la noche.",
+      "startMs": 20604,
+      "endMs": 23455,
+      "verified": true
+    },
+    {
+      "text": "Veo los noticieros y me duermo.",
+      "startMs": 24226,
+      "endMs": 26617,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

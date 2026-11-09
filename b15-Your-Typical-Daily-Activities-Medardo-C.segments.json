@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "b15-Your-Typical-Daily-Activities-Medardo-C.mp4",
+  "transcriptHash": "c77e6de4350d7e27f6d75c7fc181711f5960b8d6",
+  "durationMs": 39451,
+  "segments": [
+    {
+      "text": "Voy a la universidad tres veces a la semana.",
+      "startMs": 2931,
+      "endMs": 6062,
+      "verified": true
+    },
+    {
+      "text": "Los días que tengo clases me levanto muy temprano, preparo el desayuno para mi hijo Médar.",
+      "startMs": 6812,
+      "endMs": 16224,
+      "verified": true
+    },
+    {
+      "text": "Luego pues acompaño a mi esposa a la universidad porque ella da clases de español.",
+      "startMs": 19315,
+      "endMs": 27467,
+      "verified": true
+    },
+    {
+      "text": "Y regularmente me quedo en la biblioteca leyendo hasta que llega mi hora de ir a clases.",
+      "startMs": 28728,
+      "endMs": 38650,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "video": "b13-Your-Family-Fernando-F.mp4",
+  "transcriptHash": "bdbec2f71eb2e19a6880e33192eec573a5e696ad",
+  "durationMs": 70148,
+  "segments": [
+    {
+      "text": "Bueno, mi familia está compuesta por mi esposa Rosana y tengo 2 bellos hijos.",
+      "startMs": 310,
+      "endMs": 8741,
+      "verified": true
+    },
+    {
+      "text": "Diego Fernando que tiene 5 años, ya poco cercano para los 6.",
+      "startMs": 9471,
+      "endMs": 15642,
+      "verified": true
+    },
+    {
+      "text": "Tenemos a José Ignacio, que tiene dos años recién cumplidos.",
+      "startMs": 16372,
+      "endMs": 21802,
+      "verified": true
+    },
+    {
+      "text": "La forma de vivir nosotros en la familia no solamente es hablar del padre, la madre y los hijos.",
+      "startMs": 24133,
+      "endMs": 32523,
+      "verified": true
+    },
+    {
+      "text": "A ellos alrededor están los abuelos.",
+      "startMs": 32874,
+      "endMs": 35944,
+      "verified": true
+    },
+    {
+      "text": "Ellos tienen a sus abuelos maternos Jorge y Ana, y sus abuelos paternos Carlos y Helena.",
+      "startMs": 37074,
+      "endMs": 47265,
+      "verified": true
+    },
+    {
+      "text": "Mi padre murió el año anterior.",
+      "startMs": 47895,
+      "endMs": 50815,
+      "verified": true
+    },
+    {
+      "text": "Sin embargo no sólo tampoco podemos hablar de la familia simplemente con esto, podemos seguir ampliándonos.",
+      "startMs": 52516,
+      "endMs": 58110,
+      "verified": true
+    },
+    {
+      "text": "Están los hermanos del papá que vienen siendo los tíos, pero seguimos armando.",
+      "startMs": 58130,
+      "endMs": 64860,
+      "verified": true
+    },
+    {
+      "text": "Y así podemos ir incluyendo inclusive a los padrinos, allí está Stéfano.",
+      "startMs": 64880,
+      "endMs": 68887,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

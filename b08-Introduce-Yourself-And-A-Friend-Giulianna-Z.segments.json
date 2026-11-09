@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "b08-Introduce-Yourself-And-A-Friend-Giulianna-Z.mp4",
+  "transcriptHash": "ddd3011d7479d81fd17fe10f359809c69406be3c",
+  "durationMs": 8011,
+  "segments": [
+    {
+      "text": "Yo soy Giulianna y este es mi sobrino Juan Sebastián.",
+      "startMs": 931,
+      "endMs": 5087,
+      "verified": true
+    },
+    {
+      "text": "Tiene dos años y medio.",
+      "startMs": 5738,
+      "endMs": 7730,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

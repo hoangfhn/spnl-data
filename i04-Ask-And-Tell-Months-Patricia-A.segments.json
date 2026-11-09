@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "video": "i04-Ask-And-Tell-Months-Patricia-A.mp4",
+  "transcriptHash": "5b15e652878e2cb7e089393772cece1d2b568a34",
+  "durationMs": 20503,
+  "segments": [
+    {
+      "text": "Enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre, son los meses del año.",
+      "startMs": 361,
+      "endMs": 20003,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

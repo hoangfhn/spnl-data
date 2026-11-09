@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "b15-Your-Typical-Daily-Activities-Alberto-R.mp4",
+  "transcriptHash": "8dd7ab74715dfe27071b0d6c86e3f115fb246506",
+  "durationMs": 31254,
+  "segments": [
+    {
+      "text": "Me levanto a las seis de la mañana y desayuno, leo el periódico, después voy a la facultad donde normalmente tomo una clase o dos por la mañana.",
+      "startMs": 600,
+      "endMs": 10485,
+      "verified": true
+    },
+    {
+      "text": "Después vuelvo a mi casa y ahora estoy escribiendo mi tesis.",
+      "startMs": 10855,
+      "endMs": 14206,
+      "verified": true
+    },
+    {
+      "text": "Escribo mi tesis por tres horas y después por la noche, pero por la tarde, tarde pues me gusta ir a pasear o jugar a tenis o ir a salir a los bares con los amigos a beber una cerveza por la avenida de la manclúa o por las calles de Madrid.",
+      "startMs": 15397,
+      "endMs": 30574,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

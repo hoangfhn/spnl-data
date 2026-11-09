@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i08-Ask-And-Give-Directions-Joel-C.mp4",
+  "transcriptHash": "65811e147516dd2871c56b2101499f0e1240b9c9",
+  "durationMs": 41378,
+  "segments": [
+    {
+      "text": "OK, tú tienes que ir caminando de aquí a la salida de lo que es el jardín botánico.",
+      "startMs": 0,
+      "endMs": 5923,
+      "verified": true
+    },
+    {
+      "text": "Tendrías que tomar un camión que te lleve hacia lo que es avenida Universidad.",
+      "startMs": 6473,
+      "endMs": 12085,
+      "verified": true
+    },
+    {
+      "text": "En el cual tú podrías bajarte en lo que es la entrada principal a la Universidad.",
+      "startMs": 12636,
+      "endMs": 17408,
+      "verified": true
+    },
+    {
+      "text": "Y después bajar caminando, sí, cruzar lo que son las islas, las grandes jardineras que tiene la universidad para poder llegar al \"CELE\".",
+      "startMs": 17638,
+      "endMs": 28472,
+      "verified": true
+    },
+    {
+      "text": "Tendrías que cruzar lo que es la facultad de derecho, la facultad de economía, cruzar lo que es postgrado, y enfrente de postgrado te vas a encontrar el \"CELE\".",
+      "startMs": 28480,
+      "endMs": 38877,
+      "verified": true
+    },
+    {
+      "text": "Allí el \"CELE\" lo vas a encontrar.",
+      "startMs": 39007,
+      "endMs": 40918,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

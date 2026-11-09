@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "video": "i04-Ask-And-Tell-Months-William-R.mp4",
+  "transcriptHash": "66a5bfdead34d56af87b7f1fcb66c7dbac0ccefd",
+  "durationMs": 43839,
+  "segments": [
+    {
+      "text": "Enero es un mes muy importante del año ¿verdad?",
+      "startMs": 0,
+      "endMs": 3210,
+      "verified": true
+    },
+    {
+      "text": "Es un mes donde cada persona inicia planes ¿verdad?",
+      "startMs": 3221,
+      "endMs": 6410,
+      "verified": true
+    },
+    {
+      "text": "Es un mes donde cada quien se promete, se promete a uno mismo qué es lo que va a hacer.",
+      "startMs": 6423,
+      "endMs": 11125,
+      "verified": true
+    },
+    {
+      "text": "Seguidamente viene Febrero.",
+      "startMs": 11435,
+      "endMs": 12930,
+      "verified": true
+    },
+    {
+      "text": "Y luego que viene Marzo.",
+      "startMs": 12946,
+      "endMs": 15090,
+      "verified": true
+    },
+    {
+      "text": "Luego de Marzo que está Abril.",
+      "startMs": 15110,
+      "endMs": 16847,
+      "verified": true
+    },
+    {
+      "text": "Abril, después de Abril que está Mayo.",
+      "startMs": 17318,
+      "endMs": 19268,
+      "verified": true
+    },
+    {
+      "text": "Después de Mayo viene Junio.",
+      "startMs": 19270,
+      "endMs": 21670,
+      "verified": true
+    },
+    {
+      "text": "Y Junio seguidamente está Julio ¿verdad?",
+      "startMs": 22000,
+      "endMs": 24491,
+      "verified": true
+    },
+    {
+      "text": "Julio y luego Agosto ¿verdad?",
+      "startMs": 24641,
+      "endMs": 26652,
+      "verified": true
+    },
+    {
+      "text": "Y luego después de Agosto viene Septiembre.",
+      "startMs": 26942,
+      "endMs": 29133,
+      "verified": true
+    },
+    {
+      "text": "Y de Septiembre seguidamente viene Octubre.",
+      "startMs": 29140,
+      "endMs": 32800,
+      "verified": true
+    },
+    {
+      "text": "Y de Octubre está Noviembre seguidamente.",
+      "startMs": 32814,
+      "endMs": 35996,
+      "verified": false
+    },
+    {
+      "text": "Y de Noviembre ¿verdad?",
+      "startMs": 36000,
+      "endMs": 37040,
+      "verified": true
+    },
+    {
+      "text": "Que ya finalizamos con Diciembre.",
+      "startMs": 37056,
+      "endMs": 38907,
+      "verified": true
+    },
+    {
+      "text": "Lo cual Diciembre es un mes muy importante ¿verdad?",
+      "startMs": 39267,
+      "endMs": 41810,
+      "verified": true
+    },
+    {
+      "text": "Es un mes de fiesta, es un mes muy alegre.",
+      "startMs": 41830,
+      "endMs": 43839,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

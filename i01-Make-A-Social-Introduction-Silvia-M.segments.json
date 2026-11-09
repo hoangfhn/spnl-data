@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i01-Make-A-Social-Introduction-Silvia-M.mp4",
+  "transcriptHash": "a08c7673400edec7a804e81982cda354d3de137e",
+  "durationMs": 33878,
+  "segments": [
+    {
+      "text": "Bueno, en Colombia nosotros nos saludamos muy efusivamente, siempre de beso a quienes queremos mucho, de abrazo a nuestros padres, así sea papá, mamá, hermanos, abuelitos, todos de beso y abrazo.",
+      "startMs": 0,
+      "endMs": 14628,
+      "verified": true
+    },
+    {
+      "text": "Cuando saludamos a alguien, o cuando conocemos a alguien por lo general es la persona mayor la que nos lo presenta.",
+      "startMs": 15198,
+      "endMs": 22292,
+      "verified": true
+    },
+    {
+      "text": "Pero si es un amigo, simplemente llega al grupo y nos dice –Mira, este es Fulano— y ya todos lo recibimos o todos nos presentamos entre unos y otros.",
+      "startMs": 22442,
+      "endMs": 33878,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i03-Ask-And-Tell-Day-Date-Maria-M.mp4",
+  "transcriptHash": "c45bef5200862a1d0045a95410702e108c0ee4c9",
+  "durationMs": 13630,
+  "segments": [
+    {
+      "text": "Hoy es viernes catorce de noviembre del dos mil tres.",
+      "startMs": 951,
+      "endMs": 4143,
+      "verified": true
+    },
+    {
+      "text": "Mañana es sábado quince de noviembre del dos mil tres.",
+      "startMs": 4824,
+      "endMs": 8706,
+      "verified": true
+    },
+    {
+      "text": "Ayer fue jueves trece del dos mil tres.",
+      "startMs": 8817,
+      "endMs": 12970,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "b14-In-Common-With-Other-Daniela-T.mp4",
+  "transcriptHash": "e9b2c8e7868579c54dca1d5f0377891e19458b26",
+  "durationMs": 23615,
+  "segments": [
+    {
+      "text": "Con mi madre tenemos en común que a las dos nos gusta el orden y la limpieza.",
+      "startMs": 1011,
+      "endMs": 7715,
+      "verified": true
+    },
+    {
+      "text": "Con mi amiga tenemos en común ir al shopping de compras.",
+      "startMs": 8295,
+      "endMs": 13990,
+      "verified": true
+    },
+    {
+      "text": "Y con mi hijo Agustín es…un calco mío, es la misma cara y sus mismos ojos.",
+      "startMs": 14009,
+      "endMs": 23254,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

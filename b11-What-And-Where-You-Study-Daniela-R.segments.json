@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "b11-What-And-Where-You-Study-Daniela-R.mp4",
+  "transcriptHash": "d0b77640845a8472b7675e92faac47d0158a6dcf",
+  "durationMs": 11494,
+  "segments": [
+    {
+      "text": "Bueno, yo terminé el colegio el año pasado y ahora estoy en la academia.",
+      "startMs": 451,
+      "endMs": 4565,
+      "verified": true
+    },
+    {
+      "text": "Acá me preparo para el examen de admisión a la universidad donde planeo estudiar administración de empresas.",
+      "startMs": 5497,
+      "endMs": 10823,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

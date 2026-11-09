@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "video": "i08-Ask-And-Give-Directions-Agustin-G.mp4",
+  "transcriptHash": "3583312176e0f62c9d22f7e2567a6dc8885f3057",
+  "durationMs": 47136,
+  "segments": [
+    {
+      "text": "Bueno estamos en Ruta Maya, South Congress.",
+      "startMs": 920,
+      "endMs": 3530,
+      "verified": true
+    },
+    {
+      "text": "Para ir para mi casa tengo dos modos de ir.",
+      "startMs": 3550,
+      "endMs": 6122,
+      "verified": true
+    },
+    {
+      "text": "Puede ser por la I-35 o por Mopac.",
+      "startMs": 6130,
+      "endMs": 9163,
+      "verified": true
+    },
+    {
+      "text": "Normalmente yo agarro Mopac, me gusta más.",
+      "startMs": 10094,
+      "endMs": 12344,
+      "verified": true
+    },
+    {
+      "text": "Entonces voy por Mopac y cruzo I-35 y voy por Luis Henna Boulevard.",
+      "startMs": 12440,
+      "endMs": 19367,
+      "verified": true
+    },
+    {
+      "text": "En Luis Henna Boulevard, en la tercera a la izquierda tuerzo.",
+      "startMs": 19737,
+      "endMs": 24128,
+      "verified": true
+    },
+    {
+      "text": "Y luego la primera a la derecha de nuevo tuerzo y espero un “stop” que hay.",
+      "startMs": 24679,
+      "endMs": 30811,
+      "verified": true
+    },
+    {
+      "text": "Continúo y luego a la izquierda de nuevo es en la zona donde vivo.",
+      "startMs": 32341,
+      "endMs": 37213,
+      "verified": true
+    },
+    {
+      "text": "Continúo derecho y bajando en la primera calle que hay hacia la izquierda.",
+      "startMs": 38083,
+      "endMs": 42795,
+      "verified": true
+    },
+    {
+      "text": "Al final de la calle, ahí es donde está mi casa.",
+      "startMs": 44226,
+      "endMs": 46706,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

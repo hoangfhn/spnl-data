@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "b10-Identify-The-Days-Of-The-Week-Ana-G.mp4",
+  "transcriptHash": "8fbff5c96896a0416a742a3ca96c66ed0ccb5c61",
+  "durationMs": 21130,
+  "segments": [
+    {
+      "text": "Los días de la semana son: lunes, martes, miércoles, jueves, viernes, sábado y domingo.",
+      "startMs": 630,
+      "endMs": 9665,
+      "verified": true
+    },
+    {
+      "text": "Los días que son de fin de semana son sábado y domingo y los días de trabajo son lunes, martes, miércoles, jueves, y viernes.",
+      "startMs": 10055,
+      "endMs": 20370,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

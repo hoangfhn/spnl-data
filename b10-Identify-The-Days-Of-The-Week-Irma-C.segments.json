@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "video": "b10-Identify-The-Days-Of-The-Week-Irma-C.mp4",
+  "transcriptHash": "5535d25bc85f995a82ab861d17794e4780382e36",
+  "durationMs": 74559,
+  "segments": [
+    {
+      "text": "En la ciudad de México hay un problema muy grave con el tráfico y la contaminación.",
+      "startMs": 810,
+      "endMs": 5992,
+      "verified": true
+    },
+    {
+      "text": "Para evitarlo el gobierno creyó un programa que se llama, \"hoy no circula\".",
+      "startMs": 6352,
+      "endMs": 11463,
+      "verified": true
+    },
+    {
+      "text": "Entonces, los coches, con su placa, el último número de su placa corresponde a un día.",
+      "startMs": 11793,
+      "endMs": 19385,
+      "verified": true
+    },
+    {
+      "text": "Ese día, en particular, ese coche no puede circular.",
+      "startMs": 19715,
+      "endMs": 23406,
+      "verified": true
+    },
+    {
+      "text": "Así por ejemplo, los lunes no circula el cero y el nueve.",
+      "startMs": 23716,
+      "endMs": 28807,
+      "verified": true
+    },
+    {
+      "text": "Los martes no circula el uno y el ocho.",
+      "startMs": 29138,
+      "endMs": 32588,
+      "verified": true
+    },
+    {
+      "text": "Los miércoles no circula el tres y el siete.",
+      "startMs": 32959,
+      "endMs": 36990,
+      "verified": true
+    },
+    {
+      "text": "Los jueves no circula el cuatro y el seis y los viernes no circula el cinco y el seis.",
+      "startMs": 37420,
+      "endMs": 45712,
+      "verified": true
+    },
+    {
+      "text": "Los fines de semana, es decir, sábado y domingo, pueden circular todos los coches.",
+      "startMs": 45982,
+      "endMs": 52113,
+      "verified": true
+    },
+    {
+      "text": "Cuando sube la contaminación no circula el lunes los pares: dos, cuatro, seis, ocho, y en martes no circulan los nones: uno, tres, cinco, siete, nueve.",
+      "startMs": 52604,
+      "endMs": 73199,
+      "verified": true
+    },
+    {
+      "text": "Bueno, bye!",
+      "startMs": 73200,
+      "endMs": 74559,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

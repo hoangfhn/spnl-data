@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "b14-In-Common-With-Other-Arturo-A.mp4",
+  "transcriptHash": "baf10462e86ff65ea016fb8abe91252f0f73c3fd",
+  "durationMs": 11262,
+  "segments": [
+    {
+      "text": "El color de mis ojos es muy parecido al de mi abuelo.",
+      "startMs": 30,
+      "endMs": 2655,
+      "verified": true
+    },
+    {
+      "text": "El de mi cabello se parece al de mi madre.",
+      "startMs": 3497,
+      "endMs": 5510,
+      "verified": true
+    },
+    {
+      "text": "Sin embargo, la estatura es la de mi padre desafortunadamente.",
+      "startMs": 6222,
+      "endMs": 10981,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

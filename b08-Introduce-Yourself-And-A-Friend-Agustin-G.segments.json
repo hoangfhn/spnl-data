@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "b08-Introduce-Yourself-And-A-Friend-Agustin-G.mp4",
+  "transcriptHash": "f929dc8d1331a0a2db06aae4bf390addb27dfe49",
+  "durationMs": 19342,
+  "segments": [
+    {
+      "text": "Bueno este es Jorge.",
+      "startMs": 431,
+      "endMs": 1422,
+      "verified": true
+    },
+    {
+      "text": "Nos conocimos hace como unos ocho meses aproximadamente bailando salsa en un sitio aquí en Austin.",
+      "startMs": 1572,
+      "endMs": 9010,
+      "verified": true
+    },
+    {
+      "text": "Y desde entonces solemos estar juntos.",
+      "startMs": 9741,
+      "endMs": 13035,
+      "verified": true
+    },
+    {
+      "text": "Hoy por ejemplo hemos venido aquí a hacer un tipo de baile que se llama rueda cubana.",
+      "startMs": 14367,
+      "endMs": 19322,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

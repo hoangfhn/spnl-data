@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "video": "b15-Your-Typical-Daily-Activities-Leonardo-G.mp4",
+  "transcriptHash": "be1cdc44c67ff23260536c7665dcb1eecb87aa60",
+  "durationMs": 72795,
+  "segments": [
+    {
+      "text": "Bueno, me levanto temprano, generalmente a las siete, siete y media.",
+      "startMs": 330,
+      "endMs": 6241,
+      "verified": true
+    },
+    {
+      "text": "Lo primero que hago es entrenar.",
+      "startMs": 8612,
+      "endMs": 10302,
+      "verified": true
+    },
+    {
+      "text": "Salgo a correr, aquí mismo, en este maravilloso lugar, en este jardín Botánico.",
+      "startMs": 10692,
+      "endMs": 15793,
+      "verified": true
+    },
+    {
+      "text": "Regreso a casa, mas o menos una hora después.",
+      "startMs": 16373,
+      "endMs": 19724,
+      "verified": true
+    },
+    {
+      "text": "Me baño y salgo a trabajar.",
+      "startMs": 19740,
+      "endMs": 22524,
+      "verified": true
+    },
+    {
+      "text": "Trabajo por la parte de la ma7ntilde;ana como profesor de portugués, y por la parte de la tarde como actor.",
+      "startMs": 23695,
+      "endMs": 30996,
+      "verified": true
+    },
+    {
+      "text": "Soy formado en teatro.",
+      "startMs": 31416,
+      "endMs": 32647,
+      "verified": true
+    },
+    {
+      "text": "Voy comiendo como por ahí de las dos o tres de la tarde, después de mi clase, después de haber dado mi clase.",
+      "startMs": 37217,
+      "endMs": 44930,
+      "verified": true
+    },
+    {
+      "text": "Y veo a mis amigos en el teatro, con ellos convivo bastante tiempo durante los ensayos, y durante el tiempo que estoy en el espectáculo, en la función.",
+      "startMs": 44949,
+      "endMs": 61902,
+      "verified": true
+    },
+    {
+      "text": "Después también a veces salimos a platicar a tomar un café.",
+      "startMs": 62322,
+      "endMs": 67420,
+      "verified": true
+    },
+    {
+      "text": "Regresar en la noche a preparar algo para el día siguiente, y descansar.",
+      "startMs": 67433,
+      "endMs": 72595,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

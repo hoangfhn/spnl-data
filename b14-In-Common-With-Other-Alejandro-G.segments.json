@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "b14-In-Common-With-Other-Alejandro-G.mp4",
+  "transcriptHash": "d55bb521a3c3023230d711f6910f4d4762648e93",
+  "durationMs": 19365,
+  "segments": [
+    {
+      "text": "Bueno, yo tengo algo en común con mi esposa y eso es que nos gusta levantarnos el día sábado muy tarde.",
+      "startMs": 450,
+      "endMs": 6582,
+      "verified": true
+    },
+    {
+      "text": "Bueno, otra cosa en común con ella es tomar helados.",
+      "startMs": 7932,
+      "endMs": 11373,
+      "verified": true
+    },
+    {
+      "text": "Nos gustan mucho los helados de frutas.",
+      "startMs": 11410,
+      "endMs": 13204,
+      "verified": true
+    },
+    {
+      "text": "Y cosas en común que tengo con mi papá es que me gusta leer varios libros.",
+      "startMs": 13974,
+      "endMs": 18685,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

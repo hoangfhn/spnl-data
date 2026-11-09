@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "b14-In-Common-With-Other-Simplified-Example.mp4",
+  "transcriptHash": "cea4d2080553a5142c370bf2084c04fc5b0f297f",
+  "durationMs": 22361,
+  "segments": [
+    {
+      "text": "Mi padre y yo nos parecemos en lo enojón.",
+      "startMs": 691,
+      "endMs": 3944,
+      "verified": true
+    },
+    {
+      "text": "También en lo guapo.",
+      "startMs": 4755,
+      "endMs": 5905,
+      "verified": true
+    },
+    {
+      "text": "Mi novio y yo somos muy parecidos en cuanto a nuestros gustos literarios.",
+      "startMs": 6696,
+      "endMs": 12211,
+      "verified": true
+    },
+    {
+      "text": "Ambos adoramos la literatura mexicana.",
+      "startMs": 13182,
+      "endMs": 15394,
+      "verified": true
+    },
+    {
+      "text": "Albert Einstein y yo tenemos en común el mismo cociente intelectual.",
+      "startMs": 15410,
+      "endMs": 21980,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

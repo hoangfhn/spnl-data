@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "b13-Your-Family-Libia-J.mp4",
+  "transcriptHash": "900b920dfd401b65ba99c7f6ac3118612907901f",
+  "durationMs": 23940,
+  "segments": [
+    {
+      "text": "Bueno, en mi familia somos ocho hermanos.",
+      "startMs": 0,
+      "endMs": 2942,
+      "verified": true
+    },
+    {
+      "text": "Somos siete hermanas y un hermano.",
+      "startMs": 3033,
+      "endMs": 5044,
+      "verified": true
+    },
+    {
+      "text": "Mi hermana mayor me lleva diez años.",
+      "startMs": 5315,
+      "endMs": 7150,
+      "verified": true
+    },
+    {
+      "text": "Y la hermana antes de mi tiene..",
+      "startMs": 7166,
+      "endMs": 9740,
+      "verified": false
+    },
+    {
+      "text": "me lleva 2 años.",
+      "startMs": 9760,
+      "endMs": 10730,
+      "verified": true
+    },
+    {
+      "text": "Y yo soy hermana gemela.",
+      "startMs": 10749,
+      "endMs": 12710,
+      "verified": true
+    },
+    {
+      "text": "Mi hermana gemela es con la que mejor me llevo y es muy agradable.",
+      "startMs": 13741,
+      "endMs": 17725,
+      "verified": true
+    },
+    {
+      "text": "Y es bueno tener una familia grande.",
+      "startMs": 18766,
+      "endMs": 21057,
+      "verified": true
+    },
+    {
+      "text": "En México suele acostumbrarse así.",
+      "startMs": 21060,
+      "endMs": 23900,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

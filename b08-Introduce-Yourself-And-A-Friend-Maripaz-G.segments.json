@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "b08-Introduce-Yourself-And-A-Friend-Maripaz-G.mp4",
+  "transcriptHash": "af6b2a2c2ab3e5e6114dbdce3a13216df620e4fe",
+  "durationMs": 35201,
+  "segments": [
+    {
+      "text": "Muy bien, cuando yo me presento, eh, digo mi nombre, \"hola, me llamo Maripaz, soy española\" si necesitan esa información.",
+      "startMs": 250,
+      "endMs": 9666,
+      "verified": true
+    },
+    {
+      "text": "Y, si la persona es de España le doy dos besos, si es hispana le doy nada más uno.",
+      "startMs": 9670,
+      "endMs": 16880,
+      "verified": true
+    },
+    {
+      "text": "Y si son americanos les doy la mano.",
+      "startMs": 18031,
+      "endMs": 21193,
+      "verified": true
+    },
+    {
+      "text": "Y cuando presento a un amigo, lo mismo, les digo, pues, \"Oswaldo este es Antonio, Antonio, Oswaldo\" y ellos pueden hacer lo que quieran.",
+      "startMs": 22724,
+      "endMs": 34681,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

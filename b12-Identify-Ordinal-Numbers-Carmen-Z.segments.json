@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "b12-Identify-Ordinal-Numbers-Carmen-Z.mp4",
+  "transcriptHash": "113c6950ef89f2db974ba663519907cfb4d5b12f",
+  "durationMs": 19296,
+  "segments": [
+    {
+      "text": "Primero, segundo, tercero, cuarto, quinto, sexto, etc.",
+      "startMs": 410,
+      "endMs": 5164,
+      "verified": true
+    },
+    {
+      "text": "Decía que utilizábamos estos números cuando nos referimos por ejemplo: Primer mes del año, primera quincena, primer aniversario de bodas, etc.",
+      "startMs": 5755,
+      "endMs": 18395,
+      "verified": true
+    },
+    {
+      "text": "¿no?",
+      "startMs": 18400,
+      "endMs": 18675,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

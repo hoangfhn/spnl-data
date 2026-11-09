@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "video": "b15-Your-Typical-Daily-Activities-Maria-M.mp4",
+  "transcriptHash": "70de840e67bcc84e0aa647680bc573ca5bd16dff",
+  "durationMs": 47531,
+  "segments": [
+    {
+      "text": "Mi día típico puede ser no muy común con relación a las mujeres americanas.",
+      "startMs": 10,
+      "endMs": 6141,
+      "verified": true
+    },
+    {
+      "text": "No tengo una actividad muy loca.",
+      "startMs": 7212,
+      "endMs": 9902,
+      "verified": true
+    },
+    {
+      "text": "Mi actividad diaria en mi casa es atender a mi niño por ahora.",
+      "startMs": 10232,
+      "endMs": 14233,
+      "verified": true
+    },
+    {
+      "text": "En la mañana me despierto cuando él despierta.",
+      "startMs": 14774,
+      "endMs": 17504,
+      "verified": true
+    },
+    {
+      "text": "Le doy el desayuno primeramente a él.",
+      "startMs": 17774,
+      "endMs": 19895,
+      "verified": true
+    },
+    {
+      "text": "Yo desayuno.",
+      "startMs": 20115,
+      "endMs": 21225,
+      "verified": true
+    },
+    {
+      "text": "Después vemos programas para mi niño.",
+      "startMs": 21815,
+      "endMs": 24966,
+      "verified": true
+    },
+    {
+      "text": "Ya viene el medio día.",
+      "startMs": 24970,
+      "endMs": 27246,
+      "verified": false
+    },
+    {
+      "text": "Almorzamos.",
+      "startMs": 27477,
+      "endMs": 28567,
+      "verified": true
+    },
+    {
+      "text": "Después de eso me pongo a jugar con él.",
+      "startMs": 29427,
+      "endMs": 32268,
+      "verified": true
+    },
+    {
+      "text": "Salimos al pequeño parque que hay con mi niño a jugar.",
+      "startMs": 32328,
+      "endMs": 36789,
+      "verified": true
+    },
+    {
+      "text": "Y ya viene la noche.",
+      "startMs": 37319,
+      "endMs": 38530,
+      "verified": false
+    },
+    {
+      "text": "Cenamos.",
+      "startMs": 38559,
+      "endMs": 39249,
+      "verified": true
+    },
+    {
+      "text": "Llega su papá.",
+      "startMs": 39619,
+      "endMs": 40770,
+      "verified": true
+    },
+    {
+      "text": "Y dormimos.",
+      "startMs": 41760,
+      "endMs": 42650,
+      "verified": true
+    },
+    {
+      "text": "No es algo que llame la atención, algo muy común.",
+      "startMs": 42820,
+      "endMs": 47291,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

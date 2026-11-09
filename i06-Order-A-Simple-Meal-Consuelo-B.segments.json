@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i06-Order-A-Simple-Meal-Consuelo-B.mp4",
+  "transcriptHash": "66a3b2350ba35d1984a1cb70676d7d5ac08589e1",
+  "durationMs": 14884,
+  "segments": [
+    {
+      "text": "Señor, por favor, ¿Cuál es el menú de hoy?",
+      "startMs": 351,
+      "endMs": 2690,
+      "verified": true
+    },
+    {
+      "text": "¿Cuál es el plato del día?",
+      "startMs": 2704,
+      "endMs": 5530,
+      "verified": true
+    },
+    {
+      "text": "¿Qué hay para tomar hoy?",
+      "startMs": 5549,
+      "endMs": 8033,
+      "verified": true
+    },
+    {
+      "text": "Bueno.",
+      "startMs": 10387,
+      "endMs": 10968,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i06-Order-A-Simple-Meal-Simplified-Example.mp4",
+  "transcriptHash": "f1a73d249bdf05bb3372fbce1dcbc8ed8efdc6da",
+  "durationMs": 50294,
+  "segments": [
+    {
+      "text": "Cuando viajo al extranjero, voy preparada para probar los platillos típicos.",
+      "startMs": 850,
+      "endMs": 6762,
+      "verified": true
+    },
+    {
+      "text": "Me gusta conocer los ingredientes que se usan en otros países.",
+      "startMs": 7412,
+      "endMs": 12264,
+      "verified": true
+    },
+    {
+      "text": "La cocina de un país nos dice mucho sobre sus zonas geográficas: por ejemplo, si vamos a la costa, se usan mucho los mariscos y los pescados de ese lugar.",
+      "startMs": 13154,
+      "endMs": 26808,
+      "verified": true
+    },
+    {
+      "text": "En las zonas desérticas de México, en cambio, se usa mucho la carne, la carne de res, la carne de pollo y el cabrito que es el platillo típico de Monterrey.",
+      "startMs": 28258,
+      "endMs": 41092,
+      "verified": true
+    },
+    {
+      "text": "De esta maner el comer se convierte en experiencia deliciosa e increíble.",
+      "startMs": 41982,
+      "endMs": 49674,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

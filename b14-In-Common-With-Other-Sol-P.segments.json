@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "b14-In-Common-With-Other-Sol-P.mp4",
+  "transcriptHash": "d9cd67b1633404dc793919dcf8701ebe45199a2d",
+  "durationMs": 26633,
+  "segments": [
+    {
+      "text": "Bueno yo me parezco en la barbilla a mi papá, en su nariz, en la manera de ser en muchas cosas.",
+      "startMs": 30,
+      "endMs": 8530,
+      "verified": true
+    },
+    {
+      "text": "Me parezco a mi mamá en lo sensible, lo llorona.",
+      "startMs": 8544,
+      "endMs": 11750,
+      "verified": true
+    },
+    {
+      "text": "A mi papá en lo dinámico, lo emprendedor, en lo \"luchón.\" Soy bajita como mis papás y blanca como mi mamá.",
+      "startMs": 11766,
+      "endMs": 26573,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

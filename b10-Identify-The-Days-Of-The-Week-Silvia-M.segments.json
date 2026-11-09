@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "b10-Identify-The-Days-Of-The-Week-Silvia-M.mp4",
+  "transcriptHash": "02b4f0308dacc49b0f34d9e006373b5d8774371e",
+  "durationMs": 28050,
+  "segments": [
+    {
+      "text": "El lunes siempre es el día que más cuesta despertarse.",
+      "startMs": 30,
+      "endMs": 4041,
+      "verified": true
+    },
+    {
+      "text": "El martes es ya cuando uno empieza a trabajar juicioso.",
+      "startMs": 5142,
+      "endMs": 8283,
+      "verified": true
+    },
+    {
+      "text": "El miércoles es el día en que ya la semana va en la mitad y entonces uno ya va con buen ritmo.",
+      "startMs": 8813,
+      "endMs": 15665,
+      "verified": true
+    },
+    {
+      "text": "El jueves es el día para preparar la fiesta del fin de semana.",
+      "startMs": 16336,
+      "endMs": 20747,
+      "verified": true
+    },
+    {
+      "text": "El viernes es el día de ir al cine indiscutiblemente.",
+      "startMs": 21387,
+      "endMs": 23868,
+      "verified": true
+    },
+    {
+      "text": "El sábado es el día de la fiesta y el domingo para estar en la casa.",
+      "startMs": 24018,
+      "endMs": 27910,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i07-Negotiate-A-Taxi-Ride-Arturo-A.mp4",
+  "transcriptHash": "9644dbdddce168bc01e8691dd7ed45558437aa8e",
+  "durationMs": 14791,
+  "segments": [
+    {
+      "text": "Me lleva por favor a la Villa.",
+      "startMs": 340,
+      "endMs": 1910,
+      "verified": true
+    },
+    {
+      "text": "¿Cuánto me cobras a la Villa?",
+      "startMs": 1921,
+      "endMs": 4250,
+      "verified": true
+    },
+    {
+      "text": "¿Está funcionando tu taxímetro?",
+      "startMs": 4263,
+      "endMs": 9137,
+      "verified": true
+    },
+    {
+      "text": "¿Tu taxímetro cobra por tiempo o por distancia?",
+      "startMs": 10038,
+      "endMs": 14591,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

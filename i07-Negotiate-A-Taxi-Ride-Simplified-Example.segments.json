@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i07-Negotiate-A-Taxi-Ride-Simplified-Example.mp4",
+  "transcriptHash": "2792ef142ade9110f4b47990144cea52856d1c1d",
+  "durationMs": 32949,
+  "segments": [
+    {
+      "text": "Bueno, le diría, 'Muy buenas noches.",
+      "startMs": 670,
+      "endMs": 3550,
+      "verified": true
+    },
+    {
+      "text": "¿Me lleva por favor a la avenida principal de Los Rosales?",
+      "startMs": 3561,
+      "endMs": 8750,
+      "verified": true
+    },
+    {
+      "text": "¿Cuánto me cobra?' Así el taxista me diría algo como '70 pesos' y yo le diría algo como, 'Ayer el taxista me cobró 50 para la misma carrera.",
+      "startMs": 8762,
+      "endMs": 24390,
+      "verified": true
+    },
+    {
+      "text": "¿No me podría bajar un poquito?",
+      "startMs": 24407,
+      "endMs": 26927,
+      "verified": true
+    },
+    {
+      "text": "Gracias.' Y al final si acepto el precio, subo.",
+      "startMs": 27358,
+      "endMs": 32349,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

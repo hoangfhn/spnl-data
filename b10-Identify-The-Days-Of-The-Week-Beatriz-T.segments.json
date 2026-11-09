@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "video": "b10-Identify-The-Days-Of-The-Week-Beatriz-T.mp4",
+  "transcriptHash": "277b315d217a451eccddae3e081024d7f0215d29",
+  "durationMs": 10124,
+  "segments": [
+    {
+      "text": "Bueno, los días de la semana son: lunes, martes, miércoles, jueves, viernes, y sábado, y domingo.",
+      "startMs": 31,
+      "endMs": 9703,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

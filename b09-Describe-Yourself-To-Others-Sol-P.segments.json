@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "b09-Describe-Yourself-To-Others-Sol-P.mp4",
+  "transcriptHash": "6deddcedd68e27aac27bd84e43ce973b71a037c6",
+  "durationMs": 16416,
+  "segments": [
+    {
+      "text": "Mi nombre es Sol P..",
+      "startMs": 411,
+      "endMs": 2542,
+      "verified": false
+    },
+    {
+      "text": "Nací en Mexicali, Baja California, el 18 de julio de 1964.",
+      "startMs": 2933,
+      "endMs": 7888,
+      "verified": true
+    },
+    {
+      "text": "Estoy estudiando el doctorado en administración en el Tecnológico de Monterrey.",
+      "startMs": 8298,
+      "endMs": 11992,
+      "verified": true
+    },
+    {
+      "text": "Y me interesa el área de empresas familiares y estrategias.",
+      "startMs": 12503,
+      "endMs": 15315,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

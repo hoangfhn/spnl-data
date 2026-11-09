@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "i05-Count-To-100-Diana-P.mp4",
+  "transcriptHash": "33e82d7667827611574b23c063016dbf6ee1233e",
+  "durationMs": 15743,
+  "segments": [
+    {
+      "text": "Bueno, pues ahora les voy a contar del noventa al cien.",
+      "startMs": 361,
+      "endMs": 2410,
+      "verified": true
+    },
+    {
+      "text": "Entonces noventa, noventa y uno, noventa y dos, noventa y tres, noventa y cuatro, noventa y cinco, noventa y seis, noventa y siete, noventa y ocho, noventa y nueve y cien.",
+      "startMs": 2424,
+      "endMs": 14902,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

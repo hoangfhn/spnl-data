@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i02-Ask-And-Tell-Time-Consuelo-B.mp4",
+  "transcriptHash": "70a510968459bd9475f8952274a47d69d05ed02e",
+  "durationMs": 9427,
+  "segments": [
+    {
+      "text": "¿Qué hora es?",
+      "startMs": 10,
+      "endMs": 1541,
+      "verified": true
+    },
+    {
+      "text": "¿Me puede dar la hora?",
+      "startMs": 1550,
+      "endMs": 3943,
+      "verified": true
+    },
+    {
+      "text": "¿Qué hora es, por favor?",
+      "startMs": 3960,
+      "endMs": 6985,
+      "verified": true
+    },
+    {
+      "text": "OK.",
+      "startMs": 8357,
+      "endMs": 8767,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "video": "i06-Order-A-Simple-Meal-Jose-M.mp4",
+  "transcriptHash": "33a2950c0c11e550454c18a834313b2cff6e3966",
+  "durationMs": 105628,
+  "segments": [
+    {
+      "text": "Buenas noches, sí señor.",
+      "startMs": 0,
+      "endMs": 3030,
+      "verified": true
+    },
+    {
+      "text": "Por favor quisiera un vasito de vino tinto.",
+      "startMs": 5150,
+      "endMs": 7801,
+      "verified": true
+    },
+    {
+      "text": "Y para mi esposa…",
+      "startMs": 8371,
+      "endMs": 9741,
+      "verified": true
+    },
+    {
+      "text": "ella quisiera tomar un vaso con té frío, por favor.",
+      "startMs": 10031,
+      "endMs": 14151,
+      "verified": true
+    },
+    {
+      "text": "Y limón, por favor, pero a un lado, por favor, muy bien.",
+      "startMs": 14171,
+      "endMs": 17721,
+      "verified": true
+    },
+    {
+      "text": "Eem, quisiera empezar con una ensalada.",
+      "startMs": 17991,
+      "endMs": 22882,
+      "verified": true
+    },
+    {
+      "text": "Ensalada con tomates, pepino y alcachofa por favor.",
+      "startMs": 23392,
+      "endMs": 27742,
+      "verified": true
+    },
+    {
+      "text": "Y por favor no ponga cebolla, no me gusta.",
+      "startMs": 28172,
+      "endMs": 30842,
+      "verified": true
+    },
+    {
+      "text": "Y para mi esposa lo mismo, el mismo tipo de ensalada.",
+      "startMs": 31552,
+      "endMs": 34882,
+      "verified": true
+    },
+    {
+      "text": "Y el plato principal quisiera un arroz con pollo.",
+      "startMs": 34900,
+      "endMs": 40363,
+      "verified": true
+    },
+    {
+      "text": "Pero un arroz con pollo bien rico, por favor.",
+      "startMs": 40813,
+      "endMs": 44153,
+      "verified": true
+    },
+    {
+      "text": "Y también eem, unos…",
+      "startMs": 44903,
+      "endMs": 47903,
+      "verified": true
+    },
+    {
+      "text": "unas tortillas y unos frijolitos también para acompañar el arroz con pollo porque me dicen que en este restaurante el arroz con pollo es lo mejor aquí en la ciudad, muy bien.",
+      "startMs": 47910,
+      "endMs": 61964,
+      "verified": true
+    },
+    {
+      "text": "Y de postre por favor quisiera un flan.",
+      "startMs": 61970,
+      "endMs": 65490,
+      "verified": true
+    },
+    {
+      "text": "¿No tienen flan?",
+      "startMs": 65505,
+      "endMs": 67390,
+      "verified": true
+    },
+    {
+      "text": "¡No puede ser!",
+      "startMs": 67405,
+      "endMs": 68605,
+      "verified": true
+    },
+    {
+      "text": "Entonces, porque este restaurante es famoso por el flan.",
+      "startMs": 69115,
+      "endMs": 73185,
+      "verified": true
+    },
+    {
+      "text": "Repita por favor, ¿arroz con leche?",
+      "startMs": 74075,
+      "endMs": 76810,
+      "verified": true
+    },
+    {
+      "text": "¡Oh claro que sí!",
+      "startMs": 76826,
+      "endMs": 78416,
+      "verified": true
+    },
+    {
+      "text": "Me encanta el arroz con leche; para mí y para mi esposa, con mucho gusto.",
+      "startMs": 78596,
+      "endMs": 83886,
+      "verified": true
+    },
+    {
+      "text": "Y claro para compañar el arroz con leche yo quisiera un cafecito.",
+      "startMs": 84096,
+      "endMs": 90726,
+      "verified": true
+    },
+    {
+      "text": "Para mi señora, un arro…",
+      "startMs": 91377,
+      "endMs": 93690,
+      "verified": false
+    },
+    {
+      "text": "un café regular, pero para mí descafeinado por favor con un porquito de leche a un ladito.",
+      "startMs": 93710,
+      "endMs": 100887,
+      "verified": true
+    },
+    {
+      "text": "Muchas gracias, muchísimas gracias.",
+      "startMs": 101337,
+      "endMs": 104267,
+      "verified": true
+    },
+    {
+      "text": "Muy amable.",
+      "startMs": 104397,
+      "endMs": 105258,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

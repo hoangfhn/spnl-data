@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i05-Count-To-100-Irma-C.mp4",
+  "transcriptHash": "032cf643367e9aa6dcec968bc391c907fc19da25",
+  "durationMs": 27074,
+  "segments": [
+    {
+      "text": "Bueno, ahora les voy a cantar una canción que me enseñó mi abuela para aprender a sumar.",
+      "startMs": 1081,
+      "endMs": 7710,
+      "verified": true
+    },
+    {
+      "text": "Yo estaba en la primaria y era una canción muy popular.",
+      "startMs": 7724,
+      "endMs": 11066,
+      "verified": true
+    },
+    {
+      "text": "Brinca la tablita yo ya la brinqué, bríncala de nuevo yo me ya cansé.",
+      "startMs": 12157,
+      "endMs": 18090,
+      "verified": true
+    },
+    {
+      "text": "Dos y dos son cuatro, cuatro y dos son seis, seis y dos son ocho y ocho son dieciséis.",
+      "startMs": 18480,
+      "endMs": 25013,
+      "verified": true
+    },
+    {
+      "text": "¡Tan, tan!",
+      "startMs": 25784,
+      "endMs": 26394,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "i06-Order-A-Simple-Meal-John-N.mp4",
+  "transcriptHash": "df3a1cad1e6fe8ca24c6965d67755550d05c9008",
+  "durationMs": 37431,
+  "segments": [
+    {
+      "text": "Cuando voy a un restaurante lo primero que hago es irme y me siento en una mesa, después pido el menú y algo de tomar: un jugo o una coca cola, cualquier cosa, algo de beber.",
+      "startMs": 30,
+      "endMs": 13024,
+      "verified": true
+    },
+    {
+      "text": "Después de que me traigan el menú, pido una entrada que sería una ensalada o una sopa.",
+      "startMs": 13040,
+      "endMs": 17925,
+      "verified": true
+    },
+    {
+      "text": "Después pido el plato fuerte.",
+      "startMs": 18695,
+      "endMs": 20106,
+      "verified": true
+    },
+    {
+      "text": "En un restaurante de comida ecuatoriana, por ejemplo, pido un arroz con menestra y carne y patacones.",
+      "startMs": 20776,
+      "endMs": 27288,
+      "verified": true
+    },
+    {
+      "text": "Después de terminar el plato fuerte, pido un postre.",
+      "startMs": 27290,
+      "endMs": 29878,
+      "verified": true
+    },
+    {
+      "text": "Y eso es todo.",
+      "startMs": 30959,
+      "endMs": 31829,
+      "verified": true
+    },
+    {
+      "text": "Después me tomo otro vasito de agua, pido el cheque, pago, me paro y me voy.",
+      "startMs": 32099,
+      "endMs": 37431,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

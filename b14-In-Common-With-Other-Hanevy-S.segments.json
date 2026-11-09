@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "b14-In-Common-With-Other-Hanevy-S.mp4",
+  "transcriptHash": "cca7a8daf1d37db473cba373fb49b0e491077c75",
+  "durationMs": 36386,
+  "segments": [
+    {
+      "text": "En común tengo con mi papá…a los dos nos gusta mucho la comida china.",
+      "startMs": 1490,
+      "endMs": 6941,
+      "verified": true
+    },
+    {
+      "text": "Siempre que podíamos íbamos los dos solitos a comer comida china.",
+      "startMs": 7671,
+      "endMs": 11062,
+      "verified": true
+    },
+    {
+      "text": "Con mi mamá nos gusta mucho las manualidades como tejer, bordar, coser a máquina.",
+      "startMs": 11512,
+      "endMs": 21703,
+      "verified": true
+    },
+    {
+      "text": "Y con Mayita, mi hija, me gusta mucho que ella también es limpia como yo y no le gusta comer sucia ni nada, que todo esté limpio y ordenado.",
+      "startMs": 23914,
+      "endMs": 35386,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

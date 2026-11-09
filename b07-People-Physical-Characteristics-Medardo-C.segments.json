@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "b07-People-Physical-Characteristics-Medardo-C.mp4",
+  "transcriptHash": "aef37f7fd4273011549347d04b048b3f3abbdc28",
+  "durationMs": 53754,
+  "segments": [
+    {
+      "text": "Mi hijo Médar es un niño de diez años de edad.",
+      "startMs": 2051,
+      "endMs": 8122,
+      "verified": true
+    },
+    {
+      "text": "Es muy bajito para su edad.",
+      "startMs": 8972,
+      "endMs": 12643,
+      "verified": true
+    },
+    {
+      "text": "Es bastante delgado.",
+      "startMs": 14454,
+      "endMs": 15814,
+      "verified": true
+    },
+    {
+      "text": "Tiene la piel más o menos oscura como yo, los ojos grandes.",
+      "startMs": 16915,
+      "endMs": 27167,
+      "verified": true
+    },
+    {
+      "text": "También tiene la cabeza un poco grande.",
+      "startMs": 30678,
+      "endMs": 34069,
+      "verified": true
+    },
+    {
+      "text": "El quiere que diga que es inteligente, pero me dijeron que describa solo físicamente cómo es.",
+      "startMs": 38680,
+      "endMs": 43892,
+      "verified": true
+    },
+    {
+      "text": "Tiene un dientecito que se le sale un poco.",
+      "startMs": 46222,
+      "endMs": 48613,
+      "verified": true
+    },
+    {
+      "text": "Y ¿qué más?",
+      "startMs": 50083,
+      "endMs": 51474,
+      "verified": true
+    },
+    {
+      "text": "Pues ya.",
+      "startMs": 52504,
+      "endMs": 53094,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

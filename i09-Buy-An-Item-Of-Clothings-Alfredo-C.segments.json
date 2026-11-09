@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i09-Buy-An-Item-Of-Clothings-Alfredo-C.mp4",
+  "transcriptHash": "964472e14b366484581542b15724418515a0e2d3",
+  "durationMs": 27609,
+  "segments": [
+    {
+      "text": "Buenos días señorita.",
+      "startMs": 170,
+      "endMs": 1410,
+      "verified": true
+    },
+    {
+      "text": "A ver si usted me puede ayudar con esto.",
+      "startMs": 1430,
+      "endMs": 3280,
+      "verified": true
+    },
+    {
+      "text": "Estoy buscando una camisa que sea de cuello dieciséis y medio, y manga treinta y dos.",
+      "startMs": 3300,
+      "endMs": 9383,
+      "verified": true
+    },
+    {
+      "text": "Estoy buscando algo en colores claros, blanco, o quizás un amarillo muy ligero, o un color azul, azul claro.",
+      "startMs": 10073,
+      "endMs": 21057,
+      "verified": true
+    },
+    {
+      "text": "Y de preferencia, que sea de algodón, no me gusta mucho las telas que tienen poliéster.",
+      "startMs": 22437,
+      "endMs": 27589,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

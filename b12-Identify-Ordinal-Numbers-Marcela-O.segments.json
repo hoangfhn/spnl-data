@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "b12-Identify-Ordinal-Numbers-Marcela-O.mp4",
+  "transcriptHash": "4e4d8c8df4c128aa82b8de3a611433e2cac098ac",
+  "durationMs": 90140,
+  "segments": [
+    {
+      "text": "Los números, e, ordinales, e, bueno.",
+      "startMs": 30,
+      "endMs": 4001,
+      "verified": false
+    },
+    {
+      "text": "Se utilizan desde el pri-, el número primero, que es el equivalente al uno, hasta el-, pongámoslo hasta el doceavo, que es el número doce.",
+      "startMs": 4010,
+      "endMs": 16044,
+      "verified": true
+    },
+    {
+      "text": "Es el primero, segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno, décimo, undécimo, y duodécimo.",
+      "startMs": 16834,
+      "endMs": 31337,
+      "verified": false
+    },
+    {
+      "text": "O, también se utilizan también los dos últimos como decimoprimero y decimosegundo que en el lenguaje frecuente son menos usados.",
+      "startMs": 31417,
+      "endMs": 43630,
+      "verified": true
+    },
+    {
+      "text": "O sea, no, no se usan con tanta frecuencia como onceavo o duodécimo.",
+      "startMs": 43640,
+      "endMs": 51191,
+      "verified": true
+    },
+    {
+      "text": "Ahora, esto se usa para indicar, e, posiciones, lugares, por ejemplo el primer día, el primer lugar, e, ¿qué otras cosas más?",
+      "startMs": 51200,
+      "endMs": 66355,
+      "verified": true
+    },
+    {
+      "text": "Segundo, tercero como para ganadores también de algún, de algún evento, de alguna competencia.",
+      "startMs": 67865,
+      "endMs": 77300,
+      "verified": true
+    },
+    {
+      "text": "E, pisos también, en la construcción en los edificios, el primer piso, el segundo piso, tercer piso.",
+      "startMs": 77317,
+      "endMs": 89080,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "i02-Ask-And-Tell-Time-Jorge-G.mp4",
+  "transcriptHash": "769b6da39a70f7e9b9c509a25dbc5e4bbef75f7b",
+  "durationMs": 28584,
+  "segments": [
+    {
+      "text": "La hora.",
+      "startMs": 0,
+      "endMs": 1701,
+      "verified": false
+    },
+    {
+      "text": "La hora es muy importante.",
+      "startMs": 1780,
+      "endMs": 3540,
+      "verified": true
+    },
+    {
+      "text": "Yo no podría vivir sin la hora.",
+      "startMs": 3560,
+      "endMs": 4844,
+      "verified": true
+    },
+    {
+      "text": "Cuando trato de preguntar la hora siempre me dirijo…",
+      "startMs": 5455,
+      "endMs": 8070,
+      "verified": true
+    },
+    {
+      "text": "primero, antes de preguntar la hora me acerco a la persona tratando de buscar si tiene reloj porque sería muy tonto y absurdo si le pregunto la hora a una persona que no tiene reloj.",
+      "startMs": 8090,
+      "endMs": 17320,
+      "verified": true
+    },
+    {
+      "text": "Lo primero que hago es fijarme en la persona si tiene reloj.",
+      "startMs": 17334,
+      "endMs": 19536,
+      "verified": true
+    },
+    {
+      "text": "Y lo segundo que hago es dirigirme a ella y preguntarle: <Disculpe, ¿me puede dar su hora, por favor?>.",
+      "startMs": 19867,
+      "endMs": 24540,
+      "verified": true
+    },
+    {
+      "text": "Y después de pedirle la hora le digo gracias y es todo.",
+      "startMs": 24831,
+      "endMs": 28123,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

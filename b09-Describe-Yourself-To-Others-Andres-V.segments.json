@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "b09-Describe-Yourself-To-Others-Andres-V.mp4",
+  "transcriptHash": "39d8e914f2258faa458206161a98acd93a8f4abe",
+  "durationMs": 24799,
+  "segments": [
+    {
+      "text": "Soy Alberto Vargas y tengo 40 años.",
+      "startMs": 671,
+      "endMs": 4350,
+      "verified": true
+    },
+    {
+      "text": "Mido un metro setenta y siete.",
+      "startMs": 4363,
+      "endMs": 7130,
+      "verified": false
+    },
+    {
+      "text": "Soy de tez blanca, ojos claros, cabello castaño, agradable creo.",
+      "startMs": 7145,
+      "endMs": 14511,
+      "verified": true
+    },
+    {
+      "text": "Soy de Lima.",
+      "startMs": 18224,
+      "endMs": 19034,
+      "verified": true
+    },
+    {
+      "text": "Toda mi vida he vivido acá y estoy contento de ser peruano.",
+      "startMs": 19965,
+      "endMs": 24198,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

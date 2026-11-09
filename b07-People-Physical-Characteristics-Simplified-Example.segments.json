@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "b07-People-Physical-Characteristics-Simplified-Example.mp4",
+  "transcriptHash": "e9cc657690291df19add5f4c90c347067b194014",
+  "durationMs": 24683,
+  "segments": [
+    {
+      "text": "Voy a describir a mi familia.",
+      "startMs": 240,
+      "endMs": 2262,
+      "verified": true
+    },
+    {
+      "text": "Mi madre es de estatura mediana, rubia y de ojos claros.",
+      "startMs": 2280,
+      "endMs": 7347,
+      "verified": true
+    },
+    {
+      "text": "Mi padre, en cambio, es un tanto más alto, pero de tez morena y cabello oscuro.",
+      "startMs": 7998,
+      "endMs": 14423,
+      "verified": true
+    },
+    {
+      "text": "Mi hermano tiende a ser más gordito, pero de tez más blanca que la mía.",
+      "startMs": 15224,
+      "endMs": 18840,
+      "verified": false
+    },
+    {
+      "text": "Yo soy alto, delgado y de cabello y ojos oscuros.",
+      "startMs": 18857,
+      "endMs": 23822,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

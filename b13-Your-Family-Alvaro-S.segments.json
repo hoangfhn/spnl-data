@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "video": "b13-Your-Family-Alvaro-S.mp4",
+  "transcriptHash": "1c7461bcf3522a540747bb8102d67d20861ef028",
+  "durationMs": 51293,
+  "segments": [
+    {
+      "text": "Bien, mi familia está compuesta, bueno, de mis padres y dos hermanos más.",
+      "startMs": 150,
+      "endMs": 6370,
+      "verified": true
+    },
+    {
+      "text": "Mi hermano mayor tiene 31 años en este momento y mi hermano menor tiene 11 años.",
+      "startMs": 6390,
+      "endMs": 13553,
+      "verified": true
+    },
+    {
+      "text": "Tenemos bastante diferencia.",
+      "startMs": 14254,
+      "endMs": 15584,
+      "verified": true
+    },
+    {
+      "text": "Mi hermano mayor es ingeniero agrónomo profesional.",
+      "startMs": 15834,
+      "endMs": 18055,
+      "verified": true
+    },
+    {
+      "text": "Mis padres son profesionales.",
+      "startMs": 18335,
+      "endMs": 19780,
+      "verified": true
+    },
+    {
+      "text": "Mi padre es médico veterinario y mi mamá es tecnólogo médico.",
+      "startMs": 19800,
+      "endMs": 22246,
+      "verified": false
+    },
+    {
+      "text": "Yo soy ingeniero agrónomo y mi hermano está en el colegio todavía.",
+      "startMs": 23356,
+      "endMs": 26070,
+      "verified": true
+    },
+    {
+      "text": "Y bueno no sólo trabajamos todos juntos.",
+      "startMs": 26087,
+      "endMs": 31728,
+      "verified": false
+    },
+    {
+      "text": "Tenemos unas empresas familiares en la cual trabaja mi hermano mayor que vendría a ser el gerente de la empresa.",
+      "startMs": 31820,
+      "endMs": 37610,
+      "verified": true
+    },
+    {
+      "text": "Mi padre es el dueño y mi madre en realidad está más dedicada a la casa y yo estoy estudiando aquí en Estados Unidos precisamente para hacerme cargo también de todo lo que es el área de negocios de las empresas en que trabajamos todos.",
+      "startMs": 37629,
+      "endMs": 50853,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

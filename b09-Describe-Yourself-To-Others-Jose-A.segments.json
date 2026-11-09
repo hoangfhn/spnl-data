@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "b09-Describe-Yourself-To-Others-Jose-A.mp4",
+  "transcriptHash": "41fd36088777b6504762add814288bf259c0c502",
+  "durationMs": 17252,
+  "segments": [
+    {
+      "text": "Mido 1.75.",
+      "startMs": 10,
+      "endMs": 961,
+      "verified": false
+    },
+    {
+      "text": "Soy pelón.",
+      "startMs": 970,
+      "endMs": 3142,
+      "verified": true
+    },
+    {
+      "text": "Tengo barba, bastante velludo.",
+      "startMs": 3733,
+      "endMs": 6170,
+      "verified": true
+    },
+    {
+      "text": "Soy de piel clara.",
+      "startMs": 6184,
+      "endMs": 7255,
+      "verified": true
+    },
+    {
+      "text": "Un poquito panzoncito.",
+      "startMs": 7976,
+      "endMs": 10207,
+      "verified": true
+    },
+    {
+      "text": "Soy muy simpático.",
+      "startMs": 10698,
+      "endMs": 11989,
+      "verified": true
+    },
+    {
+      "text": "Ellas dicen que soy feo pero no es cierto.",
+      "startMs": 12759,
+      "endMs": 14780,
+      "verified": true
+    },
+    {
+      "text": "¡'Es todo!",
+      "startMs": 14791,
+      "endMs": 16322,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

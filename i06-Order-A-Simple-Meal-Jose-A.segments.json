@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i06-Order-A-Simple-Meal-Jose-A.mp4",
+  "transcriptHash": "09bab324d9721294d615f9c7499508731fdac780",
+  "durationMs": 18924,
+  "segments": [
+    {
+      "text": "Bueno, ahora vamos a pedir una comida típica de México...",
+      "startMs": 30,
+      "endMs": 2643,
+      "verified": true
+    },
+    {
+      "text": "Quiero unos tacos de cabeza con un poquito de salsa, un refresco, que sea una coca.",
+      "startMs": 2974,
+      "endMs": 10000,
+      "verified": true
+    },
+    {
+      "text": "Y pues unas quesadillas de...",
+      "startMs": 10013,
+      "endMs": 14679,
+      "verified": true
+    },
+    {
+      "text": "una de queso y una de hongos.",
+      "startMs": 14690,
+      "endMs": 16922,
+      "verified": true
+    },
+    {
+      "text": "Eso es muy sabroso.",
+      "startMs": 17433,
+      "endMs": 18444,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

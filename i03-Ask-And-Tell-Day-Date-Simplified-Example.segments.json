@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i03-Ask-And-Tell-Day-Date-Simplified-Example.mp4",
+  "transcriptHash": "1f5ccd309af2a4496e2fa460d01896fcaaef3b05",
+  "durationMs": 30325,
+  "segments": [
+    {
+      "text": "Los lunes, martes, miércoles, jueves y viernes son los llamados \"días de entre semana\".",
+      "startMs": 1290,
+      "endMs": 9282,
+      "verified": true
+    },
+    {
+      "text": "Los sábados y los domingos forman los fines de semana.",
+      "startMs": 9812,
+      "endMs": 13862,
+      "verified": true
+    },
+    {
+      "text": "Cuando las personas descansan los fines de semana se dice que trabajan ls semana inglesa.",
+      "startMs": 14633,
+      "endMs": 21644,
+      "verified": true
+    },
+    {
+      "text": "Casi todas las escuelas de los países hispanos funcionan bajo este sistema.",
+      "startMs": 22514,
+      "endMs": 29025,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

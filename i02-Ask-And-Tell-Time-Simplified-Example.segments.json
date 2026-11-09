@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i02-Ask-And-Tell-Time-Simplified-Example.mp4",
+  "transcriptHash": "726b3bd3155b4948ff898d1e57a74ff20bfe171a",
+  "durationMs": 38777,
+  "segments": [
+    {
+      "text": "Hay diferentes maneras de expresar el tiempo, las más comunes son: ¿qué hora es?, ¿qué horas son?",
+      "startMs": 690,
+      "endMs": 9950,
+      "verified": true
+    },
+    {
+      "text": "En Latinoamérica se dice \"es un cuarto para las tres\", pero en España se dice \"son las tres menos cuarto\".",
+      "startMs": 9970,
+      "endMs": 19048,
+      "verified": true
+    },
+    {
+      "text": "Para dar la hora en los aeropuertos y las estaciones de trenes se dice, \"son las cuatro y veintidós\" porque es necesario ser preciso.",
+      "startMs": 20359,
+      "endMs": 33400,
+      "verified": true
+    },
+    {
+      "text": "Así que la misma hora puede expresarse de diversas maneras.",
+      "startMs": 33415,
+      "endMs": 38017,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

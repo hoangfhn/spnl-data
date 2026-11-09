@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "b13-Your-Family-Alejandro-V.mp4",
+  "transcriptHash": "1bdf73105c09d4734a952b23ccd728392dda8467",
+  "durationMs": 18506,
+  "segments": [
+    {
+      "text": "Mi familia, pues, consta de mi padre que se llama Jaime Aguilera Marraza, mi mamá, Margarita Villasana.",
+      "startMs": 30,
+      "endMs": 7830,
+      "verified": true
+    },
+    {
+      "text": "Y tengo tres hermanos.",
+      "startMs": 7843,
+      "endMs": 9663,
+      "verified": true
+    },
+    {
+      "text": "El mayor es Jaime, le sigue Sergio.",
+      "startMs": 10494,
+      "endMs": 13455,
+      "verified": true
+    },
+    {
+      "text": "Yo soy el tercero, Alejandro y el más pequeño, Miguel.",
+      "startMs": 13795,
+      "endMs": 17506,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "i09-Buy-An-Item-Of-Clothings-Carlos-M.mp4",
+  "transcriptHash": "3b252fba30ef1f21a8f275fec6e41fb41b030e66",
+  "durationMs": 48669,
+  "segments": [
+    {
+      "text": "Sí, bueno, señorita, buenas tardes.",
+      "startMs": 30,
+      "endMs": 2600,
+      "verified": true
+    },
+    {
+      "text": "Estoy buscando una camisa de vestir de color blanca para corbata, con cuello de botones; y necesito de talla del cuello quince y medio.",
+      "startMs": 2851,
+      "endMs": 15133,
+      "verified": true
+    },
+    {
+      "text": "Necesito del largo de las mangas de treinta y cuatro, treinta y cinco y que sea cien por ciento algodón.",
+      "startMs": 15993,
+      "endMs": 22604,
+      "verified": true
+    },
+    {
+      "text": "También estoy buscando un cinturón de cuero color negro para vestir también, y que sea de talla treinta y seis.",
+      "startMs": 23454,
+      "endMs": 32866,
+      "verified": true
+    },
+    {
+      "text": "Y busco unos zapatos, más bien casuales, para trabajar, de color marrón claros.",
+      "startMs": 32880,
+      "endMs": 41928,
+      "verified": true
+    },
+    {
+      "text": "Y que sean, que no sean muy caros.",
+      "startMs": 41930,
+      "endMs": 45088,
+      "verified": true
+    },
+    {
+      "text": "No quiero pagar mucho, y de talla once.",
+      "startMs": 45138,
+      "endMs": 48419,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

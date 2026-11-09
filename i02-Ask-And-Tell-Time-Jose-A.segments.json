@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i02-Ask-And-Tell-Time-Jose-A.mp4",
+  "transcriptHash": "539e07768b47ae0331dc2beea312ce70bda458bd",
+  "durationMs": 24427,
+  "segments": [
+    {
+      "text": "Bueno, ahorita son cuarto para las cinco.",
+      "startMs": 370,
+      "endMs": 3151,
+      "verified": true
+    },
+    {
+      "text": "Más o menos podemos decir que son las cinco menos quince.",
+      "startMs": 3791,
+      "endMs": 7082,
+      "verified": true
+    },
+    {
+      "text": "O un poquito después de las cuatro y media.",
+      "startMs": 7632,
+      "endMs": 11063,
+      "verified": true
+    },
+    {
+      "text": "Más o menos como quince minutos para estar cerca de las cinco.",
+      "startMs": 13514,
+      "endMs": 19446,
+      "verified": true
+    },
+    {
+      "text": "Poquito antes de las cinco.",
+      "startMs": 20336,
+      "endMs": 21757,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

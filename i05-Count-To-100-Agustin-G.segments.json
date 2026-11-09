@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i05-Count-To-100-Agustin-G.mp4",
+  "transcriptHash": "8df5f50ef5cd7024ce69aabf10b8ffc5a728a7ef",
+  "durationMs": 25751,
+  "segments": [
+    {
+      "text": "Bueno, esto es curioso.",
+      "startMs": 570,
+      "endMs": 1500,
+      "verified": true
+    },
+    {
+      "text": "Voy a contar hasta al cien de cinco en cinco.",
+      "startMs": 1520,
+      "endMs": 4152,
+      "verified": true
+    },
+    {
+      "text": "Si me equivoco no se rían.",
+      "startMs": 4852,
+      "endMs": 6513,
+      "verified": true
+    },
+    {
+      "text": "Uno, cinco, diez, quince, veinte, veinticinco, treinta, treinta y cinco, cuarente, cuarenta y cinco, cincuenta, cincuenta y cinco, sesenta, sesenta y cinco, setenta, setenta y cinco, ochenta, ochenta y cinco, noventa, noventa y cinco y cien.",
+      "startMs": 7473,
+      "endMs": 25261,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i08-Ask-And-Give-Directions-Teresa-C.mp4",
+  "transcriptHash": "b50def4b023a5bc1a2504baabaa23b4c6c6350cd",
+  "durationMs": 35527,
+  "segments": [
+    {
+      "text": "De este café sales a Dean Keeton, de Dean Keeton tomas hasta llegar a Guadalupe.",
+      "startMs": 230,
+      "endMs": 8662,
+      "verified": true
+    },
+    {
+      "text": "En Guagalupe doblas a la derecha y sigues por la veintisiete.",
+      "startMs": 9712,
+      "endMs": 17123,
+      "verified": true
+    },
+    {
+      "text": "La veintisiete esquina con Rio Grande doblas a la derecha de nuevo y ahí llegas a Rio Grande 2707 que es Contese, que son unos apartamentos.",
+      "startMs": 17853,
+      "endMs": 29605,
+      "verified": true
+    },
+    {
+      "text": "Es super fácil verlo, al frente hay un negocio que se llama ‘Grande’.",
+      "startMs": 29856,
+      "endMs": 33006,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

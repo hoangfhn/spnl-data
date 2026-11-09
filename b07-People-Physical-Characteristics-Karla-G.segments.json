@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "b07-People-Physical-Characteristics-Karla-G.mp4",
+  "transcriptHash": "cb1895c1beed202e9e80f154a50568158c073f16",
+  "durationMs": 27725,
+  "segments": [
+    {
+      "text": "Bueno, mi mejor amiga es una, es una muchacha bellísima.",
+      "startMs": 0,
+      "endMs": 5385,
+      "verified": true
+    },
+    {
+      "text": "Es de estatura muy alta.",
+      "startMs": 6026,
+      "endMs": 7830,
+      "verified": true
+    },
+    {
+      "text": "Es de complexión muy delgada.",
+      "startMs": 7847,
+      "endMs": 10729,
+      "verified": true
+    },
+    {
+      "text": "Tiene la tez morena clara.",
+      "startMs": 11340,
+      "endMs": 13552,
+      "verified": true
+    },
+    {
+      "text": "Tiene el cabello muy rizado, corto.",
+      "startMs": 13963,
+      "endMs": 17586,
+      "verified": true
+    },
+    {
+      "text": "Tiene la cara delgada.",
+      "startMs": 17726,
+      "endMs": 19257,
+      "verified": true
+    },
+    {
+      "text": "Tiene el vientre muy plano.",
+      "startMs": 19948,
+      "endMs": 21689,
+      "verified": true
+    },
+    {
+      "text": "Y tiene los ojos color miel, es decir los ojos muy claros.",
+      "startMs": 22450,
+      "endMs": 26784,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

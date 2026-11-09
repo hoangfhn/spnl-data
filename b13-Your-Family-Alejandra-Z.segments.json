@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "b13-Your-Family-Alejandra-Z.mp4",
+  "transcriptHash": "9ae11272ba53001129ee119e2ab018f99b7f6d15",
+  "durationMs": 36989,
+  "segments": [
+    {
+      "text": "Bueno, mi familia se compone de mi padre, de mi madre, que son ambos de la costa ecuatoriana pero que formaron su familia en Quito, en la capital.",
+      "startMs": 0,
+      "endMs": 11863,
+      "verified": true
+    },
+    {
+      "text": "Somos cuatro hijas mujeres.",
+      "startMs": 12353,
+      "endMs": 14244,
+      "verified": true
+    },
+    {
+      "text": "Yo soy la mayor y tengo…",
+      "startMs": 14260,
+      "endMs": 17450,
+      "verified": true
+    },
+    {
+      "text": "mis otras tres hermanas están en Ecuador y tienen veintiuno, diecinueve y diecisiete años.",
+      "startMs": 17474,
+      "endMs": 23726,
+      "verified": true
+    },
+    {
+      "text": "Además mi hermana, que tiene veintinún años, también tiene un bebé que se llama Juan Sebastián y tiene dos años.",
+      "startMs": 24196,
+      "endMs": 31088,
+      "verified": true
+    },
+    {
+      "text": "Y él también es el último nuevo miembro de mi familia.",
+      "startMs": 31090,
+      "endMs": 35989,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

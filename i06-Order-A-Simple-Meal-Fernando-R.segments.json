@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i06-Order-A-Simple-Meal-Fernando-R.mp4",
+  "transcriptHash": "00b430743979d720049fa5acff86ea21745a12c5",
+  "durationMs": 43375,
+  "segments": [
+    {
+      "text": "Antes de ir a un restorán lo primero que hago con mis amigos es elegir el tipo de comida que queremos pedir.",
+      "startMs": 170,
+      "endMs": 6642,
+      "verified": true
+    },
+    {
+      "text": "Entonces cuando llegamos al restorán lo primero que pedimos es obviamente la carta ¿no?",
+      "startMs": 7233,
+      "endMs": 13305,
+      "verified": true
+    },
+    {
+      "text": "o el menú.",
+      "startMs": 14215,
+      "endMs": 14925,
+      "verified": true
+    },
+    {
+      "text": "Y a partir de ahí, bueno decidimos si vamos a comer o pollo, o carne roja, o talvez pescado o pastas ¿no?",
+      "startMs": 15355,
+      "endMs": 29130,
+      "verified": true
+    },
+    {
+      "text": "Preferentemente me gusta más la comida que tiene talvez algo de ajo, pero no siempre porque si no está bien cocido te puede caer muy mal al estómago.",
+      "startMs": 29140,
+      "endMs": 43235,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

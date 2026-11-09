@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i01-Make-A-Social-Introduction-Tomas-S.mp4",
+  "transcriptHash": "b929c9dab1215a12dfef5c29f403965e620ece31",
+  "durationMs": 45279,
+  "segments": [
+    {
+      "text": "Depende de la circunstancia, si es una circunstancia informal diría: “Bueno, Jorge te presento a María”, por ejemplo, “María te presento a Jorge”.",
+      "startMs": 1241,
+      "endMs": 13085,
+      "verified": true
+    },
+    {
+      "text": "Y luego se supone que se dan un beso en la mejilla.",
+      "startMs": 13256,
+      "endMs": 16707,
+      "verified": true
+    },
+    {
+      "text": "Ahora que si no es un tema informal, sino que es más bien una presentación formal, tendría que hacer un poco más de introducción.",
+      "startMs": 16710,
+      "endMs": 23420,
+      "verified": true
+    },
+    {
+      "text": "Te presento a, bueno a quien ves acá es Jorge X—el apellido—y bueno él trabaja en tal lugar y se dedica a tal cosa y bueno “Te presento a María que es una profesional en tal tema y hace tal cosa”.",
+      "startMs": 23430,
+      "endMs": 38246,
+      "verified": true
+    },
+    {
+      "text": "Y ahí recién los introduzco.",
+      "startMs": 38586,
+      "endMs": 40240,
+      "verified": true
+    },
+    {
+      "text": "Es más largo, un poco de background chiquito, pequeño background.",
+      "startMs": 40257,
+      "endMs": 43958,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

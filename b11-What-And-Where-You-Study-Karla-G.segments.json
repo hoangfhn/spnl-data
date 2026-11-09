@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "b11-What-And-Where-You-Study-Karla-G.mp4",
+  "transcriptHash": "473498486535ee6e56d5c6b71ab358da6f95c7f8",
+  "durationMs": 37802,
+  "segments": [
+    {
+      "text": "Muy bien, bueno soy originaria de México.",
+      "startMs": 691,
+      "endMs": 3252,
+      "verified": true
+    },
+    {
+      "text": "Estudié en México dieciseis años.",
+      "startMs": 3432,
+      "endMs": 5490,
+      "verified": true
+    },
+    {
+      "text": "Y después me trasladé a la ciudad de Austin, Tejas.",
+      "startMs": 5503,
+      "endMs": 11697,
+      "verified": true
+    },
+    {
+      "text": "Aquí estudio en la Universidad de Tejas desde mil novecientos noventa y siete.",
+      "startMs": 12297,
+      "endMs": 16059,
+      "verified": true
+    },
+    {
+      "text": "Estudié periodismo primeramente.",
+      "startMs": 16430,
+      "endMs": 19140,
+      "verified": true
+    },
+    {
+      "text": "Tengo una licenciatura en periodismo.",
+      "startMs": 19160,
+      "endMs": 20902,
+      "verified": true
+    },
+    {
+      "text": "Y posteriormente estudié literatura latinoamericana.",
+      "startMs": 21423,
+      "endMs": 26045,
+      "verified": true
+    },
+    {
+      "text": "Siempre me ha interesado mucho la escritura y la lectura.",
+      "startMs": 27306,
+      "endMs": 31839,
+      "verified": true
+    },
+    {
+      "text": "Y tengo interés en seguir en una en una carrera en una carrera literaria.",
+      "startMs": 32249,
+      "endMs": 37282,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

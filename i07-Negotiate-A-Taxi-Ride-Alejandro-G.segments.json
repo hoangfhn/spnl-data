@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "video": "i07-Negotiate-A-Taxi-Ride-Alejandro-G.mp4",
+  "transcriptHash": "dff62afa7192876a1464ad4165fca15cbee8c508",
+  "durationMs": 68313,
+  "segments": [
+    {
+      "text": "Bueno, aquí los taxis no son taxis como hay en otros países que tienen un color específico.",
+      "startMs": 710,
+      "endMs": 7481,
+      "verified": true
+    },
+    {
+      "text": "Aquí hay autos cualquiera que pueden ser taxis.",
+      "startMs": 7500,
+      "endMs": 12092,
+      "verified": true
+    },
+    {
+      "text": "La única forma como se van a diferenciar que es un taxi es que tiene un letrero que dice \"taxi\" es lo único, no hay color, nada especial.",
+      "startMs": 12312,
+      "endMs": 19724,
+      "verified": true
+    },
+    {
+      "text": "Al taxista vas a preguntarle cuánto va a costar ir desde el lugar donde tú estás hasta el lugar de destino.",
+      "startMs": 20134,
+      "endMs": 29826,
+      "verified": true
+    },
+    {
+      "text": "Vas a preguntarle \"¿Cuánto me cuesta ir a la calle Independencia?\" Entonces, él va a darte un precio.",
+      "startMs": 30296,
+      "endMs": 38067,
+      "verified": true
+    },
+    {
+      "text": "Va a poder decirte ocho soles, es posiblemente, y tú vas a tratar de regatear el precio.",
+      "startMs": 38120,
+      "endMs": 43548,
+      "verified": true
+    },
+    {
+      "text": "El regatear el precio no va a ser algo que a él lo va a ofender, va a ser algo que él posiblemente va a esperar.",
+      "startMs": 44329,
+      "endMs": 49940,
+      "verified": true
+    },
+    {
+      "text": "Entonces él puede responder siete soles, o probablemente siete cincuenta, rebajando un poquito.",
+      "startMs": 50300,
+      "endMs": 56641,
+      "verified": true
+    },
+    {
+      "text": "O simplemente el puede decir \"Sabe señor, eso es lo que cuesta ir hasta allá.",
+      "startMs": 56961,
+      "endMs": 60992,
+      "verified": true
+    },
+    {
+      "text": "Si quiere subir está bienvenido.\" Entonces, bueno, si estás de acuerdo con el precio, subes.",
+      "startMs": 61302,
+      "endMs": 67813,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

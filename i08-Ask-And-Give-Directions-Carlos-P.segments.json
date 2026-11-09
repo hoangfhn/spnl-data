@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "i08-Ask-And-Give-Directions-Carlos-P.mp4",
+  "transcriptHash": "793c559c97873e2c280e5a359042c975f0b5fff8",
+  "durationMs": 25310,
+  "segments": [
+    {
+      "text": "Mira, para ir al zócalo, tienes que tomar un camión en Insurgentes Sur y allí dirigirte hacia el metro, el metro Insurgentes.",
+      "startMs": 30,
+      "endMs": 13435,
+      "verified": true
+    },
+    {
+      "text": "Subes en el metro Insurgentes y bajas en la estación Chapul-, en la estación zócalo, y allí estás, te encuentras en el centro de la ciudad.",
+      "startMs": 14216,
+      "endMs": 24730,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

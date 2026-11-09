@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "i02-Ask-And-Tell-Time-William-R.mp4",
+  "transcriptHash": "5582bccf838b915e4a8bcf68ed24015c20522af5",
+  "durationMs": 11053,
+  "segments": [
+    {
+      "text": "- Disculpa, me puedes decir que horas tienes, por favor.",
+      "startMs": 0,
+      "endMs": 2062,
+      "verified": true
+    },
+    {
+      "text": "- Son las cinco y media.",
+      "startMs": 2080,
+      "endMs": 3630,
+      "verified": true
+    },
+    {
+      "text": "- Ah.",
+      "startMs": 3644,
+      "endMs": 4180,
+      "verified": false
+    },
+    {
+      "text": "También, ¿qué fecha es ahora mismo?",
+      "startMs": 4200,
+      "endMs": 5890,
+      "verified": true
+    },
+    {
+      "text": "- Es domingo veintitrés de Mayo.",
+      "startMs": 5907,
+      "endMs": 9020,
+      "verified": true
+    },
+    {
+      "text": "- Ok.",
+      "startMs": 9030,
+      "endMs": 10000,
+      "verified": true
+    },
+    {
+      "text": "Muchas gracias.",
+      "startMs": 10011,
+      "endMs": 10742,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

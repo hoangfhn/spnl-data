@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i09-Buy-An-Item-Of-Clothings-Analucia-M.mp4",
+  "transcriptHash": "06bba06dde68ab564182ea87af51469c66f00628",
+  "durationMs": 57911,
+  "segments": [
+    {
+      "text": "Bueno, cuando voy a comprar digamos una falda a un almacén, generalmente sé lo que quiero entonces si quiero una falda jean le pido a la señorita del almacén que me muestre en dónde están las faldas de jean y después busco los estilos que me gustan y, generalmente a mí me gustan las faldas largas.",
+      "startMs": 0,
+      "endMs": 26105,
+      "verified": true
+    },
+    {
+      "text": "Entonces le digo: “No mire, yo quisiera una falda larga de jean que me cubra las piernas, pero que de todos modos sea fresquita, un poco liviana porque vivo en Florida—entonces allá hace calor”.",
+      "startMs": 26110,
+      "endMs": 39027,
+      "verified": true
+    },
+    {
+      "text": "Y después le pido por la talla.",
+      "startMs": 40517,
+      "endMs": 43390,
+      "verified": true
+    },
+    {
+      "text": "Le digo: “Señorita, me muestra estilo en mi talla, yo soy una talla tres acá en Estados Unidos”.",
+      "startMs": 43408,
+      "endMs": 50150,
+      "verified": true
+    },
+    {
+      "text": "Y ya.",
+      "startMs": 50169,
+      "endMs": 53010,
+      "verified": false
+    },
+    {
+      "text": "Y después me mido la falda y si me gusta la compro y si no, no la compro.",
+      "startMs": 53180,
+      "endMs": 57791,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

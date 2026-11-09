@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "b07-People-Physical-Characteristics-Mauro-G.mp4",
+  "transcriptHash": "ed6e18ba547dcb164f037b50cbb784badea0251c",
+  "durationMs": 57911,
+  "segments": [
+    {
+      "text": "Mi papá no es muy alto, término medio, es de tez blanca, no tiene bigotes, usa pelo corto, siempre usa sombreros y zapatos pero así como para la agricultura.",
+      "startMs": 1210,
+      "endMs": 30410,
+      "verified": true
+    },
+    {
+      "text": "¿Qué más?",
+      "startMs": 30426,
+      "endMs": 35887,
+      "verified": false
+    },
+    {
+      "text": "Ah, mi mamá también es más baja que mi papá.",
+      "startMs": 37637,
+      "endMs": 42558,
+      "verified": true
+    },
+    {
+      "text": "Es delgada y usa trenzas con falda y siempre una manta.",
+      "startMs": 43878,
+      "endMs": 57580,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

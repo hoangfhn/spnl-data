@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i03-Ask-And-Tell-Day-Date-Jorge-G.mp4",
+  "transcriptHash": "34ec224c3729b23fbf1a6cc407865531905a57b9",
+  "durationMs": 32229,
+  "segments": [
+    {
+      "text": "Yo soy muy sencillo y muy rápido cuando trato de averiguar la fecha del día de ahora.",
+      "startMs": 310,
+      "endMs": 6122,
+      "verified": true
+    },
+    {
+      "text": "Simplemente voy, me acerco a la persona y le digo: <Disculpe, ¿me podría decir que día es ‘hora?, porque estoy muy distraído y la verdad no sé ni qué día vivo>.",
+      "startMs": 6472,
+      "endMs": 13904,
+      "verified": true
+    },
+    {
+      "text": "Simplemente me gusta jugar algunas veces con preguntas, pueden decir tontas, pero son preguntas que a veces la gente piensa que son tontas pero realmente son muy importantes saber qué día es y qué fecha es.",
+      "startMs": 14394,
+      "endMs": 26208,
+      "verified": true
+    },
+    {
+      "text": "Como ahora es domingo ¿trece o catorce de marzo?",
+      "startMs": 26618,
+      "endMs": 29919,
+      "verified": true
+    },
+    {
+      "text": "Catorce de marzo.",
+      "startMs": 30399,
+      "endMs": 31429,
+      "verified": false
+    },
+    {
+      "text": "Diculpen.",
+      "startMs": 31549,
+      "endMs": 32219,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i08-Ask-And-Give-Directions-Rossana-T.mp4",
+  "transcriptHash": "533f8c6e4611416abec4d760f0c0b0f262a15ba9",
+  "durationMs": 39288,
+  "segments": [
+    {
+      "text": "Para llegar a mi casa, tienes que tomar sobre la mano izquierda hasta que llegues a la Avenida Santa Cruz, la prolongación de la Avenida Santa Cruz es la Avenida Arangurú.",
+      "startMs": 870,
+      "endMs": 13023,
+      "verified": true
+    },
+    {
+      "text": "De frente tomas Arangurú hasta una pared, esa pared era San Borja sur.",
+      "startMs": 14933,
+      "endMs": 20024,
+      "verified": true
+    },
+    {
+      "text": "Volteas a la derecha, de frente hasta llegar al Ministerio de Guerra.",
+      "startMs": 20514,
+      "endMs": 24905,
+      "verified": true
+    },
+    {
+      "text": "Pasarán pues unas 15, 20 cuadras, y sobre la mano izquierda vas a encontrar el Ministerio de Guerra.",
+      "startMs": 25215,
+      "endMs": 34927,
+      "verified": true
+    },
+    {
+      "text": "Ese ministerio lo bordeas y llegas a mi casa.",
+      "startMs": 35557,
+      "endMs": 38268,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i03-Ask-And-Tell-Day-Date-Claudia-J.mp4",
+  "transcriptHash": "a604479b8e646658278463139d4d5c456c21671e",
+  "durationMs": 24660,
+  "segments": [
+    {
+      "text": "Hola, mi nombre es Claudia.",
+      "startMs": 210,
+      "endMs": 1441,
+      "verified": true
+    },
+    {
+      "text": "Bueno, los días de la semana son: lunes, martes, miércoles, jueves, viernes, sábado, y domingo.",
+      "startMs": 2532,
+      "endMs": 13130,
+      "verified": true
+    },
+    {
+      "text": "Yo trabajo de lunes a viernes, ¿los sábados y domingos?",
+      "startMs": 14562,
+      "endMs": 18625,
+      "verified": true
+    },
+    {
+      "text": "Veo películas, voy a pasear, sólo con amigos.",
+      "startMs": 19906,
+      "endMs": 23929,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

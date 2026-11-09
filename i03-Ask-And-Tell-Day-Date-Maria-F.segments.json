@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i03-Ask-And-Tell-Day-Date-Maria-F.mp4",
+  "transcriptHash": "df726793f2170763fdb02661cf63ff0c5f6ca695",
+  "durationMs": 12817,
+  "segments": [
+    {
+      "text": "Bueno, ahora mismo son las cinco de la tarde.",
+      "startMs": 0,
+      "endMs": 4206,
+      "verified": true
+    },
+    {
+      "text": "Es nueve de febrero del dos mil cuatro.",
+      "startMs": 4616,
+      "endMs": 6889,
+      "verified": true
+    },
+    {
+      "text": "Estamos en Austin.",
+      "startMs": 6940,
+      "endMs": 7971,
+      "verified": true
+    },
+    {
+      "text": "Y es una tarde lluviosa, templada, pero con mucha lluvia.",
+      "startMs": 9043,
+      "endMs": 12517,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

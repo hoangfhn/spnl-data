@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "video": "i07-Negotiate-A-Taxi-Ride-Ronald-F.mp4",
+  "transcriptHash": "c040a34cb374bb916977d7367d5591c8f0900416",
+  "durationMs": 20735,
+  "segments": [
+    {
+      "text": "OK, por ejemplo, si vas a negociar una carrera, como decimos acá, una carrera de aquí al centro, él va a decir que la carrera cuesta Bs $1,500 bolívares, tú puedes decirle, 'No, no, mira, tengo solamente mil, vamos a ver, ¿me llevas o no?' Entonces, bueno, es una forma de regatear, ¿no?",
+      "startMs": 591,
+      "endMs": 19955,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "b12-Identify-Ordinal-Numbers-Natacha-P.mp4",
+  "transcriptHash": "f864071415e006691efa435cf03507fb49fda43a",
+  "durationMs": 7663,
+  "segments": [
+    {
+      "text": "El décimo quinto para mí siempre es difícil porque digo quinceavo.",
+      "startMs": 1695,
+      "endMs": 6138,
+      "verified": true
+    },
+    {
+      "text": "Así que eso no hay que decir.",
+      "startMs": 6189,
+      "endMs": 7462,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

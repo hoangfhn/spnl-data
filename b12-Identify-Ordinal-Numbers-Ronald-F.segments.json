@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "b12-Identify-Ordinal-Numbers-Ronald-F.mp4",
+  "transcriptHash": "a80220f3f9a567801853748c740f1f9872d8adc7",
+  "durationMs": 24311,
+  "segments": [
+    {
+      "text": "Primero, segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno, y décimo.",
+      "startMs": 690,
+      "endMs": 9765,
+      "verified": true
+    },
+    {
+      "text": "Y los usamos de esta forma: por ejemplo, yo tengo dos hijos, el primero tiene...",
+      "startMs": 10095,
+      "endMs": 16348,
+      "verified": true
+    },
+    {
+      "text": "la primera tiene cinco años y el primero tiene dos años o mi departamento está en el quinto piso y ya así, etc.",
+      "startMs": 16350,
+      "endMs": 23411,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "i07-Negotiate-A-Taxi-Ride-Ronald-F-2.mp4",
+  "transcriptHash": "63c9ed95cb02783a8366c38c30343e5d8ea8a4fe",
+  "durationMs": 60627,
+  "segments": [
+    {
+      "text": "Los taxis son peligrosos, especialmente en una ciudad tan violenta como Guatemala.",
+      "startMs": 890,
+      "endMs": 5281,
+      "verified": true
+    },
+    {
+      "text": "Por ejemplo, una cosa que los norteamericanos siempre toman por sentado es dar una dirección exacta y ahí comienza la transacción con el taxista.",
+      "startMs": 5991,
+      "endMs": 16122,
+      "verified": true
+    },
+    {
+      "text": "Eso no se hace en Guatemala.",
+      "startMs": 16792,
+      "endMs": 18702,
+      "verified": true
+    },
+    {
+      "text": "Antes de tomar el taxi, averigüe la dirección a la que va y algún monumento, algún hotel, algún lugar que es bastante famoso cerca y dice, y diga que va para allí.",
+      "startMs": 19612,
+      "endMs": 30624,
+      "verified": true
+    },
+    {
+      "text": "Siempre conozca la ruta.",
+      "startMs": 31094,
+      "endMs": 32484,
+      "verified": true
+    },
+    {
+      "text": "Se no lo conoce, le va a cobrar demás o de pronto puede terminar en uno de los barrios marginales, siendo sequestrado por unos días.",
+      "startMs": 32914,
+      "endMs": 40245,
+      "verified": true
+    },
+    {
+      "text": "Entonces es muy importante que usted sepa la ruta y nunca use un taxi que no sea un taxi que usted haya llamado por teléfono.",
+      "startMs": 41375,
+      "endMs": 49566,
+      "verified": true
+    },
+    {
+      "text": "Nunca pare un taxi en la calle.",
+      "startMs": 50246,
+      "endMs": 51846,
+      "verified": true
+    },
+    {
+      "text": "Cuando llega el taxista, usted le dice más o menos hacia donde va y le va dando direcciones cuando ya llegó a esos puntos famosos.",
+      "startMs": 52036,
+      "endMs": 59587,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}
