@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "i28-Invention-That-Will-Make-You-Rich-Matias-O.mp4",
+  "transcriptHash": "999664daa18232e6668751cd8dfc4e74df6baf9d",
+  "durationMs": 49203,
+  "segments": [
+    {
+      "text": "Lo que...",
+      "startMs": 0,
+      "endMs": 540,
+      "verified": true
+    },
+    {
+      "text": "tengo un proyecto y está funcionando en este momento es una empresa de \"surf trip\" para extranjeros a los que (????) la costa chilena desde el norte hasta el sur y también en el invierno lo que es la cordillera, la montaña, \"snowboard\", \"ski\" y crear un, una tienda masiva con una oficina gigante donde voy a tener un montón de camionetas y servicios para entregarle a la gente afuera donde vengan a conocer a Chile y puedan ir a surfear lo que es Chile y a la montaña conocer en realidad más de Sudamérica donde está todo allí sin explorar.",
+      "startMs": 1091,
+      "endMs": 48443,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

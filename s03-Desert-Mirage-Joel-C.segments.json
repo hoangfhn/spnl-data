@@ -8,13 +8,13 @@
       "text": "En realidad la que vería sería una mujer.",
       "startMs": 451,
       "endMs": 2142,
-      "verified": false
+      "verified": true
     },
     {
       "text": "¿Por qué?",
       "startMs": 4195,
       "endMs": 4730,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Porque es mi máximo.",
@@ -33,12 +33,6 @@
       "startMs": 10141,
       "endMs": 10731,
       "verified": true
-    },
-    {
-      "text": "a alcanzar.",
-      "startMs": 10740,
-      "endMs": 11640,
-      "verified": false
     },
     {
       "text": "El llenar a una mujer, me refiero en todos los conceptos, es mi objetivo, quizás.",

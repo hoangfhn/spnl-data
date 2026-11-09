@@ -8,7 +8,7 @@
       "text": "¿Aló, Fran?",
       "startMs": 290,
       "endMs": 1160,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Hola, sí vengo de allá, fui a ver el auto.",
@@ -62,19 +62,13 @@
       "text": "No, no cambié la radio, no, con compact mucho mejor.",
       "startMs": 34121,
       "endMs": 37252,
-      "verified": false
-    },
-    {
-      "text": "No, sí y tiene ricos parlantes así que, de todas maneras.",
-      "startMs": 39613,
-      "endMs": 42613,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Sí, vamos mañana, ¿me acompañas?",
       "startMs": 43784,
       "endMs": 45314,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Listo, un beso, Chao.",

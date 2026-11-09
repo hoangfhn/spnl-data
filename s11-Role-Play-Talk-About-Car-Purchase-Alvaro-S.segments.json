@@ -38,13 +38,13 @@
       "text": "Son colores bonitos.",
       "startMs": 35833,
       "endMs": 36573,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Me da lo mismo que sea automático, mecánico, y bueno y al menos también que tenga todo el equipo que sean vidrios eléctricos, dirección hidráulica, cierre automático, tiene que tener alarma porque eso hoy en día un auto sin alarma no puede ser.",
       "startMs": 38083,
       "endMs": 56400,
-      "verified": false
+      "verified": true
     },
     {
       "text": "¿Qué más?",
@@ -56,7 +56,7 @@
       "text": "Que esté en buenas condiciones en general.",
       "startMs": 59291,
       "endMs": 60681,
-      "verified": false
+      "verified": true
     }
   ],
   "runId": "b1d42f6812"

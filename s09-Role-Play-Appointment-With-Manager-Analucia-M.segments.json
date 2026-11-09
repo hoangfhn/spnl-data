@@ -47,22 +47,10 @@
       "verified": true
     },
     {
-      "text": "¿Mañana en la mañana?",
-      "startMs": 17170,
-      "endMs": 20196,
-      "verified": false
-    },
-    {
       "text": "Nueve de la mañana.",
       "startMs": 20200,
       "endMs": 21116,
       "verified": true
-    },
-    {
-      "text": "Ok.",
-      "startMs": 21186,
-      "endMs": 22477,
-      "verified": false
     },
     {
       "text": "A las nueve de la mañana, perfecto.",

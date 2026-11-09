@@ -5,24 +5,6 @@
   "durationMs": 27237,
   "segments": [
     {
-      "text": "Bueno.",
-      "startMs": 0,
-      "endMs": 190,
-      "verified": false
-    },
-    {
-      "text": "Hola.",
-      "startMs": 200,
-      "endMs": 300,
-      "verified": false
-    },
-    {
-      "text": "Sí.",
-      "startMs": 320,
-      "endMs": 430,
-      "verified": false
-    },
-    {
       "text": "Este…quisiera por favor marcar una cita con el doctor Ramírez.",
       "startMs": 440,
       "endMs": 6874,
@@ -50,7 +32,7 @@
       "text": "¿Pa mañana?",
       "startMs": 14700,
       "endMs": 15920,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Lo más antes posible por favor que ya me está costando caminar.",
@@ -71,18 +53,6 @@
       "verified": true
     },
     {
-      "text": "Ah, ¡perfecto!",
-      "startMs": 21500,
-      "endMs": 22754,
-      "verified": false
-    },
-    {
-      "text": "Biensísimo.",
-      "startMs": 22760,
-      "endMs": 23340,
-      "verified": false
-    },
-    {
       "text": "¿A las cinco entonces?",
       "startMs": 23355,
       "endMs": 24755,
@@ -92,13 +62,13 @@
       "text": "Muy bien.",
       "startMs": 24760,
       "endMs": 25100,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Estaré ahí.",
       "startMs": 25116,
       "endMs": 25520,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Muchas gracias.",
@@ -110,7 +80,7 @@
       "text": "Hasta luego.",
       "startMs": 26150,
       "endMs": 26677,
-      "verified": false
+      "verified": true
     }
   ],
   "runId": "b1d42f6812"

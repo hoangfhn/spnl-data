@@ -77,12 +77,6 @@
       "verified": true
     },
     {
-      "text": "Sí, ya, ¿los síntomas?",
-      "startMs": 36474,
-      "endMs": 40195,
-      "verified": false
-    },
-    {
       "text": "Bueno, al comer, al masticar me duele, me duele bastante y en realidad aparte del dolor se me produce una pequeña hinchazón en el lado izquierdo.",
       "startMs": 40235,
       "endMs": 53726,
@@ -104,7 +98,7 @@
       "text": "Muchas gracias, hasta luego.",
       "startMs": 64110,
       "endMs": 65618,
-      "verified": false
+      "verified": true
     }
   ],
   "runId": "b1d42f6812"

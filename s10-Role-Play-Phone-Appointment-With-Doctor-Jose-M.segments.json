@@ -5,12 +5,6 @@
   "durationMs": 78809,
   "segments": [
     {
-      "text": "¿Aló?",
-      "startMs": 0,
-      "endMs": 180,
-      "verified": false
-    },
-    {
       "text": "Buenos días señorita, por favor quisiera hacer una cita con el doctor Peña.",
       "startMs": 190,
       "endMs": 6321,
@@ -80,7 +74,7 @@
       "text": "Tomé aspirinas.",
       "startMs": 43035,
       "endMs": 44140,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Sí, señorita, sí, cada cuatro horas y con jugo, jugo de naranja.",

@@ -5,12 +5,6 @@
   "durationMs": 96340,
   "segments": [
     {
-      "text": "¿Pintor favorito?",
-      "startMs": 0,
-      "endMs": 500,
-      "verified": false
-    },
-    {
       "text": "Bueno, me gusta mucho los cubistas, me gusta mucho Picasso, me encanta la forma como llevan a cabo la perspectiva de la pintura.",
       "startMs": 3411,
       "endMs": 14003,
