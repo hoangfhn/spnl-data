@@ -23,16 +23,10 @@
       "verified": true
     },
     {
-      "text": "Mi hermano tiende a ser más gordito, pero de tez más blanca que la mía.",
-      "startMs": 15224,
-      "endMs": 18840,
-      "verified": false
-    },
-    {
       "text": "Yo soy alto, delgado y de cabello y ojos oscuros.",
       "startMs": 18857,
       "endMs": 23822,
-      "verified": false
+      "verified": true
     }
   ],
   "runId": "b1d42f6812"

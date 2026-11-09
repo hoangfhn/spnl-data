@@ -5,12 +5,6 @@
   "durationMs": 16416,
   "segments": [
     {
-      "text": "Mi nombre es Sol P..",
-      "startMs": 411,
-      "endMs": 2542,
-      "verified": false
-    },
-    {
       "text": "Nací en Mexicali, Baja California, el 18 de julio de 1964.",
       "startMs": 2933,
       "endMs": 7888,

@@ -5,12 +5,6 @@
   "durationMs": 179630,
   "segments": [
     {
-      "text": "Bueno este es el cuento de la Caperucita Roja.",
-      "startMs": 0,
-      "endMs": 3000,
-      "verified": false
-    },
-    {
       "text": "Se trata de una niña que vivía con su mamá y un poquito más alejado de su casa vivía la abuelita, ¿no?",
       "startMs": 3330,
       "endMs": 11561,
@@ -56,7 +50,7 @@
       "text": "Yo te puedo ayudar, te puedo acompañar.\" Caperucita se engañó al ver qué simpático era el lobo y le dijo de que se iba a dejar unos pastelitos a su abuelita.",
       "startMs": 49993,
       "endMs": 65884,
-      "verified": false
+      "verified": true
     },
     {
       "text": "El lobo, muy astuto, se despidió de ella y se fue corriendo por el camino corto hasta la casa de la abuelita.",
@@ -80,7 +74,7 @@
       "text": "Entró, tal como le dijo el lobo, \"Pasa Caperucita.\" Entonces ella notó algo raro y le dijo --\"Ay abuelita, ¡pero qué ojos más grandes tienes!\" -- \"Ay,\" le dice que “es para verte mejor.\" – \"¡Pero qué orejas más grandes tienes!\" – \"Es para oírte mejor.\" – \"Pero, ¡qué manos tan grandes tienes!\" -- \"Es para abrazarte mejor.\" -- \"Pero abuelita, ¡qué boca tan grande tienes!\" Y el lobo saltando sobre Caperucita le dijo que \"Es para comerte mejor.\" Y se la comió.",
       "startMs": 90695,
       "endMs": 130787,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Pero tanto batallaban la abuelita y Caperucita dentro de la barriga del lobo que comenzaron a gritar y el lobo tenía unos cólicos tremendos y comenzó a aullar.",

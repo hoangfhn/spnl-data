@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "video": "i16-Ask-The-Price-Of-An-Item-Gladys-U.mp4",
+  "transcriptHash": "99b8953c369984ea09e47bf9bacc7955dfef2d46",
+  "durationMs": 48530,
+  "segments": [
+    {
+      "text": "Yo creo que esto es bien relativo de acuerdo al status de las personas.",
+      "startMs": 0,
+      "endMs": 5121,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

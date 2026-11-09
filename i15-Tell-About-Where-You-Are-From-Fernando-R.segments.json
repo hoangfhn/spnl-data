@@ -5,12 +5,6 @@
   "durationMs": 17903,
   "segments": [
     {
-      "text": "Bueno, mi nombre es Fernando.",
-      "startMs": 30,
-      "endMs": 1592,
-      "verified": false
-    },
-    {
       "text": "Nací y crecí en Buenos Aires, Argentina.",
       "startMs": 2013,
       "endMs": 5176,

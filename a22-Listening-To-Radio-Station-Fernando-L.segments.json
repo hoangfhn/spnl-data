@@ -5,12 +5,6 @@
   "durationMs": 68081,
   "segments": [
     {
-      "text": "... una radio, a ver, noticiosa, informativa, magazinesca, abar-, deportiva, de mucho deporte también.",
-      "startMs": 850,
-      "endMs": 15005,
-      "verified": false
-    },
-    {
       "text": "Entonces el contacto con ella hace que tú estés permanentemente informado respecto de todo lo que acontece tanto en el país cómo también fuera.",
       "startMs": 15535,
       "endMs": 27368,

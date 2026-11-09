@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i02-Ask-And-Tell-Time-Diana-P.mp4",
+  "transcriptHash": "977f5dc4f73bf08d768553bf05bcfa967f9baea8",
+  "durationMs": 41099,
+  "segments": [
+    {
+      "text": "Bueno, pues estoy caminando por la calle de Bogotá y si quiero preguntarle a alguien ‘¿Qué hora es?’, entonces le digo: “Por favor, ¿Me puede decir qué horas son?”.",
+      "startMs": 0,
+      "endMs": 10845,
+      "verified": true
+    },
+    {
+      "text": "Nosotros decimos ‘qué horas son’, no ‘qué hora es’, en realidad.",
+      "startMs": 10850,
+      "endMs": 13626,
+      "verified": true
+    },
+    {
+      "text": "Y la persona generalmente me contestaría: “Falta un cuarto para las dos”—muy amablemente.",
+      "startMs": 13630,
+      "endMs": 24340,
+      "verified": true
+    },
+    {
+      "text": "Sin embargo, habría quien también salga corriendo y piense que les estás asustando, que le vas a robar.",
+      "startMs": 24351,
+      "endMs": 31510,
+      "verified": true
+    },
+    {
+      "text": "Lo normal es que te contesten muy amablemente, te digan la hora y te deseen un buena tarde.",
+      "startMs": 33420,
+      "endMs": 39759,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

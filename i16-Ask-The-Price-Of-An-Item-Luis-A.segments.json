@@ -8,7 +8,7 @@
       "text": "OK.",
       "startMs": 0,
       "endMs": 990,
-      "verified": false
+      "verified": true
     },
     {
       "text": "En Costa Rica por lo general todas las cosas tienen los precios marcados.",
@@ -33,12 +33,6 @@
       "startMs": 16493,
       "endMs": 18283,
       "verified": true
-    },
-    {
-      "text": "Entonces uno se acerca y le pregunta.",
-      "startMs": 18290,
-      "endMs": 19794,
-      "verified": false
     },
     {
       "text": "Le dice –bueno, disculpe buenos días—o buenas tardes, o la hora que sea.",
@@ -68,7 +62,7 @@
       "text": "Es más o menos como funciona acá en los Estados Unidos.",
       "startMs": 43318,
       "endMs": 45409,
-      "verified": false
+      "verified": true
     },
     {
       "text": "En otras tiendas más pequeñas uno puede regatear.",
@@ -86,7 +80,7 @@
       "text": "Entonces uno, ahí el vendedor ahí puede decidir si le puede dar un descuento o no.",
       "startMs": 57721,
       "endMs": 61312,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Por lo general si uno está pagando en efectivo o está comprando mucho siempre es bueno pedir un descuento.",
@@ -110,7 +104,7 @@
       "text": "En las tiendas que son muy grandes, ni perder el tiempo.",
       "startMs": 73400,
       "endMs": 75764,
-      "verified": false
+      "verified": true
     }
   ],
   "runId": "b1d42f6812"

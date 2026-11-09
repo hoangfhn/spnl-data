@@ -8,7 +8,7 @@
       "text": "Los números, e, ordinales, e, bueno.",
       "startMs": 30,
       "endMs": 4001,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Se utilizan desde el pri-, el número primero, que es el equivalente al uno, hasta el-, pongámoslo hasta el doceavo, que es el número doce.",
@@ -20,7 +20,7 @@
       "text": "Es el primero, segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno, décimo, undécimo, y duodécimo.",
       "startMs": 16834,
       "endMs": 31337,
-      "verified": false
+      "verified": true
     },
     {
       "text": "O, también se utilizan también los dos últimos como decimoprimero y decimosegundo que en el lenguaje frecuente son menos usados.",

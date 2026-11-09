@@ -50,7 +50,7 @@
       "text": "como me sorprendió fue cómo se veía todo.",
       "startMs": 43382,
       "endMs": 45993,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Si es un poco incómodo.",
@@ -69,12 +69,6 @@
       "startMs": 57216,
       "endMs": 59350,
       "verified": true
-    },
-    {
-      "text": "Eso es.",
-      "startMs": 59370,
-      "endMs": 59836,
-      "verified": false
     }
   ],
   "runId": "b1d42f6812"

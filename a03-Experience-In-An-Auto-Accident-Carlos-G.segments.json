@@ -75,12 +75,6 @@
       "startMs": 55997,
       "endMs": 60270,
       "verified": true
-    },
-    {
-      "text": "Esa fue una mala experiencia.",
-      "startMs": 60290,
-      "endMs": 61068,
-      "verified": false
     }
   ],
   "runId": "b1d42f6812"

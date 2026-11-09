@@ -137,16 +137,10 @@
       "verified": true
     },
     {
-      "text": "En realidad yo vivo bien.",
-      "startMs": 126630,
-      "endMs": 127692,
-      "verified": false
-    },
-    {
       "text": "Recomiendo Chile para vivir, je, je.",
       "startMs": 128272,
       "endMs": 130332,
-      "verified": false
+      "verified": true
     }
   ],
   "runId": "b1d42f6812"

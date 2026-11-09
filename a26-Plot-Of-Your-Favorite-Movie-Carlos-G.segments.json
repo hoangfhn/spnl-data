@@ -26,7 +26,7 @@
       "text": "Y es el...",
       "startMs": 25120,
       "endMs": 27031,
-      "verified": false
+      "verified": true
     },
     {
       "text": "siendo que el es el...",
@@ -57,12 +57,6 @@
       "startMs": 43338,
       "endMs": 44780,
       "verified": true
-    },
-    {
-      "text": "\"P O W D E R\".",
-      "startMs": 44798,
-      "endMs": 47459,
-      "verified": false
     }
   ],
   "runId": "b1d42f6812"

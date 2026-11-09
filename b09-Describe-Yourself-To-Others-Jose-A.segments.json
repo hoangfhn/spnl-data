@@ -8,7 +8,7 @@
       "text": "Mido 1.75.",
       "startMs": 10,
       "endMs": 961,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Soy pelón.",
@@ -45,12 +45,6 @@
       "startMs": 12759,
       "endMs": 14780,
       "verified": true
-    },
-    {
-      "text": "¡'Es todo!",
-      "startMs": 14791,
-      "endMs": 16322,
-      "verified": false
     }
   ],
   "runId": "b1d42f6812"

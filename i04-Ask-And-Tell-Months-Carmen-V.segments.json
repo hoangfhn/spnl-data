@@ -32,7 +32,7 @@
       "text": "Octubre, noviembre, y diciembre, los meses cuando empieza el verano.",
       "startMs": 22593,
       "endMs": 28204,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Los cumpleaños de mi familia son: él de mi papá, el 12 de febrero; él de mi mamá, el 8 de abril; él de mis hermanas; de una, el 8 de agosto; y la otra, el 9 de junio.",
@@ -44,7 +44,7 @@
       "text": "Él mío, el 29 de agosto.",
       "startMs": 43096,
       "endMs": 44466,
-      "verified": false
+      "verified": true
     }
   ],
   "runId": "b1d42f6812"

@@ -5,12 +5,6 @@
   "durationMs": 50016,
   "segments": [
     {
-      "text": "A ver.",
-      "startMs": 0,
-      "endMs": 680,
-      "verified": false
-    },
-    {
       "text": "Yo trabajo hace como nueve años en una ONG-Centro de Estudios.",
       "startMs": 1250,
       "endMs": 6990,

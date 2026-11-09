@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a20-Story-Of-Little-Red-Riding-Hood-Teresa-C.mp4",
+  "transcriptHash": "848dd870db05ae7c673d2a6d5c70f9deb1a02999",
+  "durationMs": 108716,
+  "segments": [
+    {
+      "text": "Había una niña que era la Caperucita Roja que le decían así porque usaba una especie de capa con un capuchito, que se llama caperuza y le decían la Caperucita Roja que vivía en un pueblito con su mamá y su papá.",
+      "startMs": 1250,
+      "endMs": 18223,
+      "verified": true
+    },
+    {
+      "text": "Pero la Caperucita como era porfiada y como además era más corto el camino se fue por la mitad del bosque, además era más entretenido, y el lobo la cachó.",
+      "startMs": 29754,
+      "endMs": 39510,
+      "verified": true
+    },
+    {
+      "text": "Vio que estaba la Caperucita, vio más o menos pa’ dónde iba, no me acuerdo por qué pero el sabía que iba para donde la abuelita—nunca me acuerdo de esa parte ya—y se adelanta.",
+      "startMs": 39536,
+      "endMs": 48327,
+      "verified": true
+    },
+    {
+      "text": "Se adelanta y se come a la abuelita y se pone la ropa de la abuelita y espera a la Caperucita.",
+      "startMs": 49197,
+      "endMs": 57788,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

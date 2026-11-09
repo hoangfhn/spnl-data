@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i13-Leave-Taking-Expressions-Silvia-M.mp4",
+  "transcriptHash": "7b1f72be67b4b9c052de92d2a9b4ac44ac1a67de",
+  "durationMs": 58561,
+  "segments": [
+    {
+      "text": "Bueno, siempre que nos encontramos un amigo la forma de saludarlo es ¿Qui’hubo?, ¿Cómo vas?",
+      "startMs": 0,
+      "endMs": 6202,
+      "verified": true
+    },
+    {
+      "text": "o ¿Qué más?, para preguntarle qué nos cuenta, así no nos quiera decir nada, así simplemente nos quiera decir ‘bien’.",
+      "startMs": 6352,
+      "endMs": 13965,
+      "verified": true
+    },
+    {
+      "text": "Esa es la forma como respondemos, decimos: “bien, bien, las cosas van bien”.",
+      "startMs": 14195,
+      "endMs": 17826,
+      "verified": true
+    },
+    {
+      "text": "Pero ‘chau’ está muy bien y un beso; siempre un beso para todo el mundo, así sean personas que acabamos de conocer y si somos hombre o mujer siempre nos damos un beso, y los amigos hombres siempre se dan la mano, siempre, siempre se dan la mano.",
+      "startMs": 40060,
+      "endMs": 57260,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

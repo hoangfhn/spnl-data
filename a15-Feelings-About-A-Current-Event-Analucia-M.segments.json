@@ -11,10 +11,11 @@
       "verified": true
     },
     {
-      "text": "La transición de high school a la universidad, pues de la secundaria a la universidad, es bastante grande, es u na transcición difcícil.",
+      "text": "La transición de high school a la universidad, pues de la secundaria a la universidad, es bastante grande, es una transición difícil.",
       "startMs": 14271,
       "endMs": 22282,
-      "verified": false
+      "verified": true,
+      "textEdited": true
     },
     {
       "text": "Sin embargo, yo siento que con un poco de ajustacion—de ajuste con personas que te ayude, con tus amigos, con tu familiapuedes hacer esa transicion un poco más sencilla, y puedes sobresalir.",

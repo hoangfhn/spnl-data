@@ -14,7 +14,7 @@
       "text": "La gente es muy cariñosa.",
       "startMs": 3010,
       "endMs": 4321,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Entonces, también se utiliza la parte gestual, y además el contacto físico.",
@@ -57,12 +57,6 @@
       "startMs": 43036,
       "endMs": 47270,
       "verified": true
-    },
-    {
-      "text": "También se usa en Chile, yo lo he escuchado mucho.",
-      "startMs": 47290,
-      "endMs": 49287,
-      "verified": false
     },
     {
       "text": "Em, por el teléfono, generalmente, es hasta luego o adiós cuando es una cosa formal.",

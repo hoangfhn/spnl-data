@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "video": "b04-Do-Simple-Arithmetic-Luz-M.mp4",
+  "transcriptHash": "743ed5dfbb88306b00b7df05ef57adfa20339a97",
+  "durationMs": 36920,
+  "segments": [
+    {
+      "text": "Cuatro más cinco es nueve, tres más siete son diez, diez más 15 son 25, cinco menos cuatro es uno, 12 menos diez son dos, tres menos tres es cero, tres por tres es nueve, tres por diez, 30, y cuatro por dos son ocho, diez entre cinco es dos, 50 entre uno son 50, y 49 entre siete son siete.",
+      "startMs": 2211,
+      "endMs": 36509,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

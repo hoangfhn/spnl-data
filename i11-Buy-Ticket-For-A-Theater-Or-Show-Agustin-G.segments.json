@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "i11-Buy-Ticket-For-A-Theater-Or-Show-Agustin-G.mp4",
+  "transcriptHash": "55f32ead1e82d39502509a34c0973fb4ffb2e286",
+  "durationMs": 22616,
+  "segments": [
+    {
+      "text": "Bueno, pues me acerco a la ventanilla y le digo a la cajera “hola buenos días” o “buenas tardes”, lo que sea, depende.",
+      "startMs": 10,
+      "endMs": 9090,
+      "verified": true
+    },
+    {
+      "text": "Y le digo “¿puede darme un billete para o una entrada para ver la película?”, depende de lo que sea.",
+      "startMs": 9117,
+      "endMs": 16180,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

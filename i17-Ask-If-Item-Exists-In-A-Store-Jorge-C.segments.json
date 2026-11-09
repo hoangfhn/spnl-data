@@ -32,7 +32,7 @@
       "text": "Sí, sí.",
       "startMs": 12902,
       "endMs": 13333,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Tiene ahora un hit en la radio.",
@@ -57,12 +57,6 @@
       "startMs": 23573,
       "endMs": 24203,
       "verified": true
-    },
-    {
-      "text": "Bien.",
-      "startMs": 24210,
-      "endMs": 24463,
-      "verified": false
     },
     {
       "text": "Muchas gracias.",

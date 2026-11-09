@@ -50,7 +50,7 @@
       "text": "Ya viene el medio día.",
       "startMs": 24970,
       "endMs": 27246,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Almorzamos.",
@@ -74,7 +74,7 @@
       "text": "Y ya viene la noche.",
       "startMs": 37319,
       "endMs": 38530,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Cenamos.",

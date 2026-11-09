@@ -5,12 +5,6 @@
   "durationMs": 75047,
   "segments": [
     {
-      "text": "OK.",
-      "startMs": 0,
-      "endMs": 1970,
-      "verified": false
-    },
-    {
       "text": "Nosotros, mi familia y yo, vivimos en un apartamento.",
       "startMs": 1980,
       "endMs": 4400,
@@ -77,12 +71,6 @@
       "verified": true
     },
     {
-      "text": "En los dos cuartos hay clósets, se me olvidaba decirles.",
-      "startMs": 64056,
-      "endMs": 66006,
-      "verified": false
-    },
-    {
       "text": "Y del cuarto de nosotros se va directamente al baño que tiene la ducha, y que tiene también la taza del inodoro y el lavatorio.",
       "startMs": 66336,
       "endMs": 73067,
@@ -92,7 +80,7 @@
       "text": "Y esa es nuestra casa.",
       "startMs": 73387,
       "endMs": 74407,
-      "verified": false
+      "verified": true
     }
   ],
   "runId": "b1d42f6812"

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "video": "a20-Story-Of-Little-Red-Riding-Hood-Hanevy-S.mp4",
+  "transcriptHash": "2974e406eab76a12ec27ad94e52007f3bcb76f23",
+  "durationMs": 91301,
+  "segments": [
+    {
+      "text": "La historia de Caperucita Roja es que Caperucita Roja le hizo el favor a su mamá de llevarle una canasta de comida a su abuelita que estaba enferma.",
+      "startMs": 1550,
+      "endMs": 9942,
+      "verified": true
+    },
+    {
+      "text": "Y antes de salir la mamá de Caperucita Roja le dijo que no hablara con el lobo del bosque, que se fuera derechito a la casa de su abuelita.",
+      "startMs": 10212,
+      "endMs": 18384,
+      "verified": true
+    },
+    {
+      "text": "Ya iba Caperucita con su canasta y entonces cuando estaba en el bosque se encontró con el lobo y le preguntó que qué llevaba en la canasta.",
+      "startMs": 18430,
+      "endMs": 26506,
+      "verified": true
+    },
+    {
+      "text": "Caperucita le dijo que panecitos para su abuelita que estaba enferma.",
+      "startMs": 26520,
+      "endMs": 30747,
+      "verified": true
+    },
+    {
+      "text": "Entonces el lobo feroz le dijo que si jugaban carreritas a la casa de la abuelita.",
+      "startMs": 30867,
+      "endMs": 36088,
+      "verified": true
+    },
+    {
+      "text": "Y Caperucita a pesar de lo que le dijo su mamá le dijo que sí.",
+      "startMs": 36478,
+      "endMs": 40029,
+      "verified": true
+    },
+    {
+      "text": "Y el lobo engañó a Caperucita.",
+      "startMs": 40399,
+      "endMs": 42840,
+      "verified": true
+    },
+    {
+      "text": "Y Caperucita se fue por el camino largo y él por el corto.",
+      "startMs": 42850,
+      "endMs": 45790,
+      "verified": true
+    },
+    {
+      "text": "Cuando Caperucita llegó a la casa de su abuelita, el lobo ya se había disfrazado de su abuelita y se había acostado en su cama.",
+      "startMs": 45901,
+      "endMs": 53892,
+      "verified": true
+    },
+    {
+      "text": "Caperucita se acerca al lobo y le dice.",
+      "startMs": 54022,
+      "endMs": 56020,
+      "verified": true
+    },
+    {
+      "text": "“Caperu- ¡Abuelita, abuelita!",
+      "startMs": 56033,
+      "endMs": 58133,
+      "verified": true
+    },
+    {
+      "text": "¿Para qué tienes esas orejas tan grandes?” “Pues para oirte mejor, mijita”—le dijo el lobo.",
+      "startMs": 58150,
+      "endMs": 64040,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

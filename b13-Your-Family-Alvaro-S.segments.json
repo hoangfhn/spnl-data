@@ -38,7 +38,7 @@
       "text": "Mi padre es médico veterinario y mi mamá es tecnólogo médico.",
       "startMs": 19800,
       "endMs": 22246,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Yo soy ingeniero agrónomo y mi hermano está en el colegio todavía.",
@@ -50,7 +50,7 @@
       "text": "Y bueno no sólo trabajamos todos juntos.",
       "startMs": 26087,
       "endMs": 31728,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Tenemos unas empresas familiares en la cual trabaja mi hermano mayor que vendría a ser el gerente de la empresa.",

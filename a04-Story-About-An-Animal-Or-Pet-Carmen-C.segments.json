@@ -5,12 +5,6 @@
   "durationMs": 53801,
   "segments": [
     {
-      "text": "Hola.",
-      "startMs": 0,
-      "endMs": 1220,
-      "verified": false
-    },
-    {
       "text": "Mi perro se llama Bruno, es de la raza cocker spaniel.",
       "startMs": 1271,
       "endMs": 6362,

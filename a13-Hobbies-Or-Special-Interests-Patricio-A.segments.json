@@ -173,12 +173,6 @@
       "verified": true
     },
     {
-      "text": "Si tienes esto, se come esto, el piure.",
-      "startMs": 121890,
-      "endMs": 125131,
-      "verified": false
-    },
-    {
       "text": "El piure es para el bocio.",
       "startMs": 125170,
       "endMs": 127531,
@@ -242,7 +236,7 @@
       "text": "Tenemos sentoya, sentoya.",
       "startMs": 164244,
       "endMs": 167155,
-      "verified": false
+      "verified": true
     },
     {
       "text": "En todos los países, la gente pide sentoya, sentoya, aquí está.",
@@ -267,18 +261,6 @@
       "startMs": 177830,
       "endMs": 181436,
       "verified": true
-    },
-    {
-      "text": "Esos serían todos los platos.",
-      "startMs": 181440,
-      "endMs": 182576,
-      "verified": false
-    },
-    {
-      "text": "Muchas gracias.",
-      "startMs": 182590,
-      "endMs": 183096,
-      "verified": false
     }
   ],
   "runId": "b1d42f6812"

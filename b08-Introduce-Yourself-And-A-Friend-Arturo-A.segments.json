@@ -8,7 +8,7 @@
       "text": "-¿Qué tal?",
       "startMs": 0,
       "endMs": 861,
-      "verified": false
+      "verified": true
     },
     {
       "text": "Ella es Betina, ella estudia teatro.",
@@ -27,12 +27,6 @@
       "startMs": 5150,
       "endMs": 6584,
       "verified": true
-    },
-    {
-      "text": "-Hola, mucho gusto.",
-      "startMs": 6600,
-      "endMs": 7665,
-      "verified": false
     },
     {
       "text": "-Encantada, ¿Qué hacen por aquí?",
