@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "i30-A-Part-Of-High-School-Not-To-Redo-Leonardo-G.mp4",
+  "transcriptHash": "be4f98e7bde3acf09e60cf954a12c3066c7b475b",
+  "durationMs": 22430,
+  "segments": [
+    {
+      "text": "Bueno, los momentos más difíciles en la secundaria fueron cuando tenía que presentar exámenes de química, que eran horribles.",
+      "startMs": 30,
+      "endMs": 9685,
+      "verified": true
+    },
+    {
+      "text": "Química fue siempre mi \"coco.\" Yo iba a estudiar veterinaria, pero cuando me enteré que el programa de veterinaria como el de educación superior incluía química, dije \"no,\" mejor no y me fui a teatro.",
+      "startMs": 9740,
+      "endMs": 21930,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

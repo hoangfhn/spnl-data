@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "video": "s11-Role-Play-Talk-About-Car-Purchase-Paula-O.mp4",
+  "transcriptHash": "fed33e42917e38bfe356833c596be7983eb0af1c",
+  "durationMs": 46835,
+  "segments": [
+    {
+      "text": "¿Aló, Fran?",
+      "startMs": 290,
+      "endMs": 1160,
+      "verified": false
+    },
+    {
+      "text": "Hola, sí vengo de allá, fui a ver el auto.",
+      "startMs": 1310,
+      "endMs": 4501,
+      "verified": true
+    },
+    {
+      "text": "Es precioso.",
+      "startMs": 4832,
+      "endMs": 5762,
+      "verified": true
+    },
+    {
+      "text": "No, Jeep, pero de todas maneras, todo relleno, “four wheel drive”.",
+      "startMs": 6632,
+      "endMs": 9243,
+      "verified": true
+    },
+    {
+      "text": "Sí.",
+      "startMs": 10173,
+      "endMs": 10603,
+      "verified": true
+    },
+    {
+      "text": "No, no había tres colores de verdad que el que más me gusta es el verde mugor.",
+      "startMs": 13134,
+      "endMs": 16805,
+      "verified": true
+    },
+    {
+      "text": "Sí, no tiene cuatro puertas más la puerta de atrás, cinco.",
+      "startMs": 17816,
+      "endMs": 22727,
+      "verified": true
+    },
+    {
+      "text": "Sí, patones de todas maneras.",
+      "startMs": 23317,
+      "endMs": 25048,
+      "verified": true
+    },
+    {
+      "text": "No, es espectacular me encantó tiene súper buena amortiguación, no rico, muy bueno.",
+      "startMs": 26578,
+      "endMs": 32110,
+      "verified": true
+    },
+    {
+      "text": "No, no cambié la radio, no, con compact mucho mejor.",
+      "startMs": 34121,
+      "endMs": 37252,
+      "verified": false
+    },
+    {
+      "text": "No, sí y tiene ricos parlantes así que, de todas maneras.",
+      "startMs": 39613,
+      "endMs": 42613,
+      "verified": false
+    },
+    {
+      "text": "Sí, vamos mañana, ¿me acompañas?",
+      "startMs": 43784,
+      "endMs": 45314,
+      "verified": false
+    },
+    {
+      "text": "Listo, un beso, Chao.",
+      "startMs": 45644,
+      "endMs": 46635,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

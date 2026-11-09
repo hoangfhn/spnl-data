@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "s11-Role-Play-Talk-About-Car-Purchase-Alvaro-S.mp4",
+  "transcriptHash": "d571f7a61cabfeb58b33cc0b9f07db37c72ecec9",
+  "durationMs": 61161,
+  "segments": [
+    {
+      "text": "Bueno estoy buscando un auto, idealmente 4 puertas, motor 2000 centímetros cúbicos.",
+      "startMs": 650,
+      "endMs": 7763,
+      "verified": true
+    },
+    {
+      "text": "Idealmente con aire acondicionado, idealmente también tiene que ser no tener más de un año de uso.",
+      "startMs": 8653,
+      "endMs": 14395,
+      "verified": true
+    },
+    {
+      "text": "Obviamente que esté en perfectas condiciones que nunca haya sido chocado, ojalá que haya sido de una abuelita para que lo haya manejado despacio.",
+      "startMs": 15676,
+      "endMs": 23268,
+      "verified": true
+    },
+    {
+      "text": "Poco kilometraje.",
+      "startMs": 26119,
+      "endMs": 27209,
+      "verified": true
+    },
+    {
+      "text": "El color en realidad, bueno ojalá que sea un color metálico podría ser rojo, o verde metálico.",
+      "startMs": 27860,
+      "endMs": 35820,
+      "verified": true
+    },
+    {
+      "text": "Son colores bonitos.",
+      "startMs": 35833,
+      "endMs": 36573,
+      "verified": false
+    },
+    {
+      "text": "Me da lo mismo que sea automático, mecánico, y bueno y al menos también que tenga todo el equipo que sean vidrios eléctricos, dirección hidráulica, cierre automático, tiene que tener alarma porque eso hoy en día un auto sin alarma no puede ser.",
+      "startMs": 38083,
+      "endMs": 56400,
+      "verified": false
+    },
+    {
+      "text": "¿Qué más?",
+      "startMs": 57250,
+      "endMs": 57780,
+      "verified": true
+    },
+    {
+      "text": "Que esté en buenas condiciones en general.",
+      "startMs": 59291,
+      "endMs": 60681,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

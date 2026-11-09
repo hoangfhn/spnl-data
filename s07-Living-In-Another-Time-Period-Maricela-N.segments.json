@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "s07-Living-In-Another-Time-Period-Maricela-N.mp4",
+  "transcriptHash": "b81f4f781f4e6b9b1787d780bf7a63a9b9ffd381",
+  "durationMs": 27910,
+  "segments": [
+    {
+      "text": "Me hubiera gustado vivir en un ambiente como en la época medieval en la que se utilizaban los vestidos grandes las mujeres con muchos adornos y los hombres también unos trajes que me llaman mucho la atención.",
+      "startMs": 1291,
+      "endMs": 14375,
+      "verified": true
+    },
+    {
+      "text": "De igual manera la- en esa época la música, la poesía…me llama mucho la atención.",
+      "startMs": 14756,
+      "endMs": 22990,
+      "verified": true
+    },
+    {
+      "text": "Y también la manera, las cortesías de la gente.",
+      "startMs": 23009,
+      "endMs": 27210,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

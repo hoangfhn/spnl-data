@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "i29-The-Coldest-You-Have-Ever-Been-Carlos-G.mp4",
+  "transcriptHash": "036d378a3879f0bba4af00a754b6c4aa654685ca",
+  "durationMs": 52036,
+  "segments": [
+    {
+      "text": "El día que más frío tuve, recuerdo fue una vez en Filadelfia en la cual yo no contaba con cobijas el día que llegué.",
+      "startMs": 0,
+      "endMs": 9970,
+      "verified": true
+    },
+    {
+      "text": "No contaba con cobijas ni nada con que cubrirme.",
+      "startMs": 9990,
+      "endMs": 14664,
+      "verified": true
+    },
+    {
+      "text": "Y la casa donde yo vivía no acostumbraban ponerle la calefacción muy caliente porque ellos ya estaban acostumbrados al frío.",
+      "startMs": 15035,
+      "endMs": 26668,
+      "verified": true
+    },
+    {
+      "text": "Esa noche pasé una noche horrible ¿verdad?",
+      "startMs": 27008,
+      "endMs": 29600,
+      "verified": true
+    },
+    {
+      "text": "con hielo.",
+      "startMs": 29620,
+      "endMs": 30369,
+      "verified": true
+    },
+    {
+      "text": "Me puse todo lo que pude de trapos encima, de chamarra, pantalones de deportes, y aún así no podía quitarme el frío.",
+      "startMs": 31390,
+      "endMs": 42633,
+      "verified": true
+    },
+    {
+      "text": "Con las ventanas, estaba una quebrada y entraba por allí todo el frío.",
+      "startMs": 42723,
+      "endMs": 47154,
+      "verified": true
+    },
+    {
+      "text": "Fue el día más frío que he tenido.",
+      "startMs": 48685,
+      "endMs": 50555,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

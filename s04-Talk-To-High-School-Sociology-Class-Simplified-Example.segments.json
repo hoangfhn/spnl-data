@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "s04-Talk-To-High-School-Sociology-Class-Simplified-Example.mp4",
+  "transcriptHash": "3c5cca34af66deb6430b6b0f7135530b6c08218b",
+  "durationMs": 34366,
+  "segments": [
+    {
+      "text": "Quisiera asistir a un curso de sociología donde se discutan los dialectos de las distintas clases sociales y cómo reaccionar ante cada uno de ellos.",
+      "startMs": 150,
+      "endMs": 13802,
+      "verified": true
+    },
+    {
+      "text": "Nos han educado para creer que somos iguales, pero a la vez, es necesario comprender que existen personas de diferentes niveles económicos.",
+      "startMs": 14712,
+      "endMs": 26624,
+      "verified": true
+    },
+    {
+      "text": "Esto implica conocer el entorno de cada persona para comuncarnos mejor.",
+      "startMs": 27795,
+      "endMs": 34046,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

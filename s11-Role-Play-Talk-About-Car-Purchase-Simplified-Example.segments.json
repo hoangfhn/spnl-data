@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "s11-Role-Play-Talk-About-Car-Purchase-Simplified-Example.mp4",
+  "transcriptHash": "2af3e5b9fb43024e12f76a3d21ef19dea325ec8b",
+  "durationMs": 28096,
+  "segments": [
+    {
+      "text": "Quiero adquirir un automóvil.",
+      "startMs": 310,
+      "endMs": 2261,
+      "verified": true
+    },
+    {
+      "text": "Vi uno que me gustó en una agencia de vehículos.",
+      "startMs": 3012,
+      "endMs": 6724,
+      "verified": true
+    },
+    {
+      "text": "Es un Subaru nuevo, de este año.",
+      "startMs": 7554,
+      "endMs": 11006,
+      "verified": true
+    },
+    {
+      "text": "Los vidrios son eléctricos, tiene cuatro puertas y motor con inyección electrónica.",
+      "startMs": 12097,
+      "endMs": 19411,
+      "verified": true
+    },
+    {
+      "text": "Tendré el automóvil a más tardar en dos semanas, si es que obtengo el préstamo adecuado.",
+      "startMs": 20622,
+      "endMs": 27816,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

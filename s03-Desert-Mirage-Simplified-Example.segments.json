@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "s03-Desert-Mirage-Simplified-Example.mp4",
+  "transcriptHash": "e8d29f1c589b8c513fe6cd087adf27f6943adc47",
+  "durationMs": 22965,
+  "segments": [
+    {
+      "text": "Si estuviera a punto de fallecer en el desierto me gustaría tener un espejismo de un oasis que tuviera palmeras y camellos donde se pudiera comprar higos, dátiles y vino.",
+      "startMs": 310,
+      "endMs": 15096,
+      "verified": true
+    },
+    {
+      "text": "También un lugar donde pudiera descansar del sol.",
+      "startMs": 16127,
+      "endMs": 20061,
+      "verified": true
+    },
+    {
+      "text": "Es lo que me gustaría ver.",
+      "startMs": 20792,
+      "endMs": 22364,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

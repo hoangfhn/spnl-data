@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "i26-Talk-About-The-Climate-Simplified-Example.mp4",
+  "transcriptHash": "7a155c8245dc70792aeee110dc1d547ee2ed0acd",
+  "durationMs": 28003,
+  "segments": [
+    {
+      "text": "El clima en Granada es algo extremoso.",
+      "startMs": 370,
+      "endMs": 3223,
+      "verified": true
+    },
+    {
+      "text": "Hace mucho calor durante el verano, a veces hace hasta 40 grados.",
+      "startMs": 3713,
+      "endMs": 8947,
+      "verified": true
+    },
+    {
+      "text": "El otoño es agradable.",
+      "startMs": 9518,
+      "endMs": 11570,
+      "verified": true
+    },
+    {
+      "text": "Llueve muy frecuentemente entre noviembre y febrero.",
+      "startMs": 12020,
+      "endMs": 16033,
+      "verified": true
+    },
+    {
+      "text": "Y de febrero hasta mediados de junio el clima está muy agradable.",
+      "startMs": 16804,
+      "endMs": 21458,
+      "verified": true
+    },
+    {
+      "text": "Todo está verde, el aire se siente fresco, y todo se siente muy vivo.",
+      "startMs": 22249,
+      "endMs": 27463,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

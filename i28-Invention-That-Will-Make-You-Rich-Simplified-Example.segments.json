@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "i28-Invention-That-Will-Make-You-Rich-Simplified-Example.mp4",
+  "transcriptHash": "d82b1eba4fda485cff4c2d9a1ace3ae98b1fd130",
+  "durationMs": 11099,
+  "segments": [
+    {
+      "text": "Voy a inventar una forma de viajar más rápido que un avión.",
+      "startMs": 712,
+      "endMs": 5009,
+      "verified": true
+    },
+    {
+      "text": "Será un modo de transporte instantáneo, barato, y limpio.",
+      "startMs": 5700,
+      "endMs": 10358,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

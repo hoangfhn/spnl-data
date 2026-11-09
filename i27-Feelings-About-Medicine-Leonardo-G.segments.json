@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i27-Feelings-About-Medicine-Leonardo-G.mp4",
+  "transcriptHash": "aa4ee5d4ee46f4527f958054288951672a94d129",
+  "durationMs": 33367,
+  "segments": [
+    {
+      "text": "Creo que falta aún todavía bastante avance.",
+      "startMs": 30,
+      "endMs": 3301,
+      "verified": true
+    },
+    {
+      "text": "Aunque lo hay, no, no estoy diciendo que no lo haya, pero falta avance en lo que respeta a medicina social.",
+      "startMs": 4351,
+      "endMs": 9702,
+      "verified": true
+    },
+    {
+      "text": "Siento que a veces el médico se limita exclusivamente a llenar una serie de datos ya escritos que van a formar parte de estadísticas y no hay una relación directa con el paciente.",
+      "startMs": 10712,
+      "endMs": 21815,
+      "verified": true
+    },
+    {
+      "text": "Entonces, falta mucho todavía en ese sentido.",
+      "startMs": 22175,
+      "endMs": 25005,
+      "verified": true
+    },
+    {
+      "text": "En cuestión de presupuesto, de planeación, de una medicina más efectiva y más real dirigida al paciente.",
+      "startMs": 25365,
+      "endMs": 33197,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

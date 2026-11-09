@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "s04-Talk-To-High-School-Sociology-Class-Emilia-A.mp4",
+  "transcriptHash": "ef5a89e31273c6a687c4378717cd8e3c7d07925b",
+  "durationMs": 51920,
+  "segments": [
+    {
+      "text": "Si tuviese que dar una charla a los estudiantes de una escuela secundaria creo que les hablaría de la importancia social y política, de que es muy importante que ellos participen en todos los aspectos sociales pero desde la escuela secundaria.",
+      "startMs": 0,
+      "endMs": 24689,
+      "verified": true
+    },
+    {
+      "text": "O sea que no tienen que esperar a entrar a la universidad o a graduarse, que pueden hacerlo mientras estén en la escuela secundaria.",
+      "startMs": 24690,
+      "endMs": 34133,
+      "verified": true
+    },
+    {
+      "text": "Que ya desde la escuela secundaria pueden comenzar a formarse como ciudadanos y a participar en todas las instancias políticas y sociales de su país.",
+      "startMs": 34243,
+      "endMs": 51180,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

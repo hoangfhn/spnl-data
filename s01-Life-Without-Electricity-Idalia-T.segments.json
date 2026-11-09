@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "s01-Life-Without-Electricity-Idalia-T.mp4",
+  "transcriptHash": "11bba0b951a5c3f142fa53e4d602217c481148f5",
+  "durationMs": 46231,
+  "segments": [
+    {
+      "text": "Pues, la pregunta sobre cómo cambiaría mi vida si no existiera la electricidad, pues yo creo que retrocederíamos mucho en el tiempo.",
+      "startMs": 190,
+      "endMs": 10022,
+      "verified": true
+    },
+    {
+      "text": "Gracias a Dios por los avances tenemos: la televisión, las computadoras, los satélites.",
+      "startMs": 10913,
+      "endMs": 17564,
+      "verified": true
+    },
+    {
+      "text": "Pero si estos medios, o estas líneas que llevan todos esos neutrones en sus cables para proporcionar la luz no existieran, pues estaríamos como en un rancho, como en las cavernas, con lámparas de gas, y pues solamente atendiendo unas necesidades muy pequeñas.",
+      "startMs": 18074,
+      "endMs": 43150,
+      "verified": true
+    },
+    {
+      "text": "Yo creo que estamos mejor ahorita.",
+      "startMs": 43640,
+      "endMs": 45571,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

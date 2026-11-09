@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i30-A-Part-Of-High-School-Not-To-Redo-Alfredo-C.mp4",
+  "transcriptHash": "b93af52df8492bdb8113a950c6689c8217dcc292",
+  "durationMs": 27307,
+  "segments": [
+    {
+      "text": "¿Qué parte de la preparatoria estoy más feliz de no tener que volver a llevar?",
+      "startMs": 0,
+      "endMs": 4181,
+      "verified": true
+    },
+    {
+      "text": "Lo primero que me viene en la mente es química.",
+      "startMs": 5791,
+      "endMs": 8362,
+      "verified": true
+    },
+    {
+      "text": "La clase más odiosa, y que menos he utilizado en mi vida.",
+      "startMs": 8632,
+      "endMs": 13033,
+      "verified": true
+    },
+    {
+      "text": "Qué bueno que ya no la tengo que llevar, para mi fue una tortura haber tenido que aprender la tabla periódica, los símbolos, cuáles son gases, cuáles son minerales, y cuáles son no metales, y todo eso.",
+      "startMs": 13253,
+      "endMs": 27207,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

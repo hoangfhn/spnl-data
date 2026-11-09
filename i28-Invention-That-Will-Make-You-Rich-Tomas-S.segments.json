@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i28-Invention-That-Will-Make-You-Rich-Tomas-S.mp4",
+  "transcriptHash": "2f6ccbd0005e4dd6bb50e8ee534f0d306ee4f578",
+  "durationMs": 32276,
+  "segments": [
+    {
+      "text": "Bueno si tuviera que inventar algo para hacerme millonario, yo inventaría, bueno es bien difícil pero inventaría la cura contra el cáncer.",
+      "startMs": 30,
+      "endMs": 7990,
+      "verified": true
+    },
+    {
+      "text": "¿Cómo lo haría?",
+      "startMs": 8004,
+      "endMs": 12506,
+      "verified": true
+    },
+    {
+      "text": "Bueno, tendría que empezar a hacer un poco de research y bueno trabajar con el apoyo de una compañía porque necesito muchos recursos en ese sentido y luego pues tomaría un montón de tiempo hacerlo y una vez que se pueda hacer y sea factible estoy seguro que con esa medicina o vacuna se podría hacer muchísimo dinero.",
+      "startMs": 12650,
+      "endMs": 31635,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

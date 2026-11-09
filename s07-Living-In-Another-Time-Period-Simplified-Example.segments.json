@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "s07-Living-In-Another-Time-Period-Simplified-Example.mp4",
+  "transcriptHash": "1708b5cc12e13ba4cc335459f9b04af76129db2e",
+  "durationMs": 27655,
+  "segments": [
+    {
+      "text": "Me habría gustado vivir en la época de los vestidos largos y los cabellos rizados.",
+      "startMs": 490,
+      "endMs": 5803,
+      "verified": true
+    },
+    {
+      "text": "Por ejemplo, la época de Napoleón me interesa mucho.",
+      "startMs": 6774,
+      "endMs": 10266,
+      "verified": true
+    },
+    {
+      "text": "En esa época los hombres debían ser muy caballeros y tratar a las mujeres con cortesía.",
+      "startMs": 11476,
+      "endMs": 17990,
+      "verified": true
+    },
+    {
+      "text": "Desde luego me gustaría cambiar algunas cosas de esa época, como el rol de la mujer en la sociedad.",
+      "startMs": 19180,
+      "endMs": 26554,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

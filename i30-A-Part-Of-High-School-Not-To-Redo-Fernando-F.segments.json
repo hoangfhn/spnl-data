@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i30-A-Part-Of-High-School-Not-To-Redo-Fernando-F.mp4",
+  "transcriptHash": "6f2f380ce70b25d0234dab0e52b3d868f9ef5a91",
+  "durationMs": 36780,
+  "segments": [
+    {
+      "text": "Bueno, yo no quisiera volver a perder mi juventud metido en la marina.",
+      "startMs": 430,
+      "endMs": 8695,
+      "verified": true
+    },
+    {
+      "text": "Verdaderamente perdí mucho tiempo de mi vida.",
+      "startMs": 9756,
+      "endMs": 11726,
+      "verified": true
+    },
+    {
+      "text": "Fue muy triste porque no fui tan disciplinado como pensé serlo.",
+      "startMs": 12697,
+      "endMs": 18010,
+      "verified": true
+    },
+    {
+      "text": "Y lamentablemente mis mejores años de mi vida los perdí allí.",
+      "startMs": 19001,
+      "endMs": 22312,
+      "verified": true
+    },
+    {
+      "text": "No tuve la oportunidad de estar con las chicas, ir a las fiestas porque permanecía constantemente guardado en el cuartel.",
+      "startMs": 22913,
+      "endMs": 36080,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

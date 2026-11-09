@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "s09-Role-Play-Appointment-With-Manager-Carlos-M.mp4",
+  "transcriptHash": "536cb0365774ddd2e5a63116e8dc4a32882de5b1",
+  "durationMs": 25774,
+  "segments": [
+    {
+      "text": "Sí, Buenos días señorita.",
+      "startMs": 0,
+      "endMs": 1490,
+      "verified": false
+    },
+    {
+      "text": "Quisiera hacer una cita con el Ing.",
+      "startMs": 1510,
+      "endMs": 3970,
+      "verified": true
+    },
+    {
+      "text": "Martínez.",
+      "startMs": 3982,
+      "endMs": 4662,
+      "verified": true
+    },
+    {
+      "text": "Quisiera, por favor, pues...",
+      "startMs": 5373,
+      "endMs": 8164,
+      "verified": true
+    },
+    {
+      "text": "sentarme con él aunque sea media hora, para platicarle sobre unos productos y unos servicios que estamos ofreciendo muy buenos, y que podrían ahorrarle mucho dinero a la compañía.",
+      "startMs": 8180,
+      "endMs": 17880,
+      "verified": true
+    },
+    {
+      "text": "¿Así que por favor dígame cuándo sería un buen día, o a qué horas sería conveniente que yo fuera a visitarle?",
+      "startMs": 17890,
+      "endMs": 25484,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i30-A-Part-Of-High-School-Not-To-Redo-Simplified-Example.mp4",
+  "transcriptHash": "dcf834ffd8690494a3839bd7800c410b816e8962",
+  "durationMs": 28305,
+  "segments": [
+    {
+      "text": "Yo estoy contento de no tener que repetir todas las clases de las ciencias naturales: la física, la química, y la biología.",
+      "startMs": 0,
+      "endMs": 8982,
+      "verified": true
+    },
+    {
+      "text": "Pasé años tomando cursos en estas materias y realmente me dedicaba a ser un actor.",
+      "startMs": 9772,
+      "endMs": 16083,
+      "verified": true
+    },
+    {
+      "text": "Yo estaba completamente despistado pero actuaba como si entendiera todo y funcionó, no reprobé ninguna clase, pero tampoco aprendí.",
+      "startMs": 17093,
+      "endMs": 27005,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

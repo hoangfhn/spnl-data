@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "s02-What-10-Year-Olds-Can-Do-Maria-V.mp4",
+  "transcriptHash": "2372b4e0847bea22710daaf42f1201346a79431d",
+  "durationMs": 22036,
+  "segments": [
+    {
+      "text": "Por ejemplo ya no soy tan espontánea como era en esa edad.",
+      "startMs": 450,
+      "endMs": 5494,
+      "verified": true
+    },
+    {
+      "text": "Tampoco ya no juego mis bromas, ya no son tantas.",
+      "startMs": 6215,
+      "endMs": 9417,
+      "verified": true
+    },
+    {
+      "text": "Más que nada ha cambiado en eso, en la cuestión del juego, de la libertad un poco.",
+      "startMs": 11518,
+      "endMs": 17613,
+      "verified": true
+    },
+    {
+      "text": "No tenía ninguna responsabilidad.",
+      "startMs": 17823,
+      "endMs": 19734,
+      "verified": true
+    },
+    {
+      "text": "Era más feliz en esa época.",
+      "startMs": 19740,
+      "endMs": 21355,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

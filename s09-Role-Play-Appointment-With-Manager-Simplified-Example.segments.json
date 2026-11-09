@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "s09-Role-Play-Appointment-With-Manager-Simplified-Example.mp4",
+  "transcriptHash": "03175a69ea02347135c7973a7a822b3c70636f3b",
+  "durationMs": 39497,
+  "segments": [
+    {
+      "text": "Si necesito reunirme con un gerente, es natural que su secretaria funcione como un primer filtro.",
+      "startMs": 340,
+      "endMs": 9664,
+      "verified": true
+    },
+    {
+      "text": "Si mi secretaria no logra pactar la reunión con la secretaria del hombre que necesito ver, entonces yo hablo con ella y trato de convencerla.",
+      "startMs": 11085,
+      "endMs": 24611,
+      "verified": true
+    },
+    {
+      "text": "A veces es más fácil arreglar las cosas entre un hombre y una mujer, no entre dos secretarias.",
+      "startMs": 26061,
+      "endMs": 35475,
+      "verified": true
+    },
+    {
+      "text": "Intervengo como último recurso.",
+      "startMs": 36566,
+      "endMs": 39237,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

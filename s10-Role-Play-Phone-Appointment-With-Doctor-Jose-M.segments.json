@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "video": "s10-Role-Play-Phone-Appointment-With-Doctor-Jose-M.mp4",
+  "transcriptHash": "56308822a178c1091dae1fd4ee596bf20410459e",
+  "durationMs": 78809,
+  "segments": [
+    {
+      "text": "¿Aló?",
+      "startMs": 0,
+      "endMs": 180,
+      "verified": false
+    },
+    {
+      "text": "Buenos días señorita, por favor quisiera hacer una cita con el doctor Peña.",
+      "startMs": 190,
+      "endMs": 6321,
+      "verified": true
+    },
+    {
+      "text": "Sí señorita.",
+      "startMs": 7491,
+      "endMs": 8470,
+      "verified": true
+    },
+    {
+      "text": "¿A las nueve?",
+      "startMs": 8481,
+      "endMs": 10910,
+      "verified": true
+    },
+    {
+      "text": "No señorita no puedo porque tengo clases.",
+      "startMs": 10930,
+      "endMs": 14510,
+      "verified": true
+    },
+    {
+      "text": "¿Y qué le parece a las, a las tres y media de la tarde, por favor?",
+      "startMs": 14522,
+      "endMs": 19582,
+      "verified": true
+    },
+    {
+      "text": "Muy bien, sería perfecto.",
+      "startMs": 20532,
+      "endMs": 23233,
+      "verified": true
+    },
+    {
+      "text": "Bueno señorita, no sé.",
+      "startMs": 24273,
+      "endMs": 26253,
+      "verified": true
+    },
+    {
+      "text": "No me siento bien.",
+      "startMs": 26573,
+      "endMs": 27750,
+      "verified": true
+    },
+    {
+      "text": "Me duele mucho la cabeza, tengo dolor de estómago y anoche no podía dormir.",
+      "startMs": 27770,
+      "endMs": 34354,
+      "verified": true
+    },
+    {
+      "text": "Y creo que esta mañana tengo un poco de fiebre.",
+      "startMs": 35134,
+      "endMs": 38504,
+      "verified": true
+    },
+    {
+      "text": "Sí señorita.",
+      "startMs": 39914,
+      "endMs": 41034,
+      "verified": true
+    },
+    {
+      "text": "Tomé aspirinas.",
+      "startMs": 43035,
+      "endMs": 44140,
+      "verified": false
+    },
+    {
+      "text": "Sí, señorita, sí, cada cuatro horas y con jugo, jugo de naranja.",
+      "startMs": 44160,
+      "endMs": 49915,
+      "verified": true
+    },
+    {
+      "text": "Sí señorita.",
+      "startMs": 50415,
+      "endMs": 51306,
+      "verified": true
+    },
+    {
+      "text": "¡Ah muy bien!",
+      "startMs": 52316,
+      "endMs": 53106,
+      "verified": true
+    },
+    {
+      "text": "OK ¿Y señorita, por favor, dónde está localizada la oficina del doctor?",
+      "startMs": 55256,
+      "endMs": 59506,
+      "verified": true
+    },
+    {
+      "text": "Porque no conozco esta ciudad muy bien.",
+      "startMs": 60117,
+      "endMs": 62187,
+      "verified": true
+    },
+    {
+      "text": "¡Ah muy bien!",
+      "startMs": 63017,
+      "endMs": 63727,
+      "verified": true
+    },
+    {
+      "text": "Gracias, muy bien.",
+      "startMs": 64557,
+      "endMs": 67507,
+      "verified": true
+    },
+    {
+      "text": "Entonces señorita, la veré a las tres y media de la tarde en la oficina del doctor Peña.",
+      "startMs": 67877,
+      "endMs": 72868,
+      "verified": true
+    },
+    {
+      "text": "¿Correcto?",
+      "startMs": 72880,
+      "endMs": 73548,
+      "verified": true
+    },
+    {
+      "text": "Muy bien, hasta luego y muchísimas gracias.",
+      "startMs": 74198,
+      "endMs": 77488,
+      "verified": true
+    },
+    {
+      "text": "Hasta luego.",
+      "startMs": 77798,
+      "endMs": 78659,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

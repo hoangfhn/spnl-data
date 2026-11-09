@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "video": "s10-Role-Play-Phone-Appointment-With-Doctor-Marcela-R.mp4",
+  "transcriptHash": "5a4d523f0c0eeb0aef156e54a1f3da73c428eccd",
+  "durationMs": 65968,
+  "segments": [
+    {
+      "text": "¿Aló?",
+      "startMs": 0,
+      "endMs": 2380,
+      "verified": true
+    },
+    {
+      "text": "Hola buenas tardes.",
+      "startMs": 2400,
+      "endMs": 3520,
+      "verified": true
+    },
+    {
+      "text": "Sí quería pedir hora con el doctor.",
+      "startMs": 4030,
+      "endMs": 7241,
+      "verified": true
+    },
+    {
+      "text": "Sí, el doctor Cerda.",
+      "startMs": 7260,
+      "endMs": 9001,
+      "verified": true
+    },
+    {
+      "text": "Sí.",
+      "startMs": 9871,
+      "endMs": 11121,
+      "verified": true
+    },
+    {
+      "text": "¿Para cuando tiene hora?",
+      "startMs": 11130,
+      "endMs": 12271,
+      "verified": true
+    },
+    {
+      "text": "Para mañana a las nueve.",
+      "startMs": 12752,
+      "endMs": 14222,
+      "verified": true
+    },
+    {
+      "text": "Uy, ¡Qué temprano!",
+      "startMs": 14462,
+      "endMs": 17182,
+      "verified": true
+    },
+    {
+      "text": "Bueno, ya, perfecto.",
+      "startMs": 17190,
+      "endMs": 18882,
+      "verified": true
+    },
+    {
+      "text": "Eh, ¿Qué es lo que me molesta?",
+      "startMs": 19692,
+      "endMs": 21573,
+      "verified": true
+    },
+    {
+      "text": "Lo que pasa es que tengo un problema en una de las parótidas ...",
+      "startMs": 21993,
+      "endMs": 27403,
+      "verified": true
+    },
+    {
+      "text": "sí, sí, entonces necesito que me vea porque realmente me duele y me molesta bastante.",
+      "startMs": 27633,
+      "endMs": 35954,
+      "verified": true
+    },
+    {
+      "text": "Sí, ya, ¿los síntomas?",
+      "startMs": 36474,
+      "endMs": 40195,
+      "verified": false
+    },
+    {
+      "text": "Bueno, al comer, al masticar me duele, me duele bastante y en realidad aparte del dolor se me produce una pequeña hinchazón en el lado izquierdo.",
+      "startMs": 40235,
+      "endMs": 53726,
+      "verified": true
+    },
+    {
+      "text": "Sí, un poquitito debajo del oído.",
+      "startMs": 54096,
+      "endMs": 56657,
+      "verified": true
+    },
+    {
+      "text": "Sí, ya, entonces mañana a las nueve, nueve y media estoy allá ya.",
+      "startMs": 57517,
+      "endMs": 64090,
+      "verified": true
+    },
+    {
+      "text": "Muchas gracias, hasta luego.",
+      "startMs": 64110,
+      "endMs": 65618,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

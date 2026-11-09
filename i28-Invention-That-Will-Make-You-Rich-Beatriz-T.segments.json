@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "i28-Invention-That-Will-Make-You-Rich-Beatriz-T.mp4",
+  "transcriptHash": "92d0b34b751a1159263dd426f6e36cdb0f6a1c96",
+  "durationMs": 15790,
+  "segments": [
+    {
+      "text": "Voy a inventar una pasta de dientes que tenga un sabor a cardomomo.",
+      "startMs": 450,
+      "endMs": 10526,
+      "verified": true
+    },
+    {
+      "text": "Sí porque sabe muy rico.",
+      "startMs": 11997,
+      "endMs": 13528,
+      "verified": true
+    },
+    {
+      "text": "Nada más por eso.",
+      "startMs": 14379,
+      "endMs": 15549,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

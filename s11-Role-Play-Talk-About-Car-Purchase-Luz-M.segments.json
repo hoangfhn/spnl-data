@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "video": "s11-Role-Play-Talk-About-Car-Purchase-Luz-M.mp4",
+  "transcriptHash": "7d36d25aca623174f760df5c04b494557d1a0701",
+  "durationMs": 68778,
+  "segments": [
+    {
+      "text": "OK, Rosa, te cuento que me voy a comprar un carro.",
+      "startMs": 210,
+      "endMs": 3741,
+      "verified": true
+    },
+    {
+      "text": "Creo que me lo voy a comprar.",
+      "startMs": 3811,
+      "endMs": 5201,
+      "verified": true
+    },
+    {
+      "text": "Ayer fui a la tienda, y finalmente encontré el que me gustó, más que todos los otros que había visto.",
+      "startMs": 5511,
+      "endMs": 11523,
+      "verified": true
+    },
+    {
+      "text": "Es de marca Suburu, y es del año, va a ser nuevito totalmente.",
+      "startMs": 12183,
+      "endMs": 16890,
+      "verified": true
+    },
+    {
+      "text": "Al fin voy a tener carro nuevo.",
+      "startMs": 16904,
+      "endMs": 18385,
+      "verified": true
+    },
+    {
+      "text": "Está \"full\" de equipo, así es que no me voy a preocupar en el verano de \"tener que chorrear de calor\".",
+      "startMs": 19105,
+      "endMs": 24486,
+      "verified": true
+    },
+    {
+      "text": "Bueno tiene las \"lunas\" totalmente eléctricas, y ¿qué más?",
+      "startMs": 26517,
+      "endMs": 38840,
+      "verified": false
+    },
+    {
+      "text": "Es un sedan 4 puertas, el motor es de inyección si no me equivoco, bueno yo de cosas mecánicas no sé mucho.",
+      "startMs": 38850,
+      "endMs": 45792,
+      "verified": true
+    },
+    {
+      "text": "Bueno, pero por lo menos tiene el timón hidráulico y eso me va hacer feliz porque en el carro anterior que yo tenía, simplemente sufría un montón al darle vuelta al timón.",
+      "startMs": 45810,
+      "endMs": 56380,
+      "verified": true
+    },
+    {
+      "text": "Así que ahora no voy hacer esfuerzos demasiados.",
+      "startMs": 56394,
+      "endMs": 59575,
+      "verified": true
+    },
+    {
+      "text": "Y voy a tener probablemente el carro en una semana o dos, si es que llego a conseguir el préstamo en una semana en adelante.",
+      "startMs": 59580,
+      "endMs": 68417,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

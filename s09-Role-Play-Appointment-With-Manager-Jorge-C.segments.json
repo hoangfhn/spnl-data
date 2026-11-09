@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "s09-Role-Play-Appointment-With-Manager-Jorge-C.mp4",
+  "transcriptHash": "c687b6c7e8c34c32db3ea5b7c18a5def8aabb71d",
+  "durationMs": 24938,
+  "segments": [
+    {
+      "text": "Hola, buenos días, hablo para hacer una cita con el licenciado Gómez.",
+      "startMs": 551,
+      "endMs": 3823,
+      "verified": true
+    },
+    {
+      "text": "Sí, es acerca del puesto de trabajo que hay ahora en su empresa.",
+      "startMs": 4954,
+      "endMs": 9067,
+      "verified": true
+    },
+    {
+      "text": "Sí, por el periódico.",
+      "startMs": 10578,
+      "endMs": 11628,
+      "verified": true
+    },
+    {
+      "text": "Ajá.",
+      "startMs": 12739,
+      "endMs": 13110,
+      "verified": true
+    },
+    {
+      "text": "¿Podría ser el lunes a las diez, por favor?",
+      "startMs": 13120,
+      "endMs": 15580,
+      "verified": true
+    },
+    {
+      "text": "Mmm ¿A las doce?",
+      "startMs": 15591,
+      "endMs": 19854,
+      "verified": true
+    },
+    {
+      "text": "Muy bien, tengo tiempo.",
+      "startMs": 20265,
+      "endMs": 21576,
+      "verified": true
+    },
+    {
+      "text": "Muchas gracias.",
+      "startMs": 22927,
+      "endMs": 23657,
+      "verified": true
+    },
+    {
+      "text": "Hasta luego.",
+      "startMs": 23710,
+      "endMs": 24178,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

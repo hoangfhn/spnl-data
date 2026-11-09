@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "s05-You-Should-Have-Had-A-Camera-Simplified-Example.mp4",
+  "transcriptHash": "5154f35187497441959b1b4a5ad7de5946b527b1",
+  "durationMs": 51525,
+  "segments": [
+    {
+      "text": "Anuncié a mi hija Daniela que estaba a punto de irme para filmar su graduación del colegio.",
+      "startMs": 0,
+      "endMs": 7501,
+      "verified": true
+    },
+    {
+      "text": "Ella me pidió que no la filmara porque no había ganado ningún reconocimiento.",
+      "startMs": 8511,
+      "endMs": 14001,
+      "verified": true
+    },
+    {
+      "text": "Y debido a que la ceremonia de entrega de reconocimientos es muy larga, sería mejor no filmarla.",
+      "startMs": 15252,
+      "endMs": 23042,
+      "verified": true
+    },
+    {
+      "text": "Este año, sin embargo, decidieron entregar un premio de reconocimiento para los estudiantes involucrados en arte.",
+      "startMs": 24112,
+      "endMs": 32683,
+      "verified": true
+    },
+    {
+      "text": "Daniela participaba en las obras de teatro del colegio desde hace tres o cuatro años.",
+      "startMs": 33713,
+      "endMs": 41564,
+      "verified": true
+    },
+    {
+      "text": "Ella recibió el premio y yo no pude filmarla, sólo pude tomarle una fotogragía.",
+      "startMs": 42594,
+      "endMs": 50685,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

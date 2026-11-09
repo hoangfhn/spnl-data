@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "s03-Desert-Mirage-Joel-C.mp4",
+  "transcriptHash": "349b77261180a8c2d057940dc5ede616dbc78668",
+  "durationMs": 16858,
+  "segments": [
+    {
+      "text": "En realidad la que vería sería una mujer.",
+      "startMs": 451,
+      "endMs": 2142,
+      "verified": false
+    },
+    {
+      "text": "¿Por qué?",
+      "startMs": 4195,
+      "endMs": 4730,
+      "verified": false
+    },
+    {
+      "text": "Porque es mi máximo.",
+      "startMs": 4750,
+      "endMs": 5606,
+      "verified": true
+    },
+    {
+      "text": "Las mujeres para mi son las cosas idolatradas, las cosas...",
+      "startMs": 5610,
+      "endMs": 9510,
+      "verified": true
+    },
+    {
+      "text": "no sé...",
+      "startMs": 10141,
+      "endMs": 10731,
+      "verified": true
+    },
+    {
+      "text": "a alcanzar.",
+      "startMs": 10740,
+      "endMs": 11640,
+      "verified": false
+    },
+    {
+      "text": "El llenar a una mujer, me refiero en todos los conceptos, es mi objetivo, quizás.",
+      "startMs": 11652,
+      "endMs": 16297,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

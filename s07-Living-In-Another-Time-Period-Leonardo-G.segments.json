@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "s07-Living-In-Another-Time-Period-Leonardo-G.mp4",
+  "transcriptHash": "12e1940224239f0209c3fbc0584bc1feee96e6b9",
+  "durationMs": 43491,
+  "segments": [
+    {
+      "text": "Sí, varias veces he querido vivir por lo menos un minuto para contemplar desde lo alto de esta misma ciudad, el valle, el lago donde estaba sentada la antigua ciudad de Tenochtitlán fundada por los Aztecas.",
+      "startMs": 0,
+      "endMs": 14364,
+      "verified": true
+    },
+    {
+      "text": "Este, aquello debía haber sido maravilloso, la ciudad en medio del lago que después fue desecado y concentra hoy la mayor ciudad del mundo con muchos problemas, obviamente.",
+      "startMs": 14964,
+      "endMs": 28507,
+      "verified": true
+    },
+    {
+      "text": "Creo que ese período hubiera escogido un día o un minuto para contemplar la magnificencia de la ciudad de Tenochtitlán.",
+      "startMs": 30478,
+      "endMs": 41270,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

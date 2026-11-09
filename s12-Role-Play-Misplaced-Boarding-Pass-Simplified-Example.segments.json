@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "s12-Role-Play-Misplaced-Boarding-Pass-Simplified-Example.mp4",
+  "transcriptHash": "0d83f0adb4a3e02a5287b362330c1b2febb6d0d5",
+  "durationMs": 28003,
+  "segments": [
+    {
+      "text": "Aquí tenía el boleto.",
+      "startMs": 991,
+      "endMs": 2502,
+      "verified": true
+    },
+    {
+      "text": "No sé qué le ocurrió.",
+      "startMs": 3073,
+      "endMs": 4784,
+      "verified": true
+    },
+    {
+      "text": "Me dice usted que no puede permitirme la entrada, pero es urgente.",
+      "startMs": 5635,
+      "endMs": 11489,
+      "verified": true
+    },
+    {
+      "text": "Tengo una junta de negocios que no puedo aplazar.",
+      "startMs": 12280,
+      "endMs": 16474,
+      "verified": true
+    },
+    {
+      "text": "Le suplico me deje viajar.",
+      "startMs": 17224,
+      "endMs": 19036,
+      "verified": true
+    },
+    {
+      "text": "Una vez en casa, haré que busquen mi pasaje.",
+      "startMs": 20127,
+      "endMs": 23499,
+      "verified": true
+    },
+    {
+      "text": "De no encontrarlo, le prometo pagarlo de nuevo.",
+      "startMs": 24390,
+      "endMs": 27763,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

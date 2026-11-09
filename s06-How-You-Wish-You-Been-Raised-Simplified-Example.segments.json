@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "s06-How-You-Wish-You-Been-Raised-Simplified-Example.mp4",
+  "transcriptHash": "aab21459393e380ca56f51514da968ef1db8f26f",
+  "durationMs": 19365,
+  "segments": [
+    {
+      "text": "Quisiera haber crecido en un ambiente rústico, ya sea en la montaña o en el campo.",
+      "startMs": 550,
+      "endMs": 7822,
+      "verified": true
+    },
+    {
+      "text": "Con animales domésticos y una familia grande en un pueblo chico para hacer actividades propias de ese ambiente.",
+      "startMs": 8312,
+      "endMs": 18595,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

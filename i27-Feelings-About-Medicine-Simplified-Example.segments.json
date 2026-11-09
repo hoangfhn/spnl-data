@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i27-Feelings-About-Medicine-Simplified-Example.mp4",
+  "transcriptHash": "69487f9e7b100ff08b6cbd2baa0955af200cab59",
+  "durationMs": 25449,
+  "segments": [
+    {
+      "text": "Aquí en Oaxaca, México el uso de la medicina es interesante.",
+      "startMs": 860,
+      "endMs": 5842,
+      "verified": true
+    },
+    {
+      "text": "A parte de lo que es la medicina occidental hay mucha gente que usa remedios indígenas.",
+      "startMs": 6592,
+      "endMs": 13465,
+      "verified": true
+    },
+    {
+      "text": "Muchos Oaxaqueños no van al doctor cuando se enferman, sino van con un curandero o usan hierbas medicinales.",
+      "startMs": 14095,
+      "endMs": 21928,
+      "verified": true
+    },
+    {
+      "text": "La mayoría es una mezcla de los dos.",
+      "startMs": 22498,
+      "endMs": 25129,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

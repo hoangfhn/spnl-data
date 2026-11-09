@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i29-The-Coldest-You-Have-Ever-Been-Simplified-Example.mp4",
+  "transcriptHash": "6344e271ae7a146600c3827d0764e87be340ca61",
+  "durationMs": 34458,
+  "segments": [
+    {
+      "text": "Nunca tuve tanto frío como cuando hicimos una excursión en la Sierra Nevada de Granada.",
+      "startMs": 730,
+      "endMs": 6563,
+      "verified": true
+    },
+    {
+      "text": "A pesar de estar en el sur de España hace mucho frío por la altitud y porque en la noche hace mucho viento.",
+      "startMs": 7194,
+      "endMs": 14548,
+      "verified": true
+    },
+    {
+      "text": "Además, el Pico Veleta casi siempre está nevado así que cuando sopla el aire hace muchísimo frío.",
+      "startMs": 14918,
+      "endMs": 22792,
+      "verified": true
+    },
+    {
+      "text": "Me acuerdo de estar muy alto en la sierra y el viento estuvo tan fuerte que rompió todos los palos de la tienda de acampar y nos congelamos toda la noche.",
+      "startMs": 23503,
+      "endMs": 33918,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "s08-Stereotypes-You-Like-To-Eliminate-Ana-G.mp4",
+  "transcriptHash": "7789fd0474fd6114543bc063366d865df12f1743",
+  "durationMs": 33181,
+  "segments": [
+    {
+      "text": "Uno de los estereotipos que me molesta mucho es de la mujer latinoamericana típicamente sumisa que agacha la cabeza y no critica lo que el hombre generalmente dice.",
+      "startMs": 530,
+      "endMs": 11888,
+      "verified": true
+    },
+    {
+      "text": "Muchas mujeres latinoamericanas tenemos una actitud distinta ante esto, pero aún así se nos califica bajo este estereotipo y se nos cierran muchas puertas ante oportunidades y ante dar nuestra opinión solamente porque están basados en estos estereotipos.",
+      "startMs": 12318,
+      "endMs": 28398,
+      "verified": true
+    },
+    {
+      "text": "Esto es uno de los estereotipos que me gustaría que se eliminaran en nuestra cultura.",
+      "startMs": 28400,
+      "endMs": 32821,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

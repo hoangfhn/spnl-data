@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i27-Feelings-About-Medicine-Jorge-C.mp4",
+  "transcriptHash": "bccb541d045a8305bbdca4b088e22c9cdb17e7e8",
+  "durationMs": 42910,
+  "segments": [
+    {
+      "text": "El sistema de seguridad social en México no es muy eficiente.",
+      "startMs": 670,
+      "endMs": 4001,
+      "verified": true
+    },
+    {
+      "text": "Es eficiente en términos de que consigue fondos de los trabajadores cada mes, una parte del sueldo se retiene para la seguridad social y otra parte igual la da el patrono.",
+      "startMs": 6432,
+      "endMs": 17764,
+      "verified": true
+    },
+    {
+      "text": "Sin embargo, a la hora de requerir los serivicios es lenta, es confiable una vez que has entrado en el sistema los doctores son buenos, buenas máquinas, etcétera, pero es muy lenta.",
+      "startMs": 19055,
+      "endMs": 31248,
+      "verified": true
+    },
+    {
+      "text": "Para-tienes que hacer una cita y hablar con una persona y luego hacer cola y esperar y etcétera.",
+      "startMs": 31758,
+      "endMs": 40030,
+      "verified": true
+    },
+    {
+      "text": "Entonces, muy poco eficiente.",
+      "startMs": 40160,
+      "endMs": 42090,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

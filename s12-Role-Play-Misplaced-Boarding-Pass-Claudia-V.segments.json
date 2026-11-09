@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "s12-Role-Play-Misplaced-Boarding-Pass-Claudia-V.mp4",
+  "transcriptHash": "9ab1a401dccdeb68b283cd1d8eb23229bce1de39",
+  "durationMs": 23963,
+  "segments": [
+    {
+      "text": "Señorita, acá tenía el pasaje.",
+      "startMs": 0,
+      "endMs": 2310,
+      "verified": true
+    },
+    {
+      "text": "Le juro que acá lo tenía.",
+      "startMs": 2322,
+      "endMs": 3583,
+      "verified": true
+    },
+    {
+      "text": "No sé qué ha pasado.",
+      "startMs": 3600,
+      "endMs": 4590,
+      "verified": true
+    },
+    {
+      "text": "¿Pero usted me dice que no puedo entrar?",
+      "startMs": 4604,
+      "endMs": 6990,
+      "verified": true
+    },
+    {
+      "text": "¿Cómo no voy a hacer este viaje?",
+      "startMs": 7007,
+      "endMs": 9190,
+      "verified": true
+    },
+    {
+      "text": "Es urgente para mí, tengo una reunión de negocios que no la puedo cambiar para otra fecha.",
+      "startMs": 9209,
+      "endMs": 13653,
+      "verified": true
+    },
+    {
+      "text": "Por favor, déjeme viajar, luego yo me comunico por teléfono en mi casa y que ellos busquen mi pasaje.",
+      "startMs": 13964,
+      "endMs": 20620,
+      "verified": true
+    },
+    {
+      "text": "En todo caso, si es que no lo encuentran, se lo vuelvo a pagar.",
+      "startMs": 20630,
+      "endMs": 23523,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

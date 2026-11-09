@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "video": "s11-Role-Play-Talk-About-Car-Purchase-Fernando-R.mp4",
+  "transcriptHash": "a7c0200e90cdd0ef3f60c638d681149a4c7530bc",
+  "durationMs": 59490,
+  "segments": [
+    {
+      "text": "Recientemente volví a los Estados Unidos proveniente de Brasil.",
+      "startMs": 30,
+      "endMs": 2910,
+      "verified": false
+    },
+    {
+      "text": "Y como ustedes saben en Estados Unidos necesitas un auto.",
+      "startMs": 2920,
+      "endMs": 7081,
+      "verified": true
+    },
+    {
+      "text": "Este auto o coche que necesitaba comprar tenía que estar acorde a mi presupuesto.",
+      "startMs": 8251,
+      "endMs": 14662,
+      "verified": true
+    },
+    {
+      "text": "Y tuve la gran suerte de- y bueno mi presupuesto daba como hasta dos mil, dos mil quinientos dólares.",
+      "startMs": 15403,
+      "endMs": 22644,
+      "verified": true
+    },
+    {
+      "text": "Pero tuve la suerte que un amigo de un amigo estaba vendiendo su auto a mil dólares.",
+      "startMs": 23114,
+      "endMs": 28710,
+      "verified": true
+    },
+    {
+      "text": "Entonces aunque tenía- el auto era un poco estilo de viejo porque creo que unos abuelos eran los ex dueños de ese auto.",
+      "startMs": 28730,
+      "endMs": 38106,
+      "verified": true
+    },
+    {
+      "text": "Bueno, por mil dólares casi no comprás nada.",
+      "startMs": 40517,
+      "endMs": 42330,
+      "verified": true
+    },
+    {
+      "text": "Y el auto estaba en muy buen estado, es un auto gris.",
+      "startMs": 42350,
+      "endMs": 44627,
+      "verified": true
+    },
+    {
+      "text": "Seguramente, como dije antes estilo de viejo, pero otra vez buen estado, buen precio.",
+      "startMs": 45157,
+      "endMs": 53649,
+      "verified": true
+    },
+    {
+      "text": "Y bueno espero venderlo dentro de un par de años a un poco más de plata de lo que pagué por él.",
+      "startMs": 54139,
+      "endMs": 59350,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

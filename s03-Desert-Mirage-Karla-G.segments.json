@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "s03-Desert-Mirage-Karla-G.mp4",
+  "transcriptHash": "055521e071945a2fe1af819093c5c0d401525428",
+  "durationMs": 49575,
+  "segments": [
+    {
+      "text": "Si estuviera muriéndome de calor en un desierto solitario,el espejismo que yo tendría probablemente sería el de un campo lleno de flores, en una época ya sea de otoño o de primavera, junto a un río, o a un…",
+      "startMs": 510,
+      "endMs": 20690,
+      "verified": true
+    },
+    {
+      "text": "a un lago, con una hamaca colgada de unas palmeras.",
+      "startMs": 20710,
+      "endMs": 25488,
+      "verified": true
+    },
+    {
+      "text": "Pero muy fresco, nada, nada ni muy caliente ni muy frío, meciéndome en la hamaca y teniendo a unos, a unas dos o tres personas abanicándome de un lado y del otro.",
+      "startMs": 26018,
+      "endMs": 39612,
+      "verified": true
+    },
+    {
+      "text": "Teniendo también una barra de…",
+      "startMs": 39882,
+      "endMs": 43563,
+      "verified": true
+    },
+    {
+      "text": "una mesa con diferentes frutas tropicales y bebidas refrescantes.",
+      "startMs": 43923,
+      "endMs": 48814,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

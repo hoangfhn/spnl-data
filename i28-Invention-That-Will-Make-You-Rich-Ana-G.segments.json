@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "i28-Invention-That-Will-Make-You-Rich-Ana-G.mp4",
+  "transcriptHash": "ee01d4cf2d9d4ab61f189a2a4d292b7aa80efb62",
+  "durationMs": 25797,
+  "segments": [
+    {
+      "text": "Me gustaría inventar platos desechables que se pudieran comer, de esta manera no habría que descartarlos y así reduciría un buen porcentaje de la basura que se produce en las escuelas públicas.",
+      "startMs": 751,
+      "endMs": 13509,
+      "verified": true
+    },
+    {
+      "text": "Aunque realmente no es un invento que creo que generaría demasiado dinero, no es algo que me interesa mucho pero creo que sería positivo en cuanto al uso de los recursos de una manera más apropiada.",
+      "startMs": 14280,
+      "endMs": 25167,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

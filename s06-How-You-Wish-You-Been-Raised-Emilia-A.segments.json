@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "s06-How-You-Wish-You-Been-Raised-Emilia-A.mp4",
+  "transcriptHash": "2362e3443d4a12e4fdb14535f40a4b58044f6fff",
+  "durationMs": 34946,
+  "segments": [
+    {
+      "text": "Bueno, yo fui criada en una ciudad muy urbana y muy de vez en cuando tuve la posibilidad de ir al campo.",
+      "startMs": 0,
+      "endMs": 9562,
+      "verified": true
+    },
+    {
+      "text": "Y la verdad es que me hubiese gustado criarme en un ambiente más tranquilo talvez como es el campo para poder montar a caballo, para poder no sé ir al río más seguido.",
+      "startMs": 10232,
+      "endMs": 25304,
+      "verified": true
+    },
+    {
+      "text": "Y aunque me gusta bastante la ciudad, me hubiese gustado quizá tener más contacto con la naturaleza.",
+      "startMs": 26805,
+      "endMs": 34586,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

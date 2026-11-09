@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "s08-Stereotypes-You-Like-To-Eliminate-Simplified-Example.mp4",
+  "transcriptHash": "92957284813db12e973d299948a4b306b9145f0b",
+  "durationMs": 29977,
+  "segments": [
+    {
+      "text": "Creo que el estereotipo que más me molesta tiene que ver con el concepto que muchos tienen de la mujer Latinoamericana.",
+      "startMs": 230,
+      "endMs": 10736,
+      "verified": true
+    },
+    {
+      "text": "Parece que siempre nos pintan como muy sumisas e inútiles cuando, en realidad, hay muchas latinoamericanas que tienen papeles muy importantes en la sociedad y que son muy profesionales.",
+      "startMs": 12057,
+      "endMs": 29517,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

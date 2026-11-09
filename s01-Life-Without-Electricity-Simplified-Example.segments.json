@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "s01-Life-Without-Electricity-Simplified-Example.mp4",
+  "transcriptHash": "cbf2c6762d3a2e13f24bb3c2e01da074f168c838",
+  "durationMs": 46370,
+  "segments": [
+    {
+      "text": "La vida sería terrible sin electricidad.",
+      "startMs": 550,
+      "endMs": 4061,
+      "verified": true
+    },
+    {
+      "text": "No podríamos ver la televisión, escuchar el radio, usar la computadora, guardar comida en el refrigerador, calentar la comida en el microondas, tener luz en la noche, prácticamente nada.",
+      "startMs": 4811,
+      "endMs": 20274,
+      "verified": true
+    },
+    {
+      "text": "Sería muy difícil.",
+      "startMs": 21315,
+      "endMs": 23445,
+      "verified": true
+    },
+    {
+      "text": "En realidad, si no hubiera electricidad la vida sería muy monótona.",
+      "startMs": 24075,
+      "endMs": 30887,
+      "verified": true
+    },
+    {
+      "text": "Ahora, quién sabe si por algunos días podría ser hasta agradable, pero no sería posible vivir sin electricidad.",
+      "startMs": 31677,
+      "endMs": 43850,
+      "verified": true
+    },
+    {
+      "text": "Regresaríamos en el tiempo.",
+      "startMs": 43870,
+      "endMs": 45710,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

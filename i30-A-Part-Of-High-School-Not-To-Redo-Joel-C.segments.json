@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "i30-A-Part-Of-High-School-Not-To-Redo-Joel-C.mp4",
+  "transcriptHash": "4fd0c46a2b016ab0f8f118cd33b4692cb24a2620",
+  "durationMs": 29304,
+  "segments": [
+    {
+      "text": "OK, lo que me gusta y lo que me gustaba hacer desde que yo estaba en la preparatoria o secundaria era jugar volibol.",
+      "startMs": 0,
+      "endMs": 6665,
+      "verified": true
+    },
+    {
+      "text": "El cual, porque...porque yo podía sacar allí todo mi coraje, podía sacar todo mi estrés, que no me podía reservar con otros profesores.",
+      "startMs": 7556,
+      "endMs": 15462,
+      "verified": true
+    },
+    {
+      "text": "La forma de sacar mi coraje era golpeando la pelota.",
+      "startMs": 15983,
+      "endMs": 18900,
+      "verified": true
+    },
+    {
+      "text": "Y hasta ahorita lo sigo haciendo.",
+      "startMs": 18920,
+      "endMs": 21087,
+      "verified": true
+    },
+    {
+      "text": "Es la forma de desentenderme de todo lo que me rodea.",
+      "startMs": 21127,
+      "endMs": 24180,
+      "verified": true
+    },
+    {
+      "text": "Y pues...",
+      "startMs": 24199,
+      "endMs": 25500,
+      "verified": false
+    },
+    {
+      "text": "es lo único que tengo muy arraigado en mí.",
+      "startMs": 26471,
+      "endMs": 28723,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

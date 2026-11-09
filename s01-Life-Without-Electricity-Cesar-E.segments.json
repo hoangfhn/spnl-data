@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "s01-Life-Without-Electricity-Cesar-E.mp4",
+  "transcriptHash": "1224212090f10670be3e0c4b0efe56174879ea50",
+  "durationMs": 51641,
+  "segments": [
+    {
+      "text": "En realidad, si no hubiera electricidad la vida sería muy monótona.",
+      "startMs": 1431,
+      "endMs": 8103,
+      "verified": true
+    },
+    {
+      "text": "No tendríamos todos los avances tecnológicos actuales, la televisión, la radio.",
+      "startMs": 8964,
+      "endMs": 16240,
+      "verified": true
+    },
+    {
+      "text": "Bueno, tendríamos que contentarnos como yo he vivido todavía en mi provincia, en mi pueblo, donde 'la cosa' pues no era muy...",
+      "startMs": 16260,
+      "endMs": 28462,
+      "verified": true
+    },
+    {
+      "text": "la vida muy monótona donde no había, pues, estas cosas.",
+      "startMs": 28862,
+      "endMs": 33744,
+      "verified": true
+    },
+    {
+      "text": "Inclusive la radio todavía no existía.",
+      "startMs": 33764,
+      "endMs": 36415,
+      "verified": true
+    },
+    {
+      "text": "Cuando yo era chico no existía todavía la radio, la televisión mucho menos, ¿no?",
+      "startMs": 36845,
+      "endMs": 42197,
+      "verified": true
+    },
+    {
+      "text": "Entonces todos los avances tecnológicos , bueno son consecuencia de que haya la electricidad.",
+      "startMs": 42327,
+      "endMs": 50741,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

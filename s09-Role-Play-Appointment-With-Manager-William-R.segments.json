@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "s09-Role-Play-Appointment-With-Manager-William-R.mp4",
+  "transcriptHash": "49cf588f07ffeaf4df8438471f63b4dafbb4b3b1",
+  "durationMs": 26215,
+  "segments": [
+    {
+      "text": "Aló.",
+      "startMs": 4733,
+      "endMs": 5103,
+      "verified": true
+    },
+    {
+      "text": "Muy buenas tardes.",
+      "startMs": 5120,
+      "endMs": 6063,
+      "verified": true
+    },
+    {
+      "text": "Disculpe señorita, ¿se encuentra el gerente?",
+      "startMs": 6154,
+      "endMs": 8465,
+      "verified": true
+    },
+    {
+      "text": "Ok.",
+      "startMs": 10756,
+      "endMs": 11337,
+      "verified": true
+    },
+    {
+      "text": "Bueno.",
+      "startMs": 11677,
+      "endMs": 13568,
+      "verified": true
+    },
+    {
+      "text": "Sería usted tan amable de decirle a él si puedo tener una entrevista con él el día miércoles a las ocho de la mañana.",
+      "startMs": 13608,
+      "endMs": 20532,
+      "verified": true
+    },
+    {
+      "text": "Bueno, muchísimas gracias señorita.",
+      "startMs": 22003,
+      "endMs": 23854,
+      "verified": true
+    },
+    {
+      "text": "Muy amable usted.",
+      "startMs": 23870,
+      "endMs": 24830,
+      "verified": true
+    },
+    {
+      "text": "Gracias.",
+      "startMs": 24850,
+      "endMs": 25255,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

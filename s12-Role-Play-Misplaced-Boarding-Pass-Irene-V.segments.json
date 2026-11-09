@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "s12-Role-Play-Misplaced-Boarding-Pass-Irene-V.mp4",
+  "transcriptHash": "8eb6522fb6f6a0dcf70be2866763430ea648aaa2",
+  "durationMs": 42330,
+  "segments": [
+    {
+      "text": "Esto me pasó cuando estaba de venida a la universidad.",
+      "startMs": 0,
+      "endMs": 3341,
+      "verified": true
+    },
+    {
+      "text": "Estaba dejando atrás a toda mi familia y todo parece que en los nervios y despedirme de todo mundo se me cayó el pase a bordo y lo perdí.",
+      "startMs": 3350,
+      "endMs": 11043,
+      "verified": true
+    },
+    {
+      "text": "Y el vuelo ya salía, entonces tuvi-tuve que acercarme a la señora que estaba en el counter de la aerolínea en la que estaba viajando y preguntarle que qué podía hacer, que lo había perdido.",
+      "startMs": 11273,
+      "endMs": 24536,
+      "verified": true
+    },
+    {
+      "text": "Y bueno, me pidió identificación, que tenían que verificar que no sea alguien que estaba mintiendo, y que...",
+      "startMs": 25176,
+      "endMs": 31747,
+      "verified": true
+    },
+    {
+      "text": "Bueno, lo chequearon.",
+      "startMs": 33198,
+      "endMs": 35128,
+      "verified": true
+    },
+    {
+      "text": "Casi lo pierdo el avión, pero al final me dejaron subir y llegué acá bien, así que...",
+      "startMs": 37219,
+      "endMs": 41230,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

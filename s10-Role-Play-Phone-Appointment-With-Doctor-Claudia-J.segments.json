@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "s10-Role-Play-Phone-Appointment-With-Doctor-Claudia-J.mp4",
+  "transcriptHash": "3b69ac8a263442ae1e7518096e7d510ce424b8bb",
+  "durationMs": 24567,
+  "segments": [
+    {
+      "text": "Aló, buenas noches.",
+      "startMs": 190,
+      "endMs": 1220,
+      "verified": false
+    },
+    {
+      "text": "Sí señorita, ¿se encuentra el Dr.",
+      "startMs": 1550,
+      "endMs": 3361,
+      "verified": true
+    },
+    {
+      "text": "Mendoza?",
+      "startMs": 3470,
+      "endMs": 4081,
+      "verified": true
+    },
+    {
+      "text": "Bueno, sí quería una cita para mañana.",
+      "startMs": 6822,
+      "endMs": 9052,
+      "verified": true
+    },
+    {
+      "text": "Me duele un poco el estómago y la cabeza.",
+      "startMs": 10013,
+      "endMs": 13084,
+      "verified": true
+    },
+    {
+      "text": "Bueno, quisiera saber qué es lo que tengo realmente ¿Para qué hora podría ser?",
+      "startMs": 13734,
+      "endMs": 19005,
+      "verified": true
+    },
+    {
+      "text": "Perfecto, para las cuatro de la tarde.",
+      "startMs": 21416,
+      "endMs": 23266,
+      "verified": true
+    },
+    {
+      "text": "OK, gracias.",
+      "startMs": 23557,
+      "endMs": 24407,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

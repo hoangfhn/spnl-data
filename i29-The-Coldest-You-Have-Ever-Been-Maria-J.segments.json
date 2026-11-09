@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i29-The-Coldest-You-Have-Ever-Been-Maria-J.mp4",
+  "transcriptHash": "4ad418c99f9408097f516e3f1a7a58523dfbb980",
+  "durationMs": 37477,
+  "segments": [
+    {
+      "text": "Bueno, el frío más grande que he tenido ha sido una vez que nos fuimos a la playa con Matías mi pololo nos fuimos de \"camping\" primero salía a la playa y el viento era fuerte, la carpa se rompían los palos, corría el viento, no había fogata, no había nada.",
+      "startMs": 310,
+      "endMs": 18528,
+      "verified": true
+    },
+    {
+      "text": "No había donde calentar agua, no había fogata, todo era horrible, y yo me sentaba arriba de la carpa que se volaba me metí entre el saco y lo único que quería era mi cama, no tenía mi cama ...",
+      "startMs": 18619,
+      "endMs": 28053,
+      "verified": true
+    },
+    {
+      "text": "volver a mi casa y alejarme de ese frío inmenso que me, se te mete por el cuerpo, o sea no. . .",
+      "startMs": 28060,
+      "endMs": 34680,
+      "verified": true
+    },
+    {
+      "text": "era frío, frío, llorar, quería volver a mi casa.",
+      "startMs": 34696,
+      "endMs": 37417,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

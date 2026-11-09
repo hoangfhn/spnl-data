@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "s01-Life-Without-Electricity-Guadalupe-M.mp4",
+  "transcriptHash": "15f77920e7556917d648c64c8b37d897e546eb17",
+  "durationMs": 20108,
+  "segments": [
+    {
+      "text": "Bueno, sin electricidad sería terrible porque yo creo que todos necesitamos la electricidad para vivir de alguna manera.",
+      "startMs": 250,
+      "endMs": 8444,
+      "verified": true
+    },
+    {
+      "text": "Aunque ya viví esa época de no tener electricidad.",
+      "startMs": 9294,
+      "endMs": 12605,
+      "verified": true
+    },
+    {
+      "text": "Sí es apacible en determinado momento, pero sí creo que no podríamos vivir sin la electricidad.",
+      "startMs": 13246,
+      "endMs": 19408,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

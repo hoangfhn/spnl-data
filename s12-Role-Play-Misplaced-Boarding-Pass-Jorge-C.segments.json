@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "s12-Role-Play-Misplaced-Boarding-Pass-Jorge-C.mp4",
+  "transcriptHash": "712a34fc7d7659a6d2ed4646a63a550d36329f20",
+  "durationMs": 32717,
+  "segments": [
+    {
+      "text": "Hola señorita, es que tengo un problema, se me perdió mi boleto y no puedo documentar mi equipaje ni sacar mi pase de abordar.",
+      "startMs": 1471,
+      "endMs": 7110,
+      "verified": true
+    },
+    {
+      "text": "¿Qué puedo hacer?",
+      "startMs": 7124,
+      "endMs": 7784,
+      "verified": true
+    },
+    {
+      "text": "No sé, lo tenía conmigo en la sala de espera y de pronto desapareció.",
+      "startMs": 9755,
+      "endMs": 13567,
+      "verified": true
+    },
+    {
+      "text": "No, pero tengo que llegar a Boston.",
+      "startMs": 14858,
+      "endMs": 16468,
+      "verified": true
+    },
+    {
+      "text": "Sí, es imprescindible.",
+      "startMs": 17099,
+      "endMs": 18510,
+      "verified": true
+    },
+    {
+      "text": "Señorita, ¿qué puedo hacer?",
+      "startMs": 19640,
+      "endMs": 20660,
+      "verified": true
+    },
+    {
+      "text": "Ayúdeme, por favor.",
+      "startMs": 20671,
+      "endMs": 21511,
+      "verified": true
+    },
+    {
+      "text": "Electrónicamente o algo, ¿si le doy mi social security number o algo?",
+      "startMs": 23722,
+      "endMs": 28865,
+      "verified": true
+    },
+    {
+      "text": "Ándele, gracias.",
+      "startMs": 30326,
+      "endMs": 32397,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

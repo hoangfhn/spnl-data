@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "s10-Role-Play-Phone-Appointment-With-Doctor-Maricela-N.mp4",
+  "transcriptHash": "73dac4675c935977775749db8eb60a28d15a9e53",
+  "durationMs": 18321,
+  "segments": [
+    {
+      "text": "Buenas tardes señorita.",
+      "startMs": 1232,
+      "endMs": 2870,
+      "verified": true
+    },
+    {
+      "text": "Tenga la bondad una cita para el doctor.",
+      "startMs": 2883,
+      "endMs": 4925,
+      "verified": true
+    },
+    {
+      "text": "Doctor, ¿cómo está?",
+      "startMs": 5897,
+      "endMs": 7130,
+      "verified": true
+    },
+    {
+      "text": "Está hablando con Maricela.",
+      "startMs": 7148,
+      "endMs": 8290,
+      "verified": true
+    },
+    {
+      "text": "Sabe que tengo un dolor en mi espalda.",
+      "startMs": 8309,
+      "endMs": 10412,
+      "verified": true
+    },
+    {
+      "text": "Me gustaría que usted me atienda.",
+      "startMs": 10420,
+      "endMs": 12314,
+      "verified": true
+    },
+    {
+      "text": "Si me puede dar una cita para el día de mañana estaría muy bien.",
+      "startMs": 12724,
+      "endMs": 17620,
+      "verified": true
+    },
+    {
+      "text": "Gracias.",
+      "startMs": 17850,
+      "endMs": 18321,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

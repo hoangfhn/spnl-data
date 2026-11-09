@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "s04-Talk-To-High-School-Sociology-Class-Alejandra-Z.mp4",
+  "transcriptHash": "57d0e1375f83aa0f8d96f9e7c5a9a3b888c39de3",
+  "durationMs": 66154,
+  "segments": [
+    {
+      "text": "Si tuviera que dar una charla de Sociología a estudiantes de la escuela secundaria probablemente les hablaría sobre la importancia de tres conceptos: la estratificación, el estatus y la movilidad social.",
+      "startMs": 1230,
+      "endMs": 15563,
+      "verified": true
+    },
+    {
+      "text": "La estratificación, son las capas, los peldaños o los estratos en los que está dividido una sociedad.",
+      "startMs": 16013,
+      "endMs": 23785,
+      "verified": true
+    },
+    {
+      "text": "El estatus es la posición que un individuo mantiene dentro de una sociedad.",
+      "startMs": 24725,
+      "endMs": 31186,
+      "verified": true
+    },
+    {
+      "text": "Este estatus puede estar condicionado por el ambiente familiar, político, económico o cultural.",
+      "startMs": 31677,
+      "endMs": 37648,
+      "verified": true
+    },
+    {
+      "text": "Y además les hablaría sobre la movilidad social que resulta del cambio de un individuo, puede ser un cambio fisico, de ir de un punto hacia otro—que es lo que conocemos como migración.",
+      "startMs": 37660,
+      "endMs": 52221,
+      "verified": true
+    },
+    {
+      "text": "Pero también el cambio puede ser social, ir de un punto a otro dentro de la escala social puede ascender, o puede descender o puede movilizarse dentro de su rango.",
+      "startMs": 52501,
+      "endMs": 65954,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

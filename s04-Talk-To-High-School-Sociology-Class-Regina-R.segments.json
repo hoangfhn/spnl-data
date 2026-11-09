@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "s04-Talk-To-High-School-Sociology-Class-Regina-R.mp4",
+  "transcriptHash": "7a3d1496fff9da99cad0de59d30a996c2dc76fb3",
+  "durationMs": 69637,
+  "segments": [
+    {
+      "text": "Si me invitaran a una escuela secundaria para hablar de algún tema de sociología, pues como soy profesora, yo hablaría de mi experiencia en el salón de clase en Latinoamérica y en Estados Unidos.",
+      "startMs": 0,
+      "endMs": 17144,
+      "verified": true
+    },
+    {
+      "text": "En Latinoamérica hay una diferencia muy grande con Estados Unidos.",
+      "startMs": 18214,
+      "endMs": 22385,
+      "verified": true
+    },
+    {
+      "text": "La relación entre el profesor y el adolescente es muy diferente.",
+      "startMs": 23476,
+      "endMs": 28247,
+      "verified": true
+    },
+    {
+      "text": "Generalmente el adolescente espera a que el profesor termine de hablar de algún tema para hacer sus preguntas.",
+      "startMs": 28677,
+      "endMs": 37089,
+      "verified": true
+    },
+    {
+      "text": "El adolescente siempre utiliza 'usted'.",
+      "startMs": 37639,
+      "endMs": 40590,
+      "verified": true
+    },
+    {
+      "text": "El adolescente espera y piensa un poco antes de preguntar.",
+      "startMs": 41500,
+      "endMs": 47611,
+      "verified": true
+    },
+    {
+      "text": "Sin embargo, aquí en Estados Unidos el ambiente en el salón de clase es un poco más relajado.",
+      "startMs": 48452,
+      "endMs": 55593,
+      "verified": true
+    },
+    {
+      "text": "Pienso que la relación con el profesor es muy amena y tiene muchas ventajas, pero en ocasiones el factor del respeto se pierde un poco.",
+      "startMs": 56363,
+      "endMs": 68986,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

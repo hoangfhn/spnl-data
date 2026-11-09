@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "s02-What-10-Year-Olds-Can-Do-Medardo-C.mp4",
+  "transcriptHash": "ed11eaf3afec4dc9d2e112f010177b465d65679d",
+  "durationMs": 45906,
+  "segments": [
+    {
+      "text": "Bueno, hay muchas cosas que los niños de diez años hacen que ya no puedo hacer sobre todo en Santo Domingo, de donde vengo.",
+      "startMs": 2350,
+      "endMs": 15282,
+      "verified": true
+    },
+    {
+      "text": "Por ejemplo, cuando yo tenía diez años y caía un aguacero, o sea empezaba a llover, los niños salíamos a la galería de la casa en pantalones cortos, nos poníamos en el piso y nos empujábamos a la pared.",
+      "startMs": 16032,
+      "endMs": 37785,
+      "verified": true
+    },
+    {
+      "text": "Eso ya no creo que podría hacerlo sin que la gente piense que estoy loco.",
+      "startMs": 40665,
+      "endMs": 45726,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

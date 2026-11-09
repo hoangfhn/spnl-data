@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "video": "s10-Role-Play-Phone-Appointment-With-Doctor-Irene-V.mp4",
+  "transcriptHash": "29f571d15ff5c6cbbdecbf8b21702fc7f310b2ea",
+  "durationMs": 27237,
+  "segments": [
+    {
+      "text": "Bueno.",
+      "startMs": 0,
+      "endMs": 190,
+      "verified": false
+    },
+    {
+      "text": "Hola.",
+      "startMs": 200,
+      "endMs": 300,
+      "verified": false
+    },
+    {
+      "text": "Sí.",
+      "startMs": 320,
+      "endMs": 430,
+      "verified": false
+    },
+    {
+      "text": "Este…quisiera por favor marcar una cita con el doctor Ramírez.",
+      "startMs": 440,
+      "endMs": 6874,
+      "verified": true
+    },
+    {
+      "text": "Sí.",
+      "startMs": 7395,
+      "endMs": 7815,
+      "verified": true
+    },
+    {
+      "text": "Es que me parece que me doblé el tobillo así que me ha estado costando caminar.",
+      "startMs": 8315,
+      "endMs": 13488,
+      "verified": true
+    },
+    {
+      "text": "Sí.",
+      "startMs": 14419,
+      "endMs": 14689,
+      "verified": true
+    },
+    {
+      "text": "¿Pa mañana?",
+      "startMs": 14700,
+      "endMs": 15920,
+      "verified": false
+    },
+    {
+      "text": "Lo más antes posible por favor que ya me está costando caminar.",
+      "startMs": 15940,
+      "endMs": 18612,
+      "verified": true
+    },
+    {
+      "text": "Sí, bueno.",
+      "startMs": 19682,
+      "endMs": 20273,
+      "verified": true
+    },
+    {
+      "text": "¿Esta tarde puede?",
+      "startMs": 20563,
+      "endMs": 21480,
+      "verified": true
+    },
+    {
+      "text": "Ah, ¡perfecto!",
+      "startMs": 21500,
+      "endMs": 22754,
+      "verified": false
+    },
+    {
+      "text": "Biensísimo.",
+      "startMs": 22760,
+      "endMs": 23340,
+      "verified": false
+    },
+    {
+      "text": "¿A las cinco entonces?",
+      "startMs": 23355,
+      "endMs": 24755,
+      "verified": true
+    },
+    {
+      "text": "Muy bien.",
+      "startMs": 24760,
+      "endMs": 25100,
+      "verified": false
+    },
+    {
+      "text": "Estaré ahí.",
+      "startMs": 25116,
+      "endMs": 25520,
+      "verified": false
+    },
+    {
+      "text": "Muchas gracias.",
+      "startMs": 25540,
+      "endMs": 26136,
+      "verified": true
+    },
+    {
+      "text": "Hasta luego.",
+      "startMs": 26150,
+      "endMs": 26677,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

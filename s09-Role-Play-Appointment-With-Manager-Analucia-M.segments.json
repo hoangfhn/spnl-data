@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "video": "s09-Role-Play-Appointment-With-Manager-Analucia-M.mp4",
+  "transcriptHash": "25a61fef972ab169bfa972c156fed21e3edfd486",
+  "durationMs": 27121,
+  "segments": [
+    {
+      "text": "Buenas tardes.",
+      "startMs": 471,
+      "endMs": 2170,
+      "verified": true
+    },
+    {
+      "text": "Si es que quisiera una cita con el doctor Gonzalo.",
+      "startMs": 2182,
+      "endMs": 5864,
+      "verified": true
+    },
+    {
+      "text": "Sí, con el gerente.",
+      "startMs": 6595,
+      "endMs": 7606,
+      "verified": true
+    },
+    {
+      "text": "¿Esta tarde, es posible?",
+      "startMs": 10098,
+      "endMs": 11609,
+      "verified": true
+    },
+    {
+      "text": "Esta tarde no.",
+      "startMs": 11859,
+      "endMs": 12710,
+      "verified": true
+    },
+    {
+      "text": "Ok.",
+      "startMs": 13380,
+      "endMs": 13910,
+      "verified": true
+    },
+    {
+      "text": "¿Qué tal mañana?",
+      "startMs": 13930,
+      "endMs": 17153,
+      "verified": true
+    },
+    {
+      "text": "¿Mañana en la mañana?",
+      "startMs": 17170,
+      "endMs": 20196,
+      "verified": false
+    },
+    {
+      "text": "Nueve de la mañana.",
+      "startMs": 20200,
+      "endMs": 21116,
+      "verified": true
+    },
+    {
+      "text": "Ok.",
+      "startMs": 21186,
+      "endMs": 22477,
+      "verified": false
+    },
+    {
+      "text": "A las nueve de la mañana, perfecto.",
+      "startMs": 22868,
+      "endMs": 24179,
+      "verified": true
+    },
+    {
+      "text": "Mucísimas gracias.",
+      "startMs": 24249,
+      "endMs": 25119,
+      "verified": true
+    },
+    {
+      "text": "Muy amable.",
+      "startMs": 25130,
+      "endMs": 25620,
+      "verified": true
+    },
+    {
+      "text": "Que tenga un buen día.",
+      "startMs": 25640,
+      "endMs": 26360,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

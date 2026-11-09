@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "s06-How-You-Wish-You-Been-Raised-Ronald-F.mp4",
+  "transcriptHash": "8bf4ace127767e6513a04f9b25d53f7e57194c09",
+  "durationMs": 38684,
+  "segments": [
+    {
+      "text": "A mí me habría gustado haber crecido en un ambiente, este, muy rústico en la montaña en el campo con muchos animales domésticos, con una familia muy numerosa, muchos primos, muchos tíos, en un pueblo muy pequeño, ¿sí?",
+      "startMs": 370,
+      "endMs": 16170,
+      "verified": true
+    },
+    {
+      "text": "y para correr en el campo, no sé, ir a bañarme en el río y coger las frutas con las manos, subir los árboles, este tipo de cosas, ¿no?",
+      "startMs": 16821,
+      "endMs": 27057,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

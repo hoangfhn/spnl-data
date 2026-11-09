@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "s12-Role-Play-Misplaced-Boarding-Pass-Joel-C.mp4",
+  "transcriptHash": "6ac344b0b4dee86faff39287d6c0dcd5c75a1d72",
+  "durationMs": 13816,
+  "segments": [
+    {
+      "text": "Este señorita, lo siento pero en realidad la tenía en este momento.",
+      "startMs": 331,
+      "endMs": 3350,
+      "verified": true
+    },
+    {
+      "text": "No sé donde la dejé.",
+      "startMs": 3364,
+      "endMs": 4886,
+      "verified": true
+    },
+    {
+      "text": "Quizá la tengo dentro de mi maleta, déjeme buscarla.",
+      "startMs": 4950,
+      "endMs": 7929,
+      "verified": true
+    },
+    {
+      "text": "O no sé, quizá la perdí afuera.",
+      "startMs": 8160,
+      "endMs": 9840,
+      "verified": true
+    },
+    {
+      "text": "¿Qué tengo que hacer, dígame?",
+      "startMs": 9851,
+      "endMs": 10953,
+      "verified": true
+    },
+    {
+      "text": "Yo creo que mi palabra cuenta ¿no?",
+      "startMs": 11563,
+      "endMs": 13195,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

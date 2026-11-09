@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "video": "s11-Role-Play-Talk-About-Car-Purchase-Jorge-G.mp4",
+  "transcriptHash": "f9dffafa13c9f61be58ddc9775f13d5c1093a3ea",
+  "durationMs": 70194,
+  "segments": [
+    {
+      "text": "Ok.",
+      "startMs": 0,
+      "endMs": 1050,
+      "verified": false
+    },
+    {
+      "text": "Hace seis meses compré una camioneta grande, cuatro puertas.",
+      "startMs": 1070,
+      "endMs": 6431,
+      "verified": true
+    },
+    {
+      "text": "Me gusta mucho el espacio en las camionetas.",
+      "startMs": 7782,
+      "endMs": 9922,
+      "verified": true
+    },
+    {
+      "text": "Me gusta siempre manejar camionetas altas porque son más cómodas.",
+      "startMs": 10242,
+      "endMs": 14000,
+      "verified": true
+    },
+    {
+      "text": "Me siento más a gusto manejando en la carretera, y por seguridad también.",
+      "startMs": 14020,
+      "endMs": 18014,
+      "verified": true
+    },
+    {
+      "text": "La razón por la- la principal razón que compré yo la camioneta es por mi trabajo, necesito ocupar el espacio, mucho mayor espacio que pueda tener en un vehículo.",
+      "startMs": 18514,
+      "endMs": 27605,
+      "verified": true
+    },
+    {
+      "text": "La camioneta que compré es color obscuro, negra.",
+      "startMs": 29056,
+      "endMs": 31730,
+      "verified": true
+    },
+    {
+      "text": "Me gustan los colores obscuros.",
+      "startMs": 31750,
+      "endMs": 33167,
+      "verified": true
+    },
+    {
+      "text": "Me gustan los interiores obscuros.",
+      "startMs": 33957,
+      "endMs": 35507,
+      "verified": true
+    },
+    {
+      "text": "Es una buena camioneta, me ha salido muy buena.",
+      "startMs": 36597,
+      "endMs": 38848,
+      "verified": true
+    },
+    {
+      "text": "Manejo muchísimo y por lo mismo compré una camioneta que fuera nueva y que tuviera cero kilometraje para poder que- ah, no tener problemas en alguna falla en ella.",
+      "startMs": 39858,
+      "endMs": 50780,
+      "verified": true
+    },
+    {
+      "text": "En los próximos talvez año o dos años no tener alguna falla de mayor alcance como transmisión o motor.",
+      "startMs": 50860,
+      "endMs": 57531,
+      "verified": true
+    },
+    {
+      "text": "Y aparte la compré nueva por la garantía que tengo.",
+      "startMs": 57540,
+      "endMs": 60742,
+      "verified": true
+    },
+    {
+      "text": "Es importante tener una garantía, y una buena garantía en un vehículo de ese tipo, de esa magnitud de dinero.",
+      "startMs": 60842,
+      "endMs": 69894,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

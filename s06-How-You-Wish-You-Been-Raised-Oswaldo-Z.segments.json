@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "s06-How-You-Wish-You-Been-Raised-Oswaldo-Z.mp4",
+  "transcriptHash": "48e2e0153b3e7ad4c57c9041772f6c212cccac07",
+  "durationMs": 34737,
+  "segments": [
+    {
+      "text": "Bien, a mi me habría gustado nacer en esta misma época en este mismo tiempo pero con una familia culturalmente mixta con un padre, no sé, de otro país, quizás Francia, una madre, no sé, Latinoamericana, Argentina, Mexicana, da igual, Cubana quizá, pero gente en un ambiente culturalmente elevado.",
+      "startMs": 150,
+      "endMs": 21070,
+      "verified": true
+    },
+    {
+      "text": "Me hubiera gustado nacer con gente bastante educada que me guiara en el mundo de la literatura desde pequeño y que me hubiera puesto un píe adelante en cuestiones culturales, musicales, artísticas.",
+      "startMs": 21100,
+      "endMs": 33957,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

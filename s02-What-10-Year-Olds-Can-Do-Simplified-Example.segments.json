@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "s02-What-10-Year-Olds-Can-Do-Simplified-Example.mp4",
+  "transcriptHash": "4fab90dc58b493de8fda2c24558d9815e6ce898b",
+  "durationMs": 48251,
+  "segments": [
+    {
+      "text": "Cuando era niña, al regresar a casa, empleaba el resto de la tarde en jugar y ver programas de televisión.",
+      "startMs": 730,
+      "endMs": 9522,
+      "verified": true
+    },
+    {
+      "text": "Me gustaba comer mucho, pues he sido siempre muy tragona.",
+      "startMs": 10152,
+      "endMs": 13943,
+      "verified": false
+    },
+    {
+      "text": "Las películas de terror me daban miedo y por eso me gustaba dormir en medio de mi papá y mi mamá.",
+      "startMs": 14593,
+      "endMs": 22165,
+      "verified": true
+    },
+    {
+      "text": "Ahora ya no es posible hacerlo y todavía me asustan las películas de terror.",
+      "startMs": 22855,
+      "endMs": 30457,
+      "verified": false
+    },
+    {
+      "text": "Gastaba todo mi presupuesto en esos años.",
+      "startMs": 30637,
+      "endMs": 33710,
+      "verified": false
+    },
+    {
+      "text": "Compraba cualquier tipo de comida chatarra porque era el dinero de mis papás el que se gastaba.",
+      "startMs": 33730,
+      "endMs": 40549,
+      "verified": false
+    },
+    {
+      "text": "Ahora soy más ahorrativa porque ya gano y gasto mi propio dinero.",
+      "startMs": 41239,
+      "endMs": 47841,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

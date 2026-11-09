@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "s06-How-You-Wish-You-Been-Raised-Maripaz-G.mp4",
+  "transcriptHash": "7d473e4162f24d98ccfa28a60c48b5fabbd912d9",
+  "durationMs": 31649,
+  "segments": [
+    {
+      "text": "Me gustó mucho donde crecí en Madrid en mi barrio, pero me gustaría haber crecido quizá, quizás en una ciudad con playa porque echo mucho de menos el mar y me gusta mucho la playa, y Madrid no tiene playa.",
+      "startMs": 610,
+      "endMs": 15724,
+      "verified": true
+    },
+    {
+      "text": "Entonces, sí, me gustaría haber visto la playa o, um, estado en el mar y quizás hacer surfing y cosas así, eso, echo mucho de menos eso.",
+      "startMs": 16365,
+      "endMs": 31169,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

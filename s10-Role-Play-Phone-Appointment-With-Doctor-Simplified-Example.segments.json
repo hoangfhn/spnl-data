@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "s10-Role-Play-Phone-Appointment-With-Doctor-Simplified-Example.mp4",
+  "transcriptHash": "b75f909b0ca2ee51e1cb79a294e6ff1e17aedb12",
+  "durationMs": 19180,
+  "segments": [
+    {
+      "text": "Buenas noches.",
+      "startMs": 721,
+      "endMs": 1622,
+      "verified": true
+    },
+    {
+      "text": "Necesito programar una cita con el doctor Mendoza.",
+      "startMs": 2022,
+      "endMs": 6186,
+      "verified": true
+    },
+    {
+      "text": "Siento dolor en el estómago y la cabeza.",
+      "startMs": 7298,
+      "endMs": 10110,
+      "verified": true
+    },
+    {
+      "text": "Quiero la cita para saber qué me ocurre.",
+      "startMs": 11102,
+      "endMs": 14114,
+      "verified": true
+    },
+    {
+      "text": "A las cuatro de la tarde suena bien.",
+      "startMs": 15006,
+      "endMs": 17558,
+      "verified": true
+    },
+    {
+      "text": "Gracias.",
+      "startMs": 18129,
+      "endMs": 18679,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

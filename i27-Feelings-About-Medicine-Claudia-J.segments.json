@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i27-Feelings-About-Medicine-Claudia-J.mp4",
+  "transcriptHash": "d6af56b9f15c4b6d528d28e9711749eb6adc049c",
+  "durationMs": 40612,
+  "segments": [
+    {
+      "text": "Bueno, aquí en Perú tenemos el Instituto Peruano de Seguridad Social.",
+      "startMs": 30,
+      "endMs": 4711,
+      "verified": true
+    },
+    {
+      "text": "Bueno, el servicio que presta es, como se entiende, para toda la gente, la gente de clase media y la clase baja sobretodo.",
+      "startMs": 6082,
+      "endMs": 15785,
+      "verified": true
+    },
+    {
+      "text": "Creo que está mejorando aunque hay ciertos, ciertos problemas.",
+      "startMs": 17635,
+      "endMs": 23287,
+      "verified": false
+    },
+    {
+      "text": "Nunca faltan que eso no llegue a las personas que más lo necesita.",
+      "startMs": 23320,
+      "endMs": 28528,
+      "verified": true
+    },
+    {
+      "text": "Bueno los hospitales son menos..., deberían ser mejorados en cuanto a la infraestructura, los servicios, pero pienso que puede mejorar.",
+      "startMs": 28978,
+      "endMs": 40612,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

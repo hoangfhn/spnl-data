@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "i29-The-Coldest-You-Have-Ever-Been-Andres-A.mp4",
+  "transcriptHash": "9a7848ca62fbaed169dd9ca7f4513a15d6173a48",
+  "durationMs": 62369,
+  "segments": [
+    {
+      "text": "En una oportunidad, yendo para la sierra, nosotros tenemos una región que es de sierra, netamente de altura, digamos a unos 4000 metros.",
+      "startMs": 180,
+      "endMs": 17010,
+      "verified": true
+    },
+    {
+      "text": "Y no estoy acostumbrado a soportar la altura ni el frío.",
+      "startMs": 17022,
+      "endMs": 24503,
+      "verified": true
+    },
+    {
+      "text": "No hay frazada, no hay casaca, no hay abrigo que te pueda calentar tanto así que la cara se va partiendo como que uno está expuesto al sol durante horas sin haber salido de eso.",
+      "startMs": 26334,
+      "endMs": 46006,
+      "verified": true
+    },
+    {
+      "text": "No sientes nada del cuerpo es como que estás congelado y no hay manera de soportarlo.",
+      "startMs": 47927,
+      "endMs": 56190,
+      "verified": true
+    },
+    {
+      "text": "Para mí es increíble, no pienso volver a pasar nuevamente eso.",
+      "startMs": 56210,
+      "endMs": 61809,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

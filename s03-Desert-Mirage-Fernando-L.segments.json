@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "s03-Desert-Mirage-Fernando-L.mp4",
+  "transcriptHash": "4f9c61c07ccbe2e8bab4ae22ee6edad9bae91e87",
+  "durationMs": 56959,
+  "segments": [
+    {
+      "text": "Al punto de morirse, esa es la idea ¿no?",
+      "startMs": 410,
+      "endMs": 2191,
+      "verified": true
+    },
+    {
+      "text": "¿Sin ninguna posibilidad de, de, de volver ya?",
+      "startMs": 3711,
+      "endMs": 7502,
+      "verified": true
+    },
+    {
+      "text": "Yo en ese caso, parece ser que la experiencia de mucha gente es pasarse una película de todo lo que ha sido tu, tu vida, ¿eh?",
+      "startMs": 11314,
+      "endMs": 23508,
+      "verified": true
+    },
+    {
+      "text": "Si me ocurriera a mi me pasaría lo mismo, me sentiría culpable de un montón de cosas que ja, ja, ja, probablemente no debiera haber hecho.",
+      "startMs": 23510,
+      "endMs": 34631,
+      "verified": true
+    },
+    {
+      "text": "Y a lo mejor también me sentiría, este, como haber vivido poco.",
+      "startMs": 35242,
+      "endMs": 39510,
+      "verified": true
+    },
+    {
+      "text": "Pa’ no, pa’, para poder haber hecho cosas, otras cosas que a lo mejor la gente quería hacer siempre y no lo pudiste hacer.",
+      "startMs": 39530,
+      "endMs": 50456,
+      "verified": true
+    },
+    {
+      "text": "Porque justo en ese momento ya llegó el toque, final.",
+      "startMs": 51427,
+      "endMs": 56378,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

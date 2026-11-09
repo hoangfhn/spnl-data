@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i29-The-Coldest-You-Have-Ever-Been-Libia-J.mp4",
+  "transcriptHash": "e91dac1eb7e02d1a29a67961e5edc7e407931440",
+  "durationMs": 25774,
+  "segments": [
+    {
+      "text": "A mí el frío no me gusta.",
+      "startMs": 510,
+      "endMs": 2120,
+      "verified": true
+    },
+    {
+      "text": "Es bastante desagradable.",
+      "startMs": 2140,
+      "endMs": 4082,
+      "verified": true
+    },
+    {
+      "text": "Y bueno, una experiencia en la que tuve mucho frío fue cuando fui a escalar a Hidalgo, y nos quedamos a acampar allí, a la orilla de las rocas que íbamos a subir.",
+      "startMs": 4793,
+      "endMs": 15448,
+      "verified": true
+    },
+    {
+      "text": "Y era tanto el frío que no pudimos dormir en toda la noche, así que tuvimos que hacer una fogata, abrazarnos todos metidos en los \"sleepings\" y tomar mucho tequila para no congelarnos.",
+      "startMs": 16019,
+      "endMs": 25074,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

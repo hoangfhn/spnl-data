@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i27-Feelings-About-Medicine-Mariana-M.mp4",
+  "transcriptHash": "b9119b0c6e43fc9ced785cd78be2e6e0e25a8585",
+  "durationMs": 42423,
+  "segments": [
+    {
+      "text": "Bueno en general en este país, en Estados Unidos, me parece que tienen un problema muy grande, sobretodo en lo que es la salud pública.",
+      "startMs": 0,
+      "endMs": 10646,
+      "verified": true
+    },
+    {
+      "text": "Esto ya que todo se está privatizando y todo lo que es las compañías de seguro médico.",
+      "startMs": 11847,
+      "endMs": 19941,
+      "verified": true
+    },
+    {
+      "text": "Se ha vuelto todo un programa para ver cuánta plata le pueden sacar a la gente y realmente no está sirviendo a la comunidad como se debe servir, sobre todo en términos de salud preventiva, medicina de prevención.",
+      "startMs": 20641,
+      "endMs": 37560,
+      "verified": true
+    },
+    {
+      "text": "Es algo que no existe en la filosofía de medicina de este país.",
+      "startMs": 37580,
+      "endMs": 41883,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "i30-A-Part-Of-High-School-Not-To-Redo-Jose-G.mp4",
+  "transcriptHash": "5a983bf3a36b2d09552b7d0b205ee08346f1c92f",
+  "durationMs": 31742,
+  "segments": [
+    {
+      "text": "Bueno, mi recuerdo malo que tengo sobre la \"prepa\" es de...",
+      "startMs": 30,
+      "endMs": 7365,
+      "verified": true
+    },
+    {
+      "text": "de haberme llevado mal con el subdirector, por haberme condicionado una vez que llegué tarde a una de las clases.",
+      "startMs": 7615,
+      "endMs": 18232,
+      "verified": true
+    },
+    {
+      "text": "Y me condicionó diciéndome que me iba a bajar puntos de la calificación final.",
+      "startMs": 18250,
+      "endMs": 26598,
+      "verified": true
+    },
+    {
+      "text": "Solo por haber llegado 30 segundos tarde.",
+      "startMs": 28850,
+      "endMs": 31441,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

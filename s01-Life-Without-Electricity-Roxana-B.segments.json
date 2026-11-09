@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "s01-Life-Without-Electricity-Roxana-B.mp4",
+  "transcriptHash": "b8f13449c9d3da6ba30a45886064e94d63448d84",
+  "durationMs": 56424,
+  "segments": [
+    {
+      "text": "La pregunta es más o menos fácil porque yo tengo una casa en la playa en Chile.",
+      "startMs": 370,
+      "endMs": 4242,
+      "verified": true
+    },
+    {
+      "text": "Y bueno no hay electricidad, no hay teléfono, no hay nada.",
+      "startMs": 4260,
+      "endMs": 7623,
+      "verified": true
+    },
+    {
+      "text": "Y lo que hacemos es usar estas lámparas de parafina, mmm.",
+      "startMs": 8074,
+      "endMs": 15990,
+      "verified": true
+    },
+    {
+      "text": "Utilizamos en vez de refrigerador unas hieleras y compramos el hielo.",
+      "startMs": 16007,
+      "endMs": 19628,
+      "verified": true
+    },
+    {
+      "text": "Hay una ciudad que queda a dos horas, y traemos estas barras de hielo grande que nos duran unos 4 o 5 días, eso para el refrigerador.",
+      "startMs": 20159,
+      "endMs": 27672,
+      "verified": true
+    },
+    {
+      "text": "Para el agua viene un camión, y tenemos que comprar el agua por baldes, y bañarnos con uno o dos litros.",
+      "startMs": 27770,
+      "endMs": 33945,
+      "verified": true
+    },
+    {
+      "text": "Es toda una situación muy precaria, y me gusta mucho también porque uno se aísla y descansa de lo que es noticias, comunicaciones.",
+      "startMs": 35505,
+      "endMs": 42930,
+      "verified": true
+    },
+    {
+      "text": "No llegan diarios.",
+      "startMs": 42950,
+      "endMs": 44559,
+      "verified": true
+    },
+    {
+      "text": "Y también usamos velas, o sea que cuando se nos acaba la parafina de las lamparitas usamos velas, y creo que no es tan difícil acostumbrarse.",
+      "startMs": 45430,
+      "endMs": 55564,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}
