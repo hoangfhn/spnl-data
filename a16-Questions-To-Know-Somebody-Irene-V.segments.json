@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a16-Questions-To-Know-Somebody-Irene-V.mp4",
+  "transcriptHash": "76c85017079eecbf5cafc61bf6885d7dce02d73b",
+  "durationMs": 44698,
+  "segments": [
+    {
+      "text": "Bueno, primero le pregunto su nombre, de ahí busco cosas en común; capaz le pregunto su edad, en qué trabaja, las cosas que le interesan, qué hace en su tiempo libre, si está estudiando, si está trabajando y buscar cosas que le apasionen para buscar algún interés que compartamos y así podamos charlar y bueno, volvernos amigos o algo.",
+      "startMs": 550,
+      "endMs": 29872,
+      "verified": true
+    },
+    {
+      "text": "Si es una persona de mi edad, soy más relajada, más…",
+      "startMs": 29970,
+      "endMs": 34314,
+      "verified": true
+    },
+    {
+      "text": "bueno mi lenguaje es más casual.",
+      "startMs": 34664,
+      "endMs": 37255,
+      "verified": true
+    },
+    {
+      "text": "Si estoy hablando con una persona mayor o una persona importante hablo más formal, más respetuosa.",
+      "startMs": 37506,
+      "endMs": 43828,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

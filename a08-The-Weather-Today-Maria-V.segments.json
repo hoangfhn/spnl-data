@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "a08-The-Weather-Today-Maria-V.mp4",
+  "transcriptHash": "d5ad69478fee221f218e8856cc6a9e7619b42f7c",
+  "durationMs": 25194,
+  "segments": [
+    {
+      "text": "El tiempo hoy está un poco nublado.",
+      "startMs": 240,
+      "endMs": 4442,
+      "verified": true
+    },
+    {
+      "text": "Pienso que por la tarde va a llover.",
+      "startMs": 4693,
+      "endMs": 7000,
+      "verified": true
+    },
+    {
+      "text": "Está muy fresco.",
+      "startMs": 7020,
+      "endMs": 8124,
+      "verified": true
+    },
+    {
+      "text": "La temperatura es agradable.",
+      "startMs": 8455,
+      "endMs": 10486,
+      "verified": true
+    },
+    {
+      "text": "En este lugar se siente un poco más el tiempo fresco porque estamos rodeado de una naturaleza.",
+      "startMs": 11046,
+      "endMs": 17550,
+      "verified": true
+    },
+    {
+      "text": "Tenemos contacto con muchos árboles, jardines.",
+      "startMs": 17570,
+      "endMs": 20011,
+      "verified": true
+    },
+    {
+      "text": "Esta es la razón, pero creo que es un día agradable.",
+      "startMs": 20551,
+      "endMs": 24483,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

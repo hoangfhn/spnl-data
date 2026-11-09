@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "a05-Favorite-Special-Holiday-Alvaro-S.mp4",
+  "transcriptHash": "6d5e43001fb29c8cfa8d255821bf46cba531c484",
+  "durationMs": 31881,
+  "segments": [
+    {
+      "text": "Bien, en Chile la Navidad es una fiesta en general que se celebra con la familia.",
+      "startMs": 30,
+      "endMs": 5103,
+      "verified": true
+    },
+    {
+      "text": "Es muy distinto diría acá Estados Unidos, porque no hay nieve.",
+      "startMs": 6935,
+      "endMs": 10687,
+      "verified": true
+    },
+    {
+      "text": "En Chile en esa época ya estamos en verano.",
+      "startMs": 11298,
+      "endMs": 13449,
+      "verified": true
+    },
+    {
+      "text": "Toda la gente vive en función de en esos días de Navidad.",
+      "startMs": 13879,
+      "endMs": 17160,
+      "verified": true
+    },
+    {
+      "text": "La gente anda corriendo comprando regalos.",
+      "startMs": 17171,
+      "endMs": 19473,
+      "verified": true
+    },
+    {
+      "text": "Pero bueno lo más bonito de estas fiesta que...",
+      "startMs": 19903,
+      "endMs": 22285,
+      "verified": true
+    },
+    {
+      "text": "es una de las pocas oportunidades que ofrece en el año diría de la mayoría de la gente de Santiago sobretodo, de reunirse y compartir con la familia.",
+      "startMs": 22885,
+      "endMs": 30800,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

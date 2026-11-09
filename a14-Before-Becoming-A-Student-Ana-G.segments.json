@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "a14-Before-Becoming-A-Student-Ana-G.mp4",
+  "transcriptHash": "f08a109d4c6c8c36016e002bcd0aa26e57a5e447",
+  "durationMs": 34017,
+  "segments": [
+    {
+      "text": "Bueno, en Guatemala, antes de venir a Austin, yo trabajaba en una organización ambientalista que se dedicaba a financiar proyectos de investigación o educación ambiental.",
+      "startMs": 0,
+      "endMs": 10866,
+      "verified": true
+    },
+    {
+      "text": "Y prácticamente mi trabajo era revisar los proyectos-cuales iban a ser aprobados, cuales no podían ser aprobados, de qué forma se podían mejorar las propuestas, y también ayudar durante el desarrollo del proyecto para que estas personas pudieran tener algunos evaluadores profesionales y desarrollar de mejor manera el proyecto.",
+      "startMs": 10880,
+      "endMs": 33937,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

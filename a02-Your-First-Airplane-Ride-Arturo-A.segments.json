@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a02-Your-First-Airplane-Ride-Arturo-A.mp4",
+  "transcriptHash": "6204aa6956e4f263dbdefabed147e58818d34d4c",
+  "durationMs": 21455,
+  "segments": [
+    {
+      "text": "La primera vez que me subí a un avión, fue exactamente en una avioneta.",
+      "startMs": 10,
+      "endMs": 3450,
+      "verified": true
+    },
+    {
+      "text": "Fue para cruzar a la isla de Cozumel.",
+      "startMs": 3470,
+      "endMs": 5324,
+      "verified": true
+    },
+    {
+      "text": "Había muchas bolsas de aire por lo que se movía todo el tiempo.",
+      "startMs": 6275,
+      "endMs": 9447,
+      "verified": true
+    },
+    {
+      "text": "Era un poco incómodo porque para ser la primera experiencia, pues resulta difícil que se esté moviendo, y aparte era un avión pequeño.",
+      "startMs": 9797,
+      "endMs": 16852,
+      "verified": true
+    },
+    {
+      "text": "Así que, bueno, estuvo bien al final de cuentas.",
+      "startMs": 17683,
+      "endMs": 20965,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

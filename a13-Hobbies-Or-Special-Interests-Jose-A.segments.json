@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a13-Hobbies-Or-Special-Interests-Jose-A.mp4",
+  "transcriptHash": "87f649c4e8e2c59650e516b298485f0b18090ef5",
+  "durationMs": 25170,
+  "segments": [
+    {
+      "text": "Me gusta jugar un poco el sábado.",
+      "startMs": 670,
+      "endMs": 3341,
+      "verified": true
+    },
+    {
+      "text": "Jugar Jai Alai.",
+      "startMs": 3752,
+      "endMs": 4682,
+      "verified": false
+    },
+    {
+      "text": "Aquí hay una cancha muy buena, muy grande, y bueno me gusta desde vestirme de blanco, ponerme mis tenis, mi cinta azul en la cintura.",
+      "startMs": 4690,
+      "endMs": 14386,
+      "verified": true
+    },
+    {
+      "text": "Ponerme mi cesta, amarrármela, mi casco.",
+      "startMs": 14796,
+      "endMs": 19168,
+      "verified": true
+    },
+    {
+      "text": "Calentar un poco con la pared, y bueno...",
+      "startMs": 19418,
+      "endMs": 22389,
+      "verified": true
+    },
+    {
+      "text": "correr durísimo y pelotear fuerte.",
+      "startMs": 22390,
+      "endMs": 24790,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

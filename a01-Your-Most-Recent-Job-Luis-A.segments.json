@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "a01-Your-Most-Recent-Job-Luis-A.mp4",
+  "transcriptHash": "c3648f528cddbf6bbe038fbc6627648a50dad780",
+  "durationMs": 40426,
+  "segments": [
+    {
+      "text": "En este momento yo trabajo en UT.",
+      "startMs": 0,
+      "endMs": 3120,
+      "verified": true
+    },
+    {
+      "text": "Trabajo en uno de los teatros que tiene la Escuela de Teatro.",
+      "startMs": 3170,
+      "endMs": 6181,
+      "verified": true
+    },
+    {
+      "text": "Soy el supervisor técnico de luces y sonidos.",
+      "startMs": 6220,
+      "endMs": 8521,
+      "verified": true
+    },
+    {
+      "text": "Como soy estudiante de la maestría de Diseño de Iluminación pues me dieron ese trabajo.",
+      "startMs": 9871,
+      "endMs": 12862,
+      "verified": true
+    },
+    {
+      "text": "Lo que me toca hacer es diseñar las luces para toda la temporada de obras que se presentan ahí.",
+      "startMs": 12880,
+      "endMs": 18123,
+      "verified": true
+    },
+    {
+      "text": "Y una vez que está diseñado, todos los diseñadores de cada grupo me dicen cuáles son sus necesidades, yo voy tratando de adaptar el plano a lo que ellos necesitan.",
+      "startMs": 18693,
+      "endMs": 27250,
+      "verified": true
+    },
+    {
+      "text": "Entonces las luces funcionan para todas las obras y para cada una en particular.",
+      "startMs": 27264,
+      "endMs": 31135,
+      "verified": true
+    },
+    {
+      "text": "También me encargo de poner los micrófonos, de poner el sonido, de comprar cosas si necesitamos cosas nuevas para el equipo.",
+      "startMs": 31215,
+      "endMs": 38686,
+      "verified": true
+    },
+    {
+      "text": "Entonces ese es mi trabajo.",
+      "startMs": 38936,
+      "endMs": 40076,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

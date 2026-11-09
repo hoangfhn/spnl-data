@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "a11-Sections-Of-A-Newspaper-Hanevy-S.mp4",
+  "transcriptHash": "abcc713fb3af563a6b808d976b03c31468410c05",
+  "durationMs": 63530,
+  "segments": [
+    {
+      "text": "El periódico tiene diferentes temas.",
+      "startMs": 1770,
+      "endMs": 6170,
+      "verified": true
+    },
+    {
+      "text": "Primero es primera plana o general y ahí está la información obviamente general, la más importante con las fotografías de lo más importante.",
+      "startMs": 6190,
+      "endMs": 17383,
+      "verified": true
+    },
+    {
+      "text": "Luego sigue política y se habla todo sobre la situación en el congreso o cosas nuevas en la política.",
+      "startMs": 17653,
+      "endMs": 25724,
+      "verified": true
+    },
+    {
+      "text": "Luego está los deportes, quienes han ganado, quiénes van a jugar en qué día y los horarios.",
+      "startMs": 26054,
+      "endMs": 34365,
+      "verified": true
+    },
+    {
+      "text": "Luego está entretenimiento, los chismes de los actores, de la gente rica, cosas así.",
+      "startMs": 34695,
+      "endMs": 43027,
+      "verified": true
+    },
+    {
+      "text": "Y luego tienen el clima del día y de la semana.",
+      "startMs": 43357,
+      "endMs": 49250,
+      "verified": true
+    },
+    {
+      "text": "Y los clasificados siempre están cosas que se van a vender, o trabajos, casas, carros o gente que quieren que le den trabajo.",
+      "startMs": 49268,
+      "endMs": 61359,
+      "verified": true
+    },
+    {
+      "text": "Y en sí ese es el periódico.",
+      "startMs": 61720,
+      "endMs": 63430,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

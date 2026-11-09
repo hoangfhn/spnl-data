@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "a04-Story-About-An-Animal-Or-Pet-Patricia-A.mp4",
+  "transcriptHash": "fee28b358ef2043296f61dd1593c74483006de74",
+  "durationMs": 21339,
+  "segments": [
+    {
+      "text": "Bueno, nosotros tuvimos un perro que se llamaba 'Tufy.' Y fue el primer perro que tuvimos, fue Cocker Spaniel.",
+      "startMs": 871,
+      "endMs": 8608,
+      "verified": true
+    },
+    {
+      "text": "Y un día después de 10 años de vida, se cruzó la calle, y un amigo de nosotros lo atropelló y lo mató.",
+      "startMs": 9839,
+      "endMs": 20658,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

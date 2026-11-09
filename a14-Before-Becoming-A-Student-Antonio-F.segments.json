@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "a14-Before-Becoming-A-Student-Antonio-F.mp4",
+  "transcriptHash": "68f6bb54b39d1f24fd34a983c766716a350411ba",
+  "durationMs": 58514,
+  "segments": [
+    {
+      "text": "Bueno soy estudiante aquí en la Universidad de Texas en Austin, en el programa de Español y Portugués.",
+      "startMs": 0,
+      "endMs": 7860,
+      "verified": true
+    },
+    {
+      "text": "Estudiante de doctorado y acabo de comenzar, estamos hablando a principio del año dos mil cuatro.",
+      "startMs": 7880,
+      "endMs": 15244,
+      "verified": true
+    },
+    {
+      "text": "Acabo de comenzar en el programa.",
+      "startMs": 15554,
+      "endMs": 16944,
+      "verified": true
+    },
+    {
+      "text": "Y antes he hecho muchas cosas, todas vinculadas con las artes visuales, ¿no?, con las artes plásticas.",
+      "startMs": 16960,
+      "endMs": 25826,
+      "verified": true
+    },
+    {
+      "text": "He hecho mi obra como artista durante unos cuantos años; pintura, escultura, dibujo, ilustraciones para libros, libros para niños.",
+      "startMs": 26877,
+      "endMs": 39270,
+      "verified": true
+    },
+    {
+      "text": "Y también tengo una formación como historiador del arte y entonces he escrito también crítica de arte, ensayos para libros, catálogos.",
+      "startMs": 39290,
+      "endMs": 50012,
+      "verified": true
+    },
+    {
+      "text": "Y también he sido profesor en algunas escuelas, universidades, escuelas de arte.",
+      "startMs": 50402,
+      "endMs": 55654,
+      "verified": true
+    },
+    {
+      "text": "Así que eso es lo que he hecho.",
+      "startMs": 56444,
+      "endMs": 57934,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

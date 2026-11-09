@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a13-Hobbies-Or-Special-Interests-Simplified-Example.mp4",
+  "transcriptHash": "86f90f8333bc2f2dac1c835446722753528c2eda",
+  "durationMs": 31881,
+  "segments": [
+    {
+      "text": "Me gusta mucho andar en bicicleta de montaña.",
+      "startMs": 310,
+      "endMs": 3782,
+      "verified": true
+    },
+    {
+      "text": "El ciclismo es mi pasatiempo principal.",
+      "startMs": 4593,
+      "endMs": 7925,
+      "verified": true
+    },
+    {
+      "text": "Generalmente ando cada domingo con un grupo de amigos.",
+      "startMs": 9116,
+      "endMs": 13679,
+      "verified": true
+    },
+    {
+      "text": "Me gusta mucho trepar cerros inclinados.",
+      "startMs": 14960,
+      "endMs": 17972,
+      "verified": true
+    },
+    {
+      "text": "A veces hacemos viajes más largos, de tres o cuatro días.",
+      "startMs": 19403,
+      "endMs": 24076,
+      "verified": true
+    },
+    {
+      "text": "En tales excursiones llevamos tienda de campaña y nos quedamos en el bosque.",
+      "startMs": 24090,
+      "endMs": 31401,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

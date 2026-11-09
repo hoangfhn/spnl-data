@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "a16-Questions-To-Know-Somebody-Simplified-Example.mp4",
+  "transcriptHash": "4aafa1da4b9b37314380582c759da92d5643ac87",
+  "durationMs": 33622,
+  "segments": [
+    {
+      "text": "Normalmente cuando conozco a alguien por primera vez lo primero que pregunto es, \"¿Cómo te llamas?\" Luego, es común decir \"mucho gusto,\" y decir tu nombre.",
+      "startMs": 160,
+      "endMs": 15771,
+      "verified": true
+    },
+    {
+      "text": "Otras preguntas típicas son: \"¿a qué te dedicas?\" O, \"¿Dónde vives?\" \"Cuáles son tus pasatiempos?\" Y, claro, si fuera una persona mayor, le hablaría de usted.",
+      "startMs": 17202,
+      "endMs": 33262,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

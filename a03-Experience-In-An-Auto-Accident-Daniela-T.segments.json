@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "a03-Experience-In-An-Auto-Accident-Daniela-T.mp4",
+  "transcriptHash": "9b71f7508ccb3e6cb66bbc55ae8f81ca8d00c50d",
+  "durationMs": 58956,
+  "segments": [
+    {
+      "text": "Hace un tiempo fue mi primer choque automovilístico, más o menos hace como diez años.",
+      "startMs": 1310,
+      "endMs": 10663,
+      "verified": true
+    },
+    {
+      "text": "Fue el único que tuve.",
+      "startMs": 11073,
+      "endMs": 12743,
+      "verified": true
+    },
+    {
+      "text": "Yo venía en mi auto con unas amigas y otro auto se atravesó justo delante nuestro.",
+      "startMs": 14054,
+      "endMs": 24590,
+      "verified": true
+    },
+    {
+      "text": "Y alcancé a frenar pero no completamente.",
+      "startMs": 24606,
+      "endMs": 30808,
+      "verified": true
+    },
+    {
+      "text": "Entonces toqué un poco al otro auto que estaba detenido completamente en el medio de la calle y bueno, mi auto no…poco se hizo, casi nada y ninguna de mis amigas tampoco.",
+      "startMs": 30820,
+      "endMs": 48313,
+      "verified": true
+    },
+    {
+      "text": "Gracias a dios ni yo ni nadie.",
+      "startMs": 48653,
+      "endMs": 51413,
+      "verified": true
+    },
+    {
+      "text": "Salimos todos ilesos, sin ningún…nada.",
+      "startMs": 53484,
+      "endMs": 58835,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

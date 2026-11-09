@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "a17-Geography-Of-Your-Country-Maria-F.mp4",
+  "transcriptHash": "e061bd495ead2ea249ca198b822d1941afa645e9",
+  "durationMs": 45395,
+  "segments": [
+    {
+      "text": "Bueno yo soy de España y bueno voy a hablar un poco sobre la geografía de mi país.",
+      "startMs": 1511,
+      "endMs": 6882,
+      "verified": true
+    },
+    {
+      "text": "Limita con varios países.",
+      "startMs": 9393,
+      "endMs": 10864,
+      "verified": true
+    },
+    {
+      "text": "Bueno, está en Europa.",
+      "startMs": 11094,
+      "endMs": 12464,
+      "verified": true
+    },
+    {
+      "text": "Y bueno, al norte limita con dos países.",
+      "startMs": 13454,
+      "endMs": 17270,
+      "verified": true
+    },
+    {
+      "text": "Con Francia y Andorra, que es un país muy pequeño que está entre la frontera entre los dos países.",
+      "startMs": 17290,
+      "endMs": 22330,
+      "verified": true
+    },
+    {
+      "text": "Al oeste limita con Portugal.",
+      "startMs": 22347,
+      "endMs": 25949,
+      "verified": true
+    },
+    {
+      "text": "Bueno, tiene una frontera bastante larga con este país.",
+      "startMs": 27479,
+      "endMs": 31610,
+      "verified": true
+    },
+    {
+      "text": "Y luego al sur.",
+      "startMs": 32981,
+      "endMs": 34051,
+      "verified": true
+    },
+    {
+      "text": "Bueno tenemos en Marruecos dos ciudades, Ceuta y Melilla, así que podríamos decir que- que España limita al sur con África.",
+      "startMs": 34962,
+      "endMs": 45295,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a10-In-Ten-Years-Claudia-V.mp4",
+  "transcriptHash": "1917b2af8ce0c7094e0be4a4e5975c6fd25b8c43",
+  "durationMs": 33437,
+  "segments": [
+    {
+      "text": "En 10 años a mí me gustaría definitivamente tener una posición gerencial en la cual yo pueda poner en práctica todos mis conocimientos y toda mi experiencia.",
+      "startMs": 0,
+      "endMs": 9385,
+      "verified": true
+    },
+    {
+      "text": "Idealmente me gustaría que fuera en el área de finanzas que ha sido el área de mi especialización.",
+      "startMs": 9735,
+      "endMs": 15077,
+      "verified": true
+    },
+    {
+      "text": "Otra alternativa que tampoco la descarto es tener un negocio propio con personas que compartan la misma idea que puedo tener, ¿no?",
+      "startMs": 16418,
+      "endMs": 24712,
+      "verified": true
+    },
+    {
+      "text": "Y definitivamente me gustaría también tener un compañero, ¿no?",
+      "startMs": 24943,
+      "endMs": 28780,
+      "verified": true
+    },
+    {
+      "text": "Estar en una relación y tener hijos probablemente.",
+      "startMs": 28794,
+      "endMs": 32506,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

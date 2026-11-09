@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "a04-Story-About-An-Animal-Or-Pet-Luz-M.mp4",
+  "transcriptHash": "1d1859a7b69594b287be1e3f1f0c924e876b0478",
+  "durationMs": 76835,
+  "segments": [
+    {
+      "text": "Yo tuve un gato siamés que se llamaba Benito.",
+      "startMs": 790,
+      "endMs": 3771,
+      "verified": true
+    },
+    {
+      "text": "En general a mí siempre me han gustado los gatos.",
+      "startMs": 4391,
+      "endMs": 6681,
+      "verified": true
+    },
+    {
+      "text": "Y este en especial me gustó más, porque lo compré con mi esposo.",
+      "startMs": 6690,
+      "endMs": 10502,
+      "verified": true
+    },
+    {
+      "text": "Lo tuve durante casi 2 años ó 3 y era el gato de 'guerra' de mi esposo, porque él jugaba como si fuera un, como si fuera un juguete con el gato, y el gato permitía que se le hiciera todo.",
+      "startMs": 12232,
+      "endMs": 28115,
+      "verified": true
+    },
+    {
+      "text": "Era muy bueno en general igual que todos los pets, igual que todos los animales de casa, estaba muy bien amaestrado, no molestaba, y era muy buena compañía.",
+      "startMs": 28716,
+      "endMs": 39498,
+      "verified": true
+    },
+    {
+      "text": "Pero murió porque ingirió un veneno en el techo de la casa de un vecino, y nosotros pensamos que lo había atropellado un carro.",
+      "startMs": 39520,
+      "endMs": 49870,
+      "verified": true
+    },
+    {
+      "text": "Y lo llevamos al veterinario, y el veterinario no nos dijo que había sido un envenenamiento, así que el pobre gato estuvo casi dos días mal y nosotros pensábamos que el golpe de un atropellamiento de carro.",
+      "startMs": 50160,
+      "endMs": 62652,
+      "verified": true
+    },
+    {
+      "text": "Y finalmente mi esposo lo llevó al veterinario y justo allí murió y fue una situación muy triste, porque murió en presencia de él, y de allí nunca más en adelante quise tener gatos.",
+      "startMs": 63442,
+      "endMs": 75955,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

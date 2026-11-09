@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a10-In-Ten-Years-Maria-V.mp4",
+  "transcriptHash": "0bea5229c3565392796cd373e8cbdbb65fe0ad82",
+  "durationMs": 31486,
+  "segments": [
+    {
+      "text": "En 10 años, bueno pienso que de aquí en 10 años mi vida cambiaría muchísimo.",
+      "startMs": 0,
+      "endMs": 4901,
+      "verified": true
+    },
+    {
+      "text": "Académicamente, me gustaría seguir dando clases si no de portugués de alguna otra cosa.",
+      "startMs": 6011,
+      "endMs": 11030,
+      "verified": true
+    },
+    {
+      "text": "Yo voy ya a tener una familia ya establecida.",
+      "startMs": 11042,
+      "endMs": 14963,
+      "verified": false
+    },
+    {
+      "text": "Tal vez me gustaría vivir ya no aquí en la ciudad de México, porque los problemas de contaminación, tráfico, y demás son tremendos.",
+      "startMs": 15473,
+      "endMs": 22725,
+      "verified": true
+    },
+    {
+      "text": "Me gustaría en otro lugar.",
+      "startMs": 22730,
+      "endMs": 23925,
+      "verified": true
+    },
+    {
+      "text": "Yo me veo de aquí en 10 años en un cambio total en todas mis actividades.",
+      "startMs": 25135,
+      "endMs": 30376,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

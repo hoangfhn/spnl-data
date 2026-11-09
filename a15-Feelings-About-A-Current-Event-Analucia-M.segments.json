@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a15-Feelings-About-A-Current-Event-Analucia-M.mp4",
+  "transcriptHash": "c1e179e7a2a4f85223a8546cf8a4f27263e839e9",
+  "durationMs": 64505,
+  "segments": [
+    {
+      "text": "Este en mi primer—este es mi segundo semestre en la universidad y yo creo que es difícil para cualquier persona, no importa de dónde venga, en dónde se haya criado , cómo son sus costumbres si su cultura.",
+      "startMs": 0,
+      "endMs": 13741,
+      "verified": true
+    },
+    {
+      "text": "La transición de high school a la universidad, pues de la secundaria a la universidad, es bastante grande, es u na transcición difcícil.",
+      "startMs": 14271,
+      "endMs": 22282,
+      "verified": false
+    },
+    {
+      "text": "Sin embargo, yo siento que con un poco de ajustacion—de ajuste con personas que te ayude, con tus amigos, con tu familiapuedes hacer esa transicion un poco más sencilla, y puedes sobresalir.",
+      "startMs": 24452,
+      "endMs": 39943,
+      "verified": true
+    },
+    {
+      "text": "Eso es lo que me pasó a mí estando acá, es mi segundo semestre estoy muy feliz.",
+      "startMs": 40173,
+      "endMs": 44964,
+      "verified": true
+    },
+    {
+      "text": "Solamente requiere un poco de esfuerzo, yo creo, lograr salir adelante después de estar acostumbrado de lo fácil que es la secundaria y tener que llegar a la universidad y darse cuenta que tienes que trabajar el doble de duro por las notas, por notas peores.",
+      "startMs": 45594,
+      "endMs": 60445,
+      "verified": true
+    },
+    {
+      "text": "Entonces eso es lo más difcícil yo creo.",
+      "startMs": 60755,
+      "endMs": 62845,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

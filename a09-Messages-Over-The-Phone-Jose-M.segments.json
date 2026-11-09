@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "video": "a09-Messages-Over-The-Phone-Jose-M.mp4",
+  "transcriptHash": "b1275e8e4a0b6e53c1f59c4db4a8f1ada20da763",
+  "durationMs": 105860,
+  "segments": [
+    {
+      "text": "¿Aló?",
+      "startMs": 0,
+      "endMs": 5121,
+      "verified": true
+    },
+    {
+      "text": "Sí señorita.",
+      "startMs": 6411,
+      "endMs": 7370,
+      "verified": true
+    },
+    {
+      "text": "Ah, lo siento, pero él no está en este momento.",
+      "startMs": 7381,
+      "endMs": 11750,
+      "verified": true
+    },
+    {
+      "text": "¿Sí, en qué puedo servirle señorita?",
+      "startMs": 11762,
+      "endMs": 15823,
+      "verified": true
+    },
+    {
+      "text": "Oh, cómo no, con mucho gusto.",
+      "startMs": 16833,
+      "endMs": 18703,
+      "verified": true
+    },
+    {
+      "text": "Lo siento pero el doctor Alberto González no está.",
+      "startMs": 20714,
+      "endMs": 24630,
+      "verified": true
+    },
+    {
+      "text": "¿Quisiera dejar un mensaje?",
+      "startMs": 24645,
+      "endMs": 27835,
+      "verified": true
+    },
+    {
+      "text": "Cómo no, oh sí, con mucho gusto.",
+      "startMs": 28735,
+      "endMs": 33216,
+      "verified": true
+    },
+    {
+      "text": "Muy bien.",
+      "startMs": 33696,
+      "endMs": 34406,
+      "verified": true
+    },
+    {
+      "text": "¿Su nombre por favor?",
+      "startMs": 34837,
+      "endMs": 36147,
+      "verified": true
+    },
+    {
+      "text": "María Castillo del Rincón.",
+      "startMs": 38537,
+      "endMs": 41558,
+      "verified": true
+    },
+    {
+      "text": "Muy bien.",
+      "startMs": 42138,
+      "endMs": 42748,
+      "verified": true
+    },
+    {
+      "text": "¿Y a qué hora es la reunión?",
+      "startMs": 42760,
+      "endMs": 46619,
+      "verified": true
+    },
+    {
+      "text": "Muy bien.",
+      "startMs": 48419,
+      "endMs": 48970,
+      "verified": true
+    },
+    {
+      "text": "¡Oh con mucho gusto señorita!",
+      "startMs": 48989,
+      "endMs": 52630,
+      "verified": true
+    },
+    {
+      "text": "Muy bien.",
+      "startMs": 53200,
+      "endMs": 53680,
+      "verified": true
+    },
+    {
+      "text": "¿Mañana a las tres?",
+      "startMs": 53690,
+      "endMs": 56110,
+      "verified": true
+    },
+    {
+      "text": "¡Oh a las tres y treinta!",
+      "startMs": 57381,
+      "endMs": 58981,
+      "verified": true
+    },
+    {
+      "text": "Cómo no señorita, muy bien.",
+      "startMs": 59941,
+      "endMs": 62252,
+      "verified": true
+    },
+    {
+      "text": "¿En qué edificio por favor, señorita?",
+      "startMs": 63482,
+      "endMs": 65612,
+      "verified": true
+    },
+    {
+      "text": "No le oigo bien, repita.",
+      "startMs": 66482,
+      "endMs": 68140,
+      "verified": true
+    },
+    {
+      "text": "¡Oh en el edificio Castillo!",
+      "startMs": 68153,
+      "endMs": 72860,
+      "verified": true
+    },
+    {
+      "text": "¿Y qué piso por favor?",
+      "startMs": 72874,
+      "endMs": 75184,
+      "verified": true
+    },
+    {
+      "text": "En el octavo piso.",
+      "startMs": 77825,
+      "endMs": 79190,
+      "verified": true
+    },
+    {
+      "text": "Muy bien.",
+      "startMs": 79210,
+      "endMs": 79865,
+      "verified": true
+    },
+    {
+      "text": "¿Y qué oficina es, qué número por favor?",
+      "startMs": 80925,
+      "endMs": 84836,
+      "verified": true
+    },
+    {
+      "text": "¿Doscientos?",
+      "startMs": 84850,
+      "endMs": 87706,
+      "verified": true
+    },
+    {
+      "text": "Perdón ¿Ochocientos cuarenta y cuatro?",
+      "startMs": 88027,
+      "endMs": 93487,
+      "verified": true
+    },
+    {
+      "text": "Muy bien señorita, con mucho gusto le entregaré el mensaje al doctor González.",
+      "startMs": 93508,
+      "endMs": 98320,
+      "verified": true
+    },
+    {
+      "text": "¡Cómo no!",
+      "startMs": 98338,
+      "endMs": 99559,
+      "verified": true
+    },
+    {
+      "text": "Con mucho gusto, oh encantado, de nada.",
+      "startMs": 99570,
+      "endMs": 102409,
+      "verified": true
+    },
+    {
+      "text": "Buenas tardes señorita.",
+      "startMs": 103049,
+      "endMs": 104179,
+      "verified": true
+    },
+    {
+      "text": "Hasta luego, chao.",
+      "startMs": 104180,
+      "endMs": 105440,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

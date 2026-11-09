@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a13-Hobbies-Or-Special-Interests-Karla-G.mp4",
+  "transcriptHash": "8107d3a29ba871478bc76b0d971eadcd41e19f84",
+  "durationMs": 72702,
+  "segments": [
+    {
+      "text": "Desde muy pequeña percibí que tenía unos gustos muy afines o muy parecidos a los de mi padre.",
+      "startMs": 630,
+      "endMs": 6502,
+      "verified": true
+    },
+    {
+      "text": "Mi papá fue maestro de Literatura en México y siempre él participaba en diferentes actividades culturales y como su hja mayor siempre andaba yo de la mano con él, en todas partes.",
+      "startMs": 7752,
+      "endMs": 23777,
+      "verified": true
+    },
+    {
+      "text": "Me llevaba a concursos de obra de teatro.",
+      "startMs": 23957,
+      "endMs": 27680,
+      "verified": true
+    },
+    {
+      "text": "Él pintaba, se encargaba de organizar recitales poéticos y cuestiones así.",
+      "startMs": 27700,
+      "endMs": 35831,
+      "verified": true
+    },
+    {
+      "text": "Entonces ahora, ahora que he crecido disfruto mi tiempo escuchando sobre teatro, leyendo, escribiendo cuentos, me gusta también la pintura, practico la fotografía, me gustan las danzas floclóricas, me gusta mucho la música, me gusta mucho cantar, me gusta me gusta tocar el acordeón, tocar un poco de guitarra, me gusta viajar.",
+      "startMs": 36211,
+      "endMs": 66090,
+      "verified": true
+    },
+    {
+      "text": "Y en fin, varias cosas que heredé de mi padre.",
+      "startMs": 66100,
+      "endMs": 71401,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

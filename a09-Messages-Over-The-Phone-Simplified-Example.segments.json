@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "a09-Messages-Over-The-Phone-Simplified-Example.mp4",
+  "transcriptHash": "675e2d460340ed02041d17d947d3ee3ce35495a2",
+  "durationMs": 31417,
+  "segments": [
+    {
+      "text": "Hola.",
+      "startMs": 670,
+      "endMs": 1650,
+      "verified": true
+    },
+    {
+      "text": "Está hablando al 477-8362.",
+      "startMs": 1661,
+      "endMs": 5723,
+      "verified": false
+    },
+    {
+      "text": "No podemos contestar al teléfono en este momento.",
+      "startMs": 7414,
+      "endMs": 11056,
+      "verified": true
+    },
+    {
+      "text": "Por favor deje su mensaje después del tono.",
+      "startMs": 11416,
+      "endMs": 16068,
+      "verified": true
+    },
+    {
+      "text": "Hola.",
+      "startMs": 18060,
+      "endMs": 18570,
+      "verified": true
+    },
+    {
+      "text": "Habla María.",
+      "startMs": 18740,
+      "endMs": 19650,
+      "verified": true
+    },
+    {
+      "text": "Son las 8:30 del viernes por la noche.",
+      "startMs": 20001,
+      "endMs": 23332,
+      "verified": true
+    },
+    {
+      "text": "Este mensaje es para Daniel.",
+      "startMs": 23943,
+      "endMs": 26014,
+      "verified": true
+    },
+    {
+      "text": "Por favor, llámame cuando reciba este mensaje.",
+      "startMs": 26424,
+      "endMs": 30426,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

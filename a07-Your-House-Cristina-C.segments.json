@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "a07-Your-House-Cristina-C.mp4",
+  "transcriptHash": "e991277aa0dd0fa7705e5c4978bb9ac262b40e6c",
+  "durationMs": 85798,
+  "segments": [
+    {
+      "text": "Hola de nuevo, soy Cristina, y os voy a hablar de mi casa.",
+      "startMs": 250,
+      "endMs": 4141,
+      "verified": true
+    },
+    {
+      "text": "Yo vivo en el sur de España y vivo en una casa con un jardín precioso lleno de flores y es una casa típica andaluza.",
+      "startMs": 4731,
+      "endMs": 15393,
+      "verified": true
+    },
+    {
+      "text": "Tiene la fachada color blanco, el tejado es color arena, anaranajado, entras adentro de la casa y tenemos un salón muy amplio con la televisión tenemos también un comedor, una chimenea, una gran chimenea que nos sirve para mantenernos cálidos o calientes durante el tiempo del invierno.",
+      "startMs": 15893,
+      "endMs": 39828,
+      "verified": true
+    },
+    {
+      "text": "A continuación tenemos una zona donde están todos los dormitorios tenemos tres dormitorios, uno para cada uno de los hermanos, el cuarto de mis padres y tenemos tres cuartos de baños.",
+      "startMs": 40388,
+      "endMs": 53931,
+      "verified": true
+    },
+    {
+      "text": "También tenemos una cocina muy amplia llena de todo tipo de recuerdos de nuestros viajes a otros países.",
+      "startMs": 54621,
+      "endMs": 61323,
+      "verified": true
+    },
+    {
+      "text": "También la casa tiene un espacio para la zona del servicio es decir para las personas, o la persona que afortunadamente limpia la casa.",
+      "startMs": 63323,
+      "endMs": 75616,
+      "verified": true
+    },
+    {
+      "text": "Es una casa preciosa en un lugar privilegiado en medio de la naturaleza y yo la adoro.",
+      "startMs": 77226,
+      "endMs": 85278,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

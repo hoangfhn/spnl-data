@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "a09-Messages-Over-The-Phone-Rodrigo-K.mp4",
+  "transcriptHash": "938f8948ad29518ebc8f1234a7700e6b9c734f58",
+  "durationMs": 59397,
+  "segments": [
+    {
+      "text": "Bueno, una máquina contestadora de teléfonos es un aparato que nosotros usamos para dejar un mensaje a la gente que llama a nuestra casa cuando no estamos o simplemente cuando no podemos contestarlo, por ejemplo puede estar en la ducha o haciendo algo importante.",
+      "startMs": 0,
+      "endMs": 13704,
+      "verified": true
+    },
+    {
+      "text": "Eem.",
+      "startMs": 13720,
+      "endMs": 14624,
+      "verified": false
+    },
+    {
+      "text": "Este aparato funciona de la siguiente manera: uno lo instala junto al teléfono, lo conecta, todo el cuento.",
+      "startMs": 15234,
+      "endMs": 22906,
+      "verified": true
+    },
+    {
+      "text": "Después graba un mensaje que uno quiere que aparezca.",
+      "startMs": 23537,
+      "endMs": 27808,
+      "verified": true
+    },
+    {
+      "text": "Y finalmente cuando funciona la persona que llama a nuestra casa o a nuestra oficina, lo que sea, va a oír este mensaje, y nos va a dejar guardado un recado.",
+      "startMs": 28458,
+      "endMs": 38691,
+      "verified": true
+    },
+    {
+      "text": "Normalmente cuando uno graba un mensaje para que la gente lo escuche, este dice \"Hola, esta es la casa de tal o cual persona, ahora no estoy, déjame su mensaje\", o \"déjame su recado\".",
+      "startMs": 39621,
+      "endMs": 49734,
+      "verified": true
+    },
+    {
+      "text": "Y generalmente cuando la gente deja un recado dice su nombre, dice que llama a tal hora y no te encontré y me puedes ubicar en tal parte.",
+      "startMs": 50204,
+      "endMs": 58556,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

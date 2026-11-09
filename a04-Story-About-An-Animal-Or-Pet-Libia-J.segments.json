@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a04-Story-About-An-Animal-Or-Pet-Libia-J.mp4",
+  "transcriptHash": "396e57022e4f631ba3b51ddf0e27a8b94b95f3bc",
+  "durationMs": 18088,
+  "segments": [
+    {
+      "text": "Yo cuando era chica, tenía un perro dalmata.",
+      "startMs": 0,
+      "endMs": 3942,
+      "verified": true
+    },
+    {
+      "text": "Que se llamaba Truman.",
+      "startMs": 5052,
+      "endMs": 7664,
+      "verified": true
+    },
+    {
+      "text": "Y que era muy lindo, y era muy fiel.",
+      "startMs": 8014,
+      "endMs": 10545,
+      "verified": true
+    },
+    {
+      "text": "Y era a un perro al que yo quería mucho con el que me divertía bastante.",
+      "startMs": 11135,
+      "endMs": 14977,
+      "verified": true
+    },
+    {
+      "text": "Pero un día se lo robaron y fue muy triste.",
+      "startMs": 15357,
+      "endMs": 17848,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

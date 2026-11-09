@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a05-Favorite-Special-Holiday-Simplified-Example.mp4",
+  "transcriptHash": "7cce72689f66a019014223135076a93a02d08cc2",
+  "durationMs": 28607,
+  "segments": [
+    {
+      "text": "Mi papá siempre compra el árbol de navidad al principio de diciembre y lo decoramos con luces y adornos.",
+      "startMs": 420,
+      "endMs": 8222,
+      "verified": true
+    },
+    {
+      "text": "Luego, todos andamos comprando regalos lo que puede causar mucho estrés.",
+      "startMs": 9032,
+      "endMs": 16690,
+      "verified": true
+    },
+    {
+      "text": "En fin toda la familia se reúne en la Nochebuena para cenar y celebrar.",
+      "startMs": 16710,
+      "endMs": 21825,
+      "verified": true
+    },
+    {
+      "text": "Abrimos los regalos a media noche, y en la mañana vamos a la misa.",
+      "startMs": 22756,
+      "endMs": 28357,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

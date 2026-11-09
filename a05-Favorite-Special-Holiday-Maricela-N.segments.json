@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a05-Favorite-Special-Holiday-Maricela-N.mp4",
+  "transcriptHash": "8e8aebe503f9b255923238bb4d5723dc87f0edec",
+  "durationMs": 36571,
+  "segments": [
+    {
+      "text": "La festividad que más me gusta celebrar es la navidad porque estamos toda mi familia reunidos.",
+      "startMs": 1571,
+      "endMs": 6702,
+      "verified": true
+    },
+    {
+      "text": "Por lo general nos reunimos en la casa de mi abuelita, preparamos una gran comida y toda mi familia se reúne junta, rezamos juntos y luego hacemos intercambios de regalos, los niños juegan.",
+      "startMs": 6912,
+      "endMs": 20570,
+      "verified": true
+    },
+    {
+      "text": "Y me gusta mucho porque todas estamos ocupadas en la preparación de la comida.",
+      "startMs": 20586,
+      "endMs": 26148,
+      "verified": true
+    },
+    {
+      "text": "Y luego nos sentamos todos alrededor de la mesa, comemos, y después todas mis tías están contando sus historias y me gusta mucho escuchar eso.",
+      "startMs": 26518,
+      "endMs": 36511,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

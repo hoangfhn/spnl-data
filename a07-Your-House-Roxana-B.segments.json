@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "a07-Your-House-Roxana-B.mp4",
+  "transcriptHash": "75d9a9383b921c8d51bdd539013684a498fb4c77",
+  "durationMs": 52663,
+  "segments": [
+    {
+      "text": "Bueno, mi casa tiene un patio en la entrada.",
+      "startMs": 0,
+      "endMs": 3762,
+      "verified": true
+    },
+    {
+      "text": "Luego tiene un \"hall\" una salita, un \"living\" comedor juntos que dan a un jardín donde hay una terraza, y una pequeña piscina.",
+      "startMs": 4552,
+      "endMs": 15750,
+      "verified": true
+    },
+    {
+      "text": "Abajo tiene un escritorio, una sala de lectura, y dos cuartos.",
+      "startMs": 15767,
+      "endMs": 22180,
+      "verified": true
+    },
+    {
+      "text": "Y luego arriba, viendo una escalera de caracol.",
+      "startMs": 22480,
+      "endMs": 26071,
+      "verified": true
+    },
+    {
+      "text": "Uno sube, y hay un cuarto que se usa como escritorio, donde hay un acuario muy lindo.",
+      "startMs": 27502,
+      "endMs": 34040,
+      "verified": true
+    },
+    {
+      "text": "Y luego hay tres habitaciones donde viven mis hermanas.",
+      "startMs": 34055,
+      "endMs": 39397,
+      "verified": true
+    },
+    {
+      "text": "Y después abajo nuevamente hay una cocina muy grande que tiene un comedor de diario, y luego un pasillo grande donde tiene las despensas a un costado y del otro lado están los cuartos de servicio.",
+      "startMs": 40568,
+      "endMs": 52283,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "a08-The-Weather-Today-Idalia-T.mp4",
+  "transcriptHash": "7d7e71e2d64d124d764668ef15e15827a80ce69c",
+  "durationMs": 48785,
+  "segments": [
+    {
+      "text": "En este momento, en este día estamos en la ciudad de Monterrey.",
+      "startMs": 390,
+      "endMs": 3800,
+      "verified": true
+    },
+    {
+      "text": "Es una ciudad que tiene un clima muy variante durante el verano y en el invierno, es muy extremoso.",
+      "startMs": 4310,
+      "endMs": 12201,
+      "verified": true
+    },
+    {
+      "text": "Hoy es 22 de noviembre, estamos por empezar el período de invierno.",
+      "startMs": 12421,
+      "endMs": 18752,
+      "verified": true
+    },
+    {
+      "text": "Entonces, días anteriores hemos estado con temperaturas muy altas hasta de 35 grados, lo cual no es normal.",
+      "startMs": 19052,
+      "endMs": 26243,
+      "verified": true
+    },
+    {
+      "text": "En el día de hoy ha bajado la temperatura por los aires fríos que están viniendo de norte a sur.",
+      "startMs": 26713,
+      "endMs": 36404,
+      "verified": true
+    },
+    {
+      "text": "Y entonces esto ha venido a bajar la temperatura.",
+      "startMs": 36814,
+      "endMs": 40944,
+      "verified": true
+    },
+    {
+      "text": "Se espera que para los próximos días la máxima sea de 22 grados y la mínima de 15.",
+      "startMs": 41194,
+      "endMs": 48255,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a09-Messages-Over-The-Phone-Tomas-S.mp4",
+  "transcriptHash": "90bf249be548076b248cffb590f7685a784d4870",
+  "durationMs": 35550,
+  "segments": [
+    {
+      "text": "OK, le diría ¿Aló?, bueno, usemos un nombre: Elena.",
+      "startMs": 0,
+      "endMs": 4121,
+      "verified": false
+    },
+    {
+      "text": "“Elena, te habla Tomás, no te pude encontrar ahorita pero como habíamos quedado nos encontramos en el Miguel’s a las ocho de la noche.",
+      "startMs": 4130,
+      "endMs": 12143,
+      "verified": true
+    },
+    {
+      "text": "Bueno, no te pude encontrar ahora te dejo este mensaje, te dejo mi número de teléfono, es el xxxx.",
+      "startMs": 14114,
+      "endMs": 20606,
+      "verified": true
+    },
+    {
+      "text": "Apenas llegues por favor devuélveme la llamada o sino no importa, yo-déjame un mensaje si no estoy yo igual te vuelvo a llamar más tarde.",
+      "startMs": 21516,
+      "endMs": 27828,
+      "verified": true
+    },
+    {
+      "text": "En todo caso, cualquier cosa mándame un email si no me llegas a encontrar el día de hoy”.",
+      "startMs": 28978,
+      "endMs": 34629,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

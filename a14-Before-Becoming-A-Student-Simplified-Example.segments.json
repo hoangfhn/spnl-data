@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a14-Before-Becoming-A-Student-Simplified-Example.mp4",
+  "transcriptHash": "c32b9dab15adb6e96c85461457eff8b25423006b",
+  "durationMs": 43654,
+  "segments": [
+    {
+      "text": "Soy de Lima, Perú.",
+      "startMs": 170,
+      "endMs": 1821,
+      "verified": true
+    },
+    {
+      "text": "Estuve allá en la escuela hasta terminar la preparatoria y luego mi familia se mudó a California.",
+      "startMs": 2931,
+      "endMs": 11844,
+      "verified": true
+    },
+    {
+      "text": "Realicé la carrera en filosofía en la universidad de California en Irvine.",
+      "startMs": 13074,
+      "endMs": 18906,
+      "verified": true
+    },
+    {
+      "text": "De allí me fui a Italia donde trabajé como traductora y guía de turistas.",
+      "startMs": 20316,
+      "endMs": 27328,
+      "verified": true
+    },
+    {
+      "text": "Pasé cuatro años en Roma, y luego regresé a los Estados Unidos para empezar mi maestría en historia del arte.",
+      "startMs": 28579,
+      "endMs": 38992,
+      "verified": true
+    },
+    {
+      "text": "Ya llevo un año aquí en Austin.",
+      "startMs": 40323,
+      "endMs": 43353,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "video": "a03-Experience-In-An-Auto-Accident-Jose-A.mp4",
+  "transcriptHash": "50b2bce8f47b3473fe3509aa2c02ec109cac14a2",
+  "durationMs": 43886,
+  "segments": [
+    {
+      "text": "Bueno, una vez en una carretera aquí en México.",
+      "startMs": 310,
+      "endMs": 3340,
+      "verified": true
+    },
+    {
+      "text": "La carretera a Cuernavaca.",
+      "startMs": 3360,
+      "endMs": 4621,
+      "verified": false
+    },
+    {
+      "text": "En el carril de contra flujo venía un automóvil que tuvo un choque.",
+      "startMs": 5301,
+      "endMs": 11161,
+      "verified": true
+    },
+    {
+      "text": "Brincó el camellón.",
+      "startMs": 11432,
+      "endMs": 12542,
+      "verified": true
+    },
+    {
+      "text": "Chocamos casi de frente, pudimos esquivar un poco el automóvil.",
+      "startMs": 14012,
+      "endMs": 18542,
+      "verified": true
+    },
+    {
+      "text": "Pero, bueno atrás venían otros carros, como es normal, y el carro que venáa atrás de nosotros también nos pegó atrás.",
+      "startMs": 18993,
+      "endMs": 26223,
+      "verified": true
+    },
+    {
+      "text": "Hubo algunos heridos.",
+      "startMs": 27934,
+      "endMs": 29164,
+      "verified": true
+    },
+    {
+      "text": "Yo me lastimé la rodilla, me luxé.",
+      "startMs": 29574,
+      "endMs": 32244,
+      "verified": true
+    },
+    {
+      "text": "Y bueno hubo una señora con la cabeza abierta.",
+      "startMs": 32714,
+      "endMs": 37725,
+      "verified": true
+    },
+    {
+      "text": "Y el primero que ocasionó el choque, pues, él tuvo un problema más grande.",
+      "startMs": 37730,
+      "endMs": 43526,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

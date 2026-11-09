@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a07-Your-House-Simplified-Example.mp4",
+  "transcriptHash": "5248df57c06ae9d530fb3a0e8d92c58af080886c",
+  "durationMs": 32601,
+  "segments": [
+    {
+      "text": "Nuestra casa es algo grande.",
+      "startMs": 931,
+      "endMs": 2422,
+      "verified": true
+    },
+    {
+      "text": "Tiene una sala-comedor muy amplia y la cocina tiene todas las comodidades imaginables.",
+      "startMs": 3432,
+      "endMs": 9806,
+      "verified": true
+    },
+    {
+      "text": "En el segundo piso hay tres recamaras para nuestros hijos y la recamara principal para nosotros.",
+      "startMs": 10897,
+      "endMs": 17171,
+      "verified": true
+    },
+    {
+      "text": "Quizá la piscina sea la parte favorita de todos.",
+      "startMs": 18302,
+      "endMs": 21294,
+      "verified": true
+    },
+    {
+      "text": "Como hace mucho calor durante el verano, nos gusta mucho nadar.",
+      "startMs": 22104,
+      "endMs": 26077,
+      "verified": true
+    },
+    {
+      "text": "Y yo paso mucho tiempo en mi despacho que está conectado a un costado de la casa.",
+      "startMs": 26927,
+      "endMs": 32080,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "a06-Information-About-Your-Family-Deyanira-H.mp4",
+  "transcriptHash": "ae6b6d0a3146fff873bad8ec346281f54447cd6c",
+  "durationMs": 42214,
+  "segments": [
+    {
+      "text": "Mi papá es ingeniero químico.",
+      "startMs": 10,
+      "endMs": 2921,
+      "verified": false
+    },
+    {
+      "text": "Toda su vida ha trabajado en empresas de alimentos.",
+      "startMs": 2960,
+      "endMs": 6622,
+      "verified": true
+    },
+    {
+      "text": "Mi mamá es abogado pero con todo de que mi mama es abogada mi papá es mucho más estricto que ella.",
+      "startMs": 7733,
+      "endMs": 14185,
+      "verified": true
+    },
+    {
+      "text": "Mis hermanas, una vive en Maracay, fuera de Caracas y la otra sí vive aquí en Caracas en la capital de Venezuela.",
+      "startMs": 15155,
+      "endMs": 22567,
+      "verified": true
+    },
+    {
+      "text": "Todas hablamos inglés muy bien.",
+      "startMs": 24198,
+      "endMs": 26529,
+      "verified": true
+    },
+    {
+      "text": "Como ya dije somos muy pegadas, tratamos de hablar todos los días.",
+      "startMs": 27999,
+      "endMs": 31530,
+      "verified": true
+    },
+    {
+      "text": "Esperamos mucho el uno al otro, sobretodo nuestros padres de nosotras tres uh...",
+      "startMs": 33021,
+      "endMs": 41110,
+      "verified": true
+    },
+    {
+      "text": "Y bueno.",
+      "startMs": 41130,
+      "endMs": 41564,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

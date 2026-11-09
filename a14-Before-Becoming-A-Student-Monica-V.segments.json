@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a14-Before-Becoming-A-Student-Monica-V.mp4",
+  "transcriptHash": "2b5d169faa3de0924884e106a610168bcb281d32",
+  "durationMs": 50364,
+  "segments": [
+    {
+      "text": "Bueno, yo soy boliviana.",
+      "startMs": 110,
+      "endMs": 1541,
+      "verified": false
+    },
+    {
+      "text": "Y viví toda mi vida en Bolivia antes de venir a la universidad de Texas a estudiar.",
+      "startMs": 1881,
+      "endMs": 7023,
+      "verified": true
+    },
+    {
+      "text": "Yo fui a un colegio privado, a un colegio alemán, donde aprendí alemán, por supuesto, y también el inglés.",
+      "startMs": 7694,
+      "endMs": 15327,
+      "verified": true
+    },
+    {
+      "text": "Dos veces durante la preparatoria nos hacían tomar un examen inmenso de alemán del cual dependía si salíamos bachilleres del colegio.",
+      "startMs": 19179,
+      "endMs": 28454,
+      "verified": true
+    },
+    {
+      "text": "Yo lo pasé, gracias al cielo y luego, después de siete meses de aplicar y de tener que estudiar y de tener que tomar el TOEFL y el SAT para venir a Estados Unidos, fui aceptada en la universidad de Texas y me vine acá, sola no conocía a nadie ni nunca había estado en Texas, fue toda una aventura.",
+      "startMs": 29164,
+      "endMs": 50184,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

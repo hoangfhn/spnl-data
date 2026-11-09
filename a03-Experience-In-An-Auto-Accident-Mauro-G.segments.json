@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a03-Experience-In-An-Auto-Accident-Mauro-G.mp4",
+  "transcriptHash": "999d1d4b549d72f5253b48c31bd277c9bf72f2b0",
+  "durationMs": 63739,
+  "segments": [
+    {
+      "text": "Una vez en el bus de la avenida Bancay, en Lima en los años 89, había mucha congestión de pasajeros y el bus iba muy, muy, muy lleno, lleno, y yo sobre la puerta y el chofer cerró con la puerta y uno de mis dedos mayores agarró a la puerta y me sacó una uña.",
+      "startMs": 470,
+      "endMs": 33510,
+      "verified": false
+    },
+    {
+      "text": "Y en ese instante nadie me auxiliaba, ¿no?",
+      "startMs": 35661,
+      "endMs": 39910,
+      "verified": true
+    },
+    {
+      "text": "solamente que dices, sacar mi pañuelo y envolver mi dedo mayor hasta al...",
+      "startMs": 39930,
+      "endMs": 48020,
+      "verified": true
+    },
+    {
+      "text": "llegar hasta al final, ¿no?",
+      "startMs": 48040,
+      "endMs": 49385,
+      "verified": false
+    },
+    {
+      "text": "Regresé en Miraflores y en Miraflores recién me fui a una clínica a poder, este, sacar la uña y hacerme la cirugía, ¿no?",
+      "startMs": 49745,
+      "endMs": 62889,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

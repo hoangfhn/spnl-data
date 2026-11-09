@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a02-Your-First-Airplane-Ride-Simplified-Example.mp4",
+  "transcriptHash": "c111e667eef2c4608a4a3a6c9f0ec341ab7c8358",
+  "durationMs": 33135,
+  "segments": [
+    {
+      "text": "Cuando tenía ocho años fui a visitar a mi tía a la ciudad de México.",
+      "startMs": 870,
+      "endMs": 6443,
+      "verified": true
+    },
+    {
+      "text": "Fui con mi mamá.",
+      "startMs": 7053,
+      "endMs": 8144,
+      "verified": true
+    },
+    {
+      "text": "Subimos al avión y me senté al lado de la ventanilla.",
+      "startMs": 8934,
+      "endMs": 13146,
+      "verified": true
+    },
+    {
+      "text": "Al principio tenía un poco de miedo pero cuando despegamos fue todo muy divertido.",
+      "startMs": 13150,
+      "endMs": 21530,
+      "verified": true
+    },
+    {
+      "text": "Desde el aire se podía ver todo y la asistente de vuelo me present— al piloto.",
+      "startMs": 22120,
+      "endMs": 29853,
+      "verified": true
+    },
+    {
+      "text": "Toda la experiencia me fascinó.",
+      "startMs": 30344,
+      "endMs": 32775,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

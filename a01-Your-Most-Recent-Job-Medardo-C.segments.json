@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "a01-Your-Most-Recent-Job-Medardo-C.mp4",
+  "transcriptHash": "b2808005985858c165b0ea3da4a604ccdabaa85c",
+  "durationMs": 95713,
+  "segments": [
+    {
+      "text": "Bueno, antes de venir a Austin, yo trabajé como editor en una agencia de prensa, en Reuters of America.",
+      "startMs": 0,
+      "endMs": 12442,
+      "verified": true
+    },
+    {
+      "text": "El trabajo de editor es un trabajo de bastante responsabilidad.",
+      "startMs": 14192,
+      "endMs": 20343,
+      "verified": true
+    },
+    {
+      "text": "El editor tiene que recibir…",
+      "startMs": 21393,
+      "endMs": 24523,
+      "verified": true
+    },
+    {
+      "text": "escoger las noticias que vienen de los servicios de todo el mundo y traducirlas al español o hacer que alguno de los traductores que trabajan en el servicio latinoamericano las traduzca al español.",
+      "startMs": 25113,
+      "endMs": 45346,
+      "verified": true
+    },
+    {
+      "text": "Luego las noticias que vienen originalmente en español de diversos países de América Latina, pues el editor tiene que corregirlas, asegurarse de que van a ser entendidas por personas de otros lugares.",
+      "startMs": 46376,
+      "endMs": 67369,
+      "verified": true
+    },
+    {
+      "text": "Tiene que decidir si la noticia vale la pena, si es algo que puede intersarle a un lector o a un cliente de un país distinto del país donde se originó.",
+      "startMs": 68019,
+      "endMs": 82011,
+      "verified": true
+    },
+    {
+      "text": "Y si hay alguna duda, pues normalmente se llama al periodista y se conversa con él para sugerirle cambios, etcétera.",
+      "startMs": 83081,
+      "endMs": 94653,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

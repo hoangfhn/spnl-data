@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "a07-Your-House-Libia-J.mp4",
+  "transcriptHash": "18c429a56836fa134e29dd11dbf95acd11746e63",
+  "durationMs": 27237,
+  "segments": [
+    {
+      "text": "Mi casa es muy chiquita.",
+      "startMs": 310,
+      "endMs": 2902,
+      "verified": true
+    },
+    {
+      "text": "Tiene una sala comedor muy pequeña.",
+      "startMs": 3532,
+      "endMs": 7305,
+      "verified": true
+    },
+    {
+      "text": "La cocina es chica también.",
+      "startMs": 7310,
+      "endMs": 9086,
+      "verified": true
+    },
+    {
+      "text": "Y tiene una barra que se comunica con el comedor.",
+      "startMs": 9090,
+      "endMs": 12628,
+      "verified": true
+    },
+    {
+      "text": "El lugar que más me gusta de mi casa, pues es mi recamara.",
+      "startMs": 13158,
+      "endMs": 15980,
+      "verified": true
+    },
+    {
+      "text": "Y bueno es...",
+      "startMs": 17021,
+      "endMs": 18700,
+      "verified": true
+    },
+    {
+      "text": "es agradable, es grande.",
+      "startMs": 18712,
+      "endMs": 20320,
+      "verified": true
+    },
+    {
+      "text": "Tiene un closet en el que cabe todo y no puede estar así tan desordenado.",
+      "startMs": 20340,
+      "endMs": 23885,
+      "verified": true
+    },
+    {
+      "text": "Los muebles son de madera y me gusta mucho.",
+      "startMs": 24285,
+      "endMs": 27137,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

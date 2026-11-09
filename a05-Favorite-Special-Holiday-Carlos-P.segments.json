@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "a05-Favorite-Special-Holiday-Carlos-P.mp4",
+  "transcriptHash": "083b61d1f9419d39b516789934551ed9267f94fb",
+  "durationMs": 31138,
+  "segments": [
+    {
+      "text": "Sí, bueno, yo tuve una experiencia una navidad que tenía que llegar a la casa de mi familia y por estar con algunos amigos también festejando navidad se me hacía tarde y no encontraba transporte para llegar a la fiesta de la navidad.",
+      "startMs": 0,
+      "endMs": 19831,
+      "verified": true
+    },
+    {
+      "text": "Afortunadamente llegué, llegué faltando dos o tres minutos para que se iniciara el festejo y bueno tuvo un final feliz.",
+      "startMs": 20792,
+      "endMs": 30578,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "video": "a09-Messages-Over-The-Phone-Diana-P.mp4",
+  "transcriptHash": "aea9e22c2aac8dbee24149645953446d56d7b9a8",
+  "durationMs": 26401,
+  "segments": [
+    {
+      "text": "Si le voy a dejar un mensaje a alguien en la máquina contestadora, nosotros le llamamos contestador, entonces simplemente le digo: “hola, espero que te encuentres bien, soy Diana Puerta, quería saludarte, saber cómo estabas, por favor devuélveme la llamada tan pronto te quede fácil, mi teléfono es tal”.",
+      "startMs": 0,
+      "endMs": 24379,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

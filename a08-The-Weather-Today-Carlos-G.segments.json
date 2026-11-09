@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a08-The-Weather-Today-Carlos-G.mp4",
+  "transcriptHash": "ba2c322dad80d3e9a77a61b357408c599d5cf011",
+  "durationMs": 19574,
+  "segments": [
+    {
+      "text": "El clima de hoy se encuentra húmedo y un tanto caluroso.",
+      "startMs": 390,
+      "endMs": 5124,
+      "verified": true
+    },
+    {
+      "text": "Yo fallé, me puse una camisa de manga larga.",
+      "startMs": 5774,
+      "endMs": 9330,
+      "verified": true
+    },
+    {
+      "text": "Vine preparado a Monterrey, creyendo que iba a estar fresco.",
+      "startMs": 9350,
+      "endMs": 13410,
+      "verified": true
+    },
+    {
+      "text": "Y me equivoqué, el día está para traer manga corta.",
+      "startMs": 13920,
+      "endMs": 18714,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

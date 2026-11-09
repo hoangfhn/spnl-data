@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a13-Hobbies-Or-Special-Interests-Ana-R.mp4",
+  "transcriptHash": "89f1e0b85a7011e75252a1068a376f1cfe7ed8dc",
+  "durationMs": 50666,
+  "segments": [
+    {
+      "text": "Yo le quisiera contar que tengo un taller con mis hermanas.",
+      "startMs": 690,
+      "endMs": 5391,
+      "verified": true
+    },
+    {
+      "text": "Hacemos pintura en cerámica.",
+      "startMs": 6151,
+      "endMs": 8181,
+      "verified": true
+    },
+    {
+      "text": "Tenemos un horno y además hacemos clases a distintas personas que están interesadas en aprender.",
+      "startMs": 9131,
+      "endMs": 16182,
+      "verified": true
+    },
+    {
+      "text": "La cerámica además de ser un, un lindo arte sirve también para servir un poco del trabajo cotidiano y nos sirve de terapia a un grupo de personas que inventamos ya sea fuentes, tazas, platos.",
+      "startMs": 17212,
+      "endMs": 37930,
+      "verified": true
+    },
+    {
+      "text": "Y eso también a veces los ponemos en exposición para poder venderlos.",
+      "startMs": 37944,
+      "endMs": 44445,
+      "verified": true
+    },
+    {
+      "text": "Y nos ha ido bastante bién en este, en este curso digamos.",
+      "startMs": 44715,
+      "endMs": 49726,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

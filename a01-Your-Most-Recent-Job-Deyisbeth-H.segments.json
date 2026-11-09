@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a01-Your-Most-Recent-Job-Deyisbeth-H.mp4",
+  "transcriptHash": "2ff854885198ebf334a2486bc1596ae32260081b",
+  "durationMs": 98267,
+  "segments": [
+    {
+      "text": "Bueno, en estos momentos estoy trabajando como directora de un preescolar, directora académica y directora de personal.",
+      "startMs": 130,
+      "endMs": 10101,
+      "verified": true
+    },
+    {
+      "text": "En mi parte de directora académica tengo que ver con lo que concierne con los programas, OK?",
+      "startMs": 11851,
+      "endMs": 19421,
+      "verified": true
+    },
+    {
+      "text": "programas académicos de los niños, las horas que deben permanecer en cada área, revisar los programas académicos que cumplan los objetivos, trabajar a su vez con los padres para que estimulen en la casa a los niños los objetivos que se llevan o que se cumplen en el colegio.",
+      "startMs": 20031,
+      "endMs": 43190,
+      "verified": true
+    },
+    {
+      "text": "Y por otro lado, tengo que manejar la parte de personal.",
+      "startMs": 43203,
+      "endMs": 48233,
+      "verified": true
+    },
+    {
+      "text": "La parte de personal, más que todo es la asistencia regular del docente al preescolar.",
+      "startMs": 49253,
+      "endMs": 57174,
+      "verified": true
+    },
+    {
+      "text": "La calidad de pedagogía que utiliza en el trabajo, como maneja el docente los diferentes tipos de problemas que se le puede presentar en el aula de clase, tal como manejo de ciertos objetivos, los niños que presenten problemas específicos, ya sea de lenguaje cognitivo, motricidad fina o gruesa, y también como manejan ellos la relación entre padre e hijo, para que esta relación ayude en conseguir los objetivos que se han fijado.",
+      "startMs": 58294,
+      "endMs": 97827,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

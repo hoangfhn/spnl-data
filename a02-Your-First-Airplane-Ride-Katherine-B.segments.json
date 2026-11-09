@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "video": "a02-Your-First-Airplane-Ride-Katherine-B.mp4",
+  "transcriptHash": "e775d5f2e108f96256d400a5ea8ce37ec046a03c",
+  "durationMs": 60116,
+  "segments": [
+    {
+      "text": "La primera vez que me monté en un avión iba para Guatemala.",
+      "startMs": 930,
+      "endMs": 4601,
+      "verified": true
+    },
+    {
+      "text": "Estaba muy ansiosa porque ya varias ocasiones había cancelado viajes.",
+      "startMs": 5652,
+      "endMs": 12703,
+      "verified": true
+    },
+    {
+      "text": "Ya tenía como veinte años.",
+      "startMs": 13554,
+      "endMs": 16665,
+      "verified": true
+    },
+    {
+      "text": "Y ya en el avión estaba muy, muy sorprendida y asustada, y no podía dejar de pensar en mi hermana que en esos momentos tenía seis años porque la experiencia me parecía increíble.",
+      "startMs": 18335,
+      "endMs": 32909,
+      "verified": true
+    },
+    {
+      "text": "Me sentía como una chiquita.",
+      "startMs": 33159,
+      "endMs": 34529,
+      "verified": true
+    },
+    {
+      "text": "No podía dejar de ver por la ventana.",
+      "startMs": 34530,
+      "endMs": 36260,
+      "verified": true
+    },
+    {
+      "text": "Y eso fue como lo más, lo que…",
+      "startMs": 37440,
+      "endMs": 42992,
+      "verified": true
+    },
+    {
+      "text": "como me sorprendió fue cómo se veía todo.",
+      "startMs": 43382,
+      "endMs": 45993,
+      "verified": false
+    },
+    {
+      "text": "Si es un poco incómodo.",
+      "startMs": 48583,
+      "endMs": 49934,
+      "verified": true
+    },
+    {
+      "text": "Y luego hubo turbulencias, entonces era bastante…",
+      "startMs": 50944,
+      "endMs": 54255,
+      "verified": true
+    },
+    {
+      "text": "bastante nerviosa estaba.",
+      "startMs": 57216,
+      "endMs": 59350,
+      "verified": true
+    },
+    {
+      "text": "Eso es.",
+      "startMs": 59370,
+      "endMs": 59836,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

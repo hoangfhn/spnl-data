@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "a13-Hobbies-Or-Special-Interests-Ronald-F.mp4",
+  "transcriptHash": "57c3ea31fad42a1e42f5959cfac0c952cfacf291",
+  "durationMs": 25542,
+  "segments": [
+    {
+      "text": "Generalmente yo suelo tocar la guitarra.",
+      "startMs": 671,
+      "endMs": 2470,
+      "verified": true
+    },
+    {
+      "text": "Ese es mi hobby principal.",
+      "startMs": 2490,
+      "endMs": 4270,
+      "verified": true
+    },
+    {
+      "text": "Entonces, yo toco la guitarra casi todos los días.",
+      "startMs": 4284,
+      "endMs": 7106,
+      "verified": true
+    },
+    {
+      "text": "También toco la guitarra para fiestas, y así pequeños conciertos así con mis amigos y serenatas y ese tipo de cosa.",
+      "startMs": 7110,
+      "endMs": 15934,
+      "verified": true
+    },
+    {
+      "text": "También me gusta jugar al fútbol y ver películas, este tipo de cosas, ¿no?",
+      "startMs": 15950,
+      "endMs": 22530,
+      "verified": true
+    },
+    {
+      "text": "Sobretodo...",
+      "startMs": 22550,
+      "endMs": 23380,
+      "verified": false
+    },
+    {
+      "text": "También me gusta estar con mis amigos.",
+      "startMs": 23400,
+      "endMs": 25142,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

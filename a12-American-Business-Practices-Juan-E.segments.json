@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "a12-American-Business-Practices-Juan-E.mp4",
+  "transcriptHash": "33ebab296c76b54757719fe3846b7e05f9bce4dd",
+  "durationMs": 88677,
+  "segments": [
+    {
+      "text": "Anteriormente los antiguos mexicanos trabajaban por jornadas, les llamaban jornaleros, en donde empezaban en la madrugada, vamos a decir 5:00, 6:00 de la mañana, terminaban a las 2:00 de la tarde se iban a comer de 2:00 a 3:00 de la tarde, entraban a las 3:00 de la tarde y seguían hasta que el sol se ponía muchas veces más tarde que eso, posiblemente a las 7:00, 8:00, 9:00, o 10:00 de la noche, haciendo estas unas jornadas interminables, eso era anteriormente.",
+      "startMs": 270,
+      "endMs": 38227,
+      "verified": false
+    },
+    {
+      "text": "En la actualidad, el mexicano ya tiene horarios muy establecidos de acuerdo al sistema moderno, ¿A qué me refiero?",
+      "startMs": 39338,
+      "endMs": 47909,
+      "verified": true
+    },
+    {
+      "text": "Ya hay sistemas laborales en donde trabajan 8 horas y tienen descansos.",
+      "startMs": 48959,
+      "endMs": 54900,
+      "verified": true
+    },
+    {
+      "text": "Hay sistemas también en donde tienen jornadas inglesas, que trabajan 5 días y descansan 2.",
+      "startMs": 55501,
+      "endMs": 63012,
+      "verified": true
+    },
+    {
+      "text": "Pero por naturaleza al mexicano le gusta mucho trabajar.",
+      "startMs": 63642,
+      "endMs": 67393,
+      "verified": true
+    },
+    {
+      "text": "Desafortunadamente, no hay muchos incentivos en México.",
+      "startMs": 68103,
+      "endMs": 72434,
+      "verified": true
+    },
+    {
+      "text": "Por eso es que el mexicano utiliza parte de ese tiempo de trabajo en divertirse, como ir al fútbol, como ir a la corrida de toros, y otros lugares en donde puede tener un poco de diversión.",
+      "startMs": 72914,
+      "endMs": 88147,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

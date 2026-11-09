@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "a06-Information-About-Your-Family-Guadalupe-M.mp4",
+  "transcriptHash": "3588d9d1b19d5679ea208d4706c5225d3defee69",
+  "durationMs": 36873,
+  "segments": [
+    {
+      "text": "Tengo dos hijos.",
+      "startMs": 30,
+      "endMs": 1140,
+      "verified": true
+    },
+    {
+      "text": "Uno de 23 años y la niña de 19.",
+      "startMs": 2211,
+      "endMs": 5692,
+      "verified": true
+    },
+    {
+      "text": "César, el niño se llama César.",
+      "startMs": 6853,
+      "endMs": 8990,
+      "verified": true
+    },
+    {
+      "text": "Bueno yo le digo niño, que ya no es tan niño.",
+      "startMs": 9003,
+      "endMs": 10964,
+      "verified": true
+    },
+    {
+      "text": "A César le gustan mucho los deportes, le gusta mucho nadar, ¿Que más?",
+      "startMs": 11634,
+      "endMs": 20790,
+      "verified": true
+    },
+    {
+      "text": "...otros gustos...",
+      "startMs": 20808,
+      "endMs": 22968,
+      "verified": true
+    },
+    {
+      "text": "bueno es muy deportista.",
+      "startMs": 22970,
+      "endMs": 24569,
+      "verified": true
+    },
+    {
+      "text": "Y Dulce es más tranquila, le gusta mucho la danza, pero no la ejercita como debería ser.",
+      "startMs": 25039,
+      "endMs": 33930,
+      "verified": true
+    },
+    {
+      "text": "En la escuela es lo único.",
+      "startMs": 33950,
+      "endMs": 36013,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

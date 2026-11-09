@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "video": "a03-Experience-In-An-Auto-Accident-Carlos-G.mp4",
+  "transcriptHash": "574c24466df54bfbc9c1bcd873f4980838f6a363",
+  "durationMs": 61208,
+  "segments": [
+    {
+      "text": "Fue un día junto con un amigo.",
+      "startMs": 290,
+      "endMs": 2700,
+      "verified": true
+    },
+    {
+      "text": "Viajamos a Cuahutémoc, Chihuahua.",
+      "startMs": 4141,
+      "endMs": 6061,
+      "verified": true
+    },
+    {
+      "text": "Nos fuimos sin permiso.",
+      "startMs": 8041,
+      "endMs": 10451,
+      "verified": true
+    },
+    {
+      "text": "Y de regreso, ya de noche yo me vine dormido.",
+      "startMs": 11642,
+      "endMs": 19823,
+      "verified": true
+    },
+    {
+      "text": "El se vino manejando el carro.",
+      "startMs": 20493,
+      "endMs": 22763,
+      "verified": true
+    },
+    {
+      "text": "Cuando...",
+      "startMs": 26173,
+      "endMs": 26923,
+      "verified": true
+    },
+    {
+      "text": "al dar una...",
+      "startMs": 27424,
+      "endMs": 29540,
+      "verified": true
+    },
+    {
+      "text": "dio mal la vuelta en una curva, y caímos 10 metro abajo, y el carro rodó.",
+      "startMs": 29560,
+      "endMs": 35244,
+      "verified": true
+    },
+    {
+      "text": "No nos pasó nada, tuvimos unos golpes.",
+      "startMs": 39715,
+      "endMs": 41545,
+      "verified": true
+    },
+    {
+      "text": "Yo lo único que me lastimé fue aquí el cuello.",
+      "startMs": 43746,
+      "endMs": 45846,
+      "verified": true
+    },
+    {
+      "text": "Cuando subimos a la carretera un camionero nos hizo el favor de detener a una camioneta, pick-up.",
+      "startMs": 48196,
+      "endMs": 55487,
+      "verified": true
+    },
+    {
+      "text": "Que nos hizo el favor de llevarnos a Chihuahua al hospital para que nos examinaran.",
+      "startMs": 55997,
+      "endMs": 60270,
+      "verified": true
+    },
+    {
+      "text": "Esa fue una mala experiencia.",
+      "startMs": 60290,
+      "endMs": 61068,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "a04-Story-About-An-Animal-Or-Pet-Simplified-Example.mp4",
+  "transcriptHash": "1440c4df769ec45ca69cb58958dffb54b3eb6090",
+  "durationMs": 35062,
+  "segments": [
+    {
+      "text": "Bueno, tengo un perro que se llama Roco.",
+      "startMs": 260,
+      "endMs": 3722,
+      "verified": true
+    },
+    {
+      "text": "Hace tres meses lo llevé a pasear a un parque cerca de mi casa.",
+      "startMs": 4413,
+      "endMs": 9566,
+      "verified": true
+    },
+    {
+      "text": "Cuando una señora se acercó con un pastor alemán, Roco se puso muy violento y empezó a ladrar.",
+      "startMs": 10697,
+      "endMs": 18572,
+      "verified": true
+    },
+    {
+      "text": "Intenté contenerlo pero no pude.",
+      "startMs": 19763,
+      "endMs": 22494,
+      "verified": true
+    },
+    {
+      "text": "Es la primera vez que se porta así.",
+      "startMs": 23425,
+      "endMs": 25616,
+      "verified": true
+    },
+    {
+      "text": "Normalmente se porta muy bien.",
+      "startMs": 26367,
+      "endMs": 28578,
+      "verified": true
+    },
+    {
+      "text": "Me avergoncé mucho.",
+      "startMs": 29148,
+      "endMs": 30459,
+      "verified": true
+    },
+    {
+      "text": "Desde entonces no lo llevo al parque.",
+      "startMs": 31330,
+      "endMs": 34542,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

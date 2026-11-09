@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "video": "a07-Your-House-Carmen-V.mp4",
+  "transcriptHash": "87f70bae88eb6b4629728a983b576c72367f1a27",
+  "durationMs": 56935,
+  "segments": [
+    {
+      "text": "Mi casa está en Miraflores que es uno de los distritos residenciales de Lima.",
+      "startMs": 30,
+      "endMs": 6282,
+      "verified": true
+    },
+    {
+      "text": "Tiene un pequeño carport a la entrada, un pequeño garaje, jardín.",
+      "startMs": 9533,
+      "endMs": 13844,
+      "verified": true
+    },
+    {
+      "text": "Tiene dos salas, una más grande y una más pequeña, más informal.",
+      "startMs": 14234,
+      "endMs": 18665,
+      "verified": true
+    },
+    {
+      "text": "Comedor, una cocina, en el fondo tenemos un patio con una, tenemos una terraza que usamos a veces para almorzar cuando es verano.",
+      "startMs": 20416,
+      "endMs": 31448,
+      "verified": true
+    },
+    {
+      "text": "En el segundo piso tenemos un escritorio con libros de la universidad, colegio, y también amoblado también con televisor, como una sala de TV.",
+      "startMs": 32559,
+      "endMs": 43232,
+      "verified": true
+    },
+    {
+      "text": "Y luego están los dormitorios principales en el segundo piso, los servicios higiénicos y tenemos arriba también la azotea.",
+      "startMs": 44122,
+      "endMs": 56295,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

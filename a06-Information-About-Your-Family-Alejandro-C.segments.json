@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "video": "a06-Information-About-Your-Family-Alejandro-C.mp4",
+  "transcriptHash": "69698cb2b03f2b5b6541402e32965832b084c079",
+  "durationMs": 58863,
+  "segments": [
+    {
+      "text": "En mi familia somos dos hermanos.",
+      "startMs": 350,
+      "endMs": 2590,
+      "verified": true
+    },
+    {
+      "text": "Todos somos hombres y siempre nos ha gustado mucho jugar entre nosotros, jugar fútbol, que…",
+      "startMs": 2601,
+      "endMs": 10700,
+      "verified": true
+    },
+    {
+      "text": "nos gusta también mucho los carros, los aviones.",
+      "startMs": 10720,
+      "endMs": 13950,
+      "verified": true
+    },
+    {
+      "text": "Eso es algo que siempre nos ha unido bastante.",
+      "startMs": 13965,
+      "endMs": 16366,
+      "verified": true
+    },
+    {
+      "text": "Mis papás.",
+      "startMs": 16837,
+      "endMs": 17797,
+      "verified": true
+    },
+    {
+      "text": "Mi mamá es psicóloga, mi papá es ingeniero de petróleos.",
+      "startMs": 18497,
+      "endMs": 22170,
+      "verified": true
+    },
+    {
+      "text": "Y por eso a toda nuestra familia siempre nos ha gustado también encaminarnos más o menos a los estudios.",
+      "startMs": 22189,
+      "endMs": 29151,
+      "verified": true
+    },
+    {
+      "text": "Yo conocí a mi esposa precisamente por eso, porque ella es ingeniera mecánica y yo también.",
+      "startMs": 31022,
+      "endMs": 35404,
+      "verified": true
+    },
+    {
+      "text": "Y los dos más o menos tenemos los mismos gustos.",
+      "startMs": 36104,
+      "endMs": 38120,
+      "verified": true
+    },
+    {
+      "text": "Nos gusta pasar el tiempo aire libre, compartir tiempo con nuestra hija.",
+      "startMs": 38140,
+      "endMs": 43480,
+      "verified": true
+    },
+    {
+      "text": "Y también nos gusta salir a pasear como- paseos como a la piscina, como salir a caminar, o correr o a veces ver televisión.",
+      "startMs": 43497,
+      "endMs": 58552,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

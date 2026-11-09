@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a15-Feelings-About-A-Current-Event-Simplified-Example.mp4",
+  "transcriptHash": "74966dfae3a4aed09de7c45b04db051f10022674",
+  "durationMs": 46974,
+  "segments": [
+    {
+      "text": "A ver, el último evento que ha llamado mucho la atención es lo de la huelga de los estudiantes de la UNAM.",
+      "startMs": 700,
+      "endMs": 10663,
+      "verified": true
+    },
+    {
+      "text": "Han causado muchos problemas con el tráfico del D.F.",
+      "startMs": 12194,
+      "endMs": 16865,
+      "verified": true
+    },
+    {
+      "text": "ya que salen al periférico a hacer sus protestas y no permiten que los carros pasen.",
+      "startMs": 18155,
+      "endMs": 25538,
+      "verified": true
+    },
+    {
+      "text": "Lo malo es que hay alrededor de 100.000 estudiantes en la UNAM y por lo visto son muy pocos los que están en huelga.",
+      "startMs": 26848,
+      "endMs": 39152,
+      "verified": true
+    },
+    {
+      "text": "Impiden que los demás estudien, y han dañado la reputación de la universidad.",
+      "startMs": 40542,
+      "endMs": 46504,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

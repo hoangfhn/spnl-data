@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a11-Sections-Of-A-Newspaper-Simplified-Example.mp4",
+  "transcriptHash": "e1fae37cdf811d914a11b328ccd854ddb620ad2b",
+  "durationMs": 33321,
+  "segments": [
+    {
+      "text": "En la primera página están los titulares donde describen las noticias más importantes del día.",
+      "startMs": 791,
+      "endMs": 8105,
+      "verified": true
+    },
+    {
+      "text": "Después está la sección de noticias nacionales seguida por las noticias internacionales.",
+      "startMs": 8916,
+      "endMs": 16270,
+      "verified": true
+    },
+    {
+      "text": "A continuación normalmente están las secciones de nota social, deportes y entretenimiento.",
+      "startMs": 17181,
+      "endMs": 25276,
+      "verified": true
+    },
+    {
+      "text": "Al final están las secciones dedicadas a las tiras cómicas y los anuncios clasificados.",
+      "startMs": 26166,
+      "endMs": 32660,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

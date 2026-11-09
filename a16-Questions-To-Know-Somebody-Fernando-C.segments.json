@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a16-Questions-To-Know-Somebody-Fernando-C.mp4",
+  "transcriptHash": "1c7b089aa546a8da8c880e05b56233c5a72510f4",
+  "durationMs": 36734,
+  "segments": [
+    {
+      "text": "Bueno, para conocer a alguien lógicamente además de las preguntas del nombre, de la edad, de la profesión, hay cosas que son interesantes.",
+      "startMs": 1661,
+      "endMs": 10784,
+      "verified": true
+    },
+    {
+      "text": "Por ejemplo, qué tipo de música escucha, qué tipo de libros lee, qué películas que ha visto le han gustado.",
+      "startMs": 10800,
+      "endMs": 21100,
+      "verified": true
+    },
+    {
+      "text": "Esas son cosas que definen bastante a una persona.",
+      "startMs": 21120,
+      "endMs": 24609,
+      "verified": true
+    },
+    {
+      "text": "Y desde luego nada mejor que una conversación tranquila, pausada como para que podamos conocer a alguien.",
+      "startMs": 25250,
+      "endMs": 35944,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

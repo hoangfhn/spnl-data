@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a10-In-Ten-Years-Alejandro-C.mp4",
+  "transcriptHash": "a2d04d2dc89be23bdbf9458bc0ffb5ca2303d4b8",
+  "durationMs": 45163,
+  "segments": [
+    {
+      "text": "Una de las cosas que a mí me gustaría hacer en el futuro primeramente es algo aplicado a mi carrera que estoy estudiando.",
+      "startMs": 590,
+      "endMs": 7844,
+      "verified": true
+    },
+    {
+      "text": "A mí siempre me ha gustado mucho los motores y en el futuro por eso se- me gustaría trabajar en alguna compañía que fabrique motores, carros, de mantenimiento.",
+      "startMs": 8054,
+      "endMs": 19560,
+      "verified": true
+    },
+    {
+      "text": "Me gustaría vivir también en un lugar cálido, en un lugar caliente como playas pudiera ser.",
+      "startMs": 20921,
+      "endMs": 28614,
+      "verified": true
+    },
+    {
+      "text": "Sería bueno.",
+      "startMs": 29125,
+      "endMs": 30620,
+      "verified": true
+    },
+    {
+      "text": "También me gustaría estar en un lugar que sea bueno para la educación de mi hija y bueno para tener una familia para que- un lugar donde pueda crecer una familia.",
+      "startMs": 30640,
+      "endMs": 44943,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

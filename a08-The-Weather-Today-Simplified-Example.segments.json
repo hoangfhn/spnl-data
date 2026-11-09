@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a08-The-Weather-Today-Simplified-Example.mp4",
+  "transcriptHash": "066124d27073bf9410560daa2bd42d0ac1c7eaa0",
+  "durationMs": 28700,
+  "segments": [
+    {
+      "text": "Hace bastante calor hoy y parece que va a llover.",
+      "startMs": 741,
+      "endMs": 5524,
+      "verified": true
+    },
+    {
+      "text": "Se nubló hace media hora y de repente hay mucho viento.",
+      "startMs": 6334,
+      "endMs": 10667,
+      "verified": true
+    },
+    {
+      "text": "No es sorprendente ya que estamos en la temporada de lluvias.",
+      "startMs": 11578,
+      "endMs": 15471,
+      "verified": true
+    },
+    {
+      "text": "Normalmente llueve todos los días de mayo a septiembre.",
+      "startMs": 16432,
+      "endMs": 21655,
+      "verified": true
+    },
+    {
+      "text": "El resto del año no llueve tanto y tampoco hace tanto calor.",
+      "startMs": 22466,
+      "endMs": 27979,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

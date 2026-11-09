@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a12-American-Business-Practices-Fernando-E.mp4",
+  "transcriptHash": "6be5405d187471f4ca305b4fdef72bc6a978d022",
+  "durationMs": 48321,
+  "segments": [
+    {
+      "text": "Bueno, cuando nosotros negociamos y trabajamos con el mercado norteamericano, en principio una de las cosas que más nos llama la atención es sobretodo el calendario de fechas.",
+      "startMs": 0,
+      "endMs": 12555,
+      "verified": true
+    },
+    {
+      "text": "Es decir, ellos son capaces de intentar concretar una visita, una cita, o una entrevista con 2 meses de antelación.",
+      "startMs": 12736,
+      "endMs": 22520,
+      "verified": true
+    },
+    {
+      "text": "Cuando en muchos casos nosotros de aquí a 2 meses, el día 15 de agosto, no sabemos exactamente donde estaremos ni si podremos estar o podemos ir hasta Estados Unidos.",
+      "startMs": 22700,
+      "endMs": 34080,
+      "verified": true
+    },
+    {
+      "text": "Y ellos ya apuntan que el 15 de agosto a la una del mediodía nos recibirán y nos visitarán, ¿no?",
+      "startMs": 34095,
+      "endMs": 40197,
+      "verified": true
+    },
+    {
+      "text": "Quizás esa es una de las cosas que más llama la atención, esta exactitud en lo que es el calendario del trabajo y con fechas concretas.",
+      "startMs": 40427,
+      "endMs": 48061,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a08-The-Weather-Today-Gladys-U.mp4",
+  "transcriptHash": "23fb3aae44c2f8c98b8c791744d9e5579acae998",
+  "durationMs": 35944,
+  "segments": [
+    {
+      "text": "Bien, en realidad estamos a principios del verano.",
+      "startMs": 140,
+      "endMs": 3530,
+      "verified": true
+    },
+    {
+      "text": "Estamos iniciando como se dice la época de temporada de playa y el calor se está comenzando acentuar generalmente en los días, y en las noches se siente un poco del fresco.",
+      "startMs": 3542,
+      "endMs": 16211,
+      "verified": true
+    },
+    {
+      "text": "Pero a la mayoría de las personas les gusta mucho esta estación del año porque las familias pueden llevar a sus hijos a las playas, o sea usar ropa mucha más ligeras, de gustar cosas frescas, y generalmente las personas tienden de enfermarse menos.",
+      "startMs": 16230,
+      "endMs": 32622,
+      "verified": true
+    },
+    {
+      "text": "A mí en forma particular me encanta el verano.",
+      "startMs": 32832,
+      "endMs": 35324,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

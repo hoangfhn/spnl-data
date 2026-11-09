@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "video": "a02-Your-First-Airplane-Ride-Maria-J.mp4",
+  "transcriptHash": "226a38ad7346474eec69662e2c505c8b599a68a5",
+  "durationMs": 33506,
+  "segments": [
+    {
+      "text": "La primera vez que me subí a un avión era, tenía unos catorce años.",
+      "startMs": 670,
+      "endMs": 4181,
+      "verified": true
+    },
+    {
+      "text": "Fuimos a Iquique, cerca, era una viaje corto igual, de un, me impactó la puesta del sol.",
+      "startMs": 4631,
+      "endMs": 10722,
+      "verified": true
+    },
+    {
+      "text": "Fue maravillosa.",
+      "startMs": 10792,
+      "endMs": 11750,
+      "verified": true
+    },
+    {
+      "text": "Era como estar solo en el universo.",
+      "startMs": 11762,
+      "endMs": 13310,
+      "verified": false
+    },
+    {
+      "text": "Y ver la línea circular, ver la tierra, los colores desde el amarillo hasta el azul.",
+      "startMs": 13323,
+      "endMs": 20240,
+      "verified": true
+    },
+    {
+      "text": "Se veía los colores del infinito.",
+      "startMs": 20260,
+      "endMs": 21690,
+      "verified": true
+    },
+    {
+      "text": "Era una cosa preciosa.",
+      "startMs": 21704,
+      "endMs": 22784,
+      "verified": true
+    },
+    {
+      "text": "Reali...",
+      "startMs": 22790,
+      "endMs": 23590,
+      "verified": false
+    },
+    {
+      "text": "en realidad me impactó.",
+      "startMs": 23610,
+      "endMs": 24620,
+      "verified": true
+    },
+    {
+      "text": "Bueno, es para aterrizar, los cambios de altura, el dolor del oído.",
+      "startMs": 24640,
+      "endMs": 27915,
+      "verified": true
+    },
+    {
+      "text": "Bastante fuerte, pero fue una experiencia hermosa.",
+      "startMs": 28615,
+      "endMs": 31086,
+      "verified": true
+    },
+    {
+      "text": "Los colores me impactaron.",
+      "startMs": 31616,
+      "endMs": 32886,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

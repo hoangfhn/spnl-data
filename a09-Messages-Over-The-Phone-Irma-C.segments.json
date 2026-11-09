@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a09-Messages-Over-The-Phone-Irma-C.mp4",
+  "transcriptHash": "8158ea4ad31d72e574469094f34280437bab17b4",
+  "durationMs": 27771,
+  "segments": [
+    {
+      "text": "Bueno, generalmente, cuando una persona no está en casa y uno ha llamado preguntando por esta persona te dicen, por ejemplo, \"María no está.",
+      "startMs": 1010,
+      "endMs": 11144,
+      "verified": true
+    },
+    {
+      "text": "¿Gustas dejar un mensaje?\" o \"¿Quieres dejar un recado?\" Y tu puedes decir, \"¡ay!",
+      "startMs": 11475,
+      "endMs": 17747,
+      "verified": true
+    },
+    {
+      "text": "Sí, por favor, le dices que llamé a las tres de la tarde y que en cuanto llegue, se comunica conmigo.",
+      "startMs": 17780,
+      "endMs": 24850,
+      "verified": true
+    },
+    {
+      "text": "Bueno, nos vemos, adiós.\"",
+      "startMs": 25500,
+      "endMs": 26991,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

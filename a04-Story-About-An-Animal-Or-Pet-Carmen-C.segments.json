@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "video": "a04-Story-About-An-Animal-Or-Pet-Carmen-C.mp4",
+  "transcriptHash": "848fcad4808b80390fb39396cae5ceaafe949884",
+  "durationMs": 53801,
+  "segments": [
+    {
+      "text": "Hola.",
+      "startMs": 0,
+      "endMs": 1220,
+      "verified": false
+    },
+    {
+      "text": "Mi perro se llama Bruno, es de la raza cocker spaniel.",
+      "startMs": 1271,
+      "endMs": 6362,
+      "verified": true
+    },
+    {
+      "text": "Es un perro graciosísimo y muy simpático, es negro, negro, negro con la parte del pecho blanca.",
+      "startMs": 6973,
+      "endMs": 14606,
+      "verified": true
+    },
+    {
+      "text": "Es un perro muy nervioso, que se pone muy contento cuando llegamos a casa.",
+      "startMs": 14776,
+      "endMs": 19567,
+      "verified": true
+    },
+    {
+      "text": "Ahora mismo tiene dos años, pero es muy juguetón y parece como si fuera aún un cachorro.",
+      "startMs": 20528,
+      "endMs": 27420,
+      "verified": true
+    },
+    {
+      "text": "Ahora mismo, vive en casa de mis padres porque yo no puedo cuidarlo.",
+      "startMs": 28781,
+      "endMs": 32412,
+      "verified": true
+    },
+    {
+      "text": "Un perro necesita muchísima atención y yo no tengo el tiempo suficiente para dársela; pero bueno, es un amor, lo adoro, lo quiero muchísimo.",
+      "startMs": 32713,
+      "endMs": 40700,
+      "verified": true
+    },
+    {
+      "text": "Y hay que ver como los perros muchas veces son mejores que las personas, sobretodo mucho más fieles.",
+      "startMs": 40716,
+      "endMs": 47018,
+      "verified": true
+    },
+    {
+      "text": "Y estoy segura que se pone igual de contento o más cuando llego a casa que mis padres.",
+      "startMs": 47030,
+      "endMs": 51600,
+      "verified": true
+    },
+    {
+      "text": "Y bueno, éste es Bruno.",
+      "startMs": 51960,
+      "endMs": 53270,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

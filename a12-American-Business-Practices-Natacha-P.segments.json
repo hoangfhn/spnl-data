@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a12-American-Business-Practices-Natacha-P.mp4",
+  "transcriptHash": "bdeadc39b5de85929a662cd17bfbb4044902bf50",
+  "durationMs": 58886,
+  "segments": [
+    {
+      "text": "Bueno, yo soy diseñadora gráfica.",
+      "startMs": 0,
+      "endMs": 2370,
+      "verified": true
+    },
+    {
+      "text": "La diferencia que veo en los negocios cuando tengo que cerrar un negocio con un cliente acá en Estados Unidos con respecto a como yo me manejaba en Argentina, radicalmente tiene que ver con la responsabilidad; el compromiso que toma el cliente con respecto al trabajo.",
+      "startMs": 2790,
+      "endMs": 19742,
+      "verified": true
+    },
+    {
+      "text": "Cuando cerramos un contrato, esa persona se compromete a pagarme en término de la misma manera que yo me comprometo a darle mi trabajo en término, trabajando independientemente, no trabajo con una empresa sino por mi cuenta.",
+      "startMs": 20932,
+      "endMs": 33083,
+      "verified": true
+    },
+    {
+      "text": "En Argentina, uno sabe que uno se compromete pero no significa que esa persona cuando se comprometa a pagar lo haga en el plazo.",
+      "startMs": 33423,
+      "endMs": 40204,
+      "verified": true
+    },
+    {
+      "text": "Entonces en mi experiencia profesional acá en estos cuatro años noto que es muchísimo mejor trabajar acá porque uno cuando recibe el pago sabe que, cuando termina el trabajo sabe que en el plazo estipulado va a recibir el pago y eso no sucede generalmenta allá.",
+      "startMs": 40734,
+      "endMs": 57946,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

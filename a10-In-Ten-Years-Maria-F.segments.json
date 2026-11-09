@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a10-In-Ten-Years-Maria-F.mp4",
+  "transcriptHash": "03bf82f1b9d634c52506e9ae06e8b83b87a4cf73",
+  "durationMs": 30511,
+  "segments": [
+    {
+      "text": "Bueno dentro de diez años yo me veo, esperemos que viviendo en Europa porque es donde está mi familia y me gustaría vivir cerca de ella, aunque Estados Unidos me gusta.",
+      "startMs": 0,
+      "endMs": 11504,
+      "verified": true
+    },
+    {
+      "text": "Me gustaría tener un trabajo estable, sobretodo haber viajado mucho porque tengo pues eso, muchos países todavía que ver.",
+      "startMs": 12735,
+      "endMs": 23328,
+      "verified": true
+    },
+    {
+      "text": "Me imagino que dentro de diez años tendré una familia e hijos.",
+      "startMs": 24879,
+      "endMs": 29500,
+      "verified": true
+    },
+    {
+      "text": "Y eso.",
+      "startMs": 29511,
+      "endMs": 29891,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

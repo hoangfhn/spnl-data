@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "video": "a11-Sections-Of-A-Newspaper-Fernando-F.mp4",
+  "transcriptHash": "766eee43ac3b9b135fc1f346474a0bdac85a28cd",
+  "durationMs": 69010,
+  "segments": [
+    {
+      "text": "El \"Diario del Comercio\" es un diario que tiene 157 años de antigüedad en el país.",
+      "startMs": 270,
+      "endMs": 5950,
+      "verified": true
+    },
+    {
+      "text": "Es uno de los primeros diarios de Sudamérica.",
+      "startMs": 5970,
+      "endMs": 7801,
+      "verified": true
+    },
+    {
+      "text": "Tiene muchas secciones.",
+      "startMs": 8491,
+      "endMs": 10061,
+      "verified": true
+    },
+    {
+      "text": "Estas secciones varían dependiendo del día.",
+      "startMs": 11832,
+      "endMs": 13830,
+      "verified": true
+    },
+    {
+      "text": "Pero vamos a hablar específicamente del día domingo, que es él que tiene el mayor número de secciones.",
+      "startMs": 13842,
+      "endMs": 20020,
+      "verified": true
+    },
+    {
+      "text": "La sección \"A\", que tiene todo lo que vendría a ser noticias nacionales.",
+      "startMs": 20040,
+      "endMs": 23963,
+      "verified": true
+    },
+    {
+      "text": "Donde está la parte política, la parte local, tiene la parte policial.",
+      "startMs": 24493,
+      "endMs": 28204,
+      "verified": true
+    },
+    {
+      "text": "Tenemos la sección \"B\", que es toda la parte internacional.",
+      "startMs": 28634,
+      "endMs": 31564,
+      "verified": true
+    },
+    {
+      "text": "Tenemos la sección \"C\" que es donde se habla de todo lo que es crónicas y dentro de ellas están todo lo que es espectáculos.",
+      "startMs": 32275,
+      "endMs": 38925,
+      "verified": true
+    },
+    {
+      "text": "También tenemos la sección \"D\".",
+      "startMs": 39836,
+      "endMs": 41226,
+      "verified": false
+    },
+    {
+      "text": "La sección \"D\" es una sección que está dedicada prácticamente a la sección metropolitana.",
+      "startMs": 41536,
+      "endMs": 45830,
+      "verified": true
+    },
+    {
+      "text": "Y hablar de la sección metropolitana, allí estamos hablando de todo lo que es referente a los aspectos que tengan que ver con mejoras de en cada uno de los distritos que hay en la ciudad de Lima.",
+      "startMs": 45846,
+      "endMs": 59010,
+      "verified": true
+    },
+    {
+      "text": "El diario, es el que sale a nivel nacional, tiene mayor aceptación y venta en la capital.",
+      "startMs": 59028,
+      "endMs": 68490,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

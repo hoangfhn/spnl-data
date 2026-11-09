@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a15-Feelings-About-A-Current-Event-Consuelo-B.mp4",
+  "transcriptHash": "c1f9ba5df92a409a63b464fcdc14ca38e244e28c",
+  "durationMs": 43723,
+  "segments": [
+    {
+      "text": "Quiero opinar acerca de algo que está pasando ahora en Perú y es un poco grave es sobre la tumba de los subversivos terroristas de la embajada, de la casa del embajador de Japón en Lima, ¿no?",
+      "startMs": 710,
+      "endMs": 16809,
+      "verified": true
+    },
+    {
+      "text": "Es algo que nos está haciendo mucho daño a nivel internacional porque la imagen que se da de este problema es mal sobretodo para el turismo aquí.",
+      "startMs": 17169,
+      "endMs": 29816,
+      "verified": true
+    },
+    {
+      "text": "Aunque la situación está localizada y centralizada solo ahí fuera, se cree que la situación es un caos en todo Lima.",
+      "startMs": 30426,
+      "endMs": 40680,
+      "verified": true
+    },
+    {
+      "text": "Y eso es malo para nosotros.",
+      "startMs": 40700,
+      "endMs": 43463,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

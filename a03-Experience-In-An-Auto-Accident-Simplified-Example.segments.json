@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a03-Experience-In-An-Auto-Accident-Simplified-Example.mp4",
+  "transcriptHash": "044c3b98db0a0c72772739269ec2db71f0c08928",
+  "durationMs": 33019,
+  "segments": [
+    {
+      "text": "Una vez tuve un accidente en una carretera aquí en México.",
+      "startMs": 751,
+      "endMs": 4883,
+      "verified": true
+    },
+    {
+      "text": "Chocamos casi de frente con un coche que iba en contravía.",
+      "startMs": 5513,
+      "endMs": 9585,
+      "verified": true
+    },
+    {
+      "text": "Pudimos esquivar un poco el automóvil bueno, atrás venían otros carros, como es normal, y el carro que venía atrás de nosotros también nos pegó atrás.",
+      "startMs": 10496,
+      "endMs": 22113,
+      "verified": true
+    },
+    {
+      "text": "Después de un rato dos señores en una camioneta pararon y nos llevaron al hospital para que nos examinaran.",
+      "startMs": 22120,
+      "endMs": 29777,
+      "verified": true
+    },
+    {
+      "text": "Esa fue una mala experiencia.",
+      "startMs": 30447,
+      "endMs": 32218,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

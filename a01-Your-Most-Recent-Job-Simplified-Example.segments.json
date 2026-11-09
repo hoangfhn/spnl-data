@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a01-Your-Most-Recent-Job-Simplified-Example.mp4",
+  "transcriptHash": "88965f7ccbd372b224968f176317ca27b86374d7",
+  "durationMs": 35782,
+  "segments": [
+    {
+      "text": "En estos momentos estoy trabajando como maestro de inglés en la universidad de Veracruz.",
+      "startMs": 190,
+      "endMs": 6304,
+      "verified": true
+    },
+    {
+      "text": "La responsabilidad más importante de esta posición es preparar y dar las clases.",
+      "startMs": 7905,
+      "endMs": 14409,
+      "verified": true
+    },
+    {
+      "text": "Luego hay que calificar exámenes, hablar con mis estudiantes, asistir a reuniones de maestros y crear nuevo currículo.",
+      "startMs": 15239,
+      "endMs": 25686,
+      "verified": true
+    },
+    {
+      "text": "Me gusta ser maestro porque es un trabajo muy gratificante y tengo alumnos interesantes de todas partes del mundo.",
+      "startMs": 26506,
+      "endMs": 35262,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

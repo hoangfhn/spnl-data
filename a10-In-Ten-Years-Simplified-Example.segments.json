@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a10-In-Ten-Years-Simplified-Example.mp4",
+  "transcriptHash": "0d2ae005c39489a6d138c38d1fa24ccb766e21a9",
+  "durationMs": 22245,
+  "segments": [
+    {
+      "text": "Bueno, dentro de diez años me gustaría tener un buen trabajo y una familia.",
+      "startMs": 1312,
+      "endMs": 6087,
+      "verified": true
+    },
+    {
+      "text": "Estudio administración de empresas.",
+      "startMs": 6868,
+      "endMs": 8910,
+      "verified": true
+    },
+    {
+      "text": "Pienso terminar la carrera en dos años y empezar mi propio negocio.",
+      "startMs": 9661,
+      "endMs": 15437,
+      "verified": true
+    },
+    {
+      "text": "Me encantaría estar bien establecida y trabajando para entonces.",
+      "startMs": 15440,
+      "endMs": 19762,
+      "verified": true
+    },
+    {
+      "text": "Espero sea así.",
+      "startMs": 20513,
+      "endMs": 21624,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

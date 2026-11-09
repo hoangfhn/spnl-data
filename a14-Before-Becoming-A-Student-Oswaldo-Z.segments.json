@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a14-Before-Becoming-A-Student-Oswaldo-Z.mp4",
+  "transcriptHash": "2f8f9d05043717e0e0453ffdee8f2c6d14e40b6a",
+  "durationMs": 30836,
+  "segments": [
+    {
+      "text": "Bueno, antes de venir a la Universidad de Texas para estudiar mi doctorado, pasé un par de años como periodista.",
+      "startMs": 0,
+      "endMs": 7584,
+      "verified": true
+    },
+    {
+      "text": "Yo trabajaba como corresponsal para una revista mexicana en la ciudad de Washington.",
+      "startMs": 7734,
+      "endMs": 12186,
+      "verified": true
+    },
+    {
+      "text": "Entonces, cubría las noticias que provenían de la casa blanca, del congreso, de las agencias federales.",
+      "startMs": 12216,
+      "endMs": 19460,
+      "verified": true
+    },
+    {
+      "text": "Generalmente política, aun que también hice algunas cosas sobre cultura, y literatura, artes, todo eso.",
+      "startMs": 20161,
+      "endMs": 26854,
+      "verified": true
+    },
+    {
+      "text": "Pero eso era mi creditoria antes de venir a la universidad.",
+      "startMs": 27124,
+      "endMs": 30776,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

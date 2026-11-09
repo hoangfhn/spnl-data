@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "a11-Sections-Of-A-Newspaper-Fernando-L.mp4",
+  "transcriptHash": "bbdf025473d9106a5343dd03f1c823c49ab5b7b2",
+  "durationMs": 53661,
+  "segments": [
+    {
+      "text": "El Mercurio, un peri-, un periódico eh eh diario, aparece todos los días.",
+      "startMs": 800,
+      "endMs": 7030,
+      "verified": true
+    },
+    {
+      "text": "Eh, normalmente me interesan la parte de los reportajes, tanto política, fundamentalmente reportaje de política.",
+      "startMs": 7043,
+      "endMs": 16990,
+      "verified": true
+    },
+    {
+      "text": "Me interesa el deporte.",
+      "startMs": 17007,
+      "endMs": 18587,
+      "verified": false
+    },
+    {
+      "text": "Me interesa el cuerpo \"B\" que el, el cuerpo dedicado a la información nacional, y también la parte de espectáculo.",
+      "startMs": 19558,
+      "endMs": 31753,
+      "verified": true
+    },
+    {
+      "text": "Hay cosas que definativamente, la cosa social no me, no me interesa.",
+      "startMs": 32683,
+      "endMs": 39416,
+      "verified": true
+    },
+    {
+      "text": "Tampoco me leo los editoriales.",
+      "startMs": 39430,
+      "endMs": 41576,
+      "verified": true
+    },
+    {
+      "text": "Fundamentalmente eso, los reportajes político/económico, la parte de deporte, la información nacional, y los, la página del espectáculo.",
+      "startMs": 43247,
+      "endMs": 52501,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

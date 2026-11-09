@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "video": "a11-Sections-Of-A-Newspaper-Libia-J.mp4",
+  "transcriptHash": "b3fb04a15deb20dbdce5720040dd099e64643c86",
+  "durationMs": 60163,
+  "segments": [
+    {
+      "text": "Bueno, el periódico, lo que yo leo primero son las editoriales, que suelen traer como la visión general, bueno...",
+      "startMs": 0,
+      "endMs": 11264,
+      "verified": true
+    },
+    {
+      "text": "la visión del editor sobre la noticia más importante en ese momento.",
+      "startMs": 11504,
+      "endMs": 16046,
+      "verified": true
+    },
+    {
+      "text": "Después están las columnas...",
+      "startMs": 16766,
+      "endMs": 18710,
+      "verified": true
+    },
+    {
+      "text": "bueno todo lo de política, y la ciudad y después están todas las noticias internacionales, que pues traen de todo en general.",
+      "startMs": 18730,
+      "endMs": 30520,
+      "verified": true
+    },
+    {
+      "text": "El conflicto del medio oriente, no sé ahora las elecciones de Nicaragua.",
+      "startMs": 30532,
+      "endMs": 35153,
+      "verified": true
+    },
+    {
+      "text": "Los deportes, bueno que esos casi nunca los leo, salvo ahora que es la serie mundial, y que no la puedo ver.",
+      "startMs": 37945,
+      "endMs": 44677,
+      "verified": true
+    },
+    {
+      "text": "Pero, a mi me gusta mucho leer la sección cultural, porqué te enteras de cosas muy interesantes...",
+      "startMs": 46148,
+      "endMs": 52270,
+      "verified": true
+    },
+    {
+      "text": "y después no sé...",
+      "startMs": 52280,
+      "endMs": 53981,
+      "verified": false
+    },
+    {
+      "text": "de obras de teatro, de cine, música y de cosas en general.",
+      "startMs": 53990,
+      "endMs": 59042,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "video": "a06-Information-About-Your-Family-Simplified-Example.mp4",
+  "transcriptHash": "26db1619184ad22a0d6b8bc59bb6e3128a3f8b8c",
+  "durationMs": 30418,
+  "segments": [
+    {
+      "text": "Mi papá es médico en Monterrey, México.",
+      "startMs": 1131,
+      "endMs": 4533,
+      "verified": true
+    },
+    {
+      "text": "Aunque trabaja mucho logra dedicar bastante tiempo a su familia.",
+      "startMs": 5113,
+      "endMs": 10366,
+      "verified": true
+    },
+    {
+      "text": "Mi mamá es enfermera.",
+      "startMs": 10937,
+      "endMs": 12637,
+      "verified": true
+    },
+    {
+      "text": "Al igual que mi papá, ella es muy trabajadora.",
+      "startMs": 13218,
+      "endMs": 16910,
+      "verified": true
+    },
+    {
+      "text": "Tengo tres hermanos, Rubén es el mayor.",
+      "startMs": 17781,
+      "endMs": 21073,
+      "verified": true
+    },
+    {
+      "text": "Rosario y Angia son menores que yo.",
+      "startMs": 21503,
+      "endMs": 24795,
+      "verified": true
+    },
+    {
+      "text": "Todos estamos casados y vivimos en los Estados Unidos.",
+      "startMs": 25545,
+      "endMs": 29458,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

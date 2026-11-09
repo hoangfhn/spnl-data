@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "a10-In-Ten-Years-Ana-R.mp4",
+  "transcriptHash": "bd44ba8b7e3ff0a43c6a208d6427bcbc754eb484",
+  "durationMs": 42446,
+  "segments": [
+    {
+      "text": "Nunca me había puesto a pensar en diez años más que lo que estaría haciendo, pero creo que si Dios quiere rodeada de mi familia, de mis hijas, de mis yernos, de mis nietos, que tengo tres nietos, a lo mejor voy a tener otros más si Dios quiere.",
+      "startMs": 770,
+      "endMs": 17773,
+      "verified": true
+    },
+    {
+      "text": "Y contenta, feliz con mi marido, espero estar teniendo con él, ya llevo treinta y dos años de casada.",
+      "startMs": 19253,
+      "endMs": 27350,
+      "verified": true
+    },
+    {
+      "text": "Y espero que, que mi vida sea así, y yo creo que aprovechando además de todas las cosas buenas que se esté inventando para que uno esté mejor en esta tierra.",
+      "startMs": 27364,
+      "endMs": 41966,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

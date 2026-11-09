@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "video": "a06-Information-About-Your-Family-Medardo-C.mp4",
+  "transcriptHash": "0e6d052a898c422f94bcf17cf7958fabcd8ac08e",
+  "durationMs": 113964,
+  "segments": [
+    {
+      "text": "Mi familia es muy pequeña.",
+      "startMs": 3351,
+      "endMs": 5841,
+      "verified": true
+    },
+    {
+      "text": "Tengo…o sea está compuesta solo por mi esposa, mi hijo Médar y yo.",
+      "startMs": 6351,
+      "endMs": 13973,
+      "verified": true
+    },
+    {
+      "text": "Tengo una hija que vive con su madre en Miami y ya tiene diecisiete años.",
+      "startMs": 14413,
+      "endMs": 21925,
+      "verified": true
+    },
+    {
+      "text": "Pero mi esposa y yo, los dos somos estudiantes de postgrado de literatura hispanoamericana.",
+      "startMs": 23115,
+      "endMs": 38108,
+      "verified": true
+    },
+    {
+      "text": "Bueno, yo de literatura hispanoamericana, ella de literatura medieval española.",
+      "startMs": 39398,
+      "endMs": 45659,
+      "verified": true
+    },
+    {
+      "text": "Los dos tenemos más o menos los mismos intereses en el sentido de que nos gusta la literatura.",
+      "startMs": 46370,
+      "endMs": 54771,
+      "verified": true
+    },
+    {
+      "text": "Queremos escribir, publicar.",
+      "startMs": 55602,
+      "endMs": 59522,
+      "verified": true
+    },
+    {
+      "text": "De hecho ya hemos publicado.",
+      "startMs": 62003,
+      "endMs": 64630,
+      "verified": true
+    },
+    {
+      "text": "Yo tengo dos libros de poesía publicados y uno un tercero que está en proceso.",
+      "startMs": 64650,
+      "endMs": 72635,
+      "verified": true
+    },
+    {
+      "text": "Ella publicó un libro hace algunos dos años.",
+      "startMs": 72945,
+      "endMs": 77096,
+      "verified": true
+    },
+    {
+      "text": "La idea de haber venido a hacer el doctorado en Austin es dedicarnos luego a la enseñanza a nivel universitario.",
+      "startMs": 77876,
+      "endMs": 88598,
+      "verified": true
+    },
+    {
+      "text": "Además de eso bueno pues tenemos en común la educación de nuestro hijo Médar.",
+      "startMs": 91659,
+      "endMs": 99741,
+      "verified": true
+    },
+    {
+      "text": "Es algo que nos cuesta ir aprendiendo a medida que el va, que el crece ¿no?",
+      "startMs": 102511,
+      "endMs": 113183,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

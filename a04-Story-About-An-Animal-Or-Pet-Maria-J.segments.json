@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "video": "a04-Story-About-An-Animal-Or-Pet-Maria-J.mp4",
+  "transcriptHash": "c08eba7907214b92281807bad9c14c21ba61bff9",
+  "durationMs": 35225,
+  "segments": [
+    {
+      "text": "Bueno, yo tengo un perro, un labrador que me lo encontré hace un tiempo atrás.",
+      "startMs": 791,
+      "endMs": 6745,
+      "verified": true
+    },
+    {
+      "text": "Debe de tener unos cinco meses, blanquito, juguetón.",
+      "startMs": 6750,
+      "endMs": 11870,
+      "verified": true
+    },
+    {
+      "text": "Hace un tiempo atrás eran dos.",
+      "startMs": 11890,
+      "endMs": 13429,
+      "verified": true
+    },
+    {
+      "text": "Ahora que hay uno nada más, pero está sólo para mí de partida me quita todo el tiempo entre limpiarlo, llevarlo al veterinario, jugar con él, eh, y para mí es como tener un hijo: me quita tiempo, me da cariño, le entrego cariño a él.",
+      "startMs": 13640,
+      "endMs": 32082,
+      "verified": true
+    },
+    {
+      "text": "Es bonito campartir con un animal.",
+      "startMs": 33033,
+      "endMs": 34584,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

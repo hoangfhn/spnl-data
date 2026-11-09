@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "video": "a06-Information-About-Your-Family-Monica-V.mp4",
+  "transcriptHash": "5912502d5afe8fb498177bbbbf277f7901d9527c",
+  "durationMs": 66084,
+  "segments": [
+    {
+      "text": "Bueno, mi familia es boliviana por el lado de mi madre, tengo cinco primos, un tío y una tía, y una abuela.",
+      "startMs": 0,
+      "endMs": 12785,
+      "verified": true
+    },
+    {
+      "text": "Por el lado de mi padre la familia es mexicana y tengo quince primos, siete tías y tíos, y un abuelo.",
+      "startMs": 14675,
+      "endMs": 24349,
+      "verified": true
+    },
+    {
+      "text": "Mis padres son divorciados y yo vivo con mi madre en Bolivia.",
+      "startMs": 25699,
+      "endMs": 30451,
+      "verified": true
+    },
+    {
+      "text": "Tenemos...",
+      "startMs": 31421,
+      "endMs": 33170,
+      "verified": true
+    },
+    {
+      "text": "ella está vuelta a casar, tengo un padrastro, y con él tengo dos hermanos, o sea, no, mi mamá tiene...",
+      "startMs": 33190,
+      "endMs": 45637,
+      "verified": true
+    },
+    {
+      "text": "está vuelta a casar y el señor tiene un hijo y una hija.",
+      "startMs": 45650,
+      "endMs": 48958,
+      "verified": true
+    },
+    {
+      "text": "Tenemos cinco perros, y somos una familia muy unida.",
+      "startMs": 50268,
+      "endMs": 56340,
+      "verified": true
+    },
+    {
+      "text": "Celebramos la navidad todos juntos y generalmente son como treinta personas cuando se reúnen las dos familias.",
+      "startMs": 56911,
+      "endMs": 65804,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

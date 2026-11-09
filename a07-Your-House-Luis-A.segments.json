@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "video": "a07-Your-House-Luis-A.mp4",
+  "transcriptHash": "4fe744dfbb896f8598da4dcbc919d04c2770b3cf",
+  "durationMs": 75047,
+  "segments": [
+    {
+      "text": "OK.",
+      "startMs": 0,
+      "endMs": 1970,
+      "verified": false
+    },
+    {
+      "text": "Nosotros, mi familia y yo, vivimos en un apartamento.",
+      "startMs": 1980,
+      "endMs": 4400,
+      "verified": true
+    },
+    {
+      "text": "El apartamento es bastante espacioso.",
+      "startMs": 4420,
+      "endMs": 6861,
+      "verified": true
+    },
+    {
+      "text": "Tenemos una cocina que no tiene…que se mezcla con el comedor.",
+      "startMs": 7291,
+      "endMs": 11521,
+      "verified": true
+    },
+    {
+      "text": "El comedor es bien pequeñito.",
+      "startMs": 11530,
+      "endMs": 12821,
+      "verified": true
+    },
+    {
+      "text": "El área de la cocina y el comedor no tienen alfombra, por dicha, porque se hacen muchos regueros.",
+      "startMs": 13131,
+      "endMs": 17302,
+      "verified": true
+    },
+    {
+      "text": "La cocina es un poco estrecha pero es bastante cómoda.",
+      "startMs": 17982,
+      "endMs": 20652,
+      "verified": true
+    },
+    {
+      "text": "Luego a la par del comedor y de la cocina está la sala, donde tenemos el televisor, los dos únicos sillones que tenemos, está mi mesa de dibujo y un escritorio.",
+      "startMs": 20992,
+      "endMs": 32163,
+      "verified": true
+    },
+    {
+      "text": "Entonces sirve como de oficina, sala, lugar para ver televisión, y cuando nos da mucha pereza también para comer.",
+      "startMs": 32253,
+      "endMs": 38784,
+      "verified": true
+    },
+    {
+      "text": "Luego hay un pasillo, que el pasillo va a dar a una puerta a mano derecha donde está el medio baño que nada más es la taza del inodoro y un lavatorio.",
+      "startMs": 38790,
+      "endMs": 47044,
+      "verified": true
+    },
+    {
+      "text": "Y al otro lado está el cuarto grande que es donde, es el cuarto de Tadeo, mi hijo, que es más grande porque tiene más juguetes y tiene más cosas y siempre pasa más tiempo ahí jugando.",
+      "startMs": 48674,
+      "endMs": 57145,
+      "verified": true
+    },
+    {
+      "text": "Y luego al final del pasillo está el cuarto de nosotros, que es un cuarto pequeño donde nada más está nuestra cama y una mesa donde tenemos la computadora.",
+      "startMs": 57535,
+      "endMs": 63946,
+      "verified": true
+    },
+    {
+      "text": "En los dos cuartos hay clósets, se me olvidaba decirles.",
+      "startMs": 64056,
+      "endMs": 66006,
+      "verified": false
+    },
+    {
+      "text": "Y del cuarto de nosotros se va directamente al baño que tiene la ducha, y que tiene también la taza del inodoro y el lavatorio.",
+      "startMs": 66336,
+      "endMs": 73067,
+      "verified": true
+    },
+    {
+      "text": "Y esa es nuestra casa.",
+      "startMs": 73387,
+      "endMs": 74407,
+      "verified": false
+    }
+  ],
+  "runId": "b1d42f6812"
+}

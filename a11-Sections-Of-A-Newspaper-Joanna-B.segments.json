@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "video": "a11-Sections-Of-A-Newspaper-Joanna-B.mp4",
+  "transcriptHash": "5165ccf0edd1bbf9ad2008c8f187a157ea96d714",
+  "durationMs": 17601,
+  "segments": [
+    {
+      "text": "En la primera parte del periódico vas a encontrar el editorial, luego le sigue la sección de deportes, sociales, entretenimientos, clasificados, sección local, internacional, cuando te refieres a negocios.",
+      "startMs": 871,
+      "endMs": 17060,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "video": "a12-American-Business-Practices-Simplified-Example.mp4",
+  "transcriptHash": "5ab872fc4d85cdbaf922d6ee66b6614f92c47134",
+  "durationMs": 30302,
+  "segments": [
+    {
+      "text": "Una diferencia muy importante entre la forma de hacer negocios en Costa Rica y en los Estados Unidos es la cuestión de planear.",
+      "startMs": 691,
+      "endMs": 10768,
+      "verified": true
+    },
+    {
+      "text": "Es decir, los norteamericanos son capaces de hacer una cita o una entrevista con mucha anticipación.",
+      "startMs": 11358,
+      "endMs": 17463,
+      "verified": true
+    },
+    {
+      "text": "Nosotros en Costa Rica no sabemos donde estaremos en dos meses.",
+      "startMs": 18363,
+      "endMs": 23437,
+      "verified": true
+    },
+    {
+      "text": "Así que esta diferencia es muy notable y es algo que he notado mucho.",
+      "startMs": 23867,
+      "endMs": 30242,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

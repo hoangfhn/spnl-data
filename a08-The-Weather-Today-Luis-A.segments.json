@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "video": "a08-The-Weather-Today-Luis-A.mp4",
+  "transcriptHash": "9b9cf8084060dbb3d8e1724a34f9c6095420f9f1",
+  "durationMs": 15766,
+  "segments": [
+    {
+      "text": "El clima hoy, hoy está soleado pero a pesar de que está haciendo bastante sol se siente una brisita como fría.",
+      "startMs": 0,
+      "endMs": 7123,
+      "verified": true
+    },
+    {
+      "text": "Entonces está rico porque uno puede salir y no hace ni tanto frío ni hace tanto calor.",
+      "startMs": 7453,
+      "endMs": 12125,
+      "verified": true
+    },
+    {
+      "text": "Entonces ni uno suda mucho ni se está temblando así del frío.",
+      "startMs": 12415,
+      "endMs": 15166,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}

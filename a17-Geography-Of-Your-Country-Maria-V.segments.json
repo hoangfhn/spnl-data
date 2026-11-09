@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "video": "a17-Geography-Of-Your-Country-Maria-V.mp4",
+  "transcriptHash": "119eeb2cd5eaa03b24b99ea6296eadc17025d196",
+  "durationMs": 13932,
+  "segments": [
+    {
+      "text": "México es un país geográficamente muy rico, tenemos montañas, valles, ríos, lagos, infinidad de cosas.",
+      "startMs": 10,
+      "endMs": 8110,
+      "verified": true
+    },
+    {
+      "text": "Lo que el turista o la persona visitante quiere encontrar, en México lo encuentra sin duda.",
+      "startMs": 8127,
+      "endMs": 12921,
+      "verified": true
+    }
+  ],
+  "runId": "b1d42f6812"
+}
